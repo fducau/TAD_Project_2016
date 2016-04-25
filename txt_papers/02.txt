@@ -1,0 +1,644 @@
+Replication of
+Now you see it, now you don’t: Repetition blindness for nonwords
+by A. L. Morris & M. L. Still
+(2008, Journal of Experimental Psychology: Learning, Memory & Cognition)
+Patrick T. Goodbourn
+School of Psychology, University of Sydney, Australia
+patgoodbourn@gmail.com
+
+Introduction
+When a repeated item is embedded in a series of items displayed in rapid serial visual
+presentation (RSVP), an observer will often fail to report the repetition—a phenomenon
+commonly known as repetition blindness (RB). Morris and Still (2008) addressed a
+discrepancy in the RB literature regarding nonwords, that is, pronounceable strings of letters
+that are not English words: Some previous studies had found repetition blindness, others
+failed to do so, and still others reported a repetition advantage (RA) for nonwords. Morris
+and Still proposed that a repetition advantage could result if observers use partial
+orthographic information when they are aware that some trials contain repetitions. An
+observer who has encoded the first of two targets can use partial information about the
+second target to make an informed guess: If the partial information matches the first target,
+the observer should guess that the trial contained a repeated item.
+In a series of experiments, Morris and Still (2008) found that RA and RB could be
+observed for both words and nonwords depending on whether participants could capitalize
+on such an informed guessing strategy. In the final experiment of the study (Experiment 6,
+pp. 161–3), they presented trials in which critical words and nonwords were either dissimilar
+to each other (for example, phub and snoy) or orthographic neighbors (for example, blem and
+blom). Trials never contained repeated words, so guessing a repetition in the case of a partial
+orthographic match would not be a useful strategy. The authors found that participants rarely
+reported repetitions, and observed an RB for both word and nonword orthographic
+neighbors. The present study will replicate Experiment 6 of Morris and Still (2008); the
+primary finding for replication is that RB occurs for nonwords.
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+Methods
+Power analysis
+The primary effect for replication was a significant RB effect for nonwords, F1(1, 23)
+= 13.71, p < .005. Effect size was not reported in the manuscript and original data were
+unavailable. Following Lakens (2013), partial eta squared was calculated as
+𝜂!! =
+
+!×!"effect
+!×!"effect !!"error
+
+=
+
+!".!"×!
+!".!"×! !!"
+
+= 0.374 .
+
+(Equation 1)
+
+This value was used in G*Power 3.1 (Faul, Erdfelder, Lang, & Buchner, 2007) to calculate
+the sample size required to achieve sufficient power to detect the estimated effect. For a typeI error rate of α = 0.05, 16 participants suffices to achieve 80% power; 20 to achieve 90%
+power; and 24 to achieve 95% power. The G*Power outputs are available from the
+Reproducibility Project: Psychology page of the Open Science Framework.1
+Planned sample
+Twenty-four participants will be recruited for the study. This matches the size of the
+sample in the original study, and achieves 95% power to detect an effect of the estimated size.
+Participants will be paid AUD $15 per hour of testing or part thereof; it is anticipated that
+each testing session will last less than one hour. They will be recruited using advertisements
+placed on noticeboards around the Camperdown Campus of the University of Sydney; most
+participants are likely to be students of the University. As in the original study, participants
+will be native speakers of English (but may be bilingual).
+Materials
+Word lists were identical to those used by Morris and Still (2008). “[Critical items
+(C2) were 48] words and [48] pronounceable nonwords; nonwords were selected from the
+ARC Nonword Database (Rastle, Harrington, & Coltheart, 2002). All items were 4 letters in
+length and [most] were monosyllabic. Orthographic neighborhood size (orthographic N) was
+included as a factor in the design; half the words and nonwords had an orthographic N of 12
+or greater, and the other half had an orthographic N of 5 or less. High-N and low-N words
+were similar in print frequency (15 per million; Francis & Kučera, 1982).” (Morris & Still,
+2008, p. 150)
+“Sequences of 3 words or 3 nonwords were created with the first and last words or
+nonwords designated C1 and C2. These were then made into 6-item RSVP streams by
+displaying rows of symbols (e.g., %%%%, ####) as the first, second, and sixth items in each
+RSVP stream. The words or nonwords occupied the third, fourth, and fifth positions in each
+RSVP stream.” (Morris & Still, 2008, p. 150)
+1
+
+https://osf.io/rmvk5/.
+
+2
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+“Each [C2] item… appeared in [two] conditions: … control and neighbor. To create
+the neighbor condition, words and nonwords were paired with an orthographic neighbor C1
+(e.g. cast was paired with cart). The control condition was created… by substituting an
+orthographically nonsimilar word or nonword for C1. Words or nonwords intervening
+between C1 and C2 were selected from a separate pool of items having N sizes between 4
+and 12; these words were orthographically dissimilar to C1 and C2. [Two]2 versions of the
+stimulus list were created such that each participant viewed [12] three-word lists in… the
+high-N neighbor condition, 12 in the high-N control condition, [12] in the low-N neighbor
+condition, and 12 in the low-N control condition. The same was true for the 3-nonword lists.
+Each item appeared in… neighbor and control conditions, counterbalanced across
+participants. In addition to these trials, participants also viewed 40 RSVP streams with only 2
+words or nonwords (a row of symbols was substituted for the intervening word or nonword).
+Participants viewed each critical word or non-word only once. In all versions of the stimulus
+list, word and nonword lists were randomly intermixed” (Morris & Still, 2008, p. 156). Each
+list was always presented in the same order (A. L. Morris, personal communication).
+“Stimuli were displayed in a white font… (Chicago [FLF]) on a black background”
+(Morris & Still, 2008, p. 150). Letters subtended an average of approximately .57° × .86° of
+visual angle at a viewing distance of 50 cm.3
+Procedure
+Participants had responded to an advertisement for paid research participation in a
+study of visual processing, the purpose of which was to “investigate how people process visual
+information that is presented very briefly, making it hard to be sure of what you have just
+seen.” Immediately prior to the experiment, they were given brief instructions: On each trial
+of the experiment, they would view a short sequence of words or word-like strings of letters
+(nonwords), interspersed with strings of symbols; their task was to report all of the words or
+non-words they saw during the trial. “Participants were warned that ‘some of the words or
+nonwords will look similar to each other’ and that they should read them carefully” (Morris
+& Still, 2008, p. 156).
+“Each trial began with a “+” displayed in the middle of the computer screen for [558]
+2
+
+The Methods section of the original experiment does not indicate how many versions were used (Morris &
+Still, 2008, Experiment 6, p. 162). The stimuli used in Experiment 6 were based on those used in Experiment 3,
+in which there were four versions of the list (Morris & Still, 2008, p. 156). However, the original author has
+confirmed that only two versions of the stimulus list were used in Experiment 6 (A. L. Morris, personal
+communication).
+3
+To acquire the original viewing distance, and to match the angular subtense of the stimuli in the original study,
+we referred to Morris, Still, and Caldwell–Harris (2009), which reports experiments that appear to have been
+performed using the same apparatus: “All letters were displayed in… Chicago 36 font [as in Morris & Still
+(2008)]… Letters in this font subtended an average of approximately .57° × .86° of visual angle at a viewing
+distance of 50 cm” (p. 356).
+
+3
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+ms, followed by a blank interval of [558] ms. The RSVP stream was then displayed with each
+item appearing for [125] ms. Following the RSVP stream, a “?” was displayed to indicate that
+the participant should report the items.” (Morris & Still, 2008, p. 150)
+“[P]articipants named all words or nonwords displayed…” (Morris & Still, 2008, p.
+150). “[P]articipants first reported their responses to the experimenter and then typed the
+words or nonwords, with a space between each item, using the computer keyboard. They
+were allowed to correct typing mistakes with the delete key” (p. 162). “[T]he experimenter
+[also] coded the response into the data file by using [a] computer keyboard…” (p. 150) “The
+next trial began immediately after the experimenter keyed in the participant’s response… The
+experimental trials were preceded by 10 practice trials.” (p. 150)
+Analysis plan
+Data preparation and scoring
+The original manuscript does not describe any rules for data cleaning or exclusion; the
+present study will thus include all collected data. As in the original manuscript, analyses will
+use the participants’ typed responses rather than their spoken responses as recorded by the
+experimenter (Morris & Still, 2008, p. 162). Analyses will be performed automatically using a
+custom MATLAB script, which is available from the Reproducibility Project: Psychology page of
+the Open Science Framework.4
+The code for the experiment allows participants to enter 0, 1, 2 or 3 four-letter words
+in response to each trial; the analysis code for critical pair recall scores a trial as correct if both
+critical items (C1 and C2) are reported exactly correctly in any response position (that is,
+irrespective of report order).5 The analysis code for intervening item recall scores a trial as
+correct if the intervening item (I) is reported exactly correctly in any response position. The
+analysis code for additional analyses scores an item (C1, C2 or I) as correct if at least two
+letters of the word or nonword are reported in the correct position within the word, in any
+response position. Each response is matched to one item only. For example, given the items
+(C1) lood (I) filk (C2) loof and the response ‘look firk’, C1 and I are scored as correct; however,
+C2 is scored as incorrect—even though it shares three letters with the response look—because
+look has been matched already to C1.
+Statistical analyses
+Following the original study, each statistical test will take the form of a repeatedmeasures analysis of variance (ANOVA). These will be conducted using SPSS Statistics for
+4
+
+https://osf.io/rmvk5/.
+The original manuscript does not appear to specify whether participants were required to report items in the
+correct order. However, the original authors perform their analyses “following Coltheart and Langdon (2003)”
+(Morris & Still, 2008, p. 150), who did not ask participants to reproduce word order.
+5
+
+4
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+Mac 21.0 (IBM Corporation, Armonk, NY). The MATLAB analysis script produces SPSS
+syntax files containing all data and commands required to perform the analyses automatically.
+As in many psycholinguistic studies (including the original study), two forms of ANOVA
+will be conducted: The first takes participants as cases (reported as F1), and the second takes
+items as cases (reported as F2).
+Critical pair recall will be analyzed using a three-way repeated-measures ANOVA.
+Using participants as cases, condition (control, neighbor), lexicality (word, nonword) and
+neighborhood size (low-N, high-N) will be within-subject factors. Using items as cases,
+condition (control, neighbor) will be a within-item factor, and lexicality and neighborhood
+size will be between-item factors. As in the original study, any significant two-way
+interactions will be examined further using one-way ANOVAs. Intervening item recall will be
+analyzed in the same manner. For informal comparison with the original study, additional
+analyses will be performed by tabulating the mean percentage of partial recall as a function of
+item (C1, I, C2) and lexicality (word, nonword).
+Primary effect for replication
+The primary effect for replication is a significant RB effect for nonwords. For the
+current purposes, we will consider the finding to have been replicated if a significant RB
+effect (p < .05) is found in a one-way ANOVA of nonword items, using participants as cases
+and Condition as a within-subject factor.
+Differences from the original study
+Participants
+In the original study, participants took part in return for course credit (Morris & Still,
+2008, p. 162); whereas in the present study, participants will be reimbursed AUD $15 per
+hour. The original study took place at Iowa State University (p. 162), and participants are
+most likely to have been American students. The present study will take place at the
+University of Sydney, and participants are most likely to be Australian students. It is not
+anticipated that these differences will affect the outcome of the study.
+Materials
+Both versions of the original stimulus list were recovered from the authors; the lists
+are available from the Reproducibility Project: Psychology page of the Open Science
+Framework.6 The computer code used to run the experiment could not be obtained from the
+authors of the original study owing to the failure of the computer used in that study. The
+experiment was originally programmed in PsyScope (Cohen, MacWhinney, Flatt, & Provost,
+6
+
+https://osf.io/rmvk5/.
+
+5
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+1993; Morris & Still, 2008, p. 150), which is no longer supported and will not run on current
+versions of the Apple operating system (OSX).7 As the entire experiment required
+reprogramming, we used MATLAB (MathWorks, Natick, MA) with Psychtoolbox-3
+extensions (Brainard, 1997; Pelli, 1997). The experimental code is available from the
+Reproducibility Project: Psychology page of the Open Science Framework.8
+The original study presented stimuli in Chicago font (Morris & Still, 2008, p. 150),
+which is no longer distributed as part of the Apple OS. The present study instead uses the
+public domain version, Chicago FLF.9 None of these differences should affect the outcome of
+the study.
+Apparatus
+In the original study, stimuli were presented using a Macintosh G4 (Apple Inc.,
+Cupertino, CA) and PsyScope software (Morris & Still, 2008, p. 150). In the present study,
+stimuli will be presented using a MacBook Pro with a 2.5 GHz Intel Core i7 processor and 8
+GB of RAM, running Mac OSX 10.7.5 with MATLAB R2012b and PsychToolbox-3
+extensions. Stimuli will be processed on a Radeon HD 6770M video card (AMD, Sunnyvale,
+CA).
+The type of monitor used in the original study was not specified in the manuscript.
+The present study will display stimuli on a P1120 FD Trinitron® CRT monitor (HewlettPackard, Palo Alto, CA) with a spatial resolution of 1024 × 768 pixels and a refresh rate of
+120 Hz. With stimulus changes synchronized to the refresh rate of the monitor, each fixation
+and blank interval will be presented for 558 ms, and each RSVP item will be presented from
+125 ms. This is, respectively, 2 ms and 1 ms shorter than the durations reported in the
+original manuscript (Morris & Still, 2008, p. 150); however, we note that no integer refresh
+rate in the range 60–120 Hz would allow stimulus durations of both 126 ms and 560 ms.
+There is no reason to suspect that any of these differences will affect the outcome of the
+study.
+
+7
+
+A version has been ported for OSX (PsyScope X: http://psy.cns.sissa.it/), but it has not been tested on our
+experimental hardware.
+8
+https://osf.io/rmvk5/.
+9
+http://christtrekker.users.sourceforge.net/fnt/chicago.shtml.
+
+6
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+(Post data collection) Methods addendum
+Actual sample
+As planned, twenty-four participants were recruited for the study.
+Differences from pre-data collection methods plan
+There were no differences from the pre-data collection methods plan. The MATLAB
+analysis script was altered slightly because in the original version, standard errors of the mean
+did not display correctly in figures. A two-way version of the intervening item recall analysis
+(with Condition and Lexicality, but not Neighborhood, as factors) was also added, because
+Morris and Still (2008) appear to have analyzed it in this way; note, however, that this
+pertains to exploratory analyses and does not bear on the confirmatory analysis of the primary
+effect. The updated version is available from the Reproducibility Project: Psychology page of the
+Open Science Framework.10
+We also made two changes to the pre-replication section of this report. First, we
+corrected an error that described Condition as a between-subjects factor when participants
+are treated as cases (F1). It is, in fact, a within-subjects factor; it is a between-subjects factor
+when items are treated as cases (F2). Second, following a suggestion raised during peer review
+of the post-replication report, we augmented the description in the Procedure section of the
+instructions given to participants.
+Results
+Data preparation
+Data were prepared according to the analysis plan. Outputs from MATLAB and SPSS
+are available from the Reproducibility Project: Psychology page of the Open Science
+Framework.11 Partial eta-squared was calculated manually from the SPSS output,
+𝜂!! = !!
+
+!!effect
+effect !!!error
+
+.
+
+(Equation 2)
+
+Confirmatory analysis
+The primary effect for replication was a significant RB effect for nonwords. A oneway ANOVA of nonword items, using participants as cases and Condition as a withinsubject factor, did not find a significant RB effect, F1(1, 23) = 1.28, η2p1 = .051, p1 = .269.12
+10
+
+https://osf.io/rmvk5/.
+https://osf.io/rmvk5/.
+12
+We note that for the analysis with items as cases, the original report gives the error degrees of freedom as 46.
+For a one-way ANOVA of 48 items, we would expect the error degrees of freedom to be 47; and for a simpleeffects analysis following three-way ANOVA, we would expect the error degrees of freedom to be 92 as in the
+overall design. This suggests that the reported statistic may be the main effect of Condition from a two-way
+ANOVA of nonwords, with Condition as a within-item factor and Neighborhood as a between-item factor.
+11
+
+7
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+We also screened each participant’s data for anomalies that might have masked an RB effect
+(for example, one participant failed to correctly report any critical pair), but excluding
+participants or subsets of participants who performed poorly made no appreciable difference
+to the results.
+Exploratory analyses
+Critical pair recall
+Figure 1 shows the mean percentage of correct recall of both critical items for the
+various conditions, for both the current replication (Figure 1a) and the original study (Figure
+1b). For the current replication, repeated-measures ANOVAs with the factors Condition,
+Lexicality, and Neighborhood size demonstrated that joint report of words was higher than
+that for nonwords (48.9% vs. 10.8%), F1(1, 23) = 107.13, η2p1 = .823, F2(1, 92) = 321.05, η2p2
+= .777, both p < .001; and control pairs were correctly reported at a higher rate than neighbor
+pairs (35.8% vs. 23.9%), F1(1, 23) = 19.40, η2p1 = .458, F2(1, 92) = 41.86, η2p2 = .313, both p <
+.001. The main effect of neighborhood size was not significant, F1(1, 23) = 0.13, η2p1 = .005,
+p1 = .724, F2(1, 92) = 0.24, η2p2 = .003, p2 = .626. These results are similar to those reported by
+Morris and Still (2008).
+The Condition × Lexicality interaction was significant, F1(1, 23) = 19.18, η2p1 = .455,
+F2(1, 92) = 27.32, η2p2 = .229, both p < .001; this interaction reflects a greater amount of RB
+for words than for nonwords. The three-way Condition × Lexicality × Neighborhood size
+interaction was significant, F1(1, 23) = 9.30, η2p1 = .287, F2(1, 92) = 7.93, η2p2 = .080, both p =
+.006. This interaction may reflect that the RB effect for words is greater for low-N items
+than for high-N items, while the RB effect for nonwords is greater for high-N items than for
+low-N items.13 None of the other interactions was significant in both the subjects and the
+items analyses, although the Condition × Neighborhood size interaction was borderline
+significant in the subjects analysis, F1(1, 23) = 4.23, η2p1 = .156, p1 = .051, F2(1, 92) = 2.74,
+η2p2 = .029, p2 = .101. These results are similar to those reported by Morris and Still (2008),
+except they did not find a significant three-way interaction.
+
+For the present data, such an ANOVA reveals no significant main effect of Condition, F1(1, 23) = 1.26, η2p1 =
+.052, p1 = .273, F2(1, 46) = 1.51, η2p2 = .032, p2 = .226.
+13
+This interpretation is corroborated by simple two-way interaction analysis (performed using MMATRIX in
+SPSS, with participants as cases), which reveals a significant Condition × Neighborhood interaction for words
+whereby the RB effect is greater for low-N words than for high-N words (p = .003); but not for nonwords (p =
+.332), for which the interaction shows a numerical trend in the opposite direction.
+
+8
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+Table 1.
+Mean Percentages of Intervening Item Recall for Word and Nonword Lists in Neighbor and
+Control Conditions.
+Current replication
+
+Original study
+
+Neighbor
+
+Control
+
+Neighbor
+
+Control
+
+Word
+
+78
+
+71
+
+72
+
+64
+
+Nonword
+
+15
+
+8
+
+14
+
+9
+
+Additional analyses
+Morris and Still (2008) “calculated the percentage of trials on which at least two
+letters of a word or nonword were reported correctly” to “provide a better estimate of the
+availability of partial orthographic information from three-item RSVP displays” (p. 162).
+“For example, suppose the stimulus item bink juff rast was reported as bink just raff. With the
+standard scoring, neither the joint report of critical items nor the report of the intervening
+item would be scored as correct. With the alternative scoring, however, all three items (C1,
+C2, and the intervening item) would be scored as correct” (pp. 162–3). Table 2 shows the
+alternative scoring results from the control condition, in both the current replication and the
+original study. As in the original study, participants in the current replication were able to
+report a significant percentage of the letters from the word and nonword displays in the
+control condition.
+Table 2.
+Mean Percentages of Partial Recall of Critical and Intervening Items for Word and Nonword Lists
+in the Control Condition.
+Current replication
+
+Original study
+
+C1
+
+Intervening
+
+C2
+
+C1
+
+Intervening
+
+C2
+
+Word
+
+93
+
+78
+
+76
+
+97
+
+71
+
+74
+
+Nonword
+
+72
+
+36
+
+57
+
+82
+
+33
+
+55
+
+10
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+Discussion
+Summary of replication attempt
+The current study attempted to replicate Experiment 6 of Morris and Still (2008),
+who found a significant RB effect for nonwords. We failed to replicate the original result:
+We did not find a significant main effect of Condition in one-way ANOVA of nonword
+items, using participants as cases.
+Commentary
+While the current study failed to replicate the primary effect of RB for nonwords, we
+found results similar to those reported for nearly all other analyses. Like Morris and Still, we
+found an intervening item effect, such that the intervening item was reported more often in
+the neighbor condition than in the control condition. As the original authors note, this is
+consistent with a competition model: “[W]hen C2 is orthographically similar to C1, C2’s
+representation will be associated with less activation than will a control C2, and therefore will
+compete less effectively against adjacent items. The result is a net gain in competitiveness for
+the item immediately preceding the orthographically similar C2” (p. 161). Similarly, we also
+found that participants could report a significant percentage of the letters from the word and
+nonword displays in the control condition. “The implication is that a strategy of guessing
+repetitions will be effective for many participants because their access to partial orthographic
+information will be sufficient to avoid spurious reports of repetitions on control trials” (p.
+163). Further, overall levels of performance were similar to those reported in the original
+study.
+It should be noted that Experiment 6 of Morris and Still (2008) is almost a direct
+replication of their Experiment 5, which also revealed RB for nonwords. In Experiment 5,
+participants reported their responses to the experimenter; while in Experiment 6 and the
+current replication, participants also typed their responses. Experiments 3 and 4 likewise
+found an RB effect for nonword neighbors; thus the original report contains an additional
+three studies supporting the findings of Experiment 6. We conducted a rudimentary metaanalysis of these four experiments, as well as the current replication, using an R script
+provided by Carter and McCullough (2014) and modified by D. Lakens.15 We estimated
+partial eta squared as in Equation 1, and then converted to Cohen’s d,
+
+d = 2×
+
+15
+
+!
+!!
+!
+!!!!
+
+.
+
+(Equation 3)
+
+http://daniellakens.blogspot.com.au/2014/08/on-reproducibility-of-meta-analyses.html
+
+11
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+Study
+
+d
+
+95% CI
+
+1.45
+1.44
+1.48
+1.55
+
+[ 0.82, 2.09]
+[ 0.80, 2.07]
+[ 0.84, 2.12]
+[ 0.90, 2.19]
+
+Current Replication
+
+0.46
+
+[-0.11, 1.04]
+
+Overall
+
+1.26
+
+[ 0.84, 1.69]
+
+Forest plot
+
+Morris & Still (2008)
+Experiment 3
+Experiment 4
+Experiment 5
+Experiment 6
+
+−1
+
+0
+
+1
+
+2
+
+3
+
+Figure 2. Meta-analysis and forest plot of RB effects for nonwords. The forest plot shows Cohen’s d
+(square icons for individual experiments; central vertices of the diamond for overall data) and 95%
+confidence intervals (whiskers for individual experiments; horizontal extent of the diamond for overall
+data). The solid vertical line corresponds to no effect (d = 0), and the dashed vertical line corresponds
+to the estimated overall effect (d = 1.26). For all experiments, N = 24.
+
+Figure 2 shows the results of the meta-analysis of RB effects for nonwords across the
+
+five experiments. Clearly, the estimate of effect size in the current study differs from those in
+the four experiments reported by Morris and Still (2008). However, there is little reason to
+believe that the latter estimates are overly inflated by the ‘statistical significance filter’, or
+
+‘winner’s curse’ (Ioannidis, 2008). All four experiments employed very similar experimental
+
+methods and the same analytical methods, which restricts experimenter degrees of freedom;
+there is no cause to suspect that they were reported selectively; and their effect size estimates
+
+are highly consistent with each other. We could not identify any differences between the
+
+original study and the current replication likely to affect the results; nor did the
+
+corresponding author of the original study raise concerns about our final replication plan (A.
+L. Morris, personal communication). Similar overall levels of performance were observed in
+
+both studies, and nearly all of the results of additional analyses were highly consistent
+
+between them. It is thus plausible that the failure of the current study to replicate the primary
+effect is a statistical anomaly.
+
+The RB effect for nonwords may be particularly volatile owing to a low overall level of
+
+correct reporting of critical nonword pairs. From Figure 1b (reproduced from Morris & Still,
+
+2008, Figure 11) we estimate that in the original study, nonword pairs were correctly
+reported on only 9.4% of neighbor trials and 16.7% of control trials. Each participant,
+
+however, only responds to 24 trials in each of these two conditions. On average, then, a
+participant correctly reported a neighbor pair on 2.3 trials, and correctly reported a control
+
+pair on 4.0 trials. In the current replication, the corresponding figures are 2.3 trials (9.7%)
+and 2.9 trials (12.0%), respectively. Thus, a single trial distinguishes the average participant in
+
+the original study from the average participant in the current replication: In the current
+
+replication, control pairs were correctly reported on 1.1 fewer trials per participant than in the
+12
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+original study.
+If the above diagnosis is accurate, the current replication attempt highlights an
+important point, namely that a failed replication does not necessarily indicate an incorrect
+hypothesis. Some experiments may instead fail to replicate because of methodological
+difficulties that render a real effect fragile. One merit of replications that fail for this reason is
+that they can help to reveal those aspects of the methodology that contribute to the instability
+of the effect. In the present case, a more robust RB effect would likely be found under
+experimental conditions that produce a higher overall proportion of correct reports (perhaps
+an increase in presentation times, or a reduction in the contrast of post-masks). Direct
+replications can thus contribute to scientific progress not only by identifying effects that may
+be spurious, but also by identifying methodological issues that can hamper the detection of
+real effects.
+Acknowledgements
+I thank William Ngiam for his assistance with data collection. I am very grateful to
+Alison Morris for providing original materials, guidance on experimental procedures and
+critique of the draft replication plan. I thank Bethany Lassetter and Jesse Chandler for
+comments on the pre-collection and post-collection replication reports, respectively. I also
+thank Johanna Cohoon for her assistance throughout the course of the project, and for
+directing me to Daniel Lakens’ work on effect size calculations. During the project I was
+supported by a fellowship from the John Templeton Foundation.
+References
+Brainard, D. H. (1997). The Psychophysics Toolbox. Spatial Vision, 10(4), 433-436.
+Carter, E. C., & McCullough, M. E. (2014). Publication bias and the limited strength model of selfcontrol: Has the evidence for ego depletion been overestimated? Frontiers in Psychology, 5,
+823. doi: 10.3389/fpsyg.2014.00823
+Cohen, J. D., MacWhinney, B., Flatt, M., & Provost, J. (1993). PsyScope: A new graphic interactive
+environment for designing psychology experiments. Behavioral Research Methods, Instruments
+and Computers, 25, 257-271.
+Coltheart, V., & Langdon, R. (2003). Repetition blindness for words yet repetition advantage for
+nonwords. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29(2), 171185.
+Faul, F., Erdfelder, E., Lang, A. G., & Buchner, A. (2007). G*Power 3: A flexible statistical power
+analysis program for the social, behavioral, and biomedical sciences. Behavior Research
+Methods, 39(2), 175-191.
+Francis, W. N., & Kučera, H. (1982). Frequency Analysis of English Usage: Lexicon and Grammar.
+Boston, MA: Houghton Mifflin.
+Ioannidis, J. P. (2008). Why most discovered true associations are inflated. Epidemiology, 19(5), 640648. doi: 10.1097/EDE.0b013e31818131e7
+Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical
+primer for t-tests and ANOVAs. Frontiers in Psychology, 4, 863. doi:
+10.3389/fpsyg.2013.00863
+Morris, A. L., & Still, M. L. (2008). Now you see it, now you don't: Repetition blindness for
+
+13
+
+GOODBOURN • REPLICATION OF MORRIS & STILL (2008)
+
+nonwords. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34(1), 146166. doi: 10.1037/0278-7393.34.1.146
+Morris, A. L., Still, M. L., & Caldwell-Harris, C. L. (2009). Repetition blindness: An emergent
+property of inter-item competition. Cognitive Psychology, 58(3), 338-375. doi:
+10.1016/j.cogpsych.2008.08.001
+Pelli, D. G. (1997). The VideoToolbox software for visual psychophysics: transforming numbers into
+movies. Spatial Vision, 10(4), 437-442.
+Rastle, K., Harrington, J., & Coltheart, M. (2002). 358,534 nonwords: The ARC Nonword
+Database. The Quarterly Journal of Experimental Psychology A: Human Experimental Psychology,
+55(4), 1339-1362. doi: 10.1080/02724980244000099
+
+14
+
+

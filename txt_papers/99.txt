@@ -1,0 +1,1762 @@
+NIH Public Access
+Author Manuscript
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+J Pers Soc Psychol. 2008 February ; 94(2): 278–291. doi:10.1037/0022-3514.94.2.278.
+
+How Attributional Ambiguity Shapes Physiological and Emotional
+Responses to Social Rejection and Acceptance
+Wendy Berry Mendes,
+Harvard University
+Shannon McCoy,
+University of Maine
+Brenda Major, and
+University of California, Santa Barbara
+Jim Blascovich
+University of California, Santa Barbara
+
+NIH-PA Author Manuscript
+
+Abstract
+The authors examined White and Black participants’ emotional, physiological, and behavioral
+responses to same-race or different-race evaluators, following rejecting social feedback or accepting
+social feedback. As expected, in ingroup interactions, the authors observed deleterious responses to
+social rejection and benign responses to social acceptance. Deleterious responses included
+cardiovascular (CV) reactivity consistent with threat states and poorer performance, whereas benign
+responses included CV reactivity consistent with challenge states and better performance. In
+intergroup interactions, however, a more complex pattern of responses emerged. Social rejection
+from different-race evaluators engendered more anger and activational responses, regardless of
+participants’ race. In contrast, social acceptance produced an asymmetrical race pattern—White
+participants responded more positively than did Black participants. The latter appeared vigilant and
+exhibited threat responses. Discussion centers on implications for attributional ambiguity theory and
+potential pathways from discrimination to health outcomes.
+
+Keywords
+
+NIH-PA Author Manuscript
+
+intergroup interactions; discrimination; attributional ambiguity; emotion and stress responses;
+cardiovascular reactivity
+Responses to social rejection and social acceptance may seem obvious—the former is bad and
+the latter is good. However, this simple heuristic may not be relevant for all social interactions,
+especially interracial ones. Social rejection by an outgroup member (i.e., different-race partner)
+may be construed a variety of ways, including a sense that one’s self was rejected, that one’s
+group was rejected, or that one’s partner was biased (e.g., racist). Ingroup rejection, in contrast,
+is unlikely to be interpreted at a group level and is more likely to engender a person-level
+attribution (e.g., self-blame). Social acceptance may also not be straightforward. To be sure,
+social acceptance by an ingroup member is likely to be perceived positively and to instill good
+feelings. However, social acceptance by an outgroup member may be viewed cautiously, with
+
+Correspondence concerning this article should be addressed to Wendy Berry Mendes, Department of Psychology, Harvard University,
+33 Kirk-land Street, 1420 William James Hall, Cambridge, MA 02138. E-mail: wbm@wjh.harvard.edu.
+Wendy Berry Mendes, Department of Psychology, Harvard University; Brenda Major and Jim Blascovich, Department of Psychology,
+University of California, Santa Barbara; Shannon McCoy, Department of Psychology, University of Maine.
+
+Mendes et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+individuals questioning the genuineness of the evaluation, possibly undermining the positive
+feelings typically associated with social acceptance. In this research, we explored how social
+rejection and acceptance are perceived, are responded to, and affect an ongoing social
+interaction between same-race or different-race interaction partners.
+
+Intraracial Interactions Versus Interracial Interactions
+Social interactions with partners of different races have been known to produce stress, threat,
+and anxiety (e.g., Ickes, 1984; Mendes, Blascovich, Lickel, & Hunter, 2002; Stephan &
+Stephan, 2000). A growing body of research has demonstrated that individuals interacting with
+or exposed to outgroup members exhibit more negatively toned responses. For example, White
+participants engaged in cooperative social interactions with Black partners exhibited
+cardiovascular (CV) reactivity consistent with the psychological state of threat and performed
+less well on a cognitive task than did White participants interacting with White partners, who
+exhibited a benign CV pattern related to challenge states (Blascovich, Mendes, Hunter, Lickel,
+& Kowai-Bell, 2001; Mendes et al., 2002).
+
+NIH-PA Author Manuscript
+
+These effects do not seem to be limited to majority members interacting with minority
+members. Richeson, Shelton, and their colleagues (Richeson & Shelton, 2003; Richeson,
+Trawalter, & Shelton, 2005) found that both White and Black participants showed a reduction
+in their ability to inhibit Stroop responses following interactions with outgroup partners relative
+to interactions with ingroup partners. These authors interpreted this failure of inhibition as
+demonstrating that intergroup interactions require more effortful regulation than do ingroup
+interactions.
+It is important to note that these examples featured an evaluatively neutral paradigm. For
+example, in the CV studies, the confederates were instructed to behave neutrally during the
+interaction. Such neutral interactions allow for more ambiguity regarding how one is evaluated
+or regarded. In contrast, in the current study, we examined interracial encounters in which
+participants experienced explicit social rejection or social acceptance. We reasoned that the
+complexity of the attributions for and responses to this feedback would differ dramatically,
+depending on whether it occurred within a same-race or a different-race context (see Crocker
+& Major, 1989).
+
+Social Evaluation in Ingroup Interactions
+
+NIH-PA Author Manuscript
+
+Therapists, teachers, and grandmothers all know that when people receive positive social
+feedback they are likely to feel better about themselves than when they receive negative social
+feedback (e.g., rejection or ostracism). Likewise, psychological research has shown that social
+acceptance versus social rejection differentially affect mood, self-esteem, behavior, and
+physiology (Crocker, Cornwell, & Major, 1993; Dickerson, Gruenewald, & Kemeny, 2004;
+Leary et al., 2003). Indeed, social acceptance is so central to well-being that the need to belong
+to social groups, an implicit form of social acceptance, is recognized as an important social
+motive in humans and primates (e.g., Baumeister & Leary, 1995; Cheney, Seyfarth, & Smuts,
+1986)
+In contrast, social rejection is painful and typically engenders internal negative emotions like
+shame, sadness, and even depression (Ayduk, Mischel, & Downey, 2002; Williams, 2001).
+Social rejection, including ostracism, exclusion, and loneliness, has far-reaching negative
+effects on physical health (Cacioppo, Hawkley, & Bernston, 2003; Stroud, Tanofsky-Kraff,
+Wilfley, & Salovey, 2000) and mental health (Williams, 2001). Social rejection has been shown
+to influence neural activation, as well. In one study, participants who were ostracized exhibited
+increased regional activity in the anterior cingulate cortex, an area of the brain that is also active
+during physical pain (Eisenberger, Lieberman, & Williams, 2003). These findings suggest that
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 3
+
+social acceptance can lead to positive feelings and benign responses, whereas social rejection
+is likely to lead to internal negative emotions and more malignant responses.
+
+NIH-PA Author Manuscript
+
+Social Evaluation in Intergroup Interactions
+
+NIH-PA Author Manuscript
+
+But how are social acceptance and rejection construed in intergroup interactions? Although
+the use of social acceptance and rejection paradigms to create positive and negative affective
+states has been ubiquitous in psychological research, social evaluation has typically been
+examined within same-race interactions or without regard to the intergroup context. A notable
+early exception is research by Crocker, Voelkl, Testa, and Major (1991). In their study, Black
+participants and White participants were socially accepted or socially rejected by a White
+partner (confederate) who the participant believed was either aware or unaware of the
+participant’s race. Black participants who were rejected by a White partner who they believed
+knew their race attributed the feedback to discrimination more frequently than did participants
+in any other condition, and their self-esteem did not decrease from preexperiment levels. These
+authors reasoned that the ability of Black participants to attribute negative feedback to
+discrimination could protect their self-esteem from rejection. The importance of this article
+notwithstanding, this research was imbalanced in that majority group members’ reactions to
+positive or negative feedback were examined within an intraracial encounter, whereas minority
+group members’ reactions were examined within an interracial encounter. This leaves
+unanswered whether this effect is an intergroup phenomenon or a phenomenon related to
+minority group status.
+Social Rejection From an Outgroup Member
+Though rejection from an ingroup member is likely to engender internal negative emotions
+(i.e., internalization) and self-blame, rejection within the context of an intergroup interaction
+may evoke external negative emotions (i.e., externalization) such as anger. This may occur
+because interracial interactions are more attributionally ambiguous and thus bring about more
+possible reasons for rejection, including the attribution that one may have experienced
+discrimination (Crocker & Major, 1989). Attributions to discrimination may shift explanations
+for the cause of rejection from internal reasons to external ones, thereby protecting self-esteem
+(Major, Quinton, & Schmader, 2003). Although attributing rejection to discrimination can
+protect self-esteem, it can also lead to increased anger (Major, Quinton, & McCoy, 2002).
+Indeed, anger has been identified as the most common emotional state to follow perceptions
+of racism (Bullock & Houston, 1987; see also Clark, Anderson, Clark, & Williams, 1999).
+Social Acceptance From an Outgroup Member
+
+NIH-PA Author Manuscript
+
+Though counterintuitive, evidence is mounting that social acceptance from outgroup members
+may not always translate into benign or positive affective consequences. Indeed, Crocker et
+al. (1991) found significant drops in self-esteem among Black participants who received
+positive evaluations from White partners who could see them and hence knew their race.
+Similarly, Cohen and colleagues (G. L. Cohen, Steele, & Ross, 1999) found that Black
+participants receiving critical feedback plus praise for a written essay perceived the evaluator
+to be higher in bias, and they were more likely to disidentify from the evaluated domain than
+were White participants receiving similar feedback. These studies suggested that positive
+feedback might be discounted within an interracial interaction.
+Another potential pitfall of positive feedback in the interracial context is that such feedback
+may be perceived as overcorrecting (Vorauer & Turpie, 2004). White participants may be
+motivated to appear nonprejudiced and, in trying to be nonprejudiced, may act overly friendly
+(Plant & Devine, 1998). They may also be motivated to distort their responses because of
+political correctness concerns and, as a result, may behave in ways that do not reflect their true
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 4
+
+feelings. The disingenuousness of these actions may be detected by Blacks, increasing feelings
+of uncertainty regarding the cause of social acceptance.
+
+NIH-PA Author Manuscript
+
+Examining how people respond to interracial acceptance and rejection is complicated by
+several factors. As noted above, interracial interactions are prone to deliberate distortions in
+responses, such that participants may be unwilling to report their true thoughts and feelings for
+fear of appearing prejudiced. People may also be motivated to claim that they were not a target
+of discrimination because in so doing they may suffer social costs, such as being perceived as
+a whiner or troublemaker (Kaiser & Miller, 2001). Furthermore, repression—claiming to not
+feel anxious or stressed coupled with high defensiveness—may be a common coping response
+to prejudice, leading to self-reports of positive emotion and well-being while nonetheless
+taking a physical toll on the body (Barger, Marsland, Bachen, & Manuck, 2000; Weinberger,
+Schwartz, & Davidson, 1979). Thus, evaluation apprehension, repression, and denial of
+discrimination may all increase the difficulty of obtaining unexpurgated responses to
+acceptance and rejection during interracial encounters.
+
+NIH-PA Author Manuscript
+
+Because of these issues, we relied on multiple measures to examine responses to acceptance
+versus rejection in same-race interactions or different-race interactions. We included measures
+that are viewed as assessing more automatic responses as a way to circumvent intentional
+distortions between what individuals feel and think and what they self-report. We measured
+CV responses, cognitive performance, nonverbal behavior and emotional displays (as coded
+by observers), in addition to self-reports.
+
+Biopsychosocial Model of Challenge and Threat
+To ground our predictions and interpretation of multiple measures, we used a framework to
+organize responses associated with activational states versus inhibitional states. Challenge and
+threat theory (Blascovich & Mendes, 2000; Blascovich & Tomaka, 1996) posits that during
+active tasks, individuals’ appraisals of situational demands relative to resources result in a
+cascade of CV, hormonal, behavioral, affective, and cognitive consequences that can index
+motivational states associated with activational responses versus inhibitional responses.
+Challenge states are activational responses and occur when personal resources exceed
+situational demands. Consequently, CV responses exhibited in challenge states tend to be
+associated with greater sympathetic adrenal medullary activation, thus increasing ventricular
+contractility (VC), cardiac efficiency, and vasodilation in the arterioles, which provide greater
+blood flow to the periphery. The CV pattern of reactivity associated with challenge is similar
+(if not identical) to the Pattern 1 (activational) response (see Brownley, Hurwitz, &
+Schneiderman, 2000).
+
+NIH-PA Author Manuscript
+
+In contrast, threat states are inhibitional responses and result when situational demands exceed
+personal resources. CV reactivity exhibited in threat states consists of less efficient cardiac
+output (CO) and vasoconstriction. Similar to the Pattern 2 (inhibitional) response, CV reactivity
+during threat states is believed to be associated with avoidant and defeat-related motivation
+(Brownley et al., 2000).
+Challenge and threat have typically been linked to high arousal, positive emotions and high
+arousal, negative emotions, respectively; more precisely, these states index motivational
+tendencies rather than affective states (Herrald & Tomaka, 2002; see also Feldman Barrett,
+2006) and, thus, are orthogonal to valence. Therefore, challenge responses are more likely
+indexing approach motivation and not necessarily positive emotion. One implication of this is
+that approach-negative emotions, like anger, should be more closely related to challenge than
+to threat (see Harmon-Jones & Allen, 1998, for a conceptually similar argument related to
+prefrontal cortical asymmetry).
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 5
+
+NIH-PA Author Manuscript
+
+If both high arousal positive emotions (e.g., pride, happiness) and anger are associated with
+activational patterns, can they be differentiated physiologically? A search of literature on
+emotion specificity of autonomic nervous system revealed sparse evidence for autonomic
+nervous system differences in emotion (Cacioppo, Bernston, Larsen, Poehlmann, & Ito,
+2000; cf., Levenson, Ekman, & Friesen, 1990). However, a meta-analysis by Cacioppo and
+colleagues (Cacioppo et al., 2000) suggested one measure that may differentiate between
+positive emotions and anger: heart rate (HR). Specifically, their meta-analysis showed that
+anger is associated with higher HR than is happiness. Another promising measure that may
+differentiate anger from positive emotion is VC. Sinha, Lovallo, and Parsons (1992) found
+greater increases in VC during anger imagery than during joy imagery. Similarly, using core
+relational themes, Herrald and Tomaka (2002) reported greater VC during anger than during
+pride. Therefore, on the basis of this literature, we predicted that within a challenge state,
+magnitude differences in VC and HR reactivity might differentiate anger from positive
+emotions. A summary of our predictions differentiating challenge and threat and
+differentiating, within challenge responses, positive emotions and anger are presented in Figure
+1.
+
+NIH-PA Author Manuscript
+
+Integrating attributional ambiguity theory with a motivational perspective allows us to
+investigate effects of attributional ambiguity that were previously unclear or unspecified, as
+well as to extend the theory. Specifically, it is unclear why self-esteem does not decrease
+following attributions to discrimination. Are participants simply disengaging from the social
+interaction with a prejudiced person? Are the self-esteem effects observed due simply to
+individuals masking the pain of being a target of discrimination and self-reporting that they
+are not affected by the discrimination when, in reality, they are feeling anxiety and threat? Is
+buffered self-esteem a defensive reaction? In a motivational framework, these questions can
+be explored. In addition, this work examines negative affective responses that are differentiated
+along the lines of internal emotional responses and external emotional responses. This allows
+us to make more nuanced predictions regarding the effects of perceived discrimination
+compared with social rejection that is not perceived as discriminatory.
+
+Overview of Experiment and Predictions
+
+NIH-PA Author Manuscript
+
+In the following study, White participants and Black participants arrived at the laboratory and
+met a White, same-sex confederate or a Black, same-sex confederate. Sensors to measure CV
+responses were applied and, after a baseline period, the participant delivered a speech that the
+confederate evaluated. After the speech, the participant received an evaluation form ostensibly
+completed by the confederate, which consisted of either negative (rejecting) or positive
+(accepting) social feedback. Participants then completed attributions for feedback. After
+completion of attributions, an audiovisual connection allowed the confederate and the
+participant to see and hear each other, and the dyad completed a cooperative task.
+We predicted that same-race dyads, compared with different-race dyads, would respond
+differently to accepting and rejecting feedback. Specifically, we predicted that rejection by a
+same-race partner would result in participants exhibiting CV responses consistent with threat,
+internal negative emotions (especially anxiety and shame), and poorer cognitive performance.
+In contrast, rejection by a different-race partner was expected to be perceived as more
+discriminatory and to result in more anger, better performance, and activational CV responses.
+With respect to social acceptance, we predicted that participants would respond to social
+acceptance from same-race partners with generally benign reactions, including positive
+emotions, challenge states, and better performance. In contrast, we expected that positive social
+feedback from a different-race partner would be attributionally ambiguous, particularly for
+Black participants, who might doubt the genuineness of the feedback. Thus, we expected these
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 6
+
+participants to show inhibitional responses, such as CV threat responses, anxiety increases,
+and behavioral manifestations of vigilance.
+
+NIH-PA Author Manuscript
+
+Although our predictions for Black participants paired with White partners were clear, we were
+agnostic regarding whether White participants paired with Black partners would reveal the
+same patterns. Thus, a key question of this research was whether intergroup interaction effects
+were symmetrical—occurring similarly for Black participants and White participants—or
+asymmetrical—occurring only for Black participants in interracial interactions.
+
+Method
+Setting and Participants
+A social psychophysiology laboratory served as the experimental setting. We recruited Black
+and White male and female undergraduate participants (N = 122; 49% Black and 51% White;
+31% men and 69% women) who received either course credit or $10 and who all received a
+$5 bonus (see below).
+Confederates
+
+NIH-PA Author Manuscript
+
+We trained seventeen1 Black and White male and female research assistants to be confederates
+for this study. Some confederates were hired from a neighboring college to limit the possibility
+that participants would know the confederate. Every race–gender combination had at least three
+different confederates. We instructed the confederates, who were blind to the feedback
+manipulation, to act interested but neutral throughout the experiment.
+Procedure
+Arrival—Participants arrived individually and waited with the confederate. Two
+experimenters emerged from the control room, confirmed the names, and introduced the
+participant and the confederate to each other, making sure that they did not previously know
+each other. At this point, one of the experimenters instructed the dyad to select from a bowl
+one of two cards that read either A or B. The participant and confederate showed each other
+what they selected, and they were then escorted to different experimental rooms, where the
+participant completed the consent form. The experimenter then applied the various sensors
+needed to record CV responses, and the participant was instructed to sit for a quiet, 5-min
+baseline period. At this time, the experimenter applied nonoperating sensors to the confederate
+because the participant and confederate would be seeing each other during the cooperative
+task.
+
+NIH-PA Author Manuscript
+
+Speech task—After the baseline period, the participant was instructed via intercom that the
+rooms would be connected so that the two could hear each other. We then played one of two
+prere-corded instructions for the speech task, depending on whether the participant chose the
+A card or the B card. The instructions revealed that the person who chose A (or B) had been
+assigned to the performer condition and that the person who chose B (or A) had been assigned
+to the evaluator condition. The participant was always the performer. They were further
+instructed that the performer would have to deliver a speech on the topic of “Why I Make a
+Good Friend” for 2 min, after a 1-min preparation period, while the evaluator listened to the
+speech. The participant prepared silently for a minute, and he or she was then instructed by the
+experimenter to begin and to end the speech. Once the speech ended, the experimenter
+disconnected the audio connection.
+
+1We used a large number of confederates because this study spanned four academic quarters (almost 18 months). The study took a long
+time to complete because Black students constituted only 3% of the campus population at the time.
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+Feedback manipulation—After the speech, the experimenter waited 3 min and then entered
+the participant’s room with an envelope that he or she handed to the participant. The
+experimenter explained that inside the envelope was the partner’s evaluation form. The
+participant was instructed to take out the evaluation form, to review it, and to place it back in
+the envelope when done. The experimenters were kept blind to the valence of the feedback
+form inside the envelope, and the experimenters returned to the participant’s room only after
+the participant finished reviewing the form. The only person who knew the type of feedback
+was the director of the study, who had no contact with the participant until the debriefing.
+The evaluator’s form contained the feedback manipulation. There were five questions on the
+form: “I would like to be in a small class with the other subject,” “I would like to work closely
+with the other subject,” “I would like to get to know the other subject better,” I would enjoy
+being roommates with the other subject,” and “I would like to be close friends with the other
+subject.” The social acceptance condition consisted of the first two items with the second
+highest ratings (+3) and the final three items with the highest ratings (+4). The rejection
+condition consisted of zero ratings for the first three items, −1 for the fourth item, and −2 for
+the fifth item. Following the review of the evaluator’s form, the experimenter returned to the
+room, took the envelope, and gave the participant the attributions questionnaire.
+
+NIH-PA Author Manuscript
+
+Word-finding task—Upon participants’ completion of the attribution questionnaire, we
+connected the rooms in which the participant and confederate sat, but this time they could see
+and hear each other over large (27 in. [68.5 cm]) television monitors. We then provided
+instructions for the cooperative word-finding task (similar to the game of Boggle), which
+required participants to find words in an 8 letter × 8 letter matrix. Participants were instructed
+that if the two participants performed to a stated criterion, they would each earn a $5 bonus.
+Just before they began the task, they completed emotion ratings. Then, the task began and lasted
+4 min. The dyad alternated finding words; the confederate, who had a list of valid words
+displayed on their computer monitor, responded with words in a predetermined timing
+schedule. We tracked the number of words participants found as an indicator of performance.
+At the end of the task, we disconnected the rooms. We then unhooked the sensors and began
+the debriefing. Prior to the debriefing, we probed for suspicion, taking care to ascertain that
+the participants were not suspicious of the feedback or of their partners.
+Measures
+
+NIH-PA Author Manuscript
+
+Physiological measures—Cardiac and hemodynamic measures were recorded
+noninvasively according to psychophysiological guidelines (e.g., Sherwood et al., 1990). A
+Minnesota (Chapel Hill, NC) model 304B impedance cardiograph, a Cortronics model 7000
+continuous blood pressure monitor, and a Coulbourn (Allentown, PA) model S75–11
+electrocardiograph amplifier/coupler provided the physiological signals. Impedance
+cardiograph and electrocardiograph recordings provided continuous measures of cardiac
+performance. In impedance cardiography, a Mylar tape electrode system provides basal
+transthoracic impedance and the first derivative of basal impedance. Two pairs of tapes are
+used to encircle the participant at the neck and at the torso and are secured with electrodes. A
+4mA AC 100 kHz current passes through the two outer electrodes and measures basal
+impedance from the two inner electrodes. The electrocardiograph recordings were obtained
+with a Standard Lead II configuration (right arm, left leg, and right leg ground). A Cortronics
+blood pressure monitor provided continuous noninvasive recordings of blood pressure. An
+interactive software program (Kelsey & Guethlein, 1990) was used to record and score the
+cardiac and hemodynamic data.
+We differentiated activational (challenge) and inhibitional (threat) states with CV reactivity
+(i.e., changes from baseline) focusing on VC, CO, and total peripheral resistance (TPR), the
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 8
+
+NIH-PA Author Manuscript
+
+latter derived from blood pressure and CO with the formula (MAP/CO) × 80, where MAP is
+mean arterial pressure. We then differentiated high arousal positive emotions from anger by
+examining magnitude differences in cardiac responses, specifically VC and HR.
+Self-reports—Upon reviewing the evaluator’s form, participants completed a scale assessing
+their attributions for the feedback. Embedded in theoretically irrelevant attributions for the
+feedback (e.g., to participant’s religion, personality, and gender) were two items related to the
+evaluator’s prejudice: “Indicate the degree to which each influenced the other student’s
+evaluation of you: (1) the evaluator was prejudiced; and (2) the evaluator discriminated against
+me.” We combined these two items into a composite measure of attributions to discrimination
+(α = .67).
+
+NIH-PA Author Manuscript
+
+We measured participants’ emotional states immediately preceding the cooperative task (and
+hence, following feedback), using 10 items from Stephan and Stephan’s (1985) intergroup
+anxiety measure. Participants were instructed to indicate how much of each state (ease,
+awkwardness, self-consciousness, anxiety, acceptance, confidence, irritation, defensiveness,
+suspicion, and certainty) they were feeling right now, from −4 to +4. We used these responses
+to form three indexes related to the predictions: externally directed negative emotions/anger
+(defensive and irritated; α = .82), internally directed negative emotions (awkward, anxious,
+and self-conscious; α = .68), and positive emotions (accepting, confident, at ease, and certain;
+α = .83).
+Behavioral observation and coding—Black and White men and women (N = 11; 6 Black
+and 5 White) from a different university were trained to code the videotaped cooperative task.
+Training consisted of a group instructional session, followed by everyone scoring the same 10
+participants and determining reliability across those participants. Interrater reliability was high
+(alphas ranged from .72 to .90 for emotions; α = .92 for the behavioral variable). Once
+consistency was established, each task exchange was scored by two coders: one White and one
+Black. We were interested in four categories of emotion and behavior: external negative
+emotion, internal negative emotion, positive emotion, and vigilance. We operationalized
+vigilance as the number of times the participant looked away from the computer with the letter
+matrix on it and toward their partner during the word-finding task. By looking away from the
+computer, participants undermined their performance because they were losing time that could
+be spent finding a word. Coders also rated participants on relevant emotions from the Positive
+and Negative Affectivity Schedule (Watson, Clark, & Tellegen, 1988). We focused on the same
+three indexes of emotion described earlier: external negative emotions (irritable and hostile;
+α = .82); internal negative emotions (ashamed, nervous, distressed, upset, guilty, and jittery;
+α = .88); and positive emotions (proud, attentive, inspired, and strong; α = .67).
+
+NIH-PA Author Manuscript
+
+Results
+During debriefing, 4 participants expressed suspicion regarding the authenticity of the
+feedback. We analyzed data with and without these participants, and no significant differences
+were observed between the full sample and the reduced sample. We present the data below
+with the suspicious participants excluded.
+Various time points from the physiological data were unscorable because of faulty sensors,
+loss of signal, or noisy signals. Thus, the physiological data have variable degrees of freedom.
+Videotapes of 7 additional participants were impossible to code, either because of the quality
+of the video or because the video was cut off during the interaction.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 9
+
+CV Data: Baseline and Speech Reactivity
+
+NIH-PA Author Manuscript
+
+Mean VC, CO, HR, TPR, and MAP values were calculated for each minute within each rest
+and task period. We began by examining the last minute of the baseline for differences based
+on participants’ race, evaluators’ race, and/or feedback manipulation. Though random
+assignment was successful and there were no baseline differences in CV responses due to
+feedback or evaluator’s race, there were differences in VC between White participants and
+Black participants, F(1, 106) = 12.16, p < .0007. Black participants exhibited a shorter
+preejection period (M = 102.4, SD = 12.27) than did White participants (M = 111.7, SD =
+15.00). Because of these baseline differences, we conducted all subsequent analyses examining
+VC reactivity by controlling for participants’ baseline VC.
+We then examined CV responses during the speech that occurred prior to the feedback
+manipulation. There were no differences in responses by evaluator’s race or participant’s race.
+It is important to note that the speech was not a face-to-face speech, which appears to more
+reliably lead to differences in CV reactivity as a result of the situational context (Mendes,
+Blascovich, Hunter, Lickel, & Jost, 2007).
+Analytic Strategy
+
+NIH-PA Author Manuscript
+
+Hypotheses testing began with an examination of the various dependent variables (CV
+reactivity, self-reports, attributions, performance, and observers’ ratings) and the three
+independent variables (participant’s race, evaluator’s race, and feedback) in a series of 2 × 2
+× 2 analyses of variance (ANOVAs). We first examined whether the three-way interactions
+were significant. We obtained significant three-way interactions for most of the critical
+dependent variables: attributions to discrimination, self-reported external negative emotion
+(i.e., anger), CV responses (CO and TPR), performance, and observers’ coding indexing
+vigilance and positive emotion. A complete summary of the full model ANOVAs are presented
+in Table 1.
+
+NIH-PA Author Manuscript
+
+We then decomposed the significant three-way interactions by examining the effects of
+participant’s race and evaluator’s race separately for the rejection conditions and the acceptance
+conditions. To conduct these simple effects tests, we used the overall mean square error and
+degrees of freedom found in Table 1. Significant two-way interactions were then further
+examined by simple effects tests, within participant’s race, to determine whether the effect for
+evaluator’s race was significant. Finally, we tested our a priori predictions regarding
+differences between Black participants and White participants paired with different-race
+partners, which we tested using planned contrasts. Specifically, we examined whether Black
+participants paired with White evaluators differed from White participants paired with Black
+evaluators. Nonsignificant differences are characterized as symmetrical effects and significant
+differences are characterized as asymmetrical effects. We also examined participant race
+effects in same-race pairings, and we never observed any significant race effects. That is, within
+both feedback conditions, Black participants paired with Black evaluators yielded patterns of
+findings similar to White participants paired with White evaluators. Means and standard
+deviations are found in Table 2.
+Attributions
+Not surprisingly, participants were more likely to attribute the cause of feedback to
+discrimination after social rejection than they were to attribute the cause of feedback to
+discrimination after social acceptance, F(1, 110) = 29.59, p < .001. Furthermore, participants,
+in general, were more likely to attribute feedback to discrimination when the evaluators were
+White than when the evaluators were Black, F(1, 110) = 6.76, p < .01. However, the predicted
+three-way interaction was significant, F(1, 110) = 7.35, p < .008. To decompose this interaction,
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 10
+
+we conducted simple effects tests within the social rejection condition and within the social
+acceptance condition.
+
+NIH-PA Author Manuscript
+
+Within the social rejection condition, the Participant × Evaluator race interaction was
+significant, F(1, 110) = 9.71, p < .01. As expected, Black participants were more likely to
+attribute rejection to discrimination when paired with White evaluators than when paired with
+Black evaluators, F(1, 110) = 14.18, p < .001. Among White participants, the direction of the
+means was consistent with predictions—more attributions to discrimination when the evaluator
+was Black than when the evaluator was White—but this simple effect was not significant, F
+(1, 110) = 1.01, ns. Comparisons of responses within the different-race dyads revealed that
+Black participants paired with White evaluators were more likely to attribute rejection to
+discrimination (M = 2.9, SD = 0.98) than were White participants paired with Black evaluators
+(M = 2.5, SD = 0.87), although this difference was not significant, F(1, 110) = 1.75, ns. In sum,
+Black participants were more likely to attribute rejection to discrimination in a different-race
+interaction than in a same-race interaction, but among the different-race dyads, there were no
+significant differences between Black participants and White participants.
+As the main effect for feedback revealed, attributions to discrimination were low following
+social acceptance. None of the simple effects and none of the planned contrasts were significant
+(Fs < 1).
+
+NIH-PA Author Manuscript
+
+Emotion Ratings
+We then examined the self-reported emotion ratings that participants completed prior to the
+cooperative task but following the feedback. As expected, there were main effects for feedback.
+Participants who received social acceptance feedback reported more positive emotion than
+those who received social rejection feedback, F(1, 110) = 7.72, p < .007. Similarly, participants
+reported more external negative emotion when they received social rejection feedback than
+when they received social acceptance, F(1, 110) = 31.66, p < .001. Consistent with our
+predictions, however, the three-way interaction for external negative emotions was significant,
+F(1, 110) = 4.58, p < .04.
+
+NIH-PA Author Manuscript
+
+Again, we decomposed the interaction by first examining the effects of the interaction of
+participant’s race and evaluator’s race separately for social rejection and social acceptance
+conditions. Among those who received social rejection feedback, the Participant × Evaluator
+race interaction was significant, F(1, 110) = 4.20, p < .05. White participants rejected by a
+Black evaluator reported more external negative emotions than did White participants rejected
+by a White evaluator, F(1, 110) = 3.85, p < .052. Similarly, Black participants rejected by a
+White evaluator reported more anger than did those rejected by a Black evaluator, though this
+effect was not significant, F(1, 110) = 2.70, p < .10, Cohen’s d = .31. We then compared the
+means from Black and White participants paired with different-race partners. In support of the
+symmetrical prediction, Black and White participants did not significantly differ in their reports
+of external negative emotions (F < 1). We did not hypothesize or observe differences in external
+negative emotion among the groups who received social acceptance feedback.
+CV Responses
+To test our predictions for CV reactivity, we focused on the first minute of the task because
+cardiac habituation can occur quickly, thus differences in cardiac responses related to challenge
+and threat are most pronounced in the earlier minutes. However, the effects we observed for
+the first minute persisted for the entire 4 min of the task. The three-way interactions were
+observed for CO, F(1, 102) = 8.13, p < .006, and for TPR, F(1, 102) = 15.02, p < .001. The
+three-way interaction for VC, controlling for baseline VC, was not significant, F(1, 102) =
+2.31, p < .13.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+
+We hypothesized that social rejection from a same-race partner would result in CV responses
+consistent with threat (lower CO and higher TPR), whereas rejection from a different-race
+partner would result in activational CV responses (relatively higher CO and lower TPR).
+Consistent with predictions, we observed significant Participant × Evaluator race interactions
+for CO, F(1, 102) = 6.43, p < .05, and for TPR, F(1, 102) = 11.18, p < .05. Decomposing the
+two-way interactions revealed significant (or near significant) differences by evaluator’s race
+for Black participants, for CO, F(1, 102) = 3.10, p < .08, and for TPR, F(1, 102) = 6.38, p < .
+013. Black participants rejected by Black evaluators exhibited significantly greater increases
+in vascular resistance and exhibited less cardiac efficiency than did those rejected by White
+evaluators (see Table 2 and Figure 2). Similar patterns of reactivity were observed among
+White participants for CO, F(1, 102) = 8.33, p < .01, and for TPR, F(1, 102) = 6.12, p < .02.
+In general, rejection from a same-race partner resulted in increased TPR and decreased CO
+(i.e., a threat pattern of CV reactivity), whereas rejection from a different-race partner resulted
+in decreased TPR and increased CO (i.e., an activational pattern of CV reactivity). An
+examination of the effects within the different-race dyads revealed no effects for participant’s
+race. Both White and Black participants rejected by different-race partners exhibited
+activational CV patterns (Fs < 1).
+
+NIH-PA Author Manuscript
+
+Our predictions following social acceptance were that a same-race partner would engender CV
+reactivity consistent with activational responses (higher CO and lower TPR), whereas positive
+feedback from a different-race partner might engender CV reactivity threat (lower CO and
+higher TPR). The Participant × Evaluator race interactions were significant for TPR, F(1, 102)
+= 4.52, p < .036, and near significant for CO, F(1, 102) = 3.11, p < .08 (Figure 3). Among
+Black participants, those paired with White evaluators exhibited significantly lower CO
+reactivity (M = −0.5, SD = 1.0) and greater TPR reactivity (M = 184.8, SD = 417) than did
+those paired with Black evaluators (CO: M = 0.8, SD = 1.1; TPR: M = −97.4, SD = 201), for
+CO, F(1, 102) = 4.89, p < .03, and for TPR, F(1, 102) = 8.22, p < .005. Black participants who
+received positive social feedback from White evaluators exhibited CV reactivity consistent
+with threat, whereas Black participants who received positive feedback from Black evaluators
+exhibited CV reactivity consistent with challenge. The simple effects tests among White
+participants were not significant (Fs < 1). White participants who received social acceptance
+feedback exhibited CV responses consistent with challenge states, regardless of the race of the
+evaluator. Planned contrasts confirmed the asymmetry, for CO, F(1, 102) = 4.84, p < .03, and
+for TPR, F(1, 102) = 5.21, p < .025. Black participants exhibited threat CV responses in
+different-race pairings, whereas White participants exhibited challenge responses in differentrace pairings.
+Performance
+
+NIH-PA Author Manuscript
+
+We operationalized performance as the number of words identified by the participant during
+the word-finding task. We observed a main effect for race, F(1, 108) = 5.62, p < .01 (on average,
+White participants found more words than Black participants); however, it is important to note
+that White participants were more likely to report that they played a similar word game (44%)
+in the past than were Black participants (29%). Because past experience with similar games is
+an important predictor of performance, we controlled for past experience in all analyses. We
+again observed the three-way interaction, F(1, 108) = 8.26, p < .005.
+We predicted that participants who showed activational responses would perform better than
+those who showed an inhibitional response. Following the confirmation of the predictions with
+CV reactivity, we anticipated that those who were rejected by a different-race evaluator would
+perform better than would those rejected by a same-race evaluator. Consistent with the
+predictions, the Participant × Evaluator race interaction was significant, F(1, 108) = 3.92, p < .
+05. Among Black participants, those rejected by White evaluators performed better than did
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+
+those rejected by Black evaluators, though this was short of significance, F(1, 108) = 2.65, p
+< .10, Cohen’s d = .57. Similarly, among White participants, those rejected by Black evaluators
+performed better than did those rejected by White evaluators, but again this effect was not
+significant, F(1, 108) = 2.83, p < .09, Cohen’s d = .61. In general, participants rejected by a
+different-race partner performed (marginally) better than did those rejected by a same-race
+partner. We then examined the performance effects within the different-race pairings. Even in
+light of the participant race main effect described above, the difference between Black
+participants paired with White evaluators (adjusted M =13.2, SD = 4.5) and White participants
+paired with Black evaluators (adjusted M = 15.9, SD = 5.6) was not significant, F(1, 108) =
+2.15, p < .15.
+Among those who received social acceptance feedback, the Participant × Evaluator race
+interaction was significant, F(1, 108) = 3.99, p < .048. The simple effects test among Black
+participants was significant, F(1, 108) = 5.61, p < .02. Black participants performed better
+when paired with Black evaluators who gave positive feedback, compared with Black
+participants paired with White evaluators. Among White participants, the effect for evaluator’s
+race was not significant (F < 1). The planned contrast comparing Black participants with White
+evaluators and White participants with Black evaluators was also significant, F(1, 108) = 5.86,
+p < .025. Black participants paired with White evaluators performed worse than did White
+participants paired with Black evaluators.
+
+NIH-PA Author Manuscript
+
+Behavior
+Our final dependent variables were from the behavioral coding, in which coders (blind to the
+social feedback condition) rated the extent to which participants appeared vigilant (monitored
+the other participant) and displayed internal negative emotions (e.g., shame), external negative
+emotions (e.g., anger), and positive emotions during the word-finding task. The three-way
+interactions were confirmed for vigilance, F(1, 98) = 3.96, p < .05, and for positive emotions,
+F(1, 103) = 4.91, p < .03. The interaction for external negative emotions was just short of
+significance, F(1, 103) = 3.10, p < .08, Cohen’s d = .03.
+
+NIH-PA Author Manuscript
+
+Among those who received social rejection, the two-way interactions were not significant for
+vigilance or positive emotions. We predicted that those paired with different-race evaluators
+who had just given them rejecting social feedback would show more anger than would those
+rejected by same-race evaluators. Even though the omnibus interaction was just short of
+significant, because we had a priori predictions regarding this effect, we tested the Participant
+× Evaluator race interaction, which was significant, F(1, 103) = 6.02, p < .05. Among Black
+participants, those rejected by White evaluators were perceived as appearing angrier than were
+those rejected by Black evaluators, F(1, 103) = 4.57, p < .04. Similarly, among White
+participants, those rejected by Black evaluators appeared angrier than did those rejected by
+White evaluators, F(1, 103) = 4.04, p < .05. Again, the effects within different-race settings
+appeared to be symmetrical in that White participants rejected by Black partners were rated as
+exhibiting similar levels of external negative emotions (M = 1.6, SD = 0.8) as Black participants
+rejected by White partners (M = 1.7, SD = 0.8; F < 1).
+Among those who received social acceptance feedback, we hypothesized that Black
+participants might be uncertain of or suspicious of social acceptance from White evaluators,
+resulting in increased vigilance. We tested this hypothesis by examining our behavioral
+measure of vigilance—how often participants monitored their partner during the cooperative
+task. We observed a significant two-way interaction, F(1, 98) = 4.55, p < .05. Among Black
+participants, the evaluator’s race resulted in a significant effect, F(1, 98) = 4.74, p < .05. Black
+participants interacting with White evaluators monitored them more during the task than Black
+participants interacting with Black evaluators. Among White participants, the race of the
+evaluator was not significant (F < 1). Planned contrasts comparing the intergroup pairings
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+
+yielded a significant effect as well, F(1, 105) = 4.17, p < .05. Black participants paired with
+White evaluators monitored them more often (M = 3.1, SD = 2.5) than did White participants
+paired with Black evaluators (M = 1.6, SD = 1.2).
+We also hypothesized that positive emotion would be greater following social acceptance from
+a same-race partner than following social acceptance from a different-race partner. Analysis
+of coders’ ratings of how much positive emotion the participants exhibited during the
+cooperative task revealed a significant Participant × Evaluator race interaction, F(1, 103) =
+4.56, p < .05. As predicted, among Black participants, those paired with a same-race evaluator
+displayed more positive emotion than did those assigned to a different-race evaluator, F(1,
+103) = 11.06, p < .002. The simple effects test was not significant among White participants.
+Similar to the other measures, Black participants positively evaluated by White partners were
+rated as expressing less positive emotion (M = 1.5, SD = 0.3) than White participants positively
+evaluated by Black evaluators (M = 2.0, SD = 0.5), F(1, 105) = 5.85, p < .05.
+Differentiating CV Activational Responses: Positive Emotions Versus Anger
+
+NIH-PA Author Manuscript
+
+We observed two meta-conditions that resulted in CV reactivity consistent with activational
+patterns—social acceptance from same-race partners and social rejection from different-race
+partners.2 However, we expected these two conditions to engender very different emotions.
+Specifically, we expected social acceptance from same-race partners to engender positive
+emotions (pride, confidence), and we expected social rejection from different-race partners to
+engender anger. We found initial confirmation for these predictions with behavioral
+observation and, to a lesser extent, self-reported emotions.
+We then turned to our predictions regarding differentiating anger from positive emotions using
+cardiac variables, specifically, VC and HR reactivity. We predicted that anger would yield
+larger cardiac responses than would positive emotions; hence, we expected that VC and HR
+changes would be higher in the rejection/different-race conditions than in the acceptance/samerace conditions. An ANOVA revealed significant differences in VC (averaged across the task)
+between conditions in the direction hypothesized, F(1, 54) = 4.34, p < .04. Participants rejected
+by different-race partners exhibited greater VC (M = 17.15, SD = 10.3) than did those who
+received positive feedback from same-race partners (M = 11.5, SD = 10.0). The same analysis
+performed on HR changes revealed significant differences between conditions in the predicted
+direction as well, F(1, 55) = 8.31, p < .006. Again, the discrimination condition resulted in
+greater increases in HR (M = 11.73, SD = 8.8) than did social acceptance by a same-race partner
+(M = 5.69, SD = 6.8).
+
+NIH-PA Author Manuscript
+
+Finally, we examined correlations between cardiac variables (VC and HR) and observed
+emotions. We predicted that VC responses would be related to greater anger, but only in
+conditions in which anger was evoked—the rejection/different-race conditions. Consistent
+with these predictions, VC changes were positively and significantly related to expressed anger
+(average r = .53, p < .01) as were HR changes (average r = .36, p < .05). In the same-race and
+positive feedback conditions, these relationships were not observed (for VC and expressed
+anger, average r = −.07, ns; for HR, average r = −.23, ns). Furthermore, we expected that
+positive emotions would be related to a dampening of CV responses (see Fredrickson,
+Mancuso, Branigan, & Tugade, 2000). The results for this effect were weaker but were in the
+predicted direction. In the same-race and positive feedback condition, less VC was related to
+greater observer-rated positive emotion (r = −.31, p < .052). HR changes were also negatively
+
+2We also examined the cardiac differences between positive emotion and anger, using the additional condition: White participants paired
+with Black evaluators who received positive feedback. The results are similar to what is reported above, however this particular condition
+was not included in the main analyses because the grouping was post hoc. Furthermore, the imbalance in the within cell ns provides
+misleading conclusions regarding the relationships between cardiac reactivity and emotions.
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+
+related to positive emotion following positive feedback, but the relationship was weak (r = −.
+19, ns). These analyses show some support for the idea that VC and HR responses tend to
+increase as the intensity of anger increases.
+Ancillary Analyses
+To explore possible mechanisms of the performance effects observed, we examined
+relationships between CV reactivity and performance. Consistent with the idea that threat
+responses impair cognitive performance, we observed that the greater the CV threat pattern,
+the fewer words participants found (for CO, r = .31, p < .007; for TPR, r = −.22, p < .03). As
+expected, VC and HR did not predict performance. These relationships lend support to the
+argument that threat reactivity is part of the profile of physiological responses that may be
+associated with performance decrements and may operate in stereotype threat situations
+(Blascovich, Spencer, Quinn, & Steele, 2001) as well as other threatening or distressing
+situations.
+
+Discussion
+
+NIH-PA Author Manuscript
+
+We predicted that social rejection and social acceptance would be interpreted and experienced
+differently in intraracial versus interracial encounters. Rejection in an interracial context led
+to more activational CV reactivity, better performance, and more self-reported and nonverbal
+displays of anger. For most of the findings, the effects were symmetrical in that Whites’
+responses to rejection by a Black evaluator were similar to Blacks’ responses to rejection by
+a White evaluator. However, it is important to note that the interaction for attributions to
+discrimination were primarily a result of Black participants perceiving rejecting feedback as
+more likely being due to discrimination when evaluated by White partners compared with
+Black partners, whereas White participants did not significantly rate rejecting feedback as
+being more due to discrimination based on the evaluator’s race. Black participants might have
+been more likely to claim discrimination, given the same circumstances, than White
+participants because of exposure to past discrimination or because of the historical and cultural
+milieu in which they reside (Crocker & Major, 1989). Contrary to expectations, we did not
+find that intragroup rejection would bring about more self-reported or observed internal
+negative emotions than would intergroup rejection, though performance and CV responses did
+suggest more impairment and inhibitional responses following intraracial social rejection.
+
+NIH-PA Author Manuscript
+
+In contrast, receiving positive feedback from a same-race partner resulted in more activational
+physiological responses, better performance, and more positive emotion than did receiving
+positive feedback from a different-race partner. These latter effects were asymmetrical,
+however, with the interaction driven primarily by Black participants. In comparison with White
+participants positively evaluated by a Black partner, Black participants positively evaluated by
+White partners exhibited CV responses consistent with threat, performed less well, and showed
+less positive emotion and more vigilance during the cooperative task.
+Implications and Extensions for Attributional Ambiguity Theory
+The current research extends prior work on attributional ambiguity in a number of ways. Most
+important, it shows how attributional ambiguity is manifested physiologically and
+behaviorally, as well as emotionally, in ongoing interracial interactions. In addition, it
+demonstrates the important point that rejection in intergroup encounters results in similar
+patterns of responses for members of majority groups (Whites) as it does for members of
+minority groups (Blacks). Members of both groups appeared angered by social rejection
+feedback when it came from a different-race evaluator rather than from a same-race evaluator.
+This symmetrical pattern illustrates that rejection that is perceived as unjust and perceived as
+possibly due to discrimination might engender anger responses, regardless of race of the target.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+
+Third, it demonstrates that the attributional ambiguity stemming from receiving positive
+feedback from a majority group member in a context in which expression of prejudice against
+minorities is strongly discouraged can, ironically, engender threat and impair performance
+among minorities.
+Past work on the consequences of attributional ambiguity has focused primarily on implications
+for self-esteem (e.g., Crocker et al., 1991; Major et al., 2003) and has shown that conditions
+that lead to the highest rates of attributions to discrimination are also most likely to buffer selfesteem from rejection. Additionally, in early attributional ambiguity theory, it was argued that
+buffered self-esteem following negative feedback might stem from a deflection of self-blame
+to other blame, thus protecting the self. Thus, we argued that deflecting blame for rejection
+from self to other would result in more anger responses as well as activational physiological
+responses. However, it is possible that buffered self-esteem was a defensive response that
+masked underlying distress, which is similar to the idea of repressive coping. In this case, we
+would likely have observed less self-reported distress coupled with greater physiological threat
+responses. In contrast, we observed strong activational responses. Therefore, we believe these
+data extend earlier attributional ambiguity work by demonstrating that situations in which
+discrimination is a plausible attribution can result in activational motivational responses rather
+than in threat or disengagement.
+
+NIH-PA Author Manuscript
+
+Crocker et al. (1991) also found that Black participants reported a less negative mood than did
+White participants, following rejection by a White partner. Their measure of negative mood,
+however, combined internal (e.g., sad, depressed, discontent, gloomy) and external (e.g., angry,
+mad, vindictive) moods. In distinguishing external from internal negative emotions, we
+predicted and observed specific emotional reactions following intraracial rejection that differed
+from interracial rejection (discrimination). Thus, the extensions to attributional ambiguity
+theory offered in the present study do not simply provide measurement advances (physiological
+and nonverbal measures) or design advances (examining majority and minority groups) but
+also provide clarification of the motivational and emotional responses underlying
+attributionally ambiguous situations.
+
+NIH-PA Author Manuscript
+
+This research also extends attributional ambiguity theory by demonstrating how positive
+feedback in intergroup encounters can be attributionally ambiguous for members of minority
+groups but can be less so for majority groups. Black participants’ responded favorably to social
+acceptance from a partner of their own race but negatively to social acceptance from a White
+partner. White participants, in contrast, responded relatively favorably to social acceptance
+from both White and Black partners. It is important to note that the partners were blind to
+feedback condition, thus the asymmetrical responses cannot be due to White partners behaving
+differently in the social acceptance condition than in the rejection condition.
+What accounts for this asymmetry? We believe that Blacks experience social acceptance from
+Whites as attributionally ambiguous (Major, 2005). Strong social norms have emerged in the
+United States that discourage the display of prejudice by Whites against Blacks, especially on
+college campuses. Whites report being motivated to behave in an unprejudiced way for external
+as well as internal reasons (Plant & Devine, 1998), respond in a more prejudiced way on implicit
+than on explicit measures of prejudicial attitudes (Dovidio, Kawakami, Johnson, & Howard,
+1997), and even show a positive bias in their evaluations of Blacks (Harber, 1998; Mendes et
+al., 2002; Vanman, Paul, Ito, & Miller, 1997). As a result, we find it unsurprising that Black
+participants may come to doubt the sincerity of positive feedback from White peers, especially
+when such feedback appears to be based on limited information. The inability to trust feedback
+or accurately gauge another’s feelings is, in turn, likely to engender uncertainty. This can be
+aversive and threatening (e.g., Mendes et al., 2007) and can interfere with accurate knowledge
+of one’s abilities (Aronson & Inzlicht, 2004). Thus, positive feedback from Whites to Blacks
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 16
+
+may have an ironic and unintended negative impact, particularly if the positive regard is
+perceived as disingenuous.
+
+NIH-PA Author Manuscript
+
+Because our study was designed, in part, to examine effects of attributions of discrimination,
+we acknowledge that there are methodological factors that might have influenced our results.
+In our study, we asked participants to rate attributions that might account for the feedback they
+received. In explicitly engaging the attributional process, we were, in effect, priming
+participants to think about discrimination as a plausible reason for rejection. Without these
+primes, we would expect that individuals who chronically expect or anticipate discrimination
+would respond similarly to our participants here; however, it is not clear that those who do not
+hold chronic prejudice expectations would have thought of discrimination as a likely cause for
+the feedback; instead, they might have been threatened by rejection, regardless of the intergroup
+context. In addition, it is important to recognize other theories that could account for our
+findings. For example, system justification theory (e.g., Jost, Banaji, & Nosek, 2004) might
+have predicted that majority group members’ responses to rejection by a minority group
+engendered anger, not because it was deemed discriminatory but rather because it violated the
+hegemony believed to exist between different racial groups, specifically Whites believing they
+have higher social status than do Blacks.
+Extensions for the Biopsychosocial Model
+
+NIH-PA Author Manuscript
+
+The current research advanced prior research and theory in psychophysiology by differentiating
+positive emotions from anger within the same activational pattern of responses (see also
+Herrald & Tomaka, 2002). We found that rejection from a different-race partner and social
+acceptance from a same-race partner both resulted in an activational pattern of physiology
+despite engendering different emotions. Thus, despite the apparent similarity of CV responses
+in these two conditions, we argue that they can reflect very different underlying emotional
+states because the motivational states are orthogonal to valence. We predicted that conditions
+that evoked anger (e.g., rejection by an outgroup member) would engender greater sympathetic
+activation than conditions that evoked challenge (e.g., acceptance by an ingroup member). As
+expected, we found that cardiac changes were greater for the rejection/different-race conditions
+than for the acceptance/same-race conditions and that the greater the expressed anger, the
+greater the increase in ventricular contractility and HR.
+
+NIH-PA Author Manuscript
+
+In future research, it will be important to measure other CV responses that could possibly
+differentiate positive emotions from anger. One such parameter is CV recovery, in which anger
+should result in a much slower trajectory of cardiac recovery than would positive emotions. A
+second parameter is an index of parasympathetic influence. Some recent evidence suggests
+that anger may result in decreases in cardiac vagal reactivity (vagal withdrawal) (Demaree &
+Everhart, 2004; Sloan et al., 2001), whereas positive emotions may result in increases in cardiac
+vagal reactivity (Porges, 2003). Finally, it is important to note that the cardiac differences we
+observed could simply reflect emotional intensity rather than emotional specificity.
+Limitations
+In this study, we examined White and Black participants in early adulthood who were all
+students at a 4-year university. This sample limits generalizability, when we consider how
+discrimination affects those of lower SES, limited education, and older age. Though this
+limitation is not trivial and does circumscribe the conclusions, it can also be construed as an
+advantage to this research because, on average, the participants were currently exposed to
+similar environmental influences. The younger sample also meant that there were fewer
+baseline physiological differences between the two groups. We did, however, observe baseline
+differences in VC. This difference could be due to underlying biology, anxiety associated with
+participating in an experiment, or even early signs of vulnerability to hypertension because of
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 17
+
+cumulative effects of discrimination. Though even after controlling for these baseline
+differences, we still observed effects of interracial encounters on stress reactivity.
+
+NIH-PA Author Manuscript
+
+Future Directions: Implications for Pathways of Discrimination to Health
+
+NIH-PA Author Manuscript
+
+This study provided evidence that responses to actions perceived to be discriminatory resulted
+in more activational CV responses and anger, whereas rejection that could not easily be
+attributed to external causes (e.g., evaluator’s bias) was more likely to result in threat responses.
+This provides a fertile framework regarding linking patterns of physiological responses to
+possible health outcomes. Racial disparities are large, with Blacks at least 2 times more likely
+to be hypertensive than are Whites. Furthermore, disparities in coronary heart disease are
+increasing (National Center for Health Statistics, 2003; Willems, Saunders, Hunt, & Schorling,
+1997). One explanation for racial disparities in health is that perceived discrimination
+engenders physiological stress responses that are harmful to health (Clark et al., 1999). In this
+research, rejection from different-race partners, compared with rejection from same-race
+partners, was more likely to be attributed to discrimination and was associated with increased
+anger; this rejection also led to a larger cardiac response. Several lines of evidence suggest that
+physiological responses associated with anger, such as increased cardiac responses, are
+associated with the development of hypertension and are directly or indirectly linked to
+coronary heart disease (Anderson, McNeily, & Myers, 1991; Matthews, Salomon, Brady, &
+Allen, 2003; see Matthews, 2005, for a review). Repeated anger expression has been found to
+be linked to coronary heart disease via physiological processes that can compromise the CV
+system (atherosclerosis and hypertension) or can bring about acute events that can initiate
+critical diseases (e.g., stroke and myocardial infarction; see Leventhal & Patrick-Miller,
+2000; Smith, 2006). So, even though, in the short term, anger may deflect self-blame, protect
+self-esteem, and result in collective action, when anger is repeatedly experienced, it may create
+excessive wear and tear on CV functioning. Blacks are more likely than are Whites to perceive
+and/or experience discrimination and, to the extent that they respond with anger and have
+increased cardiac reactivity, this may partly explain why Blacks are at increased health risk.
+
+NIH-PA Author Manuscript
+
+Threat or inhibitional responses may have harmful effects on health as well. Though still
+speculative, threat responses may make one more vulnerable to immune- and age-related
+diseases (Irwin, Daniels, Smith, Bloom, & Weiner, 1987; Leventhal & Patrick-Miller, 2000).
+Research has identified links between negative internal emotions such as sadness, depression,
+and anxiety and diseases such as cancer, reduced immunological functioning, and hypertension
+(S. Cohen & Herbert, 1996; Irwin et al., 1987; Kiecolt-Glaser, McGuire, Robles, & Glaser,
+2002). These links suggest the provocative hypothesis that social rejection that is internally
+attributed might be associated with one pathway to disease, whereas discrimination and
+hostility might be associated with a different pathway. Future research should focus on these
+distinct pathways and the emotional and psychological states associated with them.
+
+Acknowledgements
+The research was supported by National Heart, Lung, and Blood Institute Grant RO1 HL079383 awarded to Wendy
+Berry Mendes and Brenda Major. We are grateful to our dedicated confederates and research assistants at University
+of California, Santa Barbara and at Harvard University for their assistance in conducting the experiments, scoring the
+physiological data, and coding behavior.
+
+References
+Anderson NB, McNeily M, Myers H. Autonomic reactivity and hypertension in Blacks: A review and
+proposed model. Ethnic Disparities 1991;1:154–170.
+Aronson J, Inzlicht M. The ups and downs of attributional ambiguity: Stereotype vulnerability and the
+academic self-knowledge of African American college students. Psychological Science 2004;15:829–
+836. [PubMed: 15563328]
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 18
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Ayduk O, Mischel W, Downey G. Attentional mechanisms linking rejection to hostile reactivity: The
+role of ‘hot’ versus ‘cool’ focus. Psychological Science 2002;13:443–448. [PubMed: 12219811]
+Barger SD, Marsland AL, Bachen EA, Manuck SB. Repressive coping and blood measures of disease
+risk: Lipids and endocrine and immunological responses to laboratory stressor. Journal of Applied
+Social Psychology 2000;30:1619–1638.
+Baumeister RF, Leary MR. The need to belong: Desire for interpersonal attachments as a fundamental
+human motivation. Psychological Bulletin 1995;117:497–529. [PubMed: 7777651]
+Blascovich, J.; Mendes, WB. Challenge and threat appraisals: The role of affective cues. In: Forgas, J.,
+editor. Feeling and thinking: The role of affect in social cognition. Paris: Cambridge University Press;
+2000. p. 59-82.
+Blascovich J, Mendes WB, Hunter SB, Lickel B, Kowai-Bell N. Perceiver threat in social interactions
+with stigmatized others. Journal of Personality and Social Psychology 2001;80:253–267. [PubMed:
+11220444]
+Blascovich J, Spencer S, Quinn D, Steele C. African Americans and high blood pressure: The role of
+stereotype threat. Psychological Science 2001;12:225–229. [PubMed: 11437305]
+Blascovich J, Tomaka J. The biopsychosocial model of arousal regulation. Advances in Experimental
+Social Psychology 1996;28:1–51.
+Brownley, KA.; Hurwitz, BE.; Schneiderman, N. Cardiovascular psychophysiology. In: Cacioppo, JT.;
+Tassinary, LG.; Bernston, GG., editors. Handbook of psychophysiology. 2. New York: Cambridge
+University Press; 2000. p. 224-264.
+Bullock SC, Houston E. Perceptions of racism by Black medical students attending White medical
+schools. Journal of the National Medical Association 1987;79:601–608. [PubMed: 3612829]
+Cacioppo, JT.; Bernston, GG.; Larsen, JT.; Poehlmann, KM.; Ito, TA. The psychophysiology of emotion.
+In: Lewis, M.; Haviland-Jones, JM., editors. Handbook of emotion. 2. New York: Guilford Press;
+2000. p. 173-191.
+Cacioppo JT, Hawkley LC, Bernston GG. The anatomy of loneliness. Current directions in psychological
+science 2003;12:71–74.
+Cheney D, Seyfarth R, Smuts B. Social relationships and social cognition in nonhuman primates. Science
+1986 December 12;234:1361–1366. [PubMed: 3538419]
+Clark R, Anderson NB, Clark VR, Williams DR. Racism as a stressor for African Americans: A
+biopsychosocial model. American Psychologist 1999;54:805–816. [PubMed: 10540593]
+Cohen GL, Steele CM, Ross LD. The mentor’s dilemma: Providing critical feedback across the racial
+divide. Personality and Social Psychology Bulletin 1999;25:1302–1318.
+Cohen S, Herbert TB. Health psychology: Psychological factors and physical disease from the perspective
+of human psychoneuroimmunology. Annual Review of Psychology 1996;47:113–142.
+Crocker J, Cornwell B, Major B. The stigma of overweight: Affective consequences of attributional
+ambiguity. Journal of Personality and Social Psychology 1993;64:60–70. [PubMed: 8421252]
+Crocker J, Major B. Social stigma and self-esteem: The self-protective properties of stigma. Psychological
+Review 1989;96:608–630.
+Crocker J, Voelkl K, Testa M, Major B. Social stigma: The affective consequences of attributional
+ambiguity. Journal of Personality and Social Psychology 1991;60:218–228.
+Demaree HA, Everhart DE. Healthy high-hostiles: Reduced parasympathetic activity and decreased
+sympathovagal flexibility during negative emotional processing. Personality and Individual
+Differences 2004;36:457–469.
+Dickerson S, Gruenewald TL, Kemeny ME. When the social self is threatened: Shame, physiology, and
+health. Journal of Personality 2004;72:1191–1216. [PubMed: 15509281]
+Dovidio JF, Kawakami K, Johnson B, Howard A. On the nature of prejudice: Automatic and controlled
+processes. Journal of Experimental Social Psychology 1997;33:510–540.
+Eisenberger NI, Lieberman MD, Williams KD. Does rejection hurt? An fMRI study of social exclusion.
+Science 2003 October 10;302:290–292. [PubMed: 14551436]
+Feldman Barrett L. Valence is a building block of emotional life. Journal of Research in Personality
+2006;40:35–55.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 19
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Fredrickson BL, Mancuso RA, Branigan C, Tugade MM. The undoing effect of positive emotions.
+Motivation and Emotion 2000;24:237–258.
+Harber KD. Feedback to minorities: Evidence of a positive bias. Journal of Personality and Social
+Psychology 1998;74:622–628. [PubMed: 9523409]
+Harmon-Jones E, Allen JB. Anger and frontal brain activity: EEG asymmetry consistent with approach
+motivation despite negative affective valence. Journal of Personality and Social Psychology
+1998;74:1310–1316. [PubMed: 9599445]
+Herrald M, Tomaka J. Patterns of emotion-specific appraisal, coping, and cardiovascular reactivity during
+an ongoing emotional episode. Journal of Personality and Social Psychology 2002;83:434–450.
+[PubMed: 12150239]
+Ickes W. Compositions in Black and White: Determinants of interaction in interracial dyads. Journal of
+Personality and Social Psychology 1984;47:330–341.
+Irwin M, Daniels M, Smith TL, Bloom E, Weiner H. Impaired natural killer cell activity during
+bereavement. Brain, Behavior, and Immunity 1987;1:98–104.
+Jost JT, Banaji MR, Nosek BA. A decade of system justification theory: Accumulated evidence of
+conscious and unconscious bolstering of the status quo. Political Psychology 2004;25:881–920.
+Kaiser CR, Miller CT. Stop complaining! The social costs of making attributions to discrimination.
+Personality and Social Psychology Bulletin 2001;27:254–263.
+Kelsey RM, Guethlein W. An evaluation of the ensemble averaged impedance cardiogram.
+Psychophysiology 1990;27:24–33. [PubMed: 2339185]
+Kiecolt-Glaser JK, McGuire L, Robles TF, Glaser R. Psychoneuroimmunology influences on immune
+function and health. Journal of Consulting and Clinical Psychology 2002;70:537–547. [PubMed:
+12090368]
+Leary MR, Gallagher B, Fors E, Buttermore N, Baldwin E, Kennedy K, Mills A. The invalidity of
+disclaimers about the effects of social feedback on self-esteem. Personality and Social Psychology
+Bulletin 2003;29:623–636. [PubMed: 15272995]
+Levenson RW, Ekman P, Friesen WV. Voluntary facial action generates emotion specific autonomic
+nervous system activity. Psychophysiology 1990;27:363–384. [PubMed: 2236440]
+Leventhal, H.; Patrick-Miller, L. Emotions and physical illness: Causes and indicators of vulnerability.
+In: Lewis, M.; Haviland-Jones, JM., editors. Handbook of emotion. 2. New York: Guilford Press;
+2000. p. 523-537.
+Major, B. New perspectives on stigma and psychological well-being. In: Levin, S.; van Laar, C., editors.
+Stigma and group inequality: Social psychological perspectives. Mahwah, NJ: Erlbaum; 2005.
+Major B, Quinton WJ, McCoy SK. Antecedents and consequences of attributions to discrimination:
+Theoretical and empirical advances. Advances in Experimental Social Psychology 2002;34:251–330.
+Major B, Quinton WJ, Schmader T. Attributions to discrimination and self-esteem: Impact of group
+identification and situational ambiguity. Journal of Experimental Social Psychology 2003;39:220–
+231.
+Matthews KA. Psychological perspectives on the development of coronary heart disease. American
+Psychologist 2005;60:783–796. [PubMed: 16351405]
+Matthews KA, Salomon K, Brady SS, Allen MT. Cardiovascular reactivity to stress predicts blood
+pressure rise in adolescence. Psychosomatic Medicine 2003;65:410–415. [PubMed: 12764214]
+Mendes WB, Blascovich J, Hunter S, Lickel B, Jost JT. Threatened by the unexpected: Physiological
+responses during social interactions with expectancy-violating partners. Journal of Personality and
+Social Psychology 2007;92:698–716. [PubMed: 17469953]
+Mendes WB, Blascovich J, Lickel B, Hunter S. Challenge and threat during social interactions with White
+and Black men. Personality and Social Psychology Bulletin 2002;28:939–952.
+National Center for Health Statistics. Health, United States. Hyatts-ville, MD: Author; 2003.
+Plant A, Devine P. Internal and external motivation to respond without prejudice. Journal of Personality
+and Social Psychology 1998;75:811–832.
+Porges SW. The polyvagal theory: Phylogenetic contributions to social behavior. Physiology & Behavior
+2003;79:503–513. [PubMed: 12954445]
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 20
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Richeson JA, Shelton JN. When prejudice does not pay: Effects of interracial contact on executive
+function. Psychological Science 2003;14:287–290. [PubMed: 12741756]
+Richeson JA, Trawalter S, Shelton JN. African Americans’ implicit racial attitudes and the depletion of
+executive function after interracial interactions. Social Cognition 2005;23:336–352.
+Sherwood A, Allen MT, Fahrenberg J, Kelsey RM, Lovallo WR, van Dooren LJP. Methodological
+guidelines for impedance cardiography. Psychophysiology 1990;27:1–23. [PubMed: 2187214]
+Sinha R, Lovallo WR, Parsons OA. Cardiovascular differentiation of emotions. Psychosomatic Medicine
+1992;54:422–435. [PubMed: 1502284]
+Sloan RP, Bagiella E, Shapiro PA, Kuhl JP, Chernikhva D, Berg J, Myers MM. Hostility, gender, and
+cardiac autonomic control. Psychosomatic Medicine 2001;63:434–440. [PubMed: 11382270]
+Smith TW. Personality as risk and resilience in physical health. Current Directions in Psychological
+Science 2006;15:227–231.
+Stephan WG, Stephan CW. Intergroup anxiety. Journal of Social Issues 1985;41:157–175.
+Stephan, WG.; Stephan, CW. An integrated threat theory of prejudice. In: Oskamp, S., editor. Reducing
+prejudice and discrimination. Mahwah, NJ: Erlbaum; 2000.
+Stroud LR, Tanofsky-Kraff M, Wilfley DE, Salovey P. The Yale Interpersonal Stressor (YIPS): Affective,
+physiological, and behavioral responses to a novel interpersonal rejection paradigm. Annals of
+Behavioral Medicine 2000;22:204–213. [PubMed: 11126465]
+Vanman EJ, Paul BY, Ito TA, Miller N. The modern face of prejudice and structural features that moderate
+the effect of cooperation on affect. Journal of Personality and Social Psychology 1997;73:941–959.
+[PubMed: 9364754]
+Vorauer JD, Turpie CA. Disruptive effects of vigilance on dominant group members’ treatment of
+outgroup members: Choking versus shining under pressure. Journal of Personality and Social
+Psychology 2004;87:384–399. [PubMed: 15382987]
+Watson D, Clark LA, Tellegen A. Development and validation of brief measures of positive and negative
+affect: The PANAS scales. Journal of Personality and Social Psychology 1988;54:1063–1070.
+[PubMed: 3397865]
+Weinberger DA, Schwartz GE, Davidson RJ. Low-anxious, high-anxious, and repressive coping styles:
+Psychometric patterns and behavioral and physiological responses to stress. Journal of Abnormal
+Psychology 1979;88:369–380. [PubMed: 479459]
+Willems JP, Saunders JT, Hunt DE, Schorling JB. Prevalence of coronary heart disease risk factors among
+rural Blacks: A community-based study. Southern Medicine Journal 1997;90:814–820.
+Williams, K. Ostracism: The power of silence. New York: Guilford Press; 2001.
+
+NIH-PA Author Manuscript
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 21
+
+NIH-PA Author Manuscript
+Figure 1.
+
+NIH-PA Author Manuscript
+
+The up arrows refer to increases, the down arrows refer to decreases, and the side-to-side arrow
+refers to no change. The less than symbols indicate that the adjacent measures are relatively
+different from each other. CV = cardiovascular; CO = cardiac output; VC = ventricular
+contractility; TPR = total peripheral resistance; HR = heart rate.
+
+NIH-PA Author Manuscript
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 22
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 2.
+
+Cardiovascular reactivity from the first minute of the cooperative task following rejection, by
+participant’s race and evaluator’s race. The error bars indicate the standard error of the means.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+Mendes et al.
+
+Page 23
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 3.
+
+Cardiovascular reactivity from the first minute of the cooperative task following social
+acceptance, by participant’s race and evaluator’s race. The error bars indicate the standard error
+of the means.
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+NIH-PA Author Manuscript
+Table 1
+
+NIH-PA Author Manuscript
+0.52
+0.06
+5.05*
+0.62
+0.70
+0.21
+5.62*
+1.08
+0.86
+0.01
+0.60
+
+2.74
+2.59
+2.18
+102.3
+2.42
+67817
+22.0
+3.78
+0.41
+0.32
+0.31
+
+0.26
+0.21
+0.39
+3.63
+
+0.17
+3.80
+1.72
+1.56
+0.02
+1.08
+0.02
+1.30
+
+0.85
+1.14
+1.66
+0.06
+3.11
+0.21
+1.96
+0.58
+
+2.80
+1.22
+1.53
+0.17
+
+0.03
+0.43
+1.22
+
+31.66***
+1.54
+7.72**
+
+1.11
+0.12
+1.09
+
+1.58
+
+29.59***
+
+6.76*
+
+P×FF
+test
+
+F F test
+
+E Race F
+test
+
+0.58
+0.00
+0.19
+1.59
+
+0.40
+0.09
+1.85
+1.01
+
+0.16
+0.24
+0.04
+
+0.56
+
+E×FF
+test
+
+0.97
+2.85
+1.34
+0.66
+
+1.18
+0.59
+0.80
+0.09
+
+0.65
+0.17
+0.69
+
+3.11
+
+P×EF
+test
+
+.09
+.07
+.03
+.11
+
+.20
+.14
+.18
+.30
+
+.26
+.03
+.13
+
+.31
+
+r
+
+1, 98
+1, 103
+1, 103
+1, 103
+
+1, 102
+1, 102
+1, 102
+1, 108
+
+1, 110
+1, 110
+1, 110
+
+1, 110
+
+df
+
+P×E×F
+
+3.96*
+3.10
+0.07
+4.91*
+
+2.31
+8.13**
+15.02***
+8.26**
+
+4.58**
+0.31
+0.00
+
+7.35**
+
+F test
+
+p < .001.
+
+p < .01.
+
+***
+
+**
+
+p < .05.
+
+*
+
+Analyses shown for performance were conducted controlling for past experience with similar types of word games.
+
+All analyses with VC were conducted controlling for baseline VC.
+
+b
+
+a
+
+Note. N = 118. The degrees of freedom (df) for the three-way interactions were the same as that for the other main effects and interactions. ANOVAs = analyses of variance; MSE 3 mean square error;
+P = participant; E = evaluator; roman F = feedback; CV = cardiovascular; VC = ventricular contractility; CO = cardiac output; TPR = total peripheral resistance.
+
+0.81
+
+0.64
+
+Attributions to discrimination
+Emotion and motivation
+ External negative
+ Internal negative
+ Positive
+CV reactivity
+ VCa
+ CO
+ TPR
+Performanceb
+Behavioral observation
+ Vigilance
+ External negative
+ Internal negative
+ Positive
+
+P Race F
+test
+
+MSE
+
+Dependent variable
+
+2
+
+NIH-PA Author Manuscript
+
+Summary of Effects From ANOVAs Testing the Participant’s Race × Evaluator’s Race × Feedback
+Mendes et al.
+Page 24
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+NIH-PA Author Manuscript
+Table 2
+
+NIH-PA Author Manuscript
+−0.7 (1.8)
+0.5 (1.4)
+0.8 (1.7)
+15.8 (8.0)
+1.1 (1.3)
+−202.3 (216)
+13.2 (4.5)
+1.5 (1.4)
+1.7 (0.8)
+1.2 (0.3)
+1.9 (0.7)
+
+−1.4 (1.9)
+0.8 (2.0)
+0.7 (1.7)
+8.8 (10.4)
+0.5 (2.1)
+37.9 (274)
+10.5 (4.9)
+1.9 (2.6)
+1.2 (0.4)
+1.5 (0.5)
+1.8 (0.6)
+
+1.8 (1.8)
+1.6 (0.8)
+1.5 (0.9)
+1.9 (0.6)
+
+19.4 (11.4)
+1.5 (2.1)
+−161.1 (342)
+15.9 (5.6)
+
+−0.4 (1.4)
+0.4 (2.0)
+0.1 (1.6)
+
+2.5 (0.87)
+
+Black
+evaluator
+
+2.1 (2.4)
+1.20 (0.4)
+1.5 (0.8)
+1.7 (0.5)
+
+15.9 (12)
+−0.09 (1.2)
+74.3 (169)
+13.2 (2.7)
+
+−1.5 (2.0)
+0.3 (1.2)
+0.7 (1.2)
+
+2.3 (0.84)
+
+White
+evaluator
+
+White participant
+
+−2.4 (1.8)
+−0.1 (1.8)
+1.8 (1.1)
+
+4.20*
+0.01
+0.32
+
+0.49
+6.02*
+0.80
+0.97
+
+1.5 (1.5)
+1.3 (0.7)
+1.6 (0.6)
+2.2 (0.6)
+
+14.7 (14.4)
+0.8 (1.1)
+−97.4 (201)
+14.1 (6.1)
+
+1.7 (0.9)
+
+9.71**
+
+3.55†
+6.43*
+11.18**
+3.92*
+
+Black
+evaluator
+
+P×E
+
+3.1 (2.5)
+1.4 (0.8)
+1.5 (0.9)
+1.5 (0.3)
+
+13.5 (9.5)
+−0.5 (1.0)
+184.8 (417)
+9.9 (4.8)
+
+−3.3 (1.2)
+0.2 (1.3)
+1.8 (1.2)
+
+1.8 (0.7)
+
+White
+evaluator
+
+Black participant
+
+1.6 (1.2)
+1.2 (0.4)
+1.3 (0.3)
+2.0 (0.5)
+
+12.2 (9.6)
+0.7 (1.7)
+−33.2 (177)
+13.7 (5.9)
+
+−2.6 (1.6)
+0.3 (1.3)
+0.6 (1.5)
+
+1.2 (0.4)
+
+Black
+evaluator
+
+0.9 (0.9)
+1.2 (0.6)
+1.4 (0.6)
+2.0 (0.6)
+
+12.7 (8.7)
+0.7 (1.2)
+−48.6 (131)
+14.0 (6.4)
+
+−2.6 (1.4)
+0.04 (1.6)
+1.1 (1.6)
+
+1.6 (0.7)
+
+White
+evaluator
+
+White participant
+
+p < .01.
+
+p < .05.
+
+**
+
+*
+
+†
+p < .10.
+
+VC reactivity included VC baseline as a covariate because of race differences observed at baseline.
+
+a
+
+Note. The standard deviations are in parentheses. P = participant; E = evaluator; CV = cardiovascular; VC = ventricular contractility; CO = cardiac output; TPR = total peripheral resistance.
+
+2.9 (0.98)
+
+1.8 (0.87)
+
+Attributions to discrimination
+Emotion and motivation
+ External negative
+ Internal negative
+ Positive
+CV Reactivity
+ VCa
+ CO
+ TPR
+ Performance
+Behavioral observation
+ Vigilance
+ External negative
+ Internal negative
+ Positive
+
+White
+evaluator
+
+Black
+evaluator
+
+Dependent
+variable
+
+Black participant
+
+Rejection feedback
+
+Acceptance feedback
+
+NIH-PA Author Manuscript
+
+Summary of Means, Standard Deviations, and Effects From Primary Dependent Variables
+
+4.55*
+0.02
+1.19
+4.55*
+
+0.17
+3.11†
+4.52*
+3.99*
+
+0.92
+0.48
+0.37
+
+0.47
+
+P×E
+
+Mendes et al.
+Page 25
+
+J Pers Soc Psychol. Author manuscript; available in PMC 2008 September 15.
+
+

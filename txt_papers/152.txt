@@ -1,0 +1,219 @@
+P SY CH OL OG I C AL S CIE N CE
+
+Short Report
+
+Genes and Popularity
+Evidence of an Evocative Gene-Environment Correlation
+S. Alexandra Burt
+Michigan State University
+
+Extant research on gene-environment interplay centers almost
+exclusively on environmental moderation of genetic expression
+(G  E interaction). However, there is another key source of
+gene-environment interplay: gene-environment correlation (rGE).
+Such correlations are deﬁned as nonrandom environmental exposure, such that individuals elicit (i.e., evocative rGE) or select
+(i.e., active rGE) experiences consistent with their genotypes
+(Plomin, DeFries, & Loehlin, 1977; Scarr & McCartney, 1983).
+Though rGE is acknowledged to be a fundamental component
+of gene-environment interplay (Rutter & Silberg, 2002) on
+theoretical grounds, the difﬁculty of disambiguating characteristics of the individual from his or her experiences has stymied
+empirical support for rGE. Indeed, no study (see Jaffee & Price,
+2007) has yet directly evaluated the core proposition of evocative rGE: Are particular social experiences evoked by one’s
+genotype? The aim of the current study was to do just this via a
+novel design combining molecular genetics and social psychology experimental techniques.
+METHOD
+
+Two samples of undergraduate men (average age 5 19) at a large
+Midwestern research university participated in this study.
+Sample 1 consisted of 132 men in 32 groups; 127 of the men were
+included in analyses (5 were excluded because they had little
+usable DNA or their DNA did not amplify). These participants
+were representative of the area’s ethnic composition; 80% were
+European American. Sample 2 consisted of 88 European
+American men who participated in 23 groups; 82 of these men
+were included in analyses (6 were excluded because of DNA
+issues).
+Each group, consisting of 3 to 5 previously unacquainted
+individuals, completed party-planning and brain-teaser tasks
+(intended primarily to promote interactions among group
+members). After 45 to 60 min, participants adjourned to individual rooms to complete sociometric rankings (on a scale from 1
+Address correspondence to S. Alexandra Burt, Department of Psychology, Michigan State University, 107D Psychology Building, East
+Lansing, MI 48824, e-mail: burts@msu.edu.
+
+112
+
+to 4, with 1 meaning ‘‘I liked this person best’’; ratings were
+reverse-scored prior to analysis) and ratings (on a scale from 1 to
+10, with 1 meaning ‘‘strongly dislike relative to other people I
+know’’) of each group member.
+The two-way random-effects social relations model (SRM;
+Kenny, 1994) was used to analyze the sociometric data. The
+SRM estimates, among other things, what are referred to as
+partner effects. Partner effects index each participant’s general
+tendency to be liked by other group members irrespective of that
+participant’s own tendency to like others. This model thus allowed me to disambiguate each participant’s social preferences
+from those of others, so that I could explicitly capture the
+evocative component of peer selection (hereafter referred to as
+‘‘popularity’’).
+Analyses focused on a polymorphism within the promoter
+region of the 5-HT2A serotonin receptor gene (-G1438A, also
+known as rs6311). The serotonergic system has been robustly
+tied to social selection in ambiguous social settings (see Insel &
+Winslow, 1998). For example, in a randomized, double-blind
+design, Knutson et al. (1998) administered a selective serotonin
+reuptake inhibitor (SSRI) or a placebo to normal volunteers for 4
+weeks. Socially afﬁliative behaviors increased in the group receiving the SSRI and had a correlation of .65 with plasma SSRI
+levels. As the 5-HT2A serotonin receptor, including -G1438A,
+has been associated with SSRI response (Choi, Kang, Ham,
+Jeong, & Lee, 2005; Kato et al., 2006), it seemed plausible that
+-G1438A is involved in social status.
+DNA was obtained via Oragene (Ottawa, Ontario, Canada)
+saliva collection kits. -G1438A was analyzed on an ABI 7900HT
+sequence detection system using TaqMan Universal PCR Master Mix and assays, according to Applied Biosystems (Foster
+City, CA) protocols. Allele frequencies were in Hardy-Weinberg
+equilibrium in both samples, w2(1, Ns 5 127 and 82) < 1.1, n.s.
+FINDINGS
+
+In both samples, rankings and ratings contained signiﬁcant
+partner effects (which accounted for 14–24% of the variance in
+the rankings and ratings). This result indicates that there was
+
+Copyright
+r 2008at Association
+for Psychological
+Downloaded from
+pss.sagepub.com
+Bobst Library, New
+York University onScience
+April 19, 2016
+
+Volume 19—Number 2
+
+S. Alexandra Burt
+
+TABLE 1
+Association Between the -G1438A Polymorphism and Popularity
+in the Two Samples
+Measure
+Mean popularity
+AA genotype
+GA genotype
+GG genotype
+Genotype-popularity
+correlation (r)
+Multiple regression
+Percentage of variance
+explained by categorical
+contrast codes
+b for linear trend
+b for nonlinear trend
+
+Sample 1
+
+Sample 2
+
+0.60 (1.28)
+0.19 (0.82)
+0.08 (0.94)
+
+0.31 (0.95)
+0.12 (1.05)
+0.25 (0.94)
+
+.20 (p < .05)
+
+.22 (p < .05)
+
+8% (p < .05)
+.25 (p < .05)
+.22 (p < .05)
+
+5% (p 5 .13)
+.21 (p 5 .07)
+.05 (p 5 .69)
+
+Note. Popularity was z-scored (M 5 0.0, SD 5 1.0) in each sample. Analyses
+were conducted using both linear correlations and multiple regression with
+two contrast codes (to explicitly test linearity and nonlinearity of the genotypic
+effect).
+
+consensus within groups concerning each member’s popularity.
+Partner effects for ratings and rankings were highly correlated
+(r 5 .82, p < .001) and were therefore averaged to indicate
+popularity in subsequent analyses. -G1438A was signiﬁcantly
+associated with popularity (see Table 1), accounting for 5 to 8%
+of its variance. Critically, the association found in Sample 1 was
+largely replicated in Sample 2,1 which suggests that the effect is
+robust to sampling variation. Such ﬁndings are consistent with
+those of prior studies linking serotonergic activity to social
+status in ambiguous social settings (Insel & Winslow, 1998;
+Knutson et al., 1998). To my knowledge, however, the current
+study is the ﬁrst to extend these results to the molecular genetic
+level of analysis. These new ﬁndings offer the most direct evidence to date of an evocative rGE whereby individuals’ genes
+predispose them to particular social outcomes.
+It is important to note that these ﬁndings apply only to ﬁrst
+impressions. It is unclear how they map onto actual friendships.
+The speciﬁc behaviors mediating the observed association also
+remain unidentiﬁed. As it is not biologically feasible for
+-G1438A to code directly for other individuals’ social preferences, future research should identify the socially relevant behaviors driving this association. Also, the results suggest a
+nonlinear or dominant effect of the G allele in Sample 1, and a
+linear or dose-response effect in Sample 2. Future research
+should clarify whether one or two G alleles are necessary for the
+effect. Finally, this study examined only one polymorphism in
+1
+
+In Sample 1, the variance explained increased from 4% (square of the
+Pearson correlation) to 8% when the analysis allowed for nonlinearity. By
+contrast, R2 remained unchanged in Sample 2 (5% for correlation, 5% for
+contrast codes), though only the correlation was statistically signiﬁcant (likely
+because estimating more than one parameter attenuates power in small samples).
+
+Volume 19—Number 2
+
+two small samples of adolescent males. Future research should
+examine other polymorphisms in larger samples that include
+females.
+Despite these limitations, the current results suggest that
+individuals’ genes predispose them not only to particular behaviors, but also to the social consequences of their behaviors.
+These ﬁndings highlight the pervasive (if indirect) role of genetic inﬂuences on the human experience. Though the current
+study does not address the long-term consequences of these
+evocative experiences, one would expect them to moderate the
+future expression of genetic inﬂuences. Put differently, rGE
+effects are likely to underlie (and perhaps confound) any Genotype  Peer interactions. Thus, researchers should consider
+rGE when attempting to investigate G  E.
+Acknowledgments—I thank Annette Thelen and Shari Tjugum-Holland for genotyping the samples, and Karen Friderici,
+William Iacono, Deborah Kashy, Jenae Neiderhiser, Matt McGue,
+and Robert Plomin for their comments.
+
+REFERENCES
+Choi, M.-J., Kang, R.-H., Ham, B.-J., Jeong, H.-Y., & Lee, M.-S.
+(2005). Serotonin receptor 2A gene polymorphism (-1438A/G)
+and short-term response to Citalopram. Neuropsychobiology, 52,
+155–162.
+Insel, T.R., & Winslow, J.T. (1998). Serotonin and neuropeptides in
+afﬁliative behaviors. Biological Psychiatry, 44, 207–219.
+Jaffee, S.R., & Price, T.S. (2007). Gene-environment correlations: A
+review of the evidence and implications for prevention of mental
+illness. Molecular Psychiatry, 12, 432–442.
+Kato, M., Fukuda, T., Wakeno, M., Fukuda, K., Okugawa, G., Ikenaga,
+Y., et al. (2006). Effects of the serotonin type 2A, 3A, and 3B
+receptor and the serotonin transporter genes on paroxetine and
+ﬂuvoxamine efﬁcacy and adverse drug reactions in depressed
+Japanese patients. Neuropsychobiology, 53, 186–195.
+Kenny, D.A. (1994). Interpersonal perception: A social relations analysis. New York: Guilford Press.
+Knutson, B., Wolkowitz, O.M., Cole, S.W., Chan, T., Moore, E.A.,
+Johnson, R.C., et al. (1998). Selective alteration of personality
+and social behavior by serotonergic intervention. American
+Journal of Psychiatry, 155, 373–379.
+Plomin, R., DeFries, J.C., & Loehlin, J.C. (1977). Genotype-environment interaction and correlation in the analysis of human behavior. Psychological Bulletin, 84, 309–322.
+Rutter, M., & Silberg, J. (2002). Gene-environment interplay in relation to emotional and behavioral disturbance. Annual Review of
+Psychology, 53, 463–490.
+Scarr, S., & McCartney, K. (1983). How people make their own environments: A theory of genotype-environment effects. Child Development, 54, 424–435.
+
+(RECEIVED 5/16/07; REVISION ACCEPTED 8/14/07)
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+113
+
+

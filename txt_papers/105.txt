@@ -1,0 +1,569 @@
+P SY CH OL OG I C AL S CIE N CE
+
+Research Article
+
+Night and Day, You Are the One
+On Circadian Mismatches and the Transference Effect in
+Social Perception
+Arie W. Kruglanski1 and Antonio Pierro2
+1
+
+University of Maryland, College Park, and 2University of Rome ‘‘La Sapienza’’
+
+ABSTRACT—A study examined the relation between individuals’ circadian rhythm and their tendency to exhibit
+transference effects in social perception. Individuals tested
+at times of circadian mismatch (i.e., morning persons
+tested in the evening and evening persons tested in the
+morning) exhibited more pronounced transference effects
+than individuals tested at times of circadian match (i.e.,
+morning persons tested in the morning and evening persons tested in the evening). These ﬁndings are compatible
+with the notion that transference effects represent everyday social-cognitive functioning related to activation of
+social schemata. Additionally, however, they suggest that
+transference effects are not the inevitable consequence of
+activating the signiﬁcant other’s schema. Rather, such effects might be particularly likely to occur when an individual’s mental resources are limited, as might be the case
+during circadian mismatches. This latter suggestion differs from psychodynamic views of transference as exclusively a driven, energy-intensive phenomenon.
+
+The phenomenon of transference has been hailed as fundamental to the process of dynamic psychotherapy (Ehrenreich,
+1989; Freud, 1912/1958; Greenberg & Mitchell, 1983; Horney,
+1939, 1945; Luborsky & Crits-Christoph, 1990; Sullivan,
+1940, 1953). In Studies on Hysteria, Freud (1895/1955)
+depicted transference as uniquely tied to the analyst-patient
+relationship, reﬂecting amorous feelings that the patient may
+harbor toward the analyst and involving a transposition of affect
+from the patient’s old relationship onto the current relationship
+with the therapist. For Freud (e.g., 1910/1957, 1914/1958),
+transference represented a neurosis based on a mesalliance
+(false connection) between the patient’s memories of a past rela-
+
+Address correspondence to Arie W. Kruglanski, Department of
+Psychology, University of Maryland, College Park, MD, e-mail:
+kruglanski@gmail.com.
+
+296
+
+tionship and the therapeutic context. Speciﬁcally, the content of
+a past wish was inappropriately linked with the person of the
+analyst. ‘‘As a result of this mesalliance . . . the same affect is
+produced which had forced the patient long before to repudiate
+the forbidden wish’’ (Freud, 1895/1955, p. 303).
+Transference neurosis, as Freud (1914/1958) labeled it, was
+considered an important ingredient of the psychoanalytic cure.
+Through the energy of the transferred affects, the patient was
+thought to remember forgotten, unconscious mental attitudes. At
+the same time, transference was also thought to reﬂect a powerful
+resistance to treatment (Freud, 1912/1958); that is, transforming
+the therapeutic relationship into one of personal affective involvement with the analyst was viewed as a means to escape the
+arduous and aversive process of analytic ‘‘working through.’’
+Clinical views of transference have typically portrayed it as
+a forceful phenomenon likely to require considerable investment
+of mental resources. Whether representing a misguided channeling of libido (Freud, 1912/1958, p. 100), resistance to treatment (Freud, 1912/1958, p. 101), or the need for tenderness and
+connectedness with the other (Sullivan, 1953), the transference
+experience has generally been depicted as highly energetic and
+intense. For Jung (1968/1975), transference ‘‘intensity conforms
+to the signiﬁcance of content projected. A strong [and] violent
+transference corresponds to a burning content: it contains
+something of importance, something of big value for the patient’’
+(pp. 142–143).
+A very different, social-cognitive, interpretation of transference has been offered by Andersen and her colleagues (e.g.,
+Andersen & Berk, 1998; Andersen & Chen, 2002; Andersen
+& Cole, 1990). In their analysis, the transference phenomenon transcends the therapeutic context, and constitutes part
+and parcel of everyday social perception. Much like stereotypes,
+social categories, or schemata, mental representations of signiﬁcant others may be activated from memory and applied to
+newly encountered individuals who resemble those signiﬁcant
+others in some ways. In the same way that early behavioral
+information may activate a general person schema (e.g., of a
+
+Copyright
+r 2008at Association
+for Psychological
+Downloaded from
+pss.sagepub.com
+Bobst Library, New
+York University onScience
+April 19, 2016
+
+Volume 19—Number 3
+
+Arie W. Kruglanski and Antonio Pierro
+
+‘‘kind,’’ ‘‘hostile,’’ or ‘‘honest’’ individual) and information about
+a social-category membership may activate a general stereotype
+(e.g., of an Asian, a woman, or a college professor), information
+about a new individual’s similarity to one’s signiﬁcant other may
+activate the signiﬁcant-other schema (e.g., a schema of one’s
+spouse or of a close friend). That schema may then be used to
+make further (often inaccurate) inferences about the newly encountered person.
+In their program of research, Anderson and her colleagues
+have shown that ‘‘people use signiﬁcant-other representations
+[to make] representation-consistent inferences about a newly
+encountered individual, . . . misremembering him or her in
+terms of qualities that he or she does not have, but rather are part
+of the signiﬁcant-other representation’’ (Andersen & Berk,
+1998, p. 82). In Andersen’s conceptual paradigm, similarity of
+the new target to the signiﬁcant other is of critical importance
+and has been operationally deﬁned by the proportion of descriptors about the new target contained also in the signiﬁcant
+other’s representation. In a typical study of this genre, participants describe a signiﬁcant other, read a description of a person
+who does or does not resemble their signiﬁcant other (similarity
+condition vs. nonsimilarity condition), and then perform a recognition memory task in which they rate their conﬁdence that
+various statements were included in that description of the
+target person. The degree of transference is then inferred from
+the degree to which participants in the similarity condition
+falsely remember statements consistent with the signiﬁcant
+other’s description more often than do participants in the nonsimilarity condition (e.g., Andersen, Glassman, Chen, & Cole,
+1995).
+In research by Andersen and her colleagues, transference is
+considered the immediate consequence of activation of the
+signiﬁcant-other schema by features of the newly encountered
+person. But it is of interest to ask whether the occurrence of
+transference is invariable, or whether instead it may depend on
+the perceiver’s mental resources. Social-cognitive theory draws
+a relevant distinction between schema activation and schema
+use (cf. Higgins, 1996). An activated schema may or may not
+govern the perceiver’s impressions, depending on whether the
+perceiver possesses the necessary cognitive and motivational
+resources to go beyond the activated schema and seek further
+information pertinent to the requisite judgment (Brewer, 1988;
+Fiske & Neuberg, 1990; Kruglanski, Pierro, Mannetti, Erb, &
+Chun, 2007; Petty & Cacioppo, 1986).
+For instance, persuasion research has shown that the likelihood
+of an early ‘‘peripheral cue,’’ or heuristic, affecting attitudes increases when a resource-draining distraction is present (Petty,
+Wells, & Brock, 1976), when cognitive load is present, or when
+processing motivation is low (Kruglanski et al., 2007; Pierro,
+Mannetti, Erb, Spiegel, & Kruglanski, 2005). Social-categorization research has demonstrated that the likelihood of an individual basing impressions on activated race, gender, or age
+stereotypes increases if he or she lacks sufﬁcient cognitive and
+
+Volume 19—Number 3
+
+motivational resources to continue processing less readily available individuating information (Bodenhausen, 1990; Brewer,
+1988; Fiske & Neuberg, 1990). Thus, if transference is a special
+case of schema utilization, it too should be particularly pronounced under conditions in which the individual’s processing
+resources are meager. From this perspective, there appears to be
+an intriguing contrast between the social-cognitive view of
+transference and the prior psychodynamic conceptions. As noted
+earlier, the psychodynamic interpretation depicts transference as
+an intense, resource-demanding process. To the contrary, our
+sociocognitive analysis suggests that transference is more likely
+to occur when the individual’s energy resources are low, rather
+than abundant.
+In the present study, we operationally deﬁned the amount of
+resources available to the individual in terms of the individual’s
+circadian cycle. It has long been recognized that some people
+prefer daytime activity (i.e., may be referred to colloquially as
+morning types), whereas others prefer nighttime activity (i.e.,
+may be referred to as evening types; Freeman & Hovland, 1934;
+Kleitman, 1939; Smith, Reilly, & Midkiff, 1989). Many biological variables show a deﬁnite periodicity within a cycle length
+of 24 hr; these cyclical processes, called circadian rhythms,
+include body temperature, heart rate, blood pressure, and
+hormone levels. Through their effects on processing resources,
+circadian rhythms may inﬂuence social perceivers’ propensity to
+stereotype other individuals. In a study supporting this hypothesis, Bodenhausen (1990) demonstrated that subjects exhibited stereotypic biases in their judgment to a signiﬁcantly
+greater extent at a nonoptimal time of day (i.e., in the morning
+for evening types and in the evening for morning types) than
+at an optimal time of day (i.e., in the evening for evening types
+and in the morning for morning types). In other words, stereotyping was greater when individuals performed the task at the
+low point in their circadian cycle, which we refer to as a circadian mismatch, than when they performed the task at the high
+point of their circadian cycle, which we refer to as a circadian
+match.
+The present research extended this logic to transference. We
+reasoned that if, essentially, transference reﬂects the misapplication of an activated signiﬁcant-other schema to a newly
+encountered individual, and if an activated schema is more
+likely to be misapplied in the absence, rather than the presence,
+of processing resources, then more pronounced transference
+effects should be observed under conditions of circadian mismatch than under conditions of circadian match. To investigate
+this possibility, we examined individuals characterized as morning types or evening types both in the morning and in the
+evening. Additionally, we manipulated a new target person’s
+similarity to a signiﬁcant other’s representation previously furnished by each participant. We hypothesized that participants’
+tendency to falsely generalize the representation of their signiﬁcant other to a similar new target would be more pronounced
+for morning types tested in the evening rather than the morning,
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+297
+
+Circadian Mismatches and the Transference Effect
+
+and for evening types tested in the morning rather than the
+evening.
+METHOD
+
+Participants and Design
+Participants were 42 (30 female, 12 male) undergraduate students (mean age 5 19 years) currently enrolled in a psychology
+course at The University of Rome ‘‘La Sapienza.’’ Following the
+procedure devised by Andersen and her colleagues (e.g., Andersen & Cole, 1990), the experiment proceeded in two phases
+for which participants received separate credits. During the ﬁrst
+phase, participants completed the morningness scale described
+in the next section. Then, they carried out a feature-listing task.
+In the second phase, which occurred 2 weeks later, participants
+performed a learning trial and a recognition memory task. In this
+phase, participants were randomly assigned to a 2 (similarity
+present vs. similarity absent)  2 (circadian match vs. mismatch) research design.
+Phase 1
+Assessing Morningness
+In the ﬁrst phase of our study, morningness was assessed using
+an instrument developed by Smith et al. (1989). This 13-item
+composite scale distills the best items from two commonly
+known morningness scales, ones developed by Horne and Ostberg (1976) and by Torsvall and Akerstedt (1980). A sample
+item is, ‘‘One hears about morning and evening types of people.
+Which one of these types do you consider yourself to be?’’ Responses to this question are made on the following scale: 1 5
+deﬁnitely an evening type, 2 5 more an evening than a morning
+type, 3 5 more a morning than an evening type, 4 5 deﬁnitely a
+morning type. A composite morningness score is computed by
+summing the participant’s responses to the items. Scores range
+from 13 (extreme evening type) to 55 (extreme morning type).
+Previous studies (e.g., Guthrie, Ash, & Bendapudi, 1995) reported a reliability of .90 for this particular scale. In the present
+sample, reliability of the scale was satisfactory (a 5 .74).
+Feature-Listing Task
+Participants were asked to name, visualize, and describe a
+current or past signiﬁcant other (i.e., a person ‘‘who is very
+important to them and has been for many years’’; Anderson &
+Cole, 1990, p. 387). In order to do so, they generated a list of 20
+descriptor statements (beginning with the prompt, ‘‘Generally,
+[name of person] ______________’’; cf. Andersen & Baum,
+1994) that uniquely characterized their signiﬁcant other and
+distinguished him or her from other people. Participants subsequently rank-ordered the statements in order of importance or
+centrality as characterizing that person. They were then asked to
+select 12 traits that were either neutral or irrelevant to the
+person they visualized (‘‘neutral’’ was deﬁned to imply neither a
+
+298
+
+positive nor a negative valence). These traits were used in Phase
+2 as ﬁller items presented along with the target descriptors. After
+completing these tasks, participants were thanked for their
+participation and asked to sign up for an ostensibly unrelated
+study.
+Phase 2
+Learning Trial and Recognition Memory Task
+Participants who showed up to take part in the ‘‘unrelated’’ study
+had been previously categorized as morning types or as evening
+types on the basis of a median split of the scores on the morningness scale in Phase 1. They were randomly assigned to one of
+two conditions: match (i.e., those who participated in Phase 2 at
+the high point of their circadian cycle) and mismatch (i.e., those
+who participated at the low point of their circadian cycle). Match
+participants were deﬁned as morning types at a morning session
+(8–9 a.m.) and as evening types at an evening session (7–8 p.m.).
+Nonmatch participants were deﬁned as morning types at an
+evening session and as evening types at a morning session.
+Following their random assignment to the match or mismatch
+condition, participants were asked to appear for the study at
+designated times corresponding to their condition, and they all
+did so.
+When participants arrived at the designated session, 2 weeks
+following Phase 1, they were randomly assigned to the similar
+or the nonsimilar condition. In both conditions, participants
+were advised that they would perform a task with another person
+and that their interaction would be observed. Participants were
+further told that we would ﬁrst give them information characterizing this other person, as we were interested in how having
+this information would affect the interaction. They were then
+given 3 min to study the information about their future interaction partner. This constituted the learning trial.
+In the similar condition, the new individual was described
+using eight idiographic signiﬁcant-other descriptors (those
+ranked 4–11 in Phase 1; those ranked 1–3 and 12–16 were later
+used to measure transference of the signiﬁcant other’s characteristics) and six ﬁller descriptors from the neutral list the participant generated in Phase 1. In the nonsimilar condition, the
+new individual was described using descriptors from another
+participant randomly selected without replacement.
+At that point, participants performed a recognition memory
+task in which 15 randomly ordered descriptor sentences were
+presented. They were told to indicate how many of these sentences had been included among the previously provided descriptions of the new person. Each descriptor sentence was
+evaluated on a scale ranging from 1 (I am conﬁdent that this
+descriptor was not presented ) to 4 (I am conﬁdent that this descriptor was presented ). Four of the descriptor sentences had
+actually been presented to the participant during the learning
+trial (2 signiﬁcant-other descriptors and 2 ﬁller items). Eight of
+the 11 remaining descriptors were the signiﬁcant-other de-
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+Volume 19—Number 3
+
+Arie W. Kruglanski and Antonio Pierro
+
+Manipulation Checks
+After the recognition memory task, participants indicated how
+similar the individual in Phase 2 seemed to the signiﬁcant other
+they themselves had described in Phase 1, providing a rating on
+a 9-point scale ranging from 1 (not at all similar) to 9 (extremely
+similar). Participants also responded to two items intended to
+assess their perceived mental capacity at the time during which
+they were tested: ‘‘At this time it is difﬁcult for me to carefully
+consider my answers to these questions,’’ and ‘‘At this time I feel
+mentally fatigued.’’ Responses to these questions were recorded
+on 7-point scales ranging from 1 (extremely false) to 7 (extremely
+true). These responses were highly intercorrelated, so we computed a composite score for perceived cognitive capacity by
+averaging the two responses (a 5 .91). Finally, participants were
+thanked and fully debriefed.
+RESULTS
+
+Manipulation Check
+Perceived Similarity
+Results of a one-way analysis of variance (ANOVA) performed
+on participants’ similarity ratings yielded a signiﬁcant effect of
+similarity condition, F(1, 40) 5 7.35, p < .01. Perceived resemblance between the future interaction partner and the signiﬁcant other was greater in the similar condition (M 5 5.0) than
+in the nonsimilar condition (M 5 3.91). This result indicates
+that our manipulation was successful.
+Perceived Cognitive Capacity
+Results of a one-way ANOVA performed on participants’ ratings
+of cognitive capacity yielded a signiﬁcant effect of circadian
+matching, F(1, 40) 5 4.23, p < .05, with lower perceived capacity in the mismatch condition (M 5 3.98) than in the match
+condition (M 5 3.00). Again, this result attests to the efﬁcacy of
+our manipulation.
+
+Volume 19—Number 3
+
+Nonsimilar
+
+Similar
+
+3.0
+2.5
+False Alarms
+
+scriptors ranked 1 through 3 and 12 through 16 by that participant. These 8 representation-consistent descriptors were used to
+determine whether transference occurred and whether the participant went beyond the information actually given about the
+target. Three descriptor items from the neutral-irrelevant list
+were also included, as ﬁller items.
+Following prior transference studies, we computed the false
+alarm rate, a measure of recognition memory, as an indicator of
+transference. In this paradigm, the false alarm rate is the likelihood of erroneously recognizing the similar (but not presented)
+descriptors, and it is operationally deﬁned as the number of
+‘‘yes’’ responses to new (i.e., not previously presented) experimental items. The false alarm rate is the primary indicator of
+transference of the old mental representation to the new person
+(Andersen & Cole, 1990). Higher scores on this index represent
+a greater extent of transference.
+
+2.0
+1.5
+1.0
+0.5
+0
+Match
+Mismatch
+Circadian Matching
+
+Fig. 1. Transference (mean number of false alarms) as a function of
+similarity condition and circadian matching.
+
+Transference
+A 2 (similarity condition: similar vs. nonsimilar)  2 (circadian
+matching: match vs. mismatch) ANOVA performed on the false
+alarm rate yielded a signiﬁcant main effect of similarity condition, F(1, 38) 5 4.06, p < .05. This ﬁnding was in the predicted
+direction, attesting to a greater degree of transference in the
+similar than in the nonsimilar condition, and replicates in an
+Italian context the ﬁndings of Andersen and her colleagues (e.g.,
+Andersen & Berk, 1998; Andersen & Chen, 2002; Andersen &
+Cole, 1990). Of greater importance, the hypothesized two-way
+interaction between similarity condition and circadian matching
+was signiﬁcant, F(1, 38) 5 9.47, p < .01. The pertinent means
+are displayed in Figure 1.
+Simple tests on the patterns of the means underlying this interaction corroborated our predictions. In the mismatch condition, the difference between the similar and nonsimilar conditions
+was signiﬁcant, F(1, 19) 5 16.63, p < .001, Msimilar 5 2.83,
+Mnonsimilar 5 1.81, whereas in the match condition, this difference was nonsigniﬁcant, F(1, 19) 5 0.46, n.s., Msimilar 5 2.04,
+Mnonsimilar 5 2.25. These results are consistent with the notion that
+transference effects are more pronounced during circadian mismatches than during circadian matches.
+To check whether the effects of circadian matching were
+similar for morning and evening types, we included the morningness factor in a 2 (similarity condition: similar vs. nonsimilar)
+ 2 (circadian matching: match vs. mismatch)  2 (morningness: morning vs. evening type) ANOVA. The analysis yielded
+no two- or three-way interaction effects involving morningness,
+indicating that effects of circadian matching were similar
+for morning and evening types. In addition, results of two 2
+(similarity condition: similar vs. nonsimilar)  2 (circadian
+matching: match vs. mismatch) ANOVAs performed separately
+for morning and evening types conﬁrmed that the two-way
+interaction between similarity and circadian matching was
+similar for morning types, F(1, 14) 5 3.52, p < .08, and evening
+types, F(1, 20) 5 4.73, p < .04.
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+299
+
+Circadian Mismatches and the Transference Effect
+
+Andersen and Cole (1990) found that false alarm rates varied
+as a function of the descriptors’ prototypicality. Thus, we
+examined feature prototypicality in our data following the
+procedure of Andersen and Cole (1990, p. 395). We classiﬁed
+representation-consistent recognition-test items as highly prototypical (ranks 1–3) or moderately prototypical (ranks 12–16)
+and included this factor in a 2 (similarity condition: similar vs.
+nonsimilar)  2 (circadian matching: match vs. mismatch)  2
+(prototypicality: highly vs. moderately prototypical) ANOVA.
+The analysis conﬁrmed the signiﬁcant main effect of similarity
+condition and the two-way interaction of similarity condition and circadian matching reported earlier. In addition, the
+analysis yielded a signiﬁcant main effect of prototypicality,
+F(1, 38) 5 4.97, p < .03, with the false alarm rate being more
+pronounced for highly prototypical features (M 5 2.36) than for
+moderately prototypical features (M 5 2.14), conﬁrming Andersen and Cole’s (1990) results. The analysis also yielded a
+two-way interaction of prototypicality and similarity condition,
+F(1, 38) 5 5.93, p < .02, with the difference in false alarm rates
+between these conditions being more pronounced for highly
+prototypical features (Msimilar 5 2.73, Mnonsimilar 5 2.01) than for
+moderately prototypical features (Msimilar 5 2.25, Mnonsimilar 5
+2.04). Neither the two-way interaction between prototypicality
+and matching, F(1, 38) 5 1.47, n.s., nor the three-way interaction of prototypicality, similarity condition, and matching,
+F(1, 38) 5 0.08, n.s., was signiﬁcant; thus, the effect of matching
+on transference was present for all descriptors.
+DISCUSSION
+
+The present results are consistent with the sociocognitive analysis of the transference phenomenon as a special case of schema
+utilization. According to this interpretation, social schemata of
+various sorts provide relevant information for social judgments.
+Some schemata may be quickly activated from memory by salient
+cues that may prime them. For instance, cues to an individual’s
+age, race, or gender are readily available to a perceiver who
+encounters that person; hence, they may activate the corresponding age, race, or gender schemata that provide an initial
+basis for social judgments. When the perceiver’s cognitive resources are sparse, he or she may discontinue further search for
+information and remain with the initially formed judgment,
+treating it as ﬁnal. Such a judgment may be inaccurate when the
+initial schema provided misleading information inconsistent
+with available individuating evidence that the perceiver failed to
+consider.
+We extend this analysis to the transference phenomenon,
+assuming that it depends on activation of the signiﬁcant other’s
+schema by features that a new target appears to share with the
+signiﬁcant other. We assume that such schema activation occurs
+automatically upon the perceiver’s encounter with the target,
+and affords a basis for forming an impression about him or her.
+Where perceivers’ resources are limited, they may accept such
+
+300
+
+impressions uncritically and ‘‘freeze’’ upon them (Kruglanski,
+2004). As a result, perceivers may exhibit false memory effects
+of the kind thought to characterize transference. Our data provide support for this possibility.
+Speciﬁcally, we found that individuals exhibit signiﬁcantly
+more pronounced transference effects (as indexed by the false
+alarm measure) at times of circadian mismatch than at times
+of circadian match. We also have evidence that circadian
+mismatches produce greater perceived reduction in mental
+capability than do circadian matches. This suggests that,
+as seems to be the case with schema effects more generally,
+transference effects increase when individuals’ mental resources are scarce.
+The present ﬁndings deepen current understanding of transference phenomena in two general senses. First, they cast doubt
+on the psychodynamic conceptions that emphasized the driven,
+energy-intensive nature of transference (e.g., Freud, 1912/1958;
+Sullivan, 1953). We found signiﬁcant transference effects only
+under limited-resource conditions, that is, during circadian
+mismatches. We did not ﬁnd transference effects during circadian matches, when individuals’ mental resources may have
+allowed them to examine the available information more critically. Second, our results expand understanding of transference
+from a social-cognition perspective. Whereas prior social-cognitive ﬁndings may have suggested the inevitability of transference once the signiﬁcant-other schema has been activated,
+the present ﬁndings suggest that the activated schema may or
+may not be used, depending on the individual’s processing resources. The application or nonapplication of the schema, in
+turn, has implications for the likelihood of transference.
+Though the transference effect in the present study disappeared when participants’ cognitive resources were plentiful
+(i.e., under circadian-match conditions), this does not imply that
+the availability of resources eliminates transference invariably.
+Whether or not it does may depend on the individual’s epistemic
+motivation. In our study, we assumed that cognitive resources
+would be utilized to serve the accuracy motivation. However, resources could also be utilized (and in fact mobilized)
+by a motivation that increases the likelihood of freezing on
+an automatically activated schema or stereotype, such as the
+need for nonspeciﬁc cognitive closure (Kruglanski, 2004). In a
+recent set of studies supporting this notion (Pierro, Spina, &
+Kruglanski, 2007), we found more pronounced transference
+effects among individuals high in dispositional need for closure
+than in those low in dispositional need for closure. Conceptually
+close to motivational forces assumed to be involved in transference effects by psychoanalytic theorists (Freud, 1912/1958;
+Jung, 1968/1975; Sullivan, 1953), needs for various speciﬁc
+kinds of closure could also enhance transference effects, much
+as they may enhance freezing on alternative activated schemata.
+A promising avenue for future research will be to integrate the
+psychoanalytic and the social-cognitive approaches to understanding the transference phenomenon.
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+Volume 19—Number 3
+
+Arie W. Kruglanski and Antonio Pierro
+
+REFERENCES
+Andersen, S.M., & Baum, A. (1994). Transference in interpersonal
+relations: Inferences and affect based on signiﬁcant-other representations. Journal of Personality, 62, 460–497.
+Andersen, S.M., & Berk, M.S. (1998). Transference in everyday
+experience: Implications of experimental research for relevant
+clinical phenomena. Review of General Psychology, 2, 81–120.
+Andersen, S.M., & Chen, S. (2002). The relational self: An interpersonal social-cognitive theory. Psychological Bulletin, 109, 619–
+645.
+Andersen, S.M., & Cole, S.W. (1990). ‘‘Do I know you?’’ The role of
+signiﬁcant others in general social perception. Journal of Personality and Social Psychology, 59, 384–399.
+Andersen, S.M., Glassman, N.S., Chen, S., & Cole, S.W. (1995).
+Transference in social perception: The role of chronic accessibility in signiﬁcant-other representations. Journal of Personality
+and Social Psychology, 69, 41–57.
+Bodenhausen, G.V. (1990). Stereotypes as judgmental heuristics: Evidence of circadian variations in discrimination. Psychological
+Science, 1, 319–322.
+Brewer, M.B. (1988). A dual process model of impression formation. In
+T.K. Srull & R.S. Wyer (Eds.), Advances in social cognition (Vol. 1,
+pp. 1–36). Hillsdale, NJ: Erlbaum.
+Ehrenreich, J.H. (1989). Transference: One concept or many? The
+Psychoanalytic Review, 76, 37–65.
+Fiske, S.T., & Neuberg, S.L. (1990). A continuum model of impression
+formation from category-based to individuating processes: Inﬂuences of information and motivation on attention and interpretation. In M.P. Zanna (Ed.), Advances in experimental social
+psychology (Vol. 23, pp. 1–74). New York: Academic Press.
+Freeman, G., & Hovland, C. (1934). Diurnal variation in performance
+and related physiological processes. Psychological Bulletin, 31,
+777–799.
+Freud, S. (1955). Studies on hysteria. In J. Strachey (Ed. & Trans.), The
+standard edition of the complete psychological works of Sigmund
+Freud (Vol. 2). London: Hogarth Press. (Original work published
+1895)
+Freud, S. (1957). Five lectures on psycho-analysis, Leonardo da Vinci
+and other works. In J. Strachey (Ed. & Trans.), The standard
+edition of the complete psychological works of Sigmund Freud
+(Vol. 11). London: Hogarth Press. (Original work published 1910)
+Freud, S. (1958). The dynamics of transference. In J. Strachey (Ed. &
+Trans.), The standard edition of the complete psychological works
+of Sigmund Freud (Vol. 12, pp. 97–108). London: Hogarth Press.
+(Original work published 1912)
+Freud, S. (1958). Remembering, repeating and working-through (further recommendations on the technique of psycho-analysis II).
+In J. Strachey (Ed. & Trans.), The standard edition of the complete
+psychological works of Sigmund Freud (Vol. 12, pp. 145–156).
+London: Hogarth Press. (Original work published 1914)
+Greenberg, J.R., & Mitchell, S.A. (1983). Object relations in psychoanalytic theory. Cambridge, MA: Harvard University Press.
+
+Volume 19—Number 3
+
+Guthrie, J.P., Ash, R.A., & Bendapudi, V. (1995). Additional validity
+evidence for a measure of morningness. Journal of Applied Psychology, 80, 186–190.
+Higgins, E.T. (1996). Knowledge activation: Accessibility, applicability, and salience. In E.T. Higgins & A.W. Kruglanski (Eds.),
+Social psychology: Handbook of basic principles (pp. 133–168).
+New York: Guilford.
+Horne, J., & Ostberg, O. (1976). A self-assessment questionnaire to
+determine morningness-eveningness in human circadian rhythms.
+International Journal of Chronobiology, 4, 97–110.
+Horney, K. (1939). New ways in psychoanalysis. New York: Norton.
+Horney, K. (1945). Our inner conﬂict. New York: Norton.
+Jung, C.G. (1975). Psicologia analitica. Le conferenze alla Clinica
+Tavistock (1935) (S. Chiappori, Trans.). Milano, Italy: Mondadori.
+(Original work published 1968)
+Kleitman, N. (1939). Sleep and wakefulness. Chicago: Chicago University Press.
+Kruglanski, A.W. (2004). The psychology of closed mindedness. New
+York: Psychology Press.
+Kruglanski, A.W., Pierro, A., Mannetti, L., Erb, H.P., & Chun, W.Y.
+(2007). On the parameters of human judgement. In M.P. Zanna
+(Ed.), Advances in experimental social psychology (Vol. 39, pp.
+255–303). New York: Academic Press.
+Luborsky, L., & Crits-Christoph, P. (1990). Understanding transference: The core conﬂictual relationship theme method. New York:
+Basic Books.
+Petty, R.E., & Cacioppo, J.T. (1986). The elaboration likelihood model
+of persuasion. In L. Berkowitz (Ed.), Advances in experimental
+social psychology (Vol. 19, pp. 123–205). San Diego, CA: Academic Press.
+Petty, R.E., Wells, G.T., & Brock, T.C. (1976). Distraction can enhance
+or reduce yielding to propaganda: Thought disruption versus effort justiﬁcation. Journal of Personality and Social Psychology,
+34, 874–884.
+Pierro, A., Mannetti, L., Erb, H.P., Spiegel, S., & Kruglanski, A.W.
+(2005). Informational length and order of presentation as determinants of persuasion. Journal of Experimental Social Psychology, 41, 458–469.
+Pierro, A., Spina, I., & Kruglanski, A.W. (2007). ‘‘Seizing and freezing’’
+on a signiﬁcant other schema: Need for closure and the transference effect in social judgment. Unpublished manuscript, University of Rome ‘‘La Sapienza.’’
+Smith, C., Reilly, C., & Midkiff, K. (1989). Evaluation of three circadian
+rhythm questionnaires with suggestions for an improved measure
+of morningness. Journal of Applied Psychology, 74, 728–738.
+Sullivan, H.S. (1940). Conceptions in modern psychiatry. New York:
+Norton.
+Sullivan, H.S. (1953). The interpersonal theory of psychiatry. New York:
+Norton.
+Torsvall, L., & Akerstedt, T. (1980). A diurnal type scale. Scandinavian Journal of Work and Environmental Health, 6, 283–290.
+(RECEIVED 6/18/07; REVISION ACCEPTED 9/8/07)
+
+Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016
+
+301
+
+
