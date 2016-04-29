@@ -1,0 +1,653 @@
+ARTICLE IN PRESS
+Cognition xxx (2009) xxx–xxx
+
+Contents lists available at ScienceDirect
+
+Cognition
+journal homepage: www.elsevier.com/locate/COGNIT
+
+Brief article
+
+A motion aftereffect from visual imagery of motion
+Jonathan Winawer a,*, Alexander C. Huk b, Lera Boroditsky a
+a
+b
+
+Department of Psychology, Stanford University, 450 Serra Mall, Stanford, CA 94305, United States
+Neurobiology and Center for Perceptual Systems, The University of Texas at Austin, Austin TX 78712, United States
+
+a r t i c l e
+
+i n f o
+
+Article history:
+Received 30 March 2008
+Revised 23 August 2009
+Accepted 20 September 2009
+Available online xxxx
+Keywords:
+Imagery
+Perception
+Motion
+
+a b s t r a c t
+Mental imagery is thought to share properties with perception. To what extent does the
+process of imagining a scene share neural circuits and computational mechanisms with
+actually perceiving the same scene? Here, we investigated whether mental imagery of
+motion in a particular direction recruits neural circuits tuned to the same direction of perceptual motion. To address this question we made use of a visual illusion, the motion aftereffect. We found that following prolonged imagery of motion in one direction, people are
+more likely to perceive real motion test probes as moving in the direction opposite to the
+direction of motion imagery. The transfer of adaptation from imagined to perceived motion
+provides evidence that motion imagery and motion perception recruit shared directionselective neural circuitry. Even in the absence of any visual stimuli, people can selectively
+recruit speciﬁc low-level sensory neurons through mental imagery.
+Ó 2009 Elsevier B.V. All rights reserved.
+
+1. Introduction
+The mechanisms underlying mental imagery have been
+investigated for over a century. One important question
+has been whether imagery uses the same mechanisms normally employed for perception (Ishai & Sagi, 1995; Kosslyn, Thompson, & Alpert, 1997; Perky, 1910; Pylyshyn,
+2002). A number of brain areas important for perception
+can also be engaged by imagery, including retinotopically
+mapped regions in visual cortex (Kosslyn et al., 1999; Kosslyn, Thompson, Kim, & Alpert, 1995; Slotnick, Thompson, &
+Kosslyn, 2005) and cortical areas that respond preferentially to speciﬁc classes of stimuli (e.g., faces, buildings)
+(O’Craven and Kanwisher, 2000) or visual motion (Goebel,
+Khorram-Sefat, Muckli, Hacker, & Singer, 1998; Grossman
+& Blake, 2001). However, standard neuroimaging methods
+have not answered whether the same subpopulations of
+neurons are engaged by both perception and imagery.
+Observations that a particular brain area is active during
+either viewing or imagery of a particular feature does not
+* Corresponding author. Tel.: +1 650 704 9702.
+E-mail address: winawer@stanford.edu (J. Winawer).
+
+necessarily imply that the same individual neurons or ﬁne
+circuits underlie these activations, nor whether the processing is selective for a particular feature; the activation
+may be driven by a non-selective mechanism like arousal
+or attention (Beauchamp, Cox, & DeYoe, 1997; Corbetta,
+Miezin, Dobmeyer, Shulman, & Petersen, 1991; Huk, Ress,
+& Heeger, 2001; O’Craven et al., 1997; Saenz, Buracas, &
+Boynton, 2002).
+To infer whether imagery of motion relies on directionselective motion circuitry that is also used for perception
+of physical motion, we tested for a motion aftereffect following motion imagery. The motion aftereffect is an illusion in which after prolonged viewing of motion in one
+direction, a stationary or ambiguous dynamic test stimulus
+appears to drift in the opposite direction (Mather, Verstraten, & Anstis, 1998; Wohlgemuth, 1911). Prolonged viewing of directional motion is thought to adapt directionselective cortical neurons, such that subpopulations tuned
+to the adapting direction become less responsive after
+adaptation. Such direction-selective adaptation leads to
+an imbalance in neural responses that favors the direction
+opposite that of adaptation (Barlow & Hill, 1963). The presence of a motion aftereffect is therefore an indicator of the
+
+0010-0277/$ - see front matter Ó 2009 Elsevier B.V. All rights reserved.
+doi:10.1016/j.cognition.2009.09.010
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+2
+
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+involvement of direction-selective neural mechanisms
+(Kohn & Movshon, 2003; Petersen, Baker, & Allman,
+1985; Van Wezel & Britten, 2002).
+We reasoned that if visual imagery of motion relies on
+direction-selective neurons that are also involved in the
+perception of physical motion, then prolonged imagery of
+motion in one direction should adapt direction-selective
+neurons and produce a motion aftereffect. In previous
+work we have shown that viewing frozen-motion photographs can produce a motion aftereffect (Winawer, Huk,
+& Boroditsky, 2008). Here we asked whether imagining
+motion in the absence of visual stimuli can adapt direction-selective neurons and produce a motion aftereffect.
+2. Methods
+Five experiments were conducted. Experiments 1–3
+tested for a motion aftereffect resulting from imagined motion. For comparison to the imagery experiments, Experiments 4 and 5 tested for a motion aftereffect resulting
+from viewing real motion. Each experiment was preceded
+by a baseline motion sensitivity measurement. In the
+experimental trials, participants either imagined or viewed
+motion, and were tested with moving-dot test probes. The
+test probes were used to assess the degree to which imagining or viewing real motion caused a motion aftereffect.
+2.1. Participants
+Naïve volunteers from the MIT (n = 64) and Stanford
+(n = 68) communities received course credit or were paid
+for participation. In Experiment 1, 33 participants imagined upward or downward motion. In Experiment 2, 31
+participants imagined inward or outward motion. In
+Experiment 3, 30 participants also imagined inward or outward motion, but with a delay of 1, 4, or 13 s inserted in
+each trial before the appearance of the test probe to assess
+the decay of the aftereffect. In Experiments 4 and 5, participants passively viewed moving gratings, either upward or
+downward (n = 31), or inward or outward (n = 7). In all
+experiments, participants viewed or imagined the two
+opposing directions of motion in separate blocks; no participants participated in more than one experiment.
+
+according to their performance on the baseline motion discrimination task. Participants who failed to demonstrate
+sensitivity to motion in the baseline task were excluded
+from analysis (see Appendix A).
+
+3. Imagery adaptation
+Experiments 1 and 2 tested for adaptation from motion
+imagery (Fig. 1). After a baseline task, participants were
+familiarized with the motion stimuli to imagine. The stimuli were either horizontal gratings that moved up or down
+(Experiment 1), or two vertical gratings that moved horizontally inward or outward (Experiment 2). The gratings
+were square wave luminance gratings with a spatial frequency of 1 cycle per degree, and a speed of 2.7° per second. To facilitate imagery, participants were presented
+with a timing guide: a stationary ﬁxation square which
+cycled in luminance or a tone which cycled in pitch. The
+timing guide cycled at the same temporal frequency as
+the moving gratings. Participants viewed two examples
+of the moving gratings in each direction for 6 s each, together with the ﬁxation square and tone. Participants were
+told to ‘‘try to attend to the size, color, and speed of the
+stripes, so that later you can picture them clearly even
+when the screen is blank.” At the beginning of each of
+the 8 imagery blocks, participants were re-familiarized
+with the gratings by again viewing two examples of gratings in each direction in random order (6 s each). Participants were not told which direction of motion they
+would need to imagine until after the re-familiarization.
+This prevented them from being able to selectively attend
+to the example gratings moving in the direction of imagery
+for the subsequent block.
+Each trial consisted of a period of imagery adaptation
+followed by viewing a real moving-dot test stimulus. The
+imagery adaptation period was 60 s in the ﬁrst trial of each
+block and 6 s in each subsequent trial. After viewing the
+moving-dot test stimulus participants indicated its direction with a keypress. Within each block of trials, the direction of imagery and whether the eyes were open or closed
+was the same. For each direction of imagery adaptation,
+there were two eyes-open blocks and two eyes-closed
+blocks, in random order.
+
+2.2. Moving-dot test stimuli
+We assessed adaptation to motion with a standard
+direction discrimination task (Newsome & Pare, 1988)
+used previously to quantify motion aftereffects from
+adapting to real visual motion (Blake & Hiris, 1993; Hiris
+& Blake, 1992). The test stimulus consisted of low-contrast
+dynamic random dots. The percentage of dots moving
+coherently in a particular direction (‘‘motion coherence”)
+varied from trial to trial. The direction of coherent motion
+was either up/down (Experiments 1 and 4), or inward/outward (Experiments 2, 3, and 5). Participants were instructed to indicate the direction of global motion by
+forced choice (up vs. down or inward vs. outward, depending on the type of motion in the experiment). The range of
+motion coherence values was adjusted for each participant
+
+4. Decay of imagery adaptation
+Experiment 3 was conducted to assess whether aftereffects from mental imagery decay over a period of a few
+seconds, as do aftereffects from visual motion (Keck &
+Pentz, 1977). This experiment was identical to Experiment
+2 except there was a variable delay (1, 4, or 13 s) between
+when participants were cued to open their eyes following
+imagery and when the test probe appeared; there was no
+eyes-open condition; there were 8 dot coherence values
+tested instead of 12; and there were two blocks of trials instead of 8, with each block consisting of 48 instead of 24
+trials (2 directions for the test probe  8 coherence values  3 delay durations).
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+3
+
+Fig. 1. Experimental procedure. Prior to each imagery block participants viewed four examples of moving gratings. The direction of imagery (up vs. down or
+in vs. out) and whether the eyes were open or closed were the same throughout the block. Each trial within a block consisted of motion imagery followed by
+a test stimulus. An imagery trial began with the appearance of a static grating and a small arrow indicating the direction of motion imagery for that block.
+The grating and arrow then faded. On eyes-open trials, the participant then imagined motion (60 s for the ﬁrst trial of a block, 6 s for each subsequent ‘‘topup” adaptation trial) on a screen that was blank except for the ﬁxation timing guide. During the eyes-closed blocks, participants were instructed to close
+their eyes each time the static grating faded and imagine motion while listening to the auditory timing guide. At the end of each imagery period, the tone
+stopped cycling, and was followed by a pause and a beep, cueing participants to open their eyes and attend to the moving-dot test stimulus. The test
+stimulus appeared 1 s after the beep cueing the end of the imagery period. For Experiment 3, the ﬁxation period between imagined motion and test
+stimulus varied in duration. For control experiments with real motion, the grating did not fade; participants were instructed to passively view the moving
+grating while ﬁxating the central square.
+
+5. Real motion adaptation
+In Experiments 4 and 5, we tested adaptation to real visual motion. The procedure and stimuli were identical to
+those in Experiments 1 and 2 (up/down and in/out motion
+adaptation, respectively) except that rather than being instructed to imagine motion during adaptation, participants
+were simply instructed to ﬁxate on the actual moving grating; examples of the moving gratings were not shown at
+the beginning of each block because participants did not
+need to imagine the grating; there were four blocks of trials instead of eight because there were no eyes-closed
+blocks; and there was no auditory timing guide.
+6. Results
+Imagery of motion produced motion aftereffects. Imagining motion upward made participants more likely to see
+the test dots as moving downward, compared to imagining
+motion downward. Likewise, imagining motion outward
+made participants more likely to see the test dots as moving inward. These effects were found from imagery both
+with eyes closed and with eyes open. Moreover, the effects
+of imagery adaptation weakened when a delay was introduced between adaptation and test, as has been found
+
+for perceptual motion adaptation (Keck & Pentz, 1977).
+We infer that visual motion imagery involves some of the
+same directional-selective motion processing circuits that
+are used for perception of motion. Below, the motion aftereffects are quantiﬁed and compared to aftereffects from
+perception of real motion.
+6.1. Analysis
+Fig. 2 shows the population motion sensitivity curves
+following opposite directions of imagery adaptation. In
+each plot, the vertical separation between the curves indicates how differently the same physical stimulus was
+judged following imagery in opposite directions. The horizontal separation indicates the amount by which two stimuli that were judged by participants as the same (following
+adaptation in different directions) were in fact physically
+different. Had there been no effect of imagery the two
+curves would overlap. If participants had answered based
+on an association (e.g., with a bias to respond upwards following upwards imagery) then the difference between the
+curves would have been in the opposite direction than
+what we observed.
+The motion aftereffects were quantiﬁed as the separation between the paired functions, estimated by logistic
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+4
+
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+Fig. 2. Aftereffects following motion imagery. The separation between population motion sensitivity curves indicates that participants were more likely to
+perceive motion of the test stimulus in the direction opposite imagery, evidence for a motion aftereffect from motion imagery. Data points represent the
+mean frequency of responding upward (Experiment 1, upper panels) or inward (Experiment 2, lower panels) either with the eyes closed (left) or eyes open
+(right). Error bars are one SEM by participant. The x-axis is the motion coherence in normalized units. Positive numbers are arbitrarily assigned to upward
+or inward motion. The curves are logistic regressions ﬁtted to the population data (see Appendix A). The separation between the ﬁtted functions, in units of
+normalized coherence, is 0.13, 0.06, 0.14, and 0.08 for up/down imagery with eyes open, up/down imagery with eyes closed, in/out imagery with eyes open,
+and in/out imagery with eyes closed, respectively. For each of these parameter estimates, the lower bound was above 0: 0.10, 0.05, 0.05, and 0.03,
+respectively (95% conﬁdence intervals).
+
+ﬁts to the population data (Fig. 2; see Appendix A for model ﬁts).
+The aftereffects were further quantiﬁed on individual
+participants. A logistic regression was ﬁt to each participant’s data. This provided for each participant an estimate of the separation between the two curves (up vs.
+down or inward vs. outward) for each eye condition
+(open and closed). We coded this value as positive if
+the separation between the curves was in the direction
+predicted by an aftereffect and negative if it was in the
+opposite direction. We tested this value against a null
+hypothesis of no-shift by two-tailed, one-sample t-test
+(Experiments 3–5), or by analysis of variance using eye
+condition (open or closed) as a repeated measure (Experiments 1 and 2).
+6.2. Imagery adaptation
+A small but highly signiﬁcant aftereffect from imagery
+was observed, evident in the population data ﬁts (Fig. 2),
+and the individual data ﬁts (Fig. 3). The individual data
+from up/down imagery (Experiment 1) showed a separation between the motion response functions of
+
+0.15 ± 0.05 (mean ± sem) units of normalized coherence
+(F(1,28) = 9.3; P = 0.005). There was no signiﬁcant difference between the size of the effect from imagery with
+the eyes closed (0.19 ± 0.06) vs. eyes open (0.11 ± 0.05)
+(F(1,28) = 2.5, P = 0.12).
+In/out imagery (Experiment 2) also yielded signiﬁcant
+motion aftereffects, with a separation between the functions for inward vs. outward imagery of 0.08 ± 0.03 units
+of normalized coherence (F(1,27) = 6.8; P = 0.015). As with
+the up/down imagery experiment, the motion aftereffect
+from imagery with the eyes closed (0.10 ± 0.04) was not
+signiﬁcantly different from the effect with the eyes open
+(0.06 ± 0.03) (F(1,27) = 2.3; P = 0.145).
+Note that if the data for individual participants are replotted with the actual coherence values of the test stimuli
+instead of normalized units, then the shape of the curves
+for each is exactly the same; only the scale of the x-axis
+changes. Reanalysis with these actual coherence values
+yields the same pattern of results. The size of the aftereffects in terms of actual coherence was 4.7 ± 1.4%
+(F(1,28) = 10.9; P = 0.003) for the up/down imagery experiment and 2.9 ± 1.4% (F(1,27) = 4.3; P = 0.049) for the inward/outward imagery experiment.
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+5
+
+Fig. 3. Aftereffects summarized by model ﬁts to individual participant data. Upper left: Separation between paired motion sensitivity curves, either with the
+eyes closed or open during imagery (mean ± sem). Text labels indicate the size of the shift in units of un-normalized motion coherence. Positive values
+represent a shift consistent with a motion aftereffect (e.g., increased likelihood of responding upward after downward imagery). Up/down and in/out
+imagery both led to signiﬁcant motion aftereffects, with numerically larger shifts with the eyes closed than open. Upper right: The effect of delay between
+the imagery period and the onset of the test probe. A signiﬁcant aftereffect is found with a 1-s delay, replicating the previous imagery experiment (third bar,
+upper left). The effect is weaker with longer delays. Lower panel: Scatterplot depicting each participant’s paired null points following imagery. Each data
+point represents the amount of motion coherence at which the paired motion sensitivity functions cross the 50% point, either for up/down imagery (circles)
+or in/out imagery (x’s). Points above the identity line correspond to a separation between motion sensitivity curves in the direction predicted by an
+aftereffect.
+
+6.3. Decay of adaptation from imagery
+Experiment 3 showed that a brief delay between imagery and test probe weakened the adaptation effect (Fig. 3,
+right). A 1-s delay, identical to that in the ﬁrst two experiments, produced a reliable motion aftereffect (0.11 ± 0.5
+units of normalized coherence), about equal in magnitude
+to the aftereffect in the corresponding condition in the previous imagery experiment (in-out, eyes closed,
+0.10 ± 0.04). The effect declined with longer delays, (4 s,
+0.06 ± 0.06; 13 s, 0.01 ± 0.06), with a signiﬁcant difference
+between the shortest and longest delay (T(26) = 1.73;
+P = 0.047, one-tailed, paired t-test).
+6.4. Adaptation to real visual motion
+As expected, viewing real visual motion led to a robust
+motion aftereffect (Fig. 4). For upward and downward motion, the separation between the two functions following
+
+opposite directions of adaptation, based on ﬁts to individual participants, was 0.73 ± 0.25 units of normalized coherence (t(23) = 2.92, P = 0.008, two-tailed one-sample t-test),
+or 21 ± 6.4% in terms of the un-normalized coherence
+(t(23) = 3.44, P = 0.002). Adaptation to inward or outward
+motion also led to a large motion aftereffect: a separation
+between curves of 0.37 ± 0.04 units of normalized coherence (t(6) = 9.02, P = 0.0001). These effects were about 3–
+4 bigger than those found from imagery.
+7. Discussion
+In these studies participants imagined motion in a particular direction and were then asked to judge the direction of motion of a moving-dots stimulus. We found that
+imagining motion produced a motion aftereffect. For
+example, after imagining motion down, participants were
+more likely to perceive a set of moving dots as moving
+up (opposite the direction of imagery). These results dem-
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+6
+
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+Fig. 4. Motion aftereffects following adaptation to real visual motion, either upward or downward (top left) or inward and outward (top right) Positive
+values on the x-axis indicate upward motion or inward motion. The aftereffect is about 3–4 larger than that observed following imagery adaptation
+(bottom). The imagery results in the bars chart are replotted from the eyes-closed condition of Experiment 1 (up/down) and 2 (in/out).
+
+onstrate for the ﬁrst time that imagery of motion recruits
+direction-selective neural mechanisms that are also used
+for perceiving real motion. The motion aftereffects we observed from imagery were smaller than those from real
+motion, consistent with reports showing less activation
+of sensory cortical areas from motion imagery than from
+perception of the same stimuli (Goebel et al., 1998; Grossman & Blake, 2001). Our results show that visual imagery
+of motion can affect the perception of subsequent physical
+motion stimuli, and that perception and imagery of motion
+rely on shared direction-selective neural mechanisms.
+Two important alternative explanations can be ruled
+out based on the pattern of results. First, the motion aftereffect obtained from in/out imagery discounts the possibility that the effects we report are due to eye movements
+and not imagery, such as the motion aftereffects caused
+by pursuit eye movements in the absence of motion perception (Chaudhuri, 1990, 1991; Freeman, Sumnall, &
+Snowden, 2003). Second, the motion aftereffect from imagery with the eyes closed argues against visual attention as
+the source of the effects, such as the motion aftereffects
+observed from attentional ampliﬁcation of real motion sig-
+
+nals (Alais & Blake, 1999) or attentional tracking of moving
+stimuli (Culham, Verstraten, Ashida, & Cavanagh, 2000).
+Although one might posit that participants attended to
+an internal stimulus, this explanation still requires that
+imagery recruits direction-selective motion mechanisms
+in the absence of sensory input, in accord with our interpretation. Attentional mechanisms for a stimulus or feature, by contrast, presumably operate on representations
+that are delivered by feed-forward inputs.
+Moreover, two results suggest that the aftereffects were
+not due to a simple cognitive bias. First, a brief delay after
+imagery adaptation weakened the effect, as has been found
+for adaptation to real motion (Keck & Pentz, 1977). Because
+the direction of imagery was always the same within a
+block of 48 trials, it is unlikely that participants relying
+on an explicit response bias strategy would simply forget
+which way to respond after such a brief delay. A knowledge-based bias might be expected to be present throughout the block.
+Secondly, debrieﬁng following Experiment 1 suggests
+that participants were not signiﬁcantly inﬂuenced by their
+knowledge of motion aftereffects or expectations of the
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+experiment. The participants were asked two questions at
+the end of the experiment: Have you ever heard of the ‘Motion Aftereffect’ before, and After viewing upward motion,
+would you expect a static image to appear to move up or
+down. The answers to these questions were not predictive
+of the observed MAEs: participants who reported having
+heard (n = 7) vs. not having heard (n = 17) of the MAE
+showed shifts of 0.13 ± 0.03 vs. 0.10 ± 0.01 in the motion
+response curves following opposite directions of imagery
+(t(22) = .631; P = 0.53, two-tailed, unpaired t-test), pooling
+across eyes-open and eyes-closed conditions. The 17 participants who had not heard of the motion aftereffect were
+evenly divided in their responses as to whether a static image would appear to move in the opposite (n = 8) vs. the
+same (n = 8) direction of prior viewing of motion; one participant responded that it would not appear to move at all.
+Our results are consistent with prior psychophysical
+studies on spatial imagery (Ishai & Sagi, 1995) and the
+imagery and inference of motion. Gilden and colleagues
+(1995) demonstrated that adaptation to real visual motion
+affected imagery of motion, the converse of our experiments. Importantly, however, the authors attributed their
+results to an effect of motion adaptation on the imagined
+location of a stimulus, not an effect of motion adaptation
+on motion imagery. This explanation would not apply to
+our experimental paradigm, since the imagined stimuli
+occupied the same location regardless of the direction of
+motion. Our results are also consistent with a prior ﬁnding
+that imagining motion can lead to the illusion of roll vection, whereby spatial judgments are altered by imagery
+of rotation (Mast, Berthoz, & Kosslyn, 2001). Previously
+we observed that passive viewing of photographs that depict motion can lead to a motion aftereffect (Winawer
+et al., 2008). Our current studies add to these by showing
+for the ﬁrst time that motion imagery, in the absence of
+motion perception and even in the absence of any visual
+input, can recruit and adapt directional motion mechanisms. More generally, our results indicate that top-down
+signals in the brain can selectively exert speciﬁc effects
+on appropriate subpopulations of sensory neurons.
+Acknowledgements
+We thank Gordon Bower, Nancy Kanwisher, Josh Wallman, and Nathan Witthoft for reading an earlier version of
+this manuscript. We thank Jesse Carton and Taraz Lee for
+assistance in running experiments.
+Appendix A. Measurement of motion response
+functions
+A.1. Display and dots stimulus used
+Participants sat in a quiet, dark room, approximately
+40 cm from an iMac CRT monitor (resolution: 1024  768
+pixels (26  19.5 cm), refresh rate: 75 Hz).
+The test stimulus for the up/down imagery and real motion adaptation experiments consisted of 100 dots in a
+rectangular window whose length and width were 33% of
+the entire display (approximately 12 by 9 degrees of visual
+
+7
+
+angle). On each frame a subset of the dots were selected to
+move coherently up or down. All other dots disappeared
+and randomly reappeared at any location within the test
+window. A new set of dots was re-selected for coherent
+movement on each frame. This ‘‘limited lifetime” procedure was used so that the trajectory of single dots could
+not be followed throughout a trial. Each test trial consisted
+of 25 frames displayed for 40 ms each (1 s total). Dot displacement for coherent motion was 0.11° per frame.
+For the inward/outward experiments, the test stimulus
+consisted of 200 dots, 100 on each side of ﬁxation. On a given trial the coherent component of the dots motion was
+horizontal either inward or outward (towards or away
+from the vertical midline). The stimulus was otherwise
+identical to the test stimulus used for the up/down
+experiments.
+A.2. Baseline motion discrimination task
+To determine an appropriate range of motion coherences for each participant, all participants ﬁrst completed
+a baseline motion discrimination task. Moving-dot displays
+were presented in 1-s trials with up to 65% of dots moving
+coherently preceding up/down experiments and up to
+100% preceding in/out experiments. The coherence values
+producing 99% correct responses in each direction based
+on logistic ﬁts to the responses were used to determine
+the maximum test coherence for the adaptation phase of
+the experiments. As this value depended on the participant’s performance on the baseline task, it differed across
+participants (36 ± 17% and 35 ± 12%, mean ± SD, for the
+up/down and in-out imagery experiments, respectively).
+We deﬁned this value as 1 unit of normalized coherence
+in order to make comparisons across participants. For the
+up-down experiments, coherence values of one-half and
+one-quarter of this value were used as test stimuli, giving
+6 test stimuli for each participant (±1, ±0.5, and ± 0.25
+‘‘normalized” coherence.) For the in-out experiments, the
+normalized coherence values were sampled more ﬁnely:
+±1, ±0.67, ±0.44, ±0.29, ±0.19, ±0.13, ±0.08, ±0.05, ±0.03,
+±0.02, ±0.01, and 0.
+A.3. Logistic regression ﬁts to motion response functions
+A.3.1. Population ﬁts
+The responses to moving-dot test stimuli were modeled
+as a logistic regression. The model ﬁt to the aggregate data
+(all participants in the population) for a given pair of
+opposing adapting conditions used the following equation,
+ﬁt with a maximum likelihood algorithm,
+
+PðxÞ ¼ @=2 þ ð1  @Þ  1=ð1 þ YÞ;
+
+ð1Þ
+
+where Y ¼ exp½ða þ b  x þ c  AÞ
+In this equation, x is the motion signal in normalized
+units of coherence (with positive values assigned to either
+upward or inward motion and negative values assigned to
+downward or outward motion). P(x) is the probability that
+the participant indicates upward (or inward) motion. A is
+the direction of motion imagery or real motion preceding
+the dot trial (+1 or 1), and a, ß, c, and @ are free parame-
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+8
+
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+
+ters. The free parameters correspond to (i) o, the deviation
+from 0% and 100% with which responses asymptoted, (ii),
+a, an overall bias to respond in a particular direction, (iii)
+ß, the motion sensitivity or steepness of the function, and
+(iv) c the effect of adaptation. Dividing 2  c by ß yields
+the separation between the paired curves in units of coherence. Thus this value indicates how much motion must be
+added to a stimulus in one adaptation condition to make it
+perceptually equivalent to the same stimulus in the opposite adaptation condition. The 95% conﬁdence interval for
+each parameter estimate was determined by bootstrapping: 1000 simulated data sets were generated for each
+pair of adaptation conditions based on the actual population mean responses, each data set was ﬁtted by Eq. (1),
+the 1000 parameter estimates were rank ordered, and the
+975th and 25th values were taken as the conﬁdence
+intervals.
+A.3.2. Individual ﬁts
+The model ﬁts for individual participants used a similar
+equation, but because there was less data for individual
+participants than for the whole population, fewer free
+parameters were used:
+
+PðxÞ ¼ 1=ð1 þ YÞ;
+
+where Y
+
+¼ exp½ða þ b  x þ c1  A1 þ . . . þ cn  An Þ
+
+ð2Þ
+
+This model differs from the population model in that
+there was no parameter @ to model the asymptote and,
+for the imagery experiments, the effects of adaptation were
+modeled in a single equation for all conditions. Thus for
+Experiments 1 and 2, there were two adaptation terms,
+one for the eyes-closed condition (c1) and one for the
+eyes-open condition (c2). For Experiment 3, there were
+three adaptation terms for the three delay conditions (c1,
+c2, c3). For the real motion adaptation experiments, only
+one adaptation parameter was modeled (c1). In all experiments, the motion sensitivity (ß) and global bias (a) were
+estimated only once per participant, whereas for the group
+data in the imagery experiments these parameters were ﬁt
+separately for each pair of adapting conditions (eyes open
+and eyes closed). As with the population ﬁts, dividing
+2  c by ß yields the separation between the paired
+curves in units of coherence. The mean of this value across
+participants was taken as the effect of adaptation for each
+pair of adaptation conditions.
+A.4. Participants excluded from analysis
+Fifteen participants were excluded from analysis for
+failing to perform well on the motion discrimination task.
+Nine participants (2 of 33 doing up/down imagery, 2 of
+31 doing in/out imagery, 2 of 30 in the imagery-delay
+experiment, and 3 of 31 viewing up/down real motion)
+did not show a signiﬁcant effect of motion coherence. For
+these participants, the probability of an ‘‘up” or ‘‘in” response did not signiﬁcantly increase with increased coherence in that direction in the test stimulus. Speciﬁcally, the
+parameter estimated for motion coherence in a logistic
+regression ﬁt was less than the standard error of the same
+parameter estimate. Six other participants, (1 of 33 doing
+
+up/down imagery, 1 of 31 doing in/out imagery, 1 of 30
+in the imagery-delay experiment, and 3 of 31 doing up/
+down real motion), performed poorly in the baseline motion discrimination task such that curve ﬁts yielded a unit
+of normalized coherence as values >100% actual coherence.
+These participants were excluded from analysis.
+
+References
+Alais, D., & Blake, R. (1999). Neural strength of visual attention gauged by
+motion adaptation. Nature Neuroscience, 2(11), 1015–1018.
+Barlow, H. B., & Hill, R. M. (1963). Evidence for a physiological explanation
+of waterfall phenomenon and ﬁgural after-effects. Nature, 200(491),
+1345–1347.
+Beauchamp, M. S., Cox, R. W., & DeYoe, E. A. (1997). Graded effects of
+spatial and featural attention on human area MT and associated
+motion processing areas. Journal of Neurophysiology, 78(1), 516–520.
+Blake, R., & Hiris, E. (1993). Another means for measuring the motion
+aftereffect. Vision Research, 33(11), 1589–1592.
+Chaudhuri, A. (1990). A motion illusion generated by afternystagmus
+suppression. Neuroscience Letters, 118(1), 91–95.
+Chaudhuri, A. (1991). Eye movements and the motion aftereffect:
+Alternatives to the induced motion hypothesis. Vision Research,
+31(9), 1639–1645.
+Corbetta, M., Miezin, F. M., Dobmeyer, S., Shulman, G. L., & Petersen, S. E.
+(1991). Selective and divided attention during visual discriminations
+of shape, color, and speed: Functional anatomy by positron emission
+tomography. Journal of Neuroscience, 11(8), 2383–2402.
+Culham, J. C., Verstraten, F. A., Ashida, H., & Cavanagh, P. (2000).
+Independent aftereffects of attention and motion. Neuron, 28(2),
+607–615.
+Freeman, T. C. A., Sumnall, J. H., & Snowden, R. J. (2003). The extra-retinal
+motion aftereffect. Journal of Vision, 3(11), 771–779.
+Gilden, D., Blake, R., & Hurst, G. (1995). Neural adaptation of imaginary
+visual motion. Cognitive Psychology, 28(1), 1–16.
+Goebel, R., Khorram-Sefat, D., Muckli, L., Hacker, H., & Singer, W. (1998).
+The constructive nature of vision: Direct evidence from functional
+magnetic resonance imaging studies of apparent motion and motion
+imagery. European Journal of Neuroscience, 10(5), 1563–1573.
+Grossman, E. D., & Blake, R. (2001). Brain activity evoked by inverted and
+imagined biological motion. Vision Research, 41(10–11), 1475–1482.
+Hiris, E., & Blake, R. (1992). Another perspective on the visual motion
+aftereffect. Proceedings of the National Academy of Sciences, 89(19),
+9025–9028.
+Huk, A. C., Ress, D., & Heeger, D. J. (2001). Neuronal basis of the motion
+aftereffect reconsidered. Neuron, 32(1), 161–172.
+Ishai, A., & Sagi, D. (1995). Common mechanisms of visual imagery and
+perception. Science, 268(5218), 1772–1774.
+Keck, M. J., & Pentz, B. (1977). Recovery from adaptation to moving
+gratings. Perception, 6(6), 719–725.
+Kohn, A., & Movshon, J. A. (2003). Neuronal adaptation to visual motion in
+area MT of the macaque. Neuron, 39(4), 681–691.
+Kosslyn, S. M., Pascual-Leone, A., Felician, O., Camposano, S., Keenan, J. P.,
+Thompson, W. L., et al. (1999). The role of area 17 in visual imagery:
+Convergent evidence from PET and rTMS. Science, 284(5411),
+167–170.
+Kosslyn, S. M., Thompson, W. L., & Alpert, N. M. (1997). Neural systems
+shared by visual imagery and visual perception: A positron emission
+tomography study. Neuroimage, 6(4), 320–334.
+Kosslyn, S. M., Thompson, W. L., Kim, I. J., & Alpert, N. M. (1995).
+Topographical representations of mental images in primary visual
+cortex. Nature, 378(6556), 496–498.
+Mast, F. W., Berthoz, A., & Kosslyn, S. M. (2001). Mental imagery of visual
+motion modiﬁes the perception of roll-vection stimulation.
+Perception, 30(8), 945–957.
+Mather, G., Verstraten, F., & Anstis, S. M. (1998). The motion aftereffect: A
+modern perspective. Cambridge, Mass: MIT Press.
+Newsome, W. T., & Pare, E. B. (1988). A selective impairment of motion
+perception following lesions of the middle temporal visual area (MT).
+Journal of Neuroscience, 8(6), 2201–2211.
+O’Craven, K. M., & Kanwisher, N. (2000). Mental imagery of faces and
+places activates corresponding stiimulus-speciﬁc brain regions.
+Journal of Cognitive Neuroscience, 12(6), 1013–1023.
+O’Craven, K. M., Rosen, B. R., Kwong, K. K., Treisman, A., & Savoy, R. L.
+(1997). Voluntary attention modulates fMRI activity in human MTMST. Neuron, 18(4), 591–598.
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+ARTICLE IN PRESS
+J. Winawer et al. / Cognition xxx (2009) xxx–xxx
+Perky, C. W. (1910). An experimental study of imagination. American
+Journal of Psychology, 21, 422–452.
+Petersen, S. E., Baker, J. F., & Allman, J. M. (1985). Direction-speciﬁc
+adaptation in area MT of the owl monkey. Brain Research, 346(1),
+146–150.
+Pylyshyn, Z. W. (2002). Mental imagery: In search of a theory. The
+Behavioral and Brain Sciences, 25(2), 157–182 (discussion 182–237).
+Saenz, M., Buracas, G. T., & Boynton, G. M. (2002). Global effects of
+feature-based attention in human visual cortex. Nature Neuroscience,
+5(7), 631–632.
+
+9
+
+Slotnick, S. D., Thompson, W. L., & Kosslyn, S. M. (2005). Visual mental
+imagery induces retinotopically organized activation of early visual
+areas. Cerebral Cortex.
+Van Wezel, R. J., & Britten, K. H. (2002). Motion adaptation in area MT.
+Journal of Neurophysiology, 88(6), 3469–3476.
+Winawer, J., Huk, A. C., & Boroditsky, L. (2008). A motion aftereffect from
+still photographs depicting motion. Psychological Science, 19(3),
+276–283.
+Wohlgemuth, A. (1911). On the after-effect of seen movement. Cambridge:
+University Press.
+
+Please cite this article in press as: Winawer, J., et al. A motion aftereffect from visual imagery of motion. Cognition (2009), doi:10.1016/
+j.cognition.2009.09.010
+
+

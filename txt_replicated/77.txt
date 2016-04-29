@@ -1,0 +1,857 @@
+The Dynamics of Self‐Regulation  1
+ 
+ 
+ 
+ 
+ 
+The Dynamics of Self‐Regulation 
+ 
+ 
+Ayelet Fishbach 
+University of Chicago 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A chapter to appear in the 11th Sydney Symposium of Social Psychology. New York: Psychology Press. 
+
+The Dynamics of Self‐Regulation  2
+Goal research has documented the significant role of goals in people’s choice, evaluation, and 
+emotion (Carver & Scheier, 1998; Deci & Ryan, 1985; Fishbach & Ferguson, 2007; Gollwitzer, 1990; 
+Higgins, 1997; Kruglanski, 1996; Locke & Latham, 1990; Mischel, Cantor, & Feldman, 1996). In recent 
+years, the main emphasis of goal research has been on the nonconscious processes of goal pursuit 
+(Aarts & Dijksterhuis, 2000; Chartrand & Bargh, 1996; Ferguson & Bargh, 2004; Moskowitz, 2002). This 
+research has yielded important insights into the factors that activate a goal, how the goal influences 
+choice of goal‐related actions, the positive evaluation of goal‐facilitating actions and the devaluation of 
+goal‐inhibiting actions, and how success or failure at pursuing a goal influences a person’s emotional 
+states. 
+In most of this prior goal research, the basic unit of study was the activation of a single goal and 
+the initiation of a single goal‐congruent action in response to the goal; that is, the focus was on the 
+single goal ‐ single action unit (Aarts, Gollwitzer, & Hassin, 2004; Bargh, Gollwitzer, Lee‐Chai, Barndollar, 
+& Troetschel, 2001; Shah & Kruglanski, 2003). Whereas a single goal ‐ single action unit is the basic unit 
+of observation for motivation research, it is also true that people rarely hold only one goal at a time. 
+People often hold several accessible goals and consider the simultaneous pursuit of multiple and 
+frequently inconsistent ones (Cantor & Langston, 1989; Emmons & King, 1988; Higgins, 1997; Kruglanski 
+et al., 2002; Markus & Ruvolo, 1989). In addition, people often select several goal‐directed actions 
+simultaneously and with respect to one another. Prior and planned future actions can then influence a 
+person’s choice of immediate goal actions and their subjective value (Read, Loewenstein, & Rabin, 1999; 
+Simonson, 1990). For example, walking into a restaurant can simultaneously evoke multiple goals when 
+a person is concerned about selecting food items that are tasty, healthful, and inexpensive. In addition, 
+people usually make successive choices from the menu (e.g., choice of an appetizer, an entrée, and a 
+dessert), which in turn can potentially create a balance among the simultaneously activated goals, or 
+people can emphasize one goal over the others. 
+
+The Dynamics of Self‐Regulation  3
+When people hold several goals and have the opportunity to select several actions that unfold 
+over time, there are two possible patterns of choice they can follow. First, their choice sequence can 
+balance between the underlying goals. Second, their choice sequence can highlight the most important 
+goal. In this chapter, I identify the conditions under which people find balance among several goals 
+versus highlight a single goal across several actions. Thus, my basic unit of observation involves at least 
+two goals and two opportunities to act on these goals, which can balance or reinforce each other. In 
+such situations, I ask what increases the motivation to work on a focal goal—an initial failure to act on 
+the goal, which motivates actions when people balance, or an initial goal pursuit, which motivates 
+congruent action when people highlight. 
+To address these questions, my colleges and I have conducted a program of research on “the 
+dynamics of self‐regulation” (Fishbach & Dhar, 2005; Fishbach, Dhar, & Zhang, 2006; Fishbach & Zhang, 
+2008; Koo & Fishbach, 2008; Zhang, Fishbach, & Dhar, 2007; see also Fitzsimons, et al., this volume). This 
+research addresses the simultaneous pursuit of multiple goals through a sequence of actions that 
+evolves over time and can either balance between these multiple underlying goals or highlight the single 
+most important one. Our basic premise is that people represent goal actions in terms of either making 
+progress or expressing commitment. As a result of these two representations of goal actions, people 
+either balance between goals on which they experience progress or highlight goals to which they feel 
+committed. 
+In what follows, I discuss this theoretical framework in greater detail. I begin by addressing the 
+self‐regulatory process in each of the two dynamics: progress‐based balancing versus commitment‐
+based highlighting. Then, I address variables that determine the specific framing of goals and the 
+corresponding dynamics that people follow. 
+
+The Dynamics of Self‐Regulation  4
+The Dynamics of Self‐Regulation 
+I proposed that people represent goal actions in terms of either progress toward a desirable end 
+state or commitment to this end state. What, then, characterizes the process of self‐regulation under 
+each of these representations? 
+First, in a progress representation of goals, a person feels motivated to choose actions that 
+reduce the discrepancy between the existing undesirable state and a desirable end state. Cybernetic 
+models of self‐regulation describe a process of self‐regulation that assumes a progress representation of 
+goals and is oriented toward reducing a discrepancy (Carver & Scheier, 1998, this volume; Locke & 
+Latham, 1990; Miller, Galanter, & Pribram, 1960; Powers, 1973). According to these models, people 
+consider the progress they have made toward the end state in the course of goal pursuit, and their 
+perceived progress elicits a sense of partial goal attainment, thus signaling that less effort is needed to 
+accomplish the goal. For example, a student studying a textbook can monitor the progress toward and 
+the remaining effort necessary to finish the book. In turn, any progress in reading will signal that the 
+goal has been partially attained. Notably, a similar focus on progress can also characterize ongoing goals 
+with no clear end state⎯for example, when a student perceives progress toward the goal of mastering 
+a body of knowledge (e.g., learning to speak Hebrew). When there is no clear end state, the perception 
+of progress is not defined by a reduction of discrepancy. 
+Second, people can represent goal actions in terms of expressing commitment to the desirable 
+end state. In a commitment representation of goals, a person perceives the pursuit of congruent actions 
+as a signal that goal commitment is high. Commitment is defined as a subjective sense that the goal is 
+valuable and that the expectancy of success is high (Atkinson, 1964; Atkinson & Raynor, 1978; Bem, 
+1972; Cialdini, Trost, & Newsom, 1995; Feather, 1990). This representation of goals is less concerned 
+with the reduction of discrepancy between the current state and the desired end state; that is, this 
+representation is less concerned with the partial attainment of the goal that is being pursued. For 
+
+The Dynamics of Self‐Regulation  5
+example, the student studying a textbook may experience greater commitment to study the book or, in 
+general, master the particular body of knowledge, after partially completing the book. In this situation, 
+the student feels that the goal is more valuable and attainable following initial successful pursuit. For 
+example, she feels that learning to speak Hebrew is an important part of her identity. The 
+representation of goals in terms of making progress versus expressing commitment then determines the 
+pattern of self‐regulation a person follows when he or she simultaneously holds multiple goals. 
+Progressed‐Based Balancing 
+In a progress representation, an initial goal‐congruent action is experienced as partial 
+attainment of the end state. As a result, a person feels justified in relaxing his or her efforts toward this 
+particular end state and, instead, attends to other, relatively neglected goals. This pattern of self‐
+regulation reflects balancing, a dynamic in which the pursuit of one goal motivates a person to relax his 
+or her efforts at the next opportunity whereas failure to pursue a goal motivates a person to increase his 
+or her efforts at the next opportunity. 
+As an example of balancing, consider research on variety seeking, which has documented 
+people’s tendency to switch between consumption goals (McAlister & Pessemier, 1982; Ratner, Kahn, & 
+Kahneman, 1999), or moral licensing research (Monin & Miller, 2001), which has documented people’s 
+tendency to switch between expressing egalitarian values and relying on intuitive (stereotypical) 
+judgments. There are further social organizations that advocate balancing as a prevailing self‐regulatory 
+principle. For example, Weight Watchers recommends a “point system” in which dieters can trade off 
+eating and exercising (see http://www.weightwatchers.com/plan/eat/plans.aspx), and Catholicism, as a 
+religious philosophy, advocates balancing between (few) sins and (much) good works. 
+Commitment‐Based Highlighting 
+In a commitment representation, an initial action that is congruent with a goal is indicative of a 
+strong commitment to that goal. Thus, it signals that the goal is valuable and the likelihood of 
+
+The Dynamics of Self‐Regulation  6
+attainment is high. Such interpretation of commitment increases a person’s motivation to take similar, 
+complementary actions and to inhibit any competing goals (Shah, Friedman, & Kruglanski, 2003) to 
+ensure the pursuit of the goal to which he or she is highly committed. The subsequent self‐regulatory 
+process is highlighting, a dynamic of self‐regulation in which the pursuit of one action motivates a 
+person to pursue other, congruent actions that facilitate the same goal because the person is prioritizing 
+this particular goal over others. 
+Research on the goal gradient hypothesis, or the “goal‐looms‐larger” effect, demonstrates a 
+pattern of highlighting, such that people allocate more efforts to a goal after experiencing some initial 
+accomplishment (Forster, Higgins, & Idson, 1998; Forster & Liberman, this volume; Hull, 1934; Kivetz, 
+Urminsky, & Zheng, 2006; Losco & Epstein, 1977). In addition, there are social organizations that 
+advocate highlighting. For example, Alcoholics Anonymous (www.alcoholics‐anonymous.org) is an 
+organization that advocates complete sobriety rather than establishing drinking habits that balance the 
+amount of alcohol consumed. Similarly, Calvinism, as a religious philosophy, preaches a life of good 
+works exclusively rather than balancing sins with the pursuit of good works. 
+Figure 1 summarizes our model. The representation of goals in terms of progress toward a 
+desirable end state increases the tendency to move away from that goal after initial pursuit and to 
+attend to competing motives through a dynamic of balancing. The representation of goals in terms of 
+commitment to a desirable end state increases the tendency to highlight the goal by selecting congruent 
+actions that pursue the same goal after the initial pursuit. As a result, the same action can have opposite 
+consequences. For example, applying sunscreen decreases the likelihood of wearing a sunhat when it 
+signals that progress has been made toward the overall goal of preventing sun damage, but the same 
+action can increase the likelihood of wearing a sunhat when it signals greater commitment to preventing 
+sun damage.  
+
+The Dynamics of Self‐Regulation  7
+In addition, after failing to pursue an initial goal action, inferences of low progress increase 
+people’s interest in similar, complementary actions, whereas inferences of low commitment decrease 
+people’s interest in such actions. For example, failing to apply sunscreen increases the likelihood of 
+wearing a sunhat when it signals low progress toward the health goal, but it decreases the likelihood of 
+wearing a sunhat when it signals low commitment to that goal. Notably, then, a progress frame results 
+in substitution between actions through balancing, whereas a commitment frame results in consistency 
+between actions through highlighting. 
+In summary, two factors increase people’s motivation to work on a goal: the perception of a lack 
+of goal progress, which is based on lack of goal actions, and the perception of goal commitment, which 
+is based on completed goal actions. In addition, two factors undermine people’s motivation to work on a 
+goal: the perception of low commitment, which is based on lack of goal actions, and the perception of 
+sufficient progress, which is based on completed goal actions. 
+Empirical Support 
+Fishbach and Dhar (2005) conducted a series of studies to test whether the same action can 
+both increase and decrease the motivation to choose another goal‐congruent action, depending on 
+whether a person infers goal commitment or goal progress. In one study, they manipulated the 
+representation of goal actions by asking participants questions that focused their attention on the 
+commitment to or progress toward pursuit of their goals. Participants then indicated their motivation to 
+balance between the focal goal and another, competing goal, or highlight the focal goal across 
+successive actions. For example, with regard to academic goals, student participants indicated whether 
+they felt committed to academic tasks whenever they studied versus whether they believed that they 
+made progress on their academic tasks whenever they studied. Participants who viewed their sense of 
+commitment as a result of their actions further indicated that they would be unlikely to socialize at night 
+(an incongruent activity with studying) given that they studied during the day, whereas those who 
+
+The Dynamics of Self‐Regulation  8
+viewed their sense of progress as a result of their actions indicated that they would be interested in 
+socializing at night if they studied during the day. These effects were replicated across several goal 
+domains, such as saving money and preventing sun damage (Fishbach & Dhar, 2005, Study 3), suggesting 
+that the focus on commitment versus progress promoted a subsequent choice of actions that 
+highlighted the focal goal versus balanced between that goal and alternative ones. 
+Other studies documented the effect of planned, future goal actions on the choice of present 
+actions as a function of the dynamic of self‐regulation. Specifically, Zhang et al. (2007) hypothesized that 
+planned actions should have a similar effect as completed actions; that is, they can either signal greater 
+commitment or competence (Atkinson, 1964; Bandura, 1997; Taylor & Brown, 1988; Weiner, 1979), 
+which promotes similar goal pursuits in the present, or they can signal progress and substitute for 
+present actions (Oettingen & Mayer, 2002). Moreover, because the effect of planned actions is in direct 
+proportion to the amount of goal pursuit considered, when people are overly optimistic and believe that 
+they will achieve more in the future than in the past (Buehler, Griffin, & Ross, 1994; Weinstein, 1989; 
+Zauberman & Lynch, 2005), future plans should have greater impact on immediate goal pursuits than 
+retrospection on actual past actions. 
+In a study that supports these predictions, Zhang et al. (2007, Study 1) assessed gym users’ 
+interest in a healthful drink (i.e., a bottle of water) over an unhealthful drink (i.e., a can of sugared soda), 
+after considering past versus future workouts. The researchers find that, in general, gym users are 
+optimistic and believe that they will work out more in the future than they did during a comparable 
+period in the past. As a result, gym users who considered their commitment to exercise based on future 
+plans expressed more interest in a healthful drink than those who considered their commitment based 
+on exercising habits in the past. Conversely, gym users who considered their progress based on future 
+plans expressed less interest in a healthful drink than those who focused on their progress based on 
+exercising in the past (see Figure 2). 
+
+The Dynamics of Self‐Regulation  9
+What Determines the Dynamics of Self‐Regulation? 
+The previous section identified two dynamics of self‐regulation: commitment‐based balancing 
+and progress‐based highlighting. In these dynamics, people make present choices to pursue a goal on 
+the basis of either past or future goal pursuits. In this section, I ask what makes people represent goals 
+in terms of commitment or progress in the first place? I propose that the representation of goals and the 
+resultant dynamic of self‐regulation depend on (a) the information the person seeks – whether it 
+concerns commitment or ensuring that sufficient progress is being made and (b) the information that is 
+in the presentation of action alternatives—whether it suggests that the alternatives substitute for or 
+complement each other. 
+The Information the Perceiver Seeks 
+Research on the dynamics of self‐regulation has often used framing questions to direct people’s 
+attention to the progress versus commitment from their goal actions. For example, in prior studies, to 
+induce a progress frame of the health goal, my colleagues and I asked gym users to indicate whether 
+they were getting healthier, and to induce a commitment frame of that goal, we asked them to indicate 
+whether exercising was important to them (Fishbach & Dhar, 2005; Zhang et al., 2007). But how do 
+these framing questions work? We assume that people ask themselves these questions; that is “Am I 
+making progress?” or “Is it important to me?” To provide an answer, they need to focus on a certain 
+aspect of their goal pursuits—namely, either progress or commitment.  
+However, there are other variables that determine whether people will ask about commitment 
+or progress and the resultant dynamic of self‐regulation. These include the type of the goal (i.e., 
+whether it is typically represented in terms of commitment or progress) and the person’s experience 
+pursuing it.  
+Specifically, people ask about goal commitment when their commitment is somewhat 
+ambiguous⎯that is, uncertain or relatively low. When people feel unsure about their level of goal 
+
+The Dynamics of Self‐Regulation  10
+commitment, their primary concern is to evaluate whether the goal is important to them and worth 
+pursuing further, and they infer greater commitment on the basis of accomplished goal actions. For 
+example, whether people perceive goal commitment would influence their decision to donate money to 
+a novel (vs. familiar) charity or to study for a moderately (vs. highly) important course. When 
+commitment is under consideration, in such situations, accomplished actions increase the motivation to 
+work on a goal through a dynamic of highlighting. For example, emphasizing the amount of money that 
+has been donated to date or the amount of completed coursework would be more motivating than 
+emphasizing the amount of money that is still missing or the amount of remaining coursework. 
+In contrast, people ask about goal progress when they are relatively certain about their 
+commitment to a goal. When a goal is unambiguously important and expectancy of attainment is 
+known, a person’s motivation is based on inferences of need for progress (see Brunstein & Gollwitzer, 
+1996; Wicklund & Gollwitzer, 1982). As such, emphasizing unaccomplished goal actions or actions that 
+pursue a competing goal would be more motivating through a dynamic of balancing. For example, a 
+need for progress should be motivating when people are deciding whether to donate money to a 
+familiar and valuable charity or when they are studying for a highly (vs. moderately) important course. In 
+these situations, the focus on the amount of money that is needed to reach a campaign goal and the 
+remaining work to complete a course will be more motivating than information about accomplishments. 
+Koo and Fishbach (2008) tested for these ideas in a series of studies that manipulated the level 
+of initial commitment and the focus on what had already been accomplished (to date) versus what 
+remained to be accomplished (to go). Their studies used goals with a clear end state, and thus any 
+accomplishment (e.g., 50% to date) could be framed as a required accomplishment (e.g., 50% to go) 
+without altering the objective information. The question was which emphasis is more motivating. Koo 
+and Fishbach predicted that the relative impact of to‐date versus to‐go information would depend on a 
+person’s commitment certainty. That is, a 50% to‐date frame signals commitment and will increase 
+
+The Dynamics of Self‐Regulation  11
+motivation when people are not certain about their commitment to their goal and ponder the value of 
+the goal and expectancy of success. In contrast, a 50% to‐go frame signals a need for progress and will 
+be more motivating when people ask whether more progress is needed to attain their goal. 
+In an experiment that tested these predictions (Koo & Fishbach, 2008, Study 1), undergraduate 
+student participants assigned study time and effort to a core‐course exam, to which their commitment 
+was certain and relatively high, or to an elective‐course exam, to which their commitment was uncertain 
+and relatively low. These students further focused their attention on either the 50% exam materials that 
+they had covered to date versus the exam materials they had not yet covered. It was found that for an 
+elective‐course exam, to which commitment was uncertain, emphasizing the accomplishment to date 
+(vs. to go) increased students’ motivation to study, as assessed by the time and effort that participants 
+were willing to put into studying. However, for a core‐course exam, emphasizing the actions to go (vs. to 
+date) increased the motivation to study (Figure 3). Apparently, emphasizing completed (vs. remaining) 
+actions increased the motivation to adhere to a goal when commitment was uncertain by signaling that 
+the goal was important. These uncommitted students followed a dynamic of highlighting and chose to 
+study because they had completed some coursework. In contrast, emphasizing remaining (vs. 
+completed) actions increased the motivation to adhere to a goal when commitment was certain by 
+signaling a need for progress. These committed participants followed a dynamic of balancing and chose 
+to study because they had remaining coursework that they had not yet completed. 
+Goal research often focuses on self‐regulation toward personal goals, such as pursuing academic 
+and health goals. However, similar processes should affect the regulation of group goals, which require a 
+group of people to invest their resources toward a common goal⎯for example, when raising 
+contributions for a charity. In such situations, a person’s motivation to invest resources can depend on 
+others’ contributions or lack of contributions and what is missing to complete the goal. In addition, 
+social agents choose to emphasize contributions or a lack of contributions as part of their persuasive 
+
+The Dynamics of Self‐Regulation  12
+appeal. For example, fundraisers present information about the amount of donations they have 
+received thus far (i.e., seed money) or money that is still required to complete the fundraising goal. 
+People’s motivation to invest resources in a social goal should follow the same basic dynamics as the 
+motivation to work on a personal goal. That is, if they ask about their level of commitment, they are 
+more likely to invest resource if they consider others’ contributions versus the lack of contributions 
+because current contributions signify that the goal is important. However, if people ask about the level 
+of progress toward the social goal, they are more likely to invest resources if they consider the lack of 
+contribution because it signifies that more progress is required to achieve the goal. 
+To demonstrate effects on a group goal, Koo and Fishbach (2008, Study 4) conducted a field 
+study with the collaboration of Compassion Korea, a charity organization dedicated to helping children 
+in developing countries. As part of their study, Compassion initiated a campaign to help AIDS orphans in 
+Africa. The solicited population included regular donors, who were making monthly donations of $35 to 
+this charity (“hot list”), and new donors, who indicated their interest but had not yet made any 
+contribution (“cold list”). The two groups varied in terms of their commitment certainty, which was 
+higher for those on the hot list. The solicitation letter indicated that Compassion set a goal to raise 10 
+million won (approximately US$10,000) to help AIDS orphans in Africa and that approximately half of 
+the money had already been raised through various channels. Depending on the experimental condition, 
+half of the participants received a solicitation letter that emphasized the contributions to date (50%), 
+and the other half received a letter that emphasized the required contributions to complete the 
+campaign goal (again, 50%). 
+The results showed that among first‐time donors, whose commitment was uncertain, an 
+emphasis on accomplished contributions (50% to date) increased the frequency and the average 
+amount of donations more than an emphasis on required contributions (50% to go). This pattern reflects 
+a dynamic of highlighting because a person’s contribution increased if others contributed. In contrast, 
+
+The Dynamics of Self‐Regulation  13
+among regular donors, whose commitment was certain, an emphasis on unaccomplished actions (50% 
+to go) increased frequency and the average amount of donations more than an emphasis on 
+accomplished actions (50% to date). This pattern reflects a dynamic of balancing because a person’s 
+contribution increased if others did not contribute (see Figure 4 for the frequency data). 
+In summary, research on the information that the perceiver seeks shows that a person’s 
+commitment certainty determines his or her dynamic of self‐regulation. When commitment is uncertain, 
+people ask about commitment and follow a dynamic of highlighting the focal goal. As a result, the focus 
+on completed actions to date increases self‐regulatory effort more than the focus on remaining actions 
+to go. When, however, commitment is certain, people ask about progress and follow a dynamic of 
+balancing between progress toward the focal goal and attending to other goals. Then, the focus on 
+remaining actions to go increases self‐regulatory effort more than the focus on completed actions to 
+date.  
+The Information in the Goal Actions 
+The information that the perceiver seeks influences the dynamic of self‐regulation. In addition, 
+the characteristics of the situation influence the dynamic of self‐regulation that people choose to follow. 
+One such characteristic is the relative saliency of a concrete goal action versus the abstract, overall goal. 
+Some choice situations emphasize the concrete actions, whereas others emphasize the overall goals 
+(Trope & Liberman, 2003; Vallacher & Wegner, 1987). This emphasis influences the representation of 
+goals and the resultant dynamic of self‐regulation. Specifically, when an overall goal is salient, people 
+tend to represent goal actions in terms of commitment to the overall goal and highlight that goal, but 
+when the overall goal is not salient, people tend to represent goal actions in terms of progress on a 
+specific action and balance between the overall goal and other ones. 
+In a study that tested this idea, Fishbach et al. (2006, Study 3) assessed participants’ motivation 
+to work on an academic achievement task after successfully completing, or not, a similar task. 
+
+The Dynamics of Self‐Regulation  14
+Participants completed two independent scrambled‐sentence tasks that represented two subgoals 
+toward an academic achievement goal. After completing the first task, they received bogus feedback on 
+their low or high success; then, their persistence on a second, similar task was assessed. Notably, unlike 
+the first task, the second task had no correct solutions, and thus task motivation could be inferred by the 
+time participants persisted on this frustrating task (Muraven, Tice, & Baumeister, 1998). This study 
+found that when the focus was on the concrete action itself, success on the first task signaled progress 
+and substituted for exerting effort on the second task, such that participants quitted earlier after high 
+(vs. low) success. However, when the overall achievement goal was primed during the first task (Bargh & 
+Chartrand, 2000; Srull & Wyer, 1979), success on the first task signaled commitment and reinforced 
+participants’ motivation to exert more effort on the second task, and indeed participants persisted 
+longer after high (vs. low) success (see Figure 5). Further studies found that in addition to the 
+accessibility of an overall goal, merely considering goal pursuits that are temporally distant, and 
+therefore are represented in terms of more abstract goals (e.g., Trope & Liberman, 2003), resulted in a 
+commitment (vs. progress) representation of goal actions and highlighting the same goal in successive 
+choices (Fishbach et al. 2006; Study 4; see also Zhang et al. 2007, Study 4). 
+Complementing Versus Competing Actions 
+In addition to the relative accessibility of the overall goal, another factor that influences the 
+dynamic of self‐regulation refers to the presentation of choice alternatives that pertain to different 
+underlying goals as either complementing each other or competing with each other. Whereas people 
+balance between complementing choice alternatives, they highlight the better alternative among 
+competing choice alternatives.  
+Specifically, when alternatives pertaining to different goals coexist, they can be included either 
+in one unified choice set or in two separate choice sets. These presentation formats—together or 
+apart—convey the impression that the items included either complement each other or compete with 
+
+The Dynamics of Self‐Regulation  15
+each other. When items appear together they seem to complement each other, and the resultant 
+dynamic is one of balancing, whereas when items appear apart they seem to compete with each other, 
+the resultant dynamic is one of highlighting (e.g., fruits and candies). For example, the presentation of 
+healthful and unhealthful food items together on the same plate activates the perception that these 
+items complement each other, and balancing is desirable. The presentation of these items in two 
+separate plates activates the perception that these items compete with each other, and highlighting is 
+desirable. 
+The perception of choice items as competing with or complementing each other has unique 
+consequences for self‐control conflicts and the pattern of self‐regulation among goals and temptations. 
+In a self‐control conflict, one goal is high order and offers delayed but larger benefits, and the other, 
+“temptation goal” is low order and offers immediate but smaller benefits (Ainslie, 1992; Baumeister, 
+Heatherton, & Tice, 1994; Kivetz & Simonson, 2002; Loewenstein, 1996; Metcalfe & Mischel, 1999; 
+Rachlin, 2000; Thaler, 1991; Trope & Fishbach, 2000). For example, studying offers delayed benefits and 
+procrastinating offers immediate, yet smaller benefits. In this conflict, highlighting entails that a person 
+persistently chooses goal items and expresses a positive evaluation of them because the goal is more 
+valuable in the long run. Balancing produces the opposite pattern of evaluation and choice, such that 
+the immediate choice and value of tempting options increase relative to the goal. The reason is that 
+under a balancing dynamic, the sequence of “first temptation, then goal” offers greater total benefits 
+than “first goal, then temptation.” That is, people can expect to maximize what they attain from both by 
+expressing an immediate preference for a tempting option and an intention to choose a goal option at 
+the next opportunity. As such, they capture the value of the temptation in the present and expect to 
+obtain the value of the goal in the future. 
+Fishbach and Zhang (2008) conducted a series of studies to test whether goal and temptation 
+items that are presented apart (i.e., in two sets) compete with each other and thus lead to a dynamic of 
+
+The Dynamics of Self‐Regulation  16
+highlighting, such that people express a preference for and positive evaluation of goal items. They also 
+tested whether goal and temptation items that are presented together in the same choice set 
+complement each other and thus lead to a dynamic of balancing between the underlying motivations, 
+such that people express a preference for and positive evaluation of tempting items. In one study, 
+Fishbach and Zhang (2008, Study 3) asked participants to evaluate healthful and unhealthful courses on 
+a restaurant menu (e.g., edamame beans and fruit plate vs. bacon cheeseburger and chocolate mousse). 
+The menu either included all courses together in one section or separated the healthful and unhealthful 
+courses, which were presented apart in two different sections. In another (single) condition, participants 
+evaluated only half of the menu items⎯either healthful or unhealthful⎯and they came back to the lab 
+to evaluate the other half a few days later. The results showed that the relative value of the healthful 
+and unhealthful menu courses depended on presentation format. Although the value of these items was 
+similar when they were evaluated on separate days, presenting the two types of courses together, so 
+that they seemed to complement each other, increased the value of unhealthful courses. Conversely, 
+presenting the two types of courses apart, so that they seemed to compete with each other, increased 
+the value of healthful courses (see Figure 6). 
+In another study, Fishbach and Zhang (2008, Study 5) measured people’s choice of menu 
+courses as a function of the presentation format. In this study, they found that when the options were 
+presented together, the majority of the participants were balancing: they expressed a preference for a 
+tempting, unhealthful entrée for an immediate consumption, and a more healthful dessert for a delayed 
+consumption. However, when the options were presented apart, the majority of the participants were 
+highlighting: they expressed a preference for healthful menu courses for both an immediate entrée and 
+a delayed dessert. Thus, participants balanced between items that seemed to complement each other, 
+and they highlighted goal items when they competed with tempting items. Further studies documented 
+similar patterns on evaluation and choice when participants were evaluating academic versus leisure 
+
+The Dynamics of Self‐Regulation  17
+stimuli (e.g., study book vs. DVDs) or high‐brow versus low‐brow magazines (e.g., The Economist vs. 
+Cosmopolitan); thus, these findings are not unique to food items. 
+The aforementioned studies illustrate that the presentation of choice alternatives can influence 
+a person’s tendency to balance between the underlying goals and temptations or to highlight the most 
+important goal over successive choices that unfold over time. Importantly, in self‐control situations, 
+balancing may imply that a person resolves the conflict in favor of the temptation on each opportunity, 
+while repeatedly postponing selection of goal items to the future. For example, a student can decide to 
+procrastinate today and work on a paper tomorrow and repeat this choice every day, or a smoker can 
+decide to smoke now and forgo smoking in the future and repeat this decision at each opportunity. In 
+such situations, balancing results in self‐control relapses. 
+What is special about these self‐control failures is that people engage in a dynamic of balancing, 
+in which they do not perceive a conflict between goals and temptations. Rather, they perceive an 
+opportunity to give in to temptations in the present and capture the value of the goal in the future. 
+Therefore, these self‐control failures are the result of people’s failure to recognize a self‐control 
+problem. They are different from failures to exercise one’s will, because people do not try to restraint 
+and therefore do not incur the sense of failure (cf., ego depletion effects; Baumeister, this volume; 
+Baumeister, Bratslavsky, Muraven, & Tice, 1998; Vohs, Baumeister, & Ciarocco, 2005; Vohs, Lasaleta and 
+Fennis, this volume). 
+Summary and Conclusions 
+ 
+
+The theory and research on the dynamics of self‐regulation (Fishbach & Dhar, 2005; Fishbach et 
+
+al., 2006; Fishbach & Zhang, 2008; Koo & Fishbach, 2008; Zhang et al., 2007) identify two basic patterns 
+of self‐regulation that people follow when they hold multiple goals: a dynamic of highlighting a single 
+goal, which is based on a commitment representation of goals, and a dynamic of balancing among 
+multiple goals, which is based on a progress representation of goals. First, when goal actions signal that 
+
+The Dynamics of Self‐Regulation  18
+commitment to the goal is high, they reinforce similar choice of actions. Correspondingly, people are 
+less likely to adhere to the goal to the extent that they have not selected goal actions before and infer 
+low commitment. Second, when goal actions signal that progress has been made toward the goal and 
+the discrepancy to goal attainment has been reduced, people relax their efforts. Correspondingly, they 
+are also more likely to adhere to the focal goal if they have not selected other goal actions and 
+experience need to progress. One conclusion is that that both acting on a goal and failing to do so can 
+potentially motivate further actions in pursuit of the goal, depending on the dynamic of self‐regulation 
+(i.e., highlighting vs. balancing). 
+The research reviewed here supports the operation of two dynamics of self‐regulation. This 
+research finds that when an action is indicative of commitment, it promotes similar choices and inhibits 
+competing goals (Shah et al., 2002), but when the same action is indicative of progress, it liberates a 
+person to disengage with the goal and attend to other goals (Khan & Dhar, 2006; Monin & Miller, 2001). 
+Notably, not only do completed actions affect present choice, but future plans also exert similar 
+influences. Thus, in a choice sequence, people choose to adhere to goals in the present after considering 
+completed or planned goal actions, or both. 
+There are several variables that determine the dynamic of self‐regulation that people follow, 
+and they reflect either the information the perceiver seeks or the information that is in the choice 
+situation. First, whether people ask about their level of commitment to the goal versus progress needed 
+for goal attainment, determines the interpretation of goal‐congruent actions as signaling one of the two. 
+When commitment is uncertain, people ask about commitment and they highlight, but when 
+commitment is certain, people ask whether progress has been made and they balance. Second, the 
+dynamic of self‐regulation depends on the information that is in the choice alternatives. When the 
+overall goal is salient, any specific goal action is more likely to signal commitment to the goal than 
+progress toward the goal, and people highlight. But when the specific action is salient, its completion is 
+
+The Dynamics of Self‐Regulation  19
+more likely to signal progress or attainment than commitment, leading people to balance. Moreover, 
+even in the absence of an initial goal action, the presentation of choice alternatives that cue different 
+goals (or goals and temptations) can influence the representation of the underlying goals and the 
+dynamic of self‐regulation. When choice alternatives appear together in a unified choice set, they seem 
+to complement each other and people balance between the underlying goals. In self‐control situations, 
+this dynamic increases the preference for tempting alternatives. When choice alternatives are presented 
+apart in separate choice sets that are organized by the underlying goals, they seem to compete against 
+each other and people highlight the more important goal. This dynamic increases the preference for 
+alternatives that serve high‐order goals. 
+There are some remaining issues that my colleagues and I address in our ongoing study of the 
+dynamics of self‐regulation. First, this theoretical framework has implications for the already‐classic 
+question of what determines people’s level of aspiration (Kruglanski, 1975; Lewin, Dembo, Festinger, & 
+Sears, 1944). Koo and Fishbach (2008) provide some new insights into this classic problem by proposing 
+that in a commitment representation of goals, people adhere to their goal because they derive value 
+from the actual engagement, whereas in a progress representation of goals, people adhere to their goal 
+because they derive value from goal completion and moving on to a more advanced level. For example, 
+in a commitment frame, college students study because they derive satisfaction from expanding their 
+knowledge, whereas in a progress frame, students derive satisfaction from completing their academic 
+requirements, which is a step in developing their professional career. It follows that a progress frame is 
+associated with a higher level of aspiration. Moreover, there should be a trade‐off between the 
+satisfaction from pursuing the goal in a commitment frame and the satisfaction from completing a goal 
+in the progress frame. A progress frame is ultimately associated with a higher level of aspiration, but it 
+should also be associated with extrinsic motivation, focus on goal completion, and receiving the benefits 
+from completing the goal. Conversely, a commitment frame is associated with a lower level of aspiration 
+
+The Dynamics of Self‐Regulation  20
+but greater intrinsic value of the goal itself (Deci & Ryan, 1985; Sansone & Harackiewicz, 2000; Sansone, 
+this volume; Shah & Kruglanski, 2000). 
+This theoretical framework has further implications for mood and self‐regulation and, in 
+particular, when do positive versus negative moods increase the motivation to adhere to a goal. Eyal, 
+Fishbach and Labroo (2008) found that when people attribute their mood to progress toward a goal, 
+positive mood signals that progress has been made more than negative mood, and happy individuals 
+relax their efforts. However, when, people attribute their mood to an unrelated source, mood has the 
+opposite effect. That is, positive mood signals goal commitment more than negative mood, and happy 
+individuals invest more efforts on the goal (see also Fishbach & Labroo, 2007). 
+This theoretical framework is not limited to personal goals. It has implications for group 
+phenomena and what motivates people to join forces with other group members to pursue goals that 
+are subscribed by society, such as environmental issues or helping the poor. Recently, Koo, Fishbach and 
+Henderson (2008) found that people’s motivation to adhere to group goals depends on their level of 
+identification with the group. When people have high levels of identification, they monitor goal progress 
+and therefore, an emphasis on other group members’ lack of (vs. existing) contributions, increases their 
+own contributions through balancing. Conversely, when people have low levels of group identification, 
+they evaluate the commitment to the goal and an emphasis of others’ existing (vs. lack of) contributions 
+signals commitment, thus it increases contributions through highlighting. In general then, this 
+framework has implications for the pursuit of group goals and phenomena such as social loafing and 
+social facilitation.  
+ 
+ 
+
+The Dynamics of Self‐Regulation  21
+References 
+Aarts, H., & Dijksterhuis, A. (2000). Habits as knowledge structures: Automaticity in goal‐directed 
+behavior. Journal of Personality & Social Psychology, 78, 53–63. 
+Aarts, H., Gollwitzer, P. M., & Hassin, R. R. (2004). Goal contagion: Perceiving is for pursuing. Journal of 
+Personality and Social Psychology, 87(1), 23–37. 
+Ainslie, G. (1992). Picoeconomics: The strategic interaction of successive motivational states within the 
+person. Cambridge, England: Cambridge University Press. 
+Atkinson, J. W. (1964). An introduction to motivation. Oxford: Van Nostrand. 
+Atkinson, J. W., & Raynor, J. O. (1978). Personality, motivation, and achievement. New York: Halsted 
+Press. 
+Bandura, A. (1997). Self‐efficacy: The exercise of control. New York: Henry Holt & Co. 
+Bargh, J. A., & Chartrand, T. L. (2000). The mind in the middle: A practical guide to priming and 
+automaticity research. In H. T. Reis & C. M. Judd (Eds.), Handbook of research methods in social 
+and personality psychology (pp. 253–285). New York: Cambridge University Press. 
+Bargh, J. A., Gollwitzer, P. M., Lee‐Chai, A., Barndollar, K., & Troetschel, R. (2001). The automated will: 
+Nonconscious activation and pursuit of behavioral goals. Journal of Personality and Social 
+Psychology, 81, 1014–1027. 
+Baumeister, R. F., Heatherton, T. F., & Tice, D. M. (1994). Losing control: How and why people fail at self‐
+regulation. San Diego: Academic Press. 
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a 
+limited resource? Journal of Personality and Social Psychology, 74(5), 1252–1265. 
+Bem, D. J. (1972). Self‐perception theory. In L. Berkowitz (Ed.), Advances in experimental social 
+psychology (Vol. 6, pp. 1–62). New York: Academic Press. 
+
+The Dynamics of Self‐Regulation  22
+Brunstein, J. C., & Gollwitzer, P. M. (1996). Effects of failure on subsequent performance: The 
+importance of self‐defining goals. Journal of Personality & Social Psychology, 70, 395–407. 
+Buehler, R., Griffin, D., & Ross, M. (1994). Exploring the “planning fallacy”: Why people underestimate 
+their task completion times. Journal of Personality & Social Psychology, 67, 366–381. 
+Cantor, N. and C. A. Langston (1989). Ups and downs of life tasks in a life transition. In L. A. Pervin. Goal 
+concepts in personality and social psychology, (pp. 127‐167). Hillsdale, Erlbaum. 
+Carver, C. S., & Scheier, M. F. (1998). On the self‐regulation of behavior. New York: Cambridge University 
+Press. 
+Chartrand, T. L., & Bargh, J. A. (1996). Automatic activation of impression formation and memorization 
+goals: Nonconscious goal priming reproduces the effects of explicit task instructions. Journal of 
+Personality and Social Psychology, 71, 464–478. 
+Cialdini, R. B., Trost, M. R., & Newsom, J. T. (1995). Preference for consistency: The development of a 
+valid measure and the discovery of surprising behavioral implications. Journal of Personality and 
+Social Psychology, 69, 318–328. 
+Deci, E. L., & Ryan, R. (1985). Intrinsic motivation and self‐determination in human behavior. New‐York: 
+Plenum. 
+Emmons, R. A., & King, L. A. (1988). Conflict among personal strivings: Immediate and long‐term 
+implications for psychological and physical well‐being. Journal of Personality & Social 
+Psychology, 54, 1040–1048. 
+Eyal, T., Fishbach, A., & Labroo A. L. (2008), When mood cues goal progress versus goal adoption: A 
+matter of (mis)attribution, Unpublished Manuscript, University of Chicago.  
+Feather, N. T. (1990). Bridging the gap between values and actions: Recent applications of the 
+expectancy‐value model. In E. T. Higgins & R. M. Sorrentino (Eds.), Handbook of motivation and 
+cognition: Foundations of social behavior (Vol. 2, pp. 151–192). New York: Guilford Press. 
+
+The Dynamics of Self‐Regulation  23
+Ferguson, M. J., & Bargh, J. A. (2004). Liking is for doing: The effects of goal pursuit on automatic 
+evaluation. Journal of Personality & Social Psychology, 87, 557–572. 
+Fishbach, A., & Dhar, R. (2005). Goals as excuses or guides: The liberating effect of perceived goal 
+progress on choice. Journal of Consumer Research, 32, 370–377. 
+Fishbach, A., Dhar, R., & Zhang, Y. (2006). Subgoals as substitutes or complements: The role of goal 
+accessibility. Journal of Personality and Social Psychology, 91, 232–242. 
+Fishbach, A., & Ferguson, M. F. (2007). The goal construct in social psychology. In A. W. Kruglanski & T. E. 
+Higgins (Eds.), Social psychology: Handbook of basic principles (pp. 490–515). New York: Guilford 
+Press. 
+Fishbach, A., & Labroo, A. (2007). Be better or be merry: How mood affects self‐control. Journal of 
+Personality and Social Psychology, 93, 158–173. 
+Fishbach, A., & Zhang, Y. (2008). Together or apart: When goals and temptations complement versus 
+compete. Journal of Personality and Social Psychology, 94, 547‐559. 
+Forster, J., Higgins, E., & Idson, L. C. (1998). Approach and avoidance strength during goal attainment: 
+Regulatory focus and the “goal looms larger” effect. Journal of Personality and Social 
+Psychology, 75(5), 1115–1131. 
+Gollwitzer, P. M. (1990). Action phases and mind‐sets. In E. T. Higgins & R. M. Sorrentino (Eds.), 
+Handbook of motivation and cognition: Foundations of social behavior (Vol. 2, pp. 53–92). New 
+York: Guilford Press. 
+Higgins, T. E. (1997). Beyond pleasure and pain. American Psychologist, 52, 1280–1300. 
+Hull, C. L. (1934). The rat's speed‐of‐locomotion gradient in the approach to food. Journal of comparative 
+psychology 17, 393–422. 
+Khan, U., & Dhar, R. (2006). Licensing effect in consumer choice. Journal of Marketing Research, 43, 
+259–266 
+
+The Dynamics of Self‐Regulation  24
+Kivetz, R. and I. Simonson (2002). Self‐control for the righteous: Toward a theory of precommitment to 
+indulgence. Journal of Consumer Research, 29, 199‐217. 
+Kivetz, R., Urminsky, O., & Zheng, Y. (2006). The goal‐gradient hypothesis resurrected: Purchase 
+acceleration, illusionary goal progress, and customer retention. Journal of Marketing Research, 
+43, 39–58. 
+Koo, M., & Fishbach, A. (2008). Dynamics of self‐regulation: How (un)accomplished goal actions affect 
+motivation. Journal of Personality and Social Psychology, 94, 183‐195. 
+Koo, M., & Fishbach, A. (2008). The tradeoff between level of aspiration and value. Unpublished 
+Manuscript, University of Chicago 
+Koo, M., & Fishbach, A., & Henderson (2008). How group identification influences the motivation for goal 
+pursuit. Unpublished Manuscript, University of Chicago. 
+Kruglanski, A. W. (1975). The endogenous‐exogenous partition in attribution theory. Psychological 
+Review, 82(6), 387–406. 
+Kruglanski, A. W. (1996). Goals as knowledge structures. In P. M. Gollwitzer & J. A. Bargh (Eds.), The 
+psychology of action: Linking cognition and motivation to behavior (pp. 599–618). New York: 
+Guilford Press. 
+Kruglanski, A. W., Shah, J. Y., Fishbach, A., Friedman, R., Chun, W. Y., & Sleeth‐Keppler, D. (2002). A 
+theory of goal systems. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 34, 
+pp. 331–378), San Diego, Academic Press. 
+Lewin, K., Dembo, T., Festinger, L., & Sears, P. S. (1944). Level of aspiration. In J. M. Hunt (Ed.), 
+Personality and the behavior disorders (Vol. 1, pp. 333–378). New York: Ronald Press. 
+Locke, E. A., & Latham, G. P. (1990). A theory of goal setting & task performance. Upper Saddle River, NJ: 
+Prentice Hall. 
+
+The Dynamics of Self‐Regulation  25
+Loewenstein, G. (1996). Out of control: Visceral influences on behavior. Organizational Behavior & 
+Human Decision Processes, 65, 272–292. 
+Losco, J., & Epstein, S. (1977). Relative steepness of approach and avoidance gradients as a function of 
+magnitude and valence of incentive. Journal of abnormal psychology, 86, 360–368. 
+Markus, H., & Ruvolo, A. (1989). Possible selves: Personalized representations of goals. In L. A. Pervin 
+(Ed.), Goal concepts in personality and social psychology (pp. 211–241). Hillsdale, NJ: Lawrence 
+Erlbaum. 
+McAlister, L., & Pessemier, E. (1982). Variety seeking behavior: An interdisciplinary review. Journal of 
+Consumer Research, 9(3), 311–322. 
+Metcalfe, J., & Mischel, W. (1999). A hot/cool‐system analysis of delay of gratification: Dynamics of 
+willpower. Psychological Review, 106, 3–19. 
+Miller, G. A., Galanter, E., & Pribram, K. H. (1960). Plans and the structure of behavior. New York: Henry 
+Holt. 
+Mischel, W., Cantor, N., & Feldman, S. (1996). Principles of self‐regulation: The nature of willpower and 
+self‐control. In E. T. Higgins & A. W. Kruglanski (Eds.), Social psychology: Handbook of basic 
+principles (pp. 329–360). New York: Guilford Press. 
+Monin, B., & Miller, D. T. (2001). Moral credentials and the expression of prejudice. Journal of 
+Personality and Social Psychology, 81, 33–43. 
+Moskowitz, G. B. (2002). Preconscious effects of temporary goals on attention. Journal of Experimental 
+Social Psychology, 38, 397–404. 
+Muraven, M., Tice, D. M., & Baumeister, R. F. (1998). Self‐control as a limited resource: Regulatory 
+depletion patterns. Journal of Personality and Social Psychology, 74, 774–789. 
+Oettingen, G., & Mayer, D. (2002). The motivating function of thinking about the future: Expectations 
+versus fantasies. Journal of Personality & Social Psychology, 83, 1198–1212. 
+
+The Dynamics of Self‐Regulation  26
+Powers, W. T. (1973). Behavior: The control of perception. Oxford: Aldine. 
+Read, D., Loewenstein, G., & Rabin, M. (1999). Choice bracketing. Journal of Risk and Uncertainty, 19, 
+171–197. 
+Rachlin, H. (1997). Self and self‐control. In J. G. Snodgrass & R. L. Thompson (Eds.), The self across 
+psychology: Self‐recognition, self‐awareness, and the self concept. Annals of the New York 
+Academy of Sciences (Vol. 818, pp. 85–97). New York: New York Academy of Sciences. 
+Ratner, R. K., Kahn, B. E., & Kahneman, D. (1999). Choosing less‐preferred experiences for the sake of 
+variety. Journal of Consumer Research, 26(1), 1–15. 
+ Sansone, C. and J. M. Harackiewicz, Eds. (2000). Intrinsic and extrinsic motivation: The search for 
+optimal motivation and performance. New York, Academic Press. 
+Shah, J. Y., Friedman, R., & Kruglanski, A. W. (2002). Forgetting all else: On the antecedents and 
+consequences of goal shielding. Journal of Personality & Social Psychology, 83, 1261–1280. 
+Shah, J. Y., & Kruglanski, A. W. (2000). The structure and substance of intrinsic motivation. In C. Sansone 
+& J. M. Harackiewicz (Eds.), Intrinsic and extrinsic motivation: The search for optimal motivation 
+and performance (pp. 105–127). New York: Academic Press. 
+Shah, J. Y., & Kruglanski, A. W. (2003). When opportunity knocks: Bottom‐up priming of goals by means 
+and its effects on self‐regulation. Journal of Personality and Social Psychology, 84(6), 1109–1122. 
+Simonson, I. (1990). The effect of purchase quantity and timing on variety‐seeking behavior. Journal of 
+Marketing Research, 27(2), 150–162. 
+Srull, T. K., & Wyer, R. S. (1979). The role of category accessibility in the interpretation of information 
+about persons: Some determinants and implications. Journal of Personality and Social 
+Psychology, 37, 1660–1672. 
+Taylor, S. E., & Brown, J. D. (1988). Illusion and well‐being: A social psychological perspective on mental 
+health. Psychological Bulletin, 103, 193–210. 
+
+The Dynamics of Self‐Regulation  27
+Thaler, R. H. (1991). Quasi rational economics. New York: Russel Sage Foundation. 
+Trope, Y., & Fishbach, A. (2000). Counteractive self‐control in overcoming temptation. Journal of 
+Personality and Social Psychology, 79, 493–506. 
+Trope, Y., & Liberman, N. (2003). Temporal construal. Psychological Review, 110, 403–421. 
+Vallacher, R. R., & Wegner, D. M. (1987). A theory of action identification. Hillsdale, NJ: Erlbaum. 
+Vohs, K. D., Baumeister, R. F., & Ciarocco, N. J. (2005). Self‐regulation and self‐presentation: Regulatory 
+resource depletion impairs impression management and effortful self‐presentation depletes 
+regulatory resources. Journal of Personality and Social Psychology, 88(4), 632–657. 
+Weiner, B. (1979). A theory of motivation for some classroom experiences. Journal of Educational 
+Psychology, 71, 3–25. 
+Weinstein, N. D. (1989). Optimistic biases about personal risks. Science, 246, 1232–1233. 
+Wicklund, R. A., & Gollwitzer, P. M. (1982). Symbolic self‐completion. Hillsdale, NJ: Erlbaum. 
+Zauberman, G., & Lynch, J. G., Jr. (2005). Resource slack and propensity to discount delayed investments 
+of time versus money. Journal of Experimental Psychology: General, 134, 23–37. 
+Zhang, Y., Fishbach, A., & Dhar, R. (2007). When thinking beats doing: The role of optimistic expectations 
+in goal‐based choice. Journal of Consumer Research, 34, 567–578. 
+
+The Dynamics of Self‐Regulation  28
+ 
+
+Goal Progress
+
+Balancing between a focal
+goal and alternative
+goals
+
+Goal Commitment
+
+Highlighting a focal goal
+and inhibiting alternative
+goals
+
+ 
+ 
+Figure 1: The dynamics of self‐regulation 
+
+ 
+
+The Dynamics of Self‐Regulation  29
+ 
+ 
+ 
+ 
+ 
+
+Percentage of Water‐Choosers 
+
+Past
+
+Future 
+
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+ 
+ 
+
+Progress
+Commitment
+Action Framing
+
+ 
+
+Figure 2: Choice of drinks (spring water vs. sugar soda) as a function of time focus and action framing 
+
+The Dynamics of Self‐Regulation  30
+ 
+
+To‐Date
+
+To‐Go
+
+1.5
+
+Motivation to Study
+
+1
+0.5
+0
+-0.5
+-1
+-1.5
+
+Core Course
+
+Elective Course
+ 
+
+Figure 3: Motivation to study (time and effort Z‐score) as a function of commitment (certain: core; 
+uncertain: elective) and focus on to‐date versus to‐go information 
+
+The Dynamics of Self‐Regulation  31
+ 
+ 
+
+To‐Date
+
+To‐Go
+
+Frequency of Contribution
+
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+Cold List
+
+Hot List
+ 
+
+Figure 4: Charity contribution as a function of commitment certainty (cold list vs. hot list) and focus on 
+to‐date versus to‐go information 
+Note. 100% of hot‐list participants continued their monthly donations during the campaign period  
+ 
+
+The Dynamics of Self‐Regulation  32
+ 
+ 
+
+Low Success
+
+High Success
+
+12
+
+Persistence (Min)
+
+11
+10
+9
+8
+7
+6
+5
+Low
+High
+Accessibility of Achievement
+
+ 
+
+Figure 5: Persistence on unsolvable test as a function of success on an initial test and accessibility of 
+overall achievement goal 
+ 
+
+The Dynamics of Self‐Regulation  33
+ 
+
+Healthful Courses
+
+Unhealthful Courses
+
+5
+
+Perceived Value
+
+4.5
+4
+3.5
+3
+2.5
+2
+Together
+
+Single
+
+Apart
+
+Presentation Format
+ 
+Figure 6: Perceived value of healthful and unhealthful menu courses as a function of presentation 
+format 
+ 
+
+
