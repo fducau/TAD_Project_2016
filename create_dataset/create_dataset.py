@@ -28,7 +28,7 @@ def main():
     #Drop complete column
     ds_complete.drop('complete', inplace=True, axis=1)
     #Change yes, no with 1, 0
-    mapping_dict = {'yes':1, 'no':0}
+    mapping_dict = {'yes':1, 'no':0, 'Yes':1, 'No':0}
     ds_complete = ds_complete.replace({'replicate':mapping_dict})
     #Save clean dataset
     ds_complete.to_csv('replication_dataset.csv', sep='\t')
