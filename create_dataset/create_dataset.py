@@ -15,10 +15,10 @@ def remove_not_completed(ds):
     return ds
 
 
-
 def main():
 
     #Load dataset
+    #downloaded from https://osf.io/yt3gq/
     ds = pd.read_csv('./rpp_data_updates.csv', index_col=0, sep=',')
 
     necessary_columns = ["Study Title (O)","Replicate (R)","Completion (R)"]
