@@ -1,5 +1,6 @@
 import pandas as pd 
 import numpy as np 
+from sklearn.cross_validation import train_test_split
 
 
 
@@ -13,6 +14,10 @@ def col_renamer(data_frame):
 def remove_not_completed(ds):
     ds = ds[ds.complete == 1]
     return ds
+
+def split_train_test(ds):
+
+
 
 
 def main():
@@ -30,8 +35,15 @@ def main():
     #Change yes, no with 1, 0
     mapping_dict = {'yes':1, 'no':0, 'Yes':1, 'No':0}
     ds_complete = ds_complete.replace({'replicate':mapping_dict})
+    
+    #Remove duplicated entries
+    duplicated = [50, 149]
+    ds_complete = ds_complete.drop(duplicated)
+    train, test = train_test_split(ds_complete, train_size=0.8)
+
     #Save clean dataset
-    ds_complete.to_csv('replication_dataset.csv', sep='\t')
+    train.to_csv('train.csv', sep='\t')
+    train.to_csv('test.csv', sep='\t')
 
 
 
