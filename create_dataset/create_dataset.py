@@ -15,7 +15,7 @@ def remove_not_completed(ds):
     ds = ds[ds.complete == 1]
     return ds
 
-def split_train_test(ds):
+
 
 
 
