@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>c6c6976dfe919ace3ffbd4c95ac4e66841b33f94347c8adf6432422a143b533a</job>
+    <base_name>1a</base_name>
+    <doi>http://dx.doi.org/10.1111/j.1467-9280.2008.02227.x</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">PS YC HOLOGICA L SC IENCE</outsider>
+      <region class="unknown" id="2">Research Report</region>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">With a Clean Conscience</article-title>
+      </title-group>
+      <region class="unknown" id="4">Cleanliness Reduces the Severity of Moral Judgments Simone Schnall, Jennifer Benton, and Sophie Harvey University of Plymouth</region>
+      <abstract class="DoCO:Abstract" id="5">ABSTRACT— Theories of moral judgment have long empha- sized reasoning and conscious thought while downplaying the role of intuitive and contextual influences. However, recent research has demonstrated that incidental feelings of disgust can influence moral judgments and make them more severe. This study involved two experiments demonstrating that the reverse effect can occur when the notion of physical purity is made salient, thus making moral judgments less severe. After having the cognitive concept of cleanliness activated (Experiment 1) or after physically cleansing themselves after experiencing disgust (Experiment 2), participants found certain moral actions to be less wrong than did participants who had not been exposed to a cleanliness manipulation. The findings support the idea that moral judgment can be driven by intuitive processes, rather than deliberate reasoning. One of those intuitions appears to be physical purity, because it has a strong connection to moral purity.</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="10" page="1" column="1">Many cultures equate physical cleanliness with moral and spir- itual purity. For example, many religious practices require that one first engage in physical cleansing, such as washing parts of one’s body. Haidt and colleagues (e.g., <xref ref-type="bibr" rid="R4" id="6" class="deo:Reference">Haidt &amp; Joseph, 2008</xref>) have proposed that the notion of purity constitutes a basic moral intuition that developed from the need to safeguard oneself from potentially harmful substances. According to this approach, disgust evolved as an emotion to protect the body from germs, parasites, and spoilt food, but it was then extended to social and moral domains (Rozin, Haidt, &amp; <xref ref-type="bibr" rid="R14" id="7" class="deo:Reference">McCauley, 2000</xref>). As a conse- quence, people often report finding immoral acts disgusting. Indeed, similar neural structures appear to be involved in the experience of physical and moral disgust (<xref ref-type="bibr" rid="R10" id="8" class="deo:Reference">Moll et al., 2005</xref>). Recent studies have demonstrated that experimentally induced feelings of disgust can attach themselves to moral judgments, leading the person to conclude that a particular moral action is quite wrong (Schnall, Haidt, Clore, &amp; <xref ref-type="bibr" rid="R15" id="9" class="deo:Reference">Jordan, 2008</xref>; see</region>
+      <region class="DoCO:TextChunk" id="12" confidence="possible" page="1" column="1">Address correspondence to Simone Schnall, University of Plymouth, School of Psychology, Portland Square, Drake Circus, Plymouth, PL4 8AA, United Kingdom, e-mail: <email id="11">simone.schnall@plymouth.ac.uk</email>.</region>
+      <region class="DoCO:TextChunk" id="19" page="1" column="2">also <xref ref-type="bibr" rid="R16" id="13" class="deo:Reference">Wheatley &amp; Haidt, 2005</xref>). Physical disgust was induced by exposure to a bad smell, working in a disgusting room, recalling a physically disgusting experience, or a video induction. In each case, the results showed that disgust can increase the severity of moral judgments in comparison with those made in control conditions, and this effect applied irrespective of whether the action to be judged was itself physically disgusting or not. In contrast to disgust, induced sadness did not influence moral judgments. These studies showed that moral judgments can be based on intuitive emotional feelings rather than on rational reasoning processes (<xref ref-type="bibr" rid="R3" id="14" class="deo:Reference">Haidt, 2001</xref>; <xref ref-type="bibr" rid="R13" id="15" class="deo:Reference">Prinz, 2006</xref>), even when the feeling of disgust was irrelevant to the moral action under consideration. On the flip side of disgust, the association between physical and moral purity in Western cultures was recently demonstrated by <xref ref-type="bibr" rid="R17" id="16" class="deo:Reference">Zhong and Liljenquist (2006)</xref>. After recalling a moral transgres- sion from their own lives, participants were more likely to think of cleansing-related words, and they showed a desire to engage in cleansing behavior. The two experiments reported in this article investigated the reverse relationship: If cleansing behavior can ‘‘wash away one’s sins,’’ as <xref ref-type="bibr" rid="R17" id="17" class="deo:Reference">Zhong and Liljenquist (2006)</xref> demonstrated, then the feeling of cleanliness should reduce the per- ceived seriousness of moral transgressions and also ‘‘wash away other people’s sins.’’ Following research showing that concepts of cleanliness can be primed in subtle ways (Holland, Hendriks, &amp; <xref ref-type="bibr" rid="R8" id="18" class="deo:Reference">Aarts, 2005</xref>), the first experiment activated concepts of cleanliness and asked participants to rate how wrong certain moral actions were. Because the sense of purity from the priming should be misattributed to the moral judgments, it was expected that priming with cleanliness words would reduce the severity of moral judgments more so than would priming with neutral control words.</region>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="20" confidence="possible" page="1" column="2">EXPERIMENT 1</h1>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="21" page="1" column="2">Method</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="22" confidence="possible" page="1" column="2">Participants</h2>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="28" confidence="possible" page="2" column="1">Procedure</h2>
+          <region class="DoCO:TextChunk" id="31" page="2" column="1">Participants, in individual sessions, first completed a scram- bled-sentences task (adapted from <xref ref-type="bibr" rid="R2" id="29" class="deo:Reference">Costin, 1969</xref>) involving 40 sets of four words each. By underlining any three words in a set, a sentence could be formed. For the neutral condition, the task contained 40 sets of scrambled neutral words. For the cleanliness condition, half of the sets contained words related to the theme of cleanliness and purity (e.g., pure, washed, clean, im- maculate, pristine), and the other sets contained only neutral words. Immediately after the priming task, participants rated six moral dilemmas (as used by <xref ref-type="bibr" rid="R15" id="30" class="deo:Reference">Schnall et al., 2008</xref>): ‘‘Dog’’ (eating one’s dead dog), ‘‘Trolley’’ (switching the tracks of a trolley to kill one workman instead of five), ‘‘Wallet’’ (keeping money inside a found wallet), ‘‘Plane Crash’’ (killing a terminally ill plane crash survivor to avoid starvation), ‘‘R  ́ sum  ́ ’’ (putting false informa- tion on a r  ́ sum  ́ ), and ‘‘Kitten’’ (using a kitten for sexual arousal). Participants rated how wrong each action was from 0 (perfectly OK) to 9 (extremely wrong). Participants subsequently indicated their feelings at the moment for the items relaxed, angry, happy, sad, afraid, depressed, disgusted, upset, and con- fused, using a 10.5-cm visual analog scale labeled ‘‘Don’t feel at all’’ at one end and ‘‘Feel very strongly’’ at the other. All scales were scored by measuring in half centimeters from the ‘‘Don’t feel at all’’ end, yielding raw scores ranging from 0 to 21.</region>
+        </section>
+      </section>
+      <region class="DoCO:TextChunk" id="23" page="1" column="2">Forty University of Plymouth undergraduate students (30 female, 10 male; mean age 5 20.00 years, SD 5 1.85 years) participated as part of a course requirement.</region>
+      <outsider class="DoCO:TextBox" type="footer" id="24" page="1" column="2">Volume 19—Number 12</outsider>
+      <outsider class="DoCO:TextBox" type="footer" id="25" page="1" column="2">Downloaded Copyright from r 2008 pss.sagepub.com Association by Simone for Psychological Schnall on September Science 20, 2011</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="26" page="1" column="2">1219</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="27" page="2" column="1">Clean Conscience</outsider>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="32" page="2" column="1">Results and Discussion</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="33" confidence="possible" page="2" column="1">Emotion Ratings</h2>
+          <region class="DoCO:TextChunk" id="34" page="2" column="1">To test whether the priming had an effect on the emotion ratings as assessed at the end of the experiment, ratings were analyzed by individual one-way analyses of variance (ANOVAs) with priming (cleanliness vs. neutral) as a factor. No group differences were found on any of the emotion ratings (all p rep s &lt; .86). Thus, it appears that the cleanliness priming did not induce any specific mood.</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="35" confidence="possible" page="2" column="1">Moral Judgments</h2>
+          <region class="DoCO:TextChunk" id="36" page="2" column="1">The mean composite of all six moral vignettes was computed. To test whether priming the participants with cleanliness reduced the severity of moral judgments, we conducted a one-way ANOVA on the composites with priming (cleanliness vs. neutral) as a factor. As predicted, participants gave lower ratings after the cleanliness priming (M 4.98, SD 1.26) than they did</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="37" confidence="possible" page="2" column="1">Participants 5 5 5 5</h2>
+          <region class="DoCO:TableBox" id="T1">
+            <caption class="deo:Caption" id="38" page="2" column="1">TABLE 1 Mean Ratings for Moral Vignettes in Experiment 1</caption>
+            <content>
+              <table class="DoCO:Table" number="1" page="2">
+                <thead class="table">
+                  <tr class="table">
+                    <th class="table"> Condition</th>
+                    <th class="table"> Dog</th>
+                    <th class="table"> Trolley</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="table">
+                    <td class="table"> Cleanliness priming (n 5 20)</td>
+                    <td class="table"> 5.70 (2.39)</td>
+                    <td class="table"> 1.85 (1.50)</td>
+                  </tr>
+                  <tr class="table">
+                    <td class="table"> Neutral priming (n 5 20)</td>
+                    <td class="table"> 6.55 (2.52)</td>
+                    <td class="table"> 2.75 (2.38)</td>
+                  </tr>
+                  <tr class="table.strange">
+                    <td class="table.strange"> Note. Response scales ranged from</td>
+                    <td class="table.strange"> 0 (perfectly</td>
+                    <td class="table.strange"> OK) to 9 (extremely wrong). Standard are given in parentheses.</td>
+                  </tr>
+                </tbody>
+              </table>
+            </content>
+            <region class="TableInfo" id="39" confidence="possible" page="2" column="1">Condition Dog Trolley Cleanliness priming (n 5 20) 5.70 (2.39) 1.85 (1.50) Neutral priming (n 5 20) 6.55 (2.52) 2.75 (2.38) Note. Response scales ranged from 0 (perfectly OK) to 9 (extremely wrong). Standard deviations are given in parentheses.</region>
+          </region>
+          <region class="DoCO:TextChunk" id="42" page="2" column="2">after the neutral priming (M 5 5.81, SD 5 1.47), F(1, 38) 5 3.63, p rep 5.90, Z p 2 1⁄4 :09. When analyzed individually, all six moral vignettes showed the same pattern (see <xref ref-type="table" rid="T1" id="40" class="deo:Reference">Table 1</xref>), with a significant difference between conditions for the ‘‘Kitten’’ vignette, F(1, 38) 5 5.71, p rep 5 .95, Z p 2 1⁄4 :13. The first experiment demonstrated that participants found moral transgressions to be less bad after concepts of cleanliness were cognitively activated. This finding indicates the connection between cognitive and moral purity and shows that intuitive concepts can have an influence on moral judgments indepen- dently of deliberate reasoning processes (<xref ref-type="bibr" rid="R3" id="41" class="deo:Reference">Haidt, 2001</xref>).</region>
+        </section>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="43" confidence="possible" page="2" column="2">EXPERIMENT 2</h1>
+        <region class="DoCO:TextChunk" id="49" page="2" column="2">The first experiment showed that surreptitiously activated cognitive concepts related to purity can influence moral decisions. However, in addition to cognitive components, a central com- ponent of purity is the physical behavior of cleansing one’s body from experienced contaminants (<xref ref-type="bibr" rid="R14" id="44" class="deo:Reference">Rozin et al., 2000</xref>). Indeed, disgust, the feeling indicating the absence of physical purity, might be an especially embodied emotion because of its strong connection to nausea and the physical process of expelling contaminants (Haidt, Rozin, McCauley, &amp; <xref ref-type="bibr" rid="R6" id="45" class="deo:Reference">Imada, 1997</xref>; <xref ref-type="bibr" rid="R15" id="46" class="deo:Reference">Schnall et al., 2008</xref>). Thus, if there is a strong connection between physical cleansing and moral purity, then cleansing behavior might eliminate the effect of an already-present feeling of disgust on moral judgments. As noted earlier, several studies demonstrated that feelings of disgust can make moral judgments more severe (<xref ref-type="bibr" rid="R15" id="47" class="deo:Reference">Schnall et al., 2008</xref>; <xref ref-type="bibr" rid="R16" id="48" class="deo:Reference">Wheatley &amp; Haidt, 2005</xref>). The aim of the second study was to test whether this effect could be reduced when participants were given an opportunity to physically cleanse themselves after experiencing disgust. All participants watched a physically disgusting scene from a film, and half of the participants were asked to wash their hands with soap and water before completing the moral vignettes. We predicted that those participants who engaged in hand washing would make less severe judgments for the moral dilemmas than would the participants who did not wash their hands after the disgusting film clip.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="50" page="2" column="2">Method</h1>
+        <region class="DoCO:TextChunk" id="59" page="2" column="2">Forty-four University of Plymouth undergraduate students (32 female, 12 male; mean age 22.18 years, SD 4.89 years) <marker type="page" number="3"/><marker type="column" number="1"/><marker type="block"/> participated as part of a course requirement. One participant’s data were excluded from analysis because she declined to wash her hands when asked to do so.</region>
+        <region class="unknown" id="52" page="2" column="2">Wallet Plane Crash R  ́sum  ́ Kitten 4.95 (2.35) 6.05 (2.39) 4.65 (2.28) 6.70 (2.49) 5.45 (2.86) 6.45 (2.56) 5.40 (2.26) 8.25 (1.48)</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="53" page="2" column="2">1220</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="54" page="2" column="2">Downloaded from pss.sagepub.com by Simone Schnall on September 20, 2011</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="55" page="2" column="2">Volume 19—Number 12</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="56" page="3" column="1">Simone Schnall, Jennifer Benton, and Sophie Harvey</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="57" page="3" column="1">TABLE 2 Mean Ratings for Moral Vignettes in Experiment 2</caption>
+          <content>
+            <table class="DoCO:Table" number="2" page="3">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Condition</th>
+                  <th class="table"> Dog</th>
+                  <th class="table"> Trolley</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Hand washing (n 5 21)</td>
+                  <td class="table"> 5.33 (1.88)</td>
+                  <td class="table"> 2.81 (1.08)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No hand washing (n 5 22)</td>
+                  <td class="table"> 5.73 (0.98)</td>
+                  <td class="table"> 3.64 (1.05)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. Response scales ranged</td>
+                  <td class="table.strange"> from 1 (nothing</td>
+                  <td class="table.strange"> wrong at all) to 7 (extremely wrong). deviations are given in</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> parentheses.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="58" confidence="possible" page="3" column="1">Condition Dog Trolley Hand washing (n 5 21) 5.33 (1.88) 2.81 (1.08) No hand washing (n 5 22) 5.73 (0.98) 3.64 (1.05) Note. Response scales ranged from 1 (nothing wrong at all) to 7 (extremely wrong). Standard deviations are given in parentheses.</region>
+        </region>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="60" confidence="possible" page="3" column="1">Procedure</h2>
+          <region class="DoCO:TextChunk" id="63" page="3" column="1">Participants were tested individually. Two laboratory rooms were used: We showed the film clip in the first room and administered the moral dilemmas in the second. Participants first watched a 3- min clip from the film Trainspotting that was previously shown to elicit strong disgust (Lerner, Small, &amp; <xref ref-type="bibr" rid="R9" id="61" class="deo:Reference">Loewenstein, 2004</xref>; <xref ref-type="bibr" rid="R15" id="62" class="deo:Reference">Schnall et al., 2008</xref>). Participants were then taken to a different room, ostensibly because the next participant would soon be arriving to watch the film. Participants in the hand-washing condition were additionally told that the second room was a staff room and that they would be required to wash their hands when going into it, because the room needed to be kept as clean and tidy as possible. The staff room was equipped with a sink, an- tibacterial soap in a pump dispenser, and paper towels. To make the cover story about the room plausible, the table was covered with a tablecloth, and a vase with artificial flowers was placed on it to create the sense of its being a tidy staff room. Participants sat down at the table and completed the same six vignettes used in Experiment 1. 1 To ensure that the film induced comparable levels of disgust in both conditions, participants were then asked to think back of how they had felt immediately after watching the film and indicate their feelings at the time using the same emotion rating scales as in Experiment 1.</region>
+        </section>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="64" page="3" column="1">Results and Discussion</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="65" confidence="possible" page="3" column="1">Emotion Ratings</h2>
+          <region class="DoCO:TextChunk" id="66" page="3" column="1">To test whether participants in both conditions experienced more disgust than any other emotion following the film clip, a repeated-measures ANOVA was carried out with all nine emotion ratings. No overall difference was found for condition, F(1, 41) 5 0.24, p rep 5 .63, and there was no interaction of condition and emotions, F(8, 328) 5 0.82, p rep 5 .65. Looking specifically at disgust, simple contrasts showed that the disgust ratings were significantly higher than each of the other mood ratings (all p rep s &lt; .99). Means indicated that participants felt disgust more strongly (M 5 14.26, SD 5 6.09) than any other emotion, particularly other</region>
+          <region class="DoCO:TextChunk" id="67" confidence="possible" page="3" column="1">1 In contrast to Experiment 1, the scale for Experiment 2 ranged from 1 (nothing wrong at all) to 7 (extremely wrong).</region>
+          <region class="unknown" id="68" page="3" column="2">Wallet Plane Crash R  ́sum  ́ Kitten 4.62 (1.53) 5.38 (1.80) 4.24 (1.67) 6.00 (1.18) 5.73 (1.28) 6.05 (1.21) 5.09 (1.15) 6.36 (1.00)</region>
+          <region class="DoCO:TextChunk" id="69" page="3" column="2">negative emotions such as anger (M 5 2.84, SD 5 3.39) and sadness (M 5 5.72, SD 5 5.06). Participants in both conditions felt equally disgusted immediately after watching the film, as indicated by a nonsignificant effect between condition for the rating of disgust, F(1, 41) 5 1.04, p rep 5 .76. Thus, all participants reported feeling strong disgust before the hand-washing manipulation.</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="70" confidence="possible" page="3" column="2">Moral Judgments</h2>
+          <region class="DoCO:TextChunk" id="79" page="3" column="2">We computed the mean composite of all six moral vignettes and predicted that participants who washed their hands following the disgusting film clip would make less severe judgments than would participants who did not wash their hands. Indeed, a one- way ANOVA with condition (hand washing vs. no hand washing) as a factor found a significant difference between the conditions on the composite rating, F(1, 41) 5 7.81, p rep 5 .97, Z p 2 1⁄4 :16. Further analyses showed that participants in the hand-washing condition made less severe judgments for each moral dilemma than did participants in the no-hand-washing condition, with statistically significant differences between conditions for ‘‘Trol- ley,’’ F(1, 41) 5 6.50, p rep 5 .96, Z p 2 1⁄4 :14, and ‘‘Wallet,’’ F(1, 41) 5 6.65, p rep 5 .96, Z p 2 1⁄4 :14, and a marginal effect for ‘‘R  ́ sum  ́ ,’’ F(1, 41) 5 3.83, p rep 5 .91, Z p 2 1⁄4 :09 (see <xref ref-type="table" rid="T2" id="71" class="deo:Reference">Table 2</xref> for means). The findings from Experiment 2 indicate that participants who washed their hands after watching a disgusting film clip made less severe moral judgments than did participants who did not wash their hands. Emotion ratings suggested that participants in both conditions experienced strong disgust immediately after watching the film clip, which is consistent with earlier research using the same clip (<xref ref-type="bibr" rid="R9" id="72" class="deo:Reference">Lerner et al., 2004</xref>; <xref ref-type="bibr" rid="R15" id="73" class="deo:Reference">Schnall et al., 2008</xref>). Because of the danger of making the cleansing manipulation salient, we did not obtain additional disgust ratings after the hand-washing procedure. However, given our conceptual framework and the magnitude of the effect across conditions, we presume that the hand washing reduced feelings of disgust, which in turn reduced the severity of the moral judgments. The study protocol involved the experimenter verbally refer- ring to the room as needing to be ‘‘clean’’ and ‘‘tidy.’’ Thus, it is conceivable that these instructions, rather than the hand washing alone, might have primed the cognitive construct of cleanliness. Indeed, perhaps the combination of the cognitive priming and the cleansing behavior amplified the effect. The magnitude of the effect was greater in Experiment 2 (Z p 2 1⁄4 :16)<marker type="page" number="4"/><marker type="column" number="1"/><marker type="block"/> than it was in Experiment 1 (Z p 2 1⁄4 :09), which is consistent with that possibility. Thus, although it is not clear whether the hand washing itself was the only reason for the reduction in moral condemnation, it appears to have contributed over and above the priming of cleanliness concepts.</region>
+          <outsider class="DoCO:TextBox" type="footer" id="75" page="3" column="2">Volume 19—Number 12</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="76" page="3" column="2">Downloaded from pss.sagepub.com by Simone Schnall on September 20, 2011</outsider>
+          <outsider class="DoCO:TextBox" type="page_nr" id="77" page="3" column="2">1221</outsider>
+          <outsider class="DoCO:TextBox" type="header" id="78" page="4" column="1">Clean Conscience</outsider>
+        </section>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="80" confidence="possible" page="4" column="1">GENERAL DISCUSSION</h1>
+        <region class="DoCO:TextChunk" id="88" page="4" column="1">Two experiments provided evidence that activating intuitions about cleanliness can reduce the severity of moral judgments. Participants who had cognitive concepts of cleanliness activated (Experiment 1) or who had physically cleansed themselves after experiencing disgust (Experiment 2) made less severe moral judgments relative to participants who were not exposed to cleanliness manipulations. In both experiments, the effect of the rather subtle manipulations was substantial, with medium to large effect sizes ( <xref ref-type="bibr" rid="R1" id="81" class="deo:Reference">Cohen, 1988</xref>). Our findings support the notion that purity can serve as a basic intuition when judging the moral quality of an action: People appear to have intuitions about moral transgressions that go beyond principles of harm or fairness. Thus, our findings support Haidt’s (2001) social intuitionist model that proposes that people use intuitions when making judgments about right and wrong, even when these intuitions are incidental and irrelevant to the object or situation being judged. Whereas Zhong and Liljenquist’s (2006) studies indicated that activating cleansing- related concepts alleviated concerns about one’s own morality, the cleanliness manipulations in the two studies reported in this article influenced how morally wrong participants considered hypothetical actions that were not immediately pertinent to themselves. Although discussion of Haidt’s (2001) model has predomi- nantly focused on emotional processes (<xref ref-type="bibr" rid="R12" id="82" class="deo:Reference">Pizarro &amp; Bloom, 2003</xref>), strictly speaking, it does not pit emotional against rational processes; rather, it emphasizes the quick and automatic nature of both affective and cognitive processes that take place largely outside of conscious awareness. In fact, we agree with Monin, Pizarro, and Beer’s (2007) observation that the polarizing debate of the roles of reason and/or emotion in making moral judgments might artificially limit the study of moral psychology. Intuitive processes might not always need to involve emotional processes (cf. <xref ref-type="bibr" rid="R7" id="83" class="deo:Reference">Hauser, 2006</xref>). Indeed, in our two studies, we found that intuitive processes and contextual factors unrelated to specific emotions influenced moral judgments. Intuitions were provided by activating concepts relating to purity (Experiment 1) and by having participants engage in cleansing behaviors that rees- tablished physical purity after experiencing physical disgust (Experiment 2). In conclusion, the current studies provide evidence that, in the context of morality, purity is not just a metaphor. Presumably because human beings aim to distinguish themselves from other animals, they attempt to place themselves close to higher spir- itual beings by being physically and morally pure (Haidt, Koller,<marker type="column" number="2"/><marker type="block"/> &amp; <xref ref-type="bibr" rid="R5" id="85" class="deo:Reference">Dias, 1993</xref>; <xref ref-type="bibr" rid="R14" id="86" class="deo:Reference">Rozin et al., 2000</xref>). Because of its potential to lead people to regard moral actions as pure and good, cleanliness might indeed feel as if it were next to godliness.<marker type="block"/> Acknowledgments—This research was supported by National Science Foundation Grant BCS 0518835 and by Economic and Social Research Council First Grant RES-061-25-0119.</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="89" confidence="possible" page="4" column="2">REFERENCES</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="90" page="4" column="2">Cohen, J. (1988). Statistical power analysis in the behavioral sciences. Hillsdale, NJ: Erlbaum.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="91" confidence="possible" page="4" column="2">Costin, F. (1969). The scrambled sentence test: A group measure of hostility. Educational and Psychological Measurement, 29, 461– 468.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="92" confidence="possible" page="4" column="2">Haidt, J. (2001). The emotional dog and its rational tail: A social intuitionist approach to moral judgment. Psychological Review, 108, 814–834.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="93" confidence="possible" page="4" column="2">Haidt, J., &amp; Joseph, C. (2008). The moral mind: How five sets of innate intuitions guide the development of many culture-specific vir- tues, and perhaps even modules. In P. Carruthers, S. Laurence, &amp; S. Stich (Eds.), The innate mind (Vol. 3, pp. 367–392). New York: Oxford University Press.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="94" confidence="possible" page="4" column="2">Haidt, J., Koller, S.H., &amp; Dias, M.G. (1993). Affect, culture, and morality, or is it wrong to eat your dog? Journal of Personality and Social Psychology, 65, 613–628.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="95" confidence="possible" page="4" column="2">Haidt, J., Rozin, P., McCauley, C.R., &amp; Imada, S. (1997). Body, psyche, and culture: The relationship between disgust and morality. Psychology and Developing Societies, 9, 107–131.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="96" confidence="possible" page="4" column="2">Hauser, M. (2006). Moral minds: How nature designed our universal sense of right and wrong. New York: Harper Collins.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="97" confidence="possible" page="4" column="2">Holland, R.W., Hendriks, M., &amp; Aarts, H. (2005). Smells like clean spirit: Nonconscious effects of scent on cognition and behavior. Psychological Science, 16, 689–693.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="98" confidence="possible" page="4" column="2">Lerner, J.S., Small, D.A., &amp; Loewenstein, G.F. (2004). Heart strings and purse strings: Carryover effects of emotions on economic decisions. Psychological Science, 15, 337–341.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="99" confidence="possible" page="4" column="2">Moll, J., de Oliveira-Souza, R., Moll, F.T., Ignacio, F.A., Bramati, I.E., Caparelli-Daquer, E.M., et al. (2005). The moral affiliations of disgust. Cognitive and Behavioral Neurology, 18, 68–78.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="100" confidence="possible" page="4" column="2">Monin, B., Pizarro, D.A., &amp; Beer, J.S. (2007). Deciding versus react- ing: Conceptions of moral judgment and the reason-affect debate. General Review of Psychology, 11, 99–111.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="101" confidence="possible" page="4" column="2">Pizarro, D.A., &amp; Bloom, P. (2003). The intelligence of the moral intuitions: Comment on Haidt (2001). Psychological Review, 110, 193–196.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="102" confidence="possible" page="4" column="2">Prinz, J.J. (2006). The emotional basis of moral judgments. Philo- sophical Explorations, 9, 29–43.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="103" confidence="possible" page="4" column="2">Rozin, P., Haidt, J., &amp; McCauley, C. (2000). Disgust. In M. Lewis &amp; J.M. Haviland (Eds.), Handbook of emotions (2nd ed., pp. 637– 653). New York: Guilford.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="104" confidence="possible" page="4" column="2">Schnall, S., Haidt, J., Clore, G.L., &amp; Jordan, A.H. (2008). Disgust as embodied moral judgment. Personality and Social Psychology Bulletin, 34, 1096–1109.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="105" confidence="possible" page="4" column="2">Wheatley, T., &amp; Haidt, J. (2005). Hypnotically induced disgust makes moral judgments more severe. Psychological Science, 16, 780–784.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="106" confidence="possible" page="4" column="2">Zhong, C., &amp; Liljenquist, K. (2006). Washing away your sins: Threat- ened morality and physical cleansing. Science, 313, 1451–1452.</ref>
+          <ref class="deo:BibliographicReference" id="107" page="4" column="2">(R ECEIVED 1/31/08; R EVISION ACCEPTED 6/6/08)</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="page_nr" id="108" page="4" column="2">1222</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="109" page="4" column="2">Downloaded from pss.sagepub.com by Simone Schnall on September 20, 2011</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="110" page="4" column="2">Volume 19—Number 12</outsider>
+      </section>
+    </body>
+  </article>
+</pdfx>

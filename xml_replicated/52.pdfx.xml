@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>1085f0527664a25fe5980688629e7b6a23fc39aeae364edbaa5a528fc6dc10d8</job>
+    <base_name>r</base_name>
+    <doi>10.1037/0022-3514.94.4.560</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Journal of Personality and Social Psychology 2008, Vol. 94, No. 4, 560 –578</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="2">Copyright 2008 by the American Psychological Association 0022-3514/08/$12.00 DOI: 10.1037/0022-3514.94.4.560</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">Affective Incoherence: When Affective Concepts and Embodied Reactions Clash</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="4" confidence="possible">David B. Centerbar University of Massachusetts Medical School Gerald L. Clore University of Virginia</region>
+      <abstract class="DoCO:Abstract" id="5" confidence="possible">In five studies, the authors examined the effects on cognitive performance of coherence and incoherence between conceptual and experiential sources of affective information. The studies crossed the priming of happy and sad concepts with affective experiences. In different experiments, these included approach or avoidance actions, happy or sad feelings, and happy or sad expressive behaviors. In all studies, coherence between affective concepts and affective experiences led to better recall of a story than did affective incoherence. The authors suggest that the experience of such experiential affective cues serves as evidence of the appropriateness of affective concepts that come to mind. The results suggest that affective coherence has epistemic benefits and that incoherence is costly in terms of cognitive performance. Keywords: affective coherence, embodiment, affect, motor behavior, facial expression</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="7" page="1" column="1">In science and in everyday life, we often seek evidence for the truth or appropriateness of our cognitions, concepts, and beliefs. In that regard, it is frequently the case that “seeing is believing.” For <xref ref-type="bibr" rid="R20" id="6" class="deo:Reference">Descartes (1641)</xref>, however, reason alone allowed humans to identify what is true. He asserted that the first principle should be “I think, therefore I am . . .” (p. 19). Descartes held that discerning truth depends on our ability to “clearly and distinctly conceive” (p. 20). Thomas Jefferson was also a great proponent of reason, but in an 1820 letter to John Adams, Jefferson asserted that ultimately, we must rely on our senses to discern reality. In his letter (1820/ 1993), Jefferson wrote:</region>
+      <region class="DoCO:TextChunk" id="10" confidence="possible" page="1" column="1">David B. Centerbar, Center for Health Policy and Research, University of Massachusetts Medical School; Simone Schnall, School of Psychology, University of Plymouth, Plymouth, United Kingdom; Gerald L. Clore, Department of Psychology, University of Virginia; Erika D. Garvin, Department of Psychology, University of Illinois at Urbana–Champaign. David B. Centerbar and Simone Schnall contributed equally to this project. Portions of these research results (Studies 1 and 2) were previously presented at a poster session at the 2004 annual meeting of the Society for Personality and Social Psychology and also were included as part of David B. Centerbar’s dissertation thesis. Study 3 was included in Erika D. Garvin’s master’s thesis. Support is acknowledged from National Institute of Mental Health Research Grants MH50074 (to Gerald L. Clore) and MH67580 (to Simone Schnall). We wish to thank Tim Wilson for his helpful comments on earlier versions of the article and the members of the Social Cognition Laboratory for their support. Correspondence concerning this article should be addressed to David B. Centerbar, Center for Health Policy and Research, University of Massachusetts Medical School, 222 Maple Ave., Chang Building, Shrewsbury, MA 01545, or to Simone Schnall, School of Psychology, University of Plymouth, Portland Square, Drake Circus, Plymouth PL4 8AA, United Kingdom. E-mail: <email id="8">david.centerbar@umassmed.edu</email> or <email id="9">simone.schnall@plymouth.ac.uk</email></region>
+      <region class="DoCO:TextChunk" id="11" confidence="possible" page="1" column="2">Simone Schnall University of Plymouth Erika D. Garvin University of Illinois at Urbana–Champaign</region>
+      <region class="unknown" id="12" page="1" column="2">“I feel, therefore I exist.” I feel bodies which are not myself: there are other existences then . . . .On the basis of sensation . . . we may erect the fabric of all the certainties we can have or need . . . .When once we quit the basis of sensation, all is in the wind . . . .A single sense may indeed be sometimes deceived, but rarely; and never all our senses together . . . .They evidence realities.</region>
+      <region class="DoCO:TextChunk" id="20" page="1" column="2">Unlike Descartes, Jefferson asserted the priority of experiential knowledge over conceptual knowledge. He concluded that our feelings are the most compelling evidence for the truth of our knowledge about the world. A compatible contemporary view is expressed in the feelings- as-evidence hypothesis ( <xref ref-type="bibr" rid="R16" id="13" class="deo:Reference">Clore &amp; Gasper, 2000</xref>). It posits that belief-consistent feelings are often experienced as confirmatory evidence, making the beliefs seem particularly valid. In such instances, feeling is believing. Such internally generated feelings may be compelling because they are experienced in a manner similar to the sensory feelings elicited by external stimuli. Unlike conceptual knowledge, which is indirect and subject to verification (<xref ref-type="bibr" rid="R32" id="14" class="deo:Reference">Kruglanski, 1989</xref>), affective and sensory feelings are experienced directly and are generally not subject to further verification. People’s cognitions and the experience of their senses are generally consistent, and we expect them to be so. Thus, the truth value of a concept can be adjudicated by information from the senses. In contrast, the affective value of a concept, because it concerns the goodness or badness of things, cannot be validated by looking, listening, or touching. The experiences available to support affective concepts are either consensual (e.g., with reference to the affective reactions of others) or self-generated. Self- generated experiences would include one’s own affective feelings, affective expressions, and affectively relevant actions. Thus, finding ourselves smiling would validate the appropriateness of a positive concept that became accessible in some situation, whereas finding ourselves frowning would not. Such confirmation or dis-<marker type="page" number="2"/><marker type="column" number="1"/><marker type="block"/> confirmation of affective thoughts by embodied affective reactions is an important way in which mind and body interact. In this article, we examine how affective expressions, feelings, and actions function as such confirmation and disconfirmation of affective mental content. <xref ref-type="bibr" rid="R22" id="19" class="deo:Reference">Strack and Neumann (1996)</xref> proposed a theoretical model to account for how both conceptual and experiential sources of information might be represented and might interact to influence behavior. They proposed that information from the environment can be represented in two modalities— one conceptual and one experiential. They defined noetic knowledge as memory-based, stored associations and experiential knowledge as phenomenolog- ical, physical experience in a given moment. Both noetic and experiential knowledge can be valenced, and when these sources of knowledge become coactivated, they can be either concordant or discordant and have consequences for both epistemic and behavioral outcomes. Although it was not our aim in the current research to explicitly test the predictions of Strack and Neumann’s model, we nevertheless find their approach to be a useful organiz- ing framework for our proposal that the coherence between affective concepts and affective experiences can have epistemic consequences for ongoing behavior.</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="16" page="1" column="2">560</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="17" page="2" column="1">AFFECTIVE INCOHERENCE</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="18" page="2" column="1">561</outsider>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="21" confidence="possible" page="2" column="1">Affective Coherence</h1>
+        <region class="DoCO:TextChunk" id="32" page="2" column="1">Affective coherence versus affective incoherence, in the present article, concerns the extent to which experienced affective reactions (such as feelings or other bodily experiences, including approach or avoidance behaviors, and affective expressions) validate coexisting activated affective concepts. We view activated affective concepts as hypotheses about evaluative aspects of the world, which can be either confirmed or disconfirmed by subjective experience. When experience validates an affective concept, we speak of affective coherence, and when experience invalidates an affective concept, we speak of affective incoherence. We expect affective coherence, relative to incoherence, to have beneficial effects on cognitive performance. Such confirmation allows a person to attend to other things. When experience conflicts with belief, people are motivated to resolve the conflict, which may interfere with other attention-demanding activities and decrease cognitive efficiency. Response coherence is a somewhat different concept, which is a central tenet of some emotion theories, whereby emotions are believed to comprise coordinated sets of experiential, behavioral, and physiological responses. Whether emotions involve strong response coherence is currently a matter of debate. Evidence for coherence is mixed (see <xref ref-type="bibr" rid="R3" id="22" class="deo:Reference">Barrett, 2006</xref>, for a review). However, <xref ref-type="bibr" rid="R41" id="23" class="deo:Reference">Mauss, Levenson, McCarter, Wilhelm, and Gross (2005)</xref> have recently reported strong associations among experiential, expressive, and physiological measures of emotion in episodes of amuse- ment and sadness. Similarly, <xref ref-type="bibr" rid="R7" id="24" class="deo:Reference">Bonanno and Keltner (2004)</xref> found response coherence between facial expressions and appraisals during narratives of emotional events. Such studies address questions about the nature of emotion, whereas the current studies assess the consequences for cognitive performance of affective coherence and incoherence. The purpose of the present research was to examine the role of coherence and incoherence between affective concepts and experiences in task performance. We proposed that when embodied,<marker type="column" number="2"/><marker type="block"/> enacted, or experienced affective reactions validate current affective concepts, ongoing processing is likely to proceed smoothly. However, affective reactions that invalidate current affective concepts create an epistemic problem, which may compete with ongoing processing and degrade performance. To examine this process, we manipulated the experiences of engaging in approach– avoidance action, of being in a momentary mood, and of making facial expressions, and whether they validated or invalidated mo- mentarily accessible concepts. We expected that affective coherence would produce a subjective sense of fluency that would allow a person to infer that “all is well,” whereas an experience of disfluency would motivate efforts aimed at inconsistency resolu- tion, which should hamper performance on other cognitive tasks. Fluency refers to properties of continuous information processing, such as speed or ease of processing (Reber, Winkielman, &amp; <xref ref-type="bibr" rid="R53" id="26" class="deo:Reference">Schwarz, 1998</xref>; <xref ref-type="bibr" rid="R74" id="27" class="deo:Reference">Winkielman &amp; Cacioppo, 2001</xref>; Winkielman, Schwarz, Fazendeiro, &amp; <xref ref-type="bibr" rid="R75" id="28" class="deo:Reference">Reber, 2003</xref>). Generally, fast, effortless, or fluent processing of information elicits positive affect. For example, electromyographic measures indicate that fluency is associated with activation of the zygomaticus muscle used for smiling but not with the corrugator muscle used for frowning (Winkielman &amp; <xref ref-type="bibr" rid="R74" id="29" class="deo:Reference">Cacioppo, 2001</xref>). Feelings of fluency should occur when multiple sources of affective information (e.g., emotional feelings and expressions) are in sync (<xref ref-type="bibr" rid="R55" id="30" class="deo:Reference">Richards &amp; Gross, 2000</xref>). The experience of fluency, like the experience of positive affect, sig- nals the absence of problems, thus allowing full attention to be devoted to whatever task is at hand. The current research on coherence is, however, not limited to positive thoughts, feelings, and expressions but is equally relevant to negative affect. For example, feeling sad in response to anoth- er’s sadness is an example of affective coherence in the sense that it validates the feelings of the sad other (Martin, Abend, Sedikides, &amp; <xref ref-type="bibr" rid="R40" id="31" class="deo:Reference">Green, 1997</xref>). In a related way, feeling sad in response to a sad play, novel, or film would be coherent with and would validate the intent of the author, leading to a positive evaluation of the work. Feeling sad in response to terrible life events would be coherent but presumably would not lead to positive evaluations of the event. Nevertheless, such coherence should be experienced as appropriate and be conducive to fluent processing. As these examples suggest, the confirmation of positive or negative affective concepts by corresponding experiences is one form of affective coherence. However, we intend affective coherence to be a broader concept than instances of direct valence matching. Affective coherence could also be achieved by engaging in action appropriate to activated concepts. Thus, experiencing the muscular feedback from smiling would be affectively coherent with entertaining positive concepts, as would engaging in approach behavior. The instances of affective coherence examined in this article involved the validation of affective meaning through embodied affective reactions, including actions (Studies 1 and 2), feelings (Study 3), and expressions (Studies 4 and 5). We hypothesized that there are epistemic benefits to affective coherence and epistemic costs to affective incoherence and that these costs and benefits should influence processing efficiency as reflected in such cognitive measures as reaction time and recall. Relevant evidence for this hypothesis can be found in various literatures, as discussed in the next section.</region>
+        <outsider class="DoCO:TextBox" type="header" id="33" page="3" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="34" page="3" column="1">562</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="35" confidence="possible" page="3" column="1">Support for the Affective Coherence Hypothesis</h1>
+        <region class="DoCO:TextChunk" id="41" page="3" column="1">Three lines of work suggest the importance of affective coherence: (a) research on emotion regulation (<xref ref-type="bibr" rid="R54" id="36" class="deo:Reference">Richards &amp; Gross, 1999</xref>, 2000), (b) research on affective certainty (Tamir, Robinson, &amp; <xref ref-type="bibr" rid="R66" id="37" class="deo:Reference">Clore, 2002</xref>), and (c) research on affectively relevant motor behavior (Bri  ̃ol &amp; <xref ref-type="bibr" rid="R10" id="38" class="deo:Reference">Petty, 2003</xref>; Cacioppo, Priester, &amp; Berntson, 1993; F  ̈rster &amp; <xref ref-type="bibr" rid="R22" id="39" class="deo:Reference">Strack, 1996</xref>, 1997, 1998; <xref ref-type="bibr" rid="R44" id="40" class="deo:Reference">Neumann &amp; Strack, 2000</xref>).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="42" page="3" column="1">Affective Coherence and Emotion Regulation</h1>
+        <region class="DoCO:TextChunk" id="48" page="3" column="1">People sometimes try not to show their true feelings and may adopt facial or other expressions that do not reflect how they feel. <xref ref-type="bibr" rid="R55" id="43" class="deo:Reference">Richards and Gross (1999, 2000)</xref> have examined such emotion suppression. They found that participants attempting to suppress their emotions by actively inhibiting observable emotional expressions showed impaired memory performance compared with participants who were free to exhibit emotional expressions. For example, in one experiment (<xref ref-type="bibr" rid="R55" id="44" class="deo:Reference">Richards &amp; Gross, 2000</xref>), participants watched a film clip of an interpersonal confrontation. Half of the participants were asked to suppress any emotional expression, and half watched the film without such instructions. Suppression did not change their emotional experiences but did affect their recall and their confidence in their recall. In another study, <xref ref-type="bibr" rid="R55" id="45" class="deo:Reference">Richards and Gross (2000)</xref> compared emotion suppression with reappraisal of the event. The reappraisal condition consisted of looking at slides of injured people from the perspective of a medical professional. A memory deficit was found for the emotion suppression group but not for the reappraisal group. Those authors suggested that emotional suppression, like other forms of self-regulation (Baumeister, Bratslavsky, Muraven, &amp; <xref ref-type="bibr" rid="R5" id="46" class="deo:Reference">Tice, 1998</xref>; <xref ref-type="bibr" rid="R70" id="47" class="deo:Reference">Vohs &amp; Heatherton, 2000</xref>), is an effortful process drawing on limited resources. We suggest that such suppression involves affective incoherence. That is, participants in the suppression condition adopted a nonaffective expression that did not match their affective interpretation of the film. However, the reappraisal condition of the experiment would not have involved incoherence, since participants’ new, nonaffective interpretations would have been matched by the nonaffective expressions they had adopted.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="49" page="3" column="1">Affective Coherence and Affective Certainty</h1>
+        <region class="DoCO:TextChunk" id="54" page="3" column="1"> <xref ref-type="bibr" rid="R66" id="50" class="deo:Reference">Tamir et al. (2002)</xref> reported differences in information- processing efficiency when current moods were either consistent or inconsistent with chronic trait affect. They suggested that when momentary affective feelings correspond to people’s beliefs about their usual affect, they serve as data confirming the person’s self-view. Thus, happy feelings confirm beliefs about being a happy person, whereas unhappy feelings confirm beliefs about being an unhappy person. This kind of match of belief and experienced feelings results in what <xref ref-type="bibr" rid="R66" id="51" class="deo:Reference">Tamir et al. (2002)</xref> termed affective certainty. In four experiments, they found that people experiencing affective certainty processed affective information more efficiently than did people experiencing feelings that conflicted with their beliefs about their usual feelings. <xref ref-type="bibr" rid="R66" id="52" class="deo:Reference">Tamir et al. (2002)</xref> focused on the match between affective traits and affective feelings and doc- umented an epistemic benefit of having one’s self-expectations<marker type="column" number="2"/><marker type="block"/> confirmed in experience. The agreement between trait and state affect that resulted in affective certainty is one form of affective coherence. Another form can be seen in the validation of affective concepts in motivationally relevant motor behavior.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="55" page="3" column="2">Affective Coherence and Motor Behavior</h1>
+        <region class="DoCO:TextChunk" id="69" page="3" column="2">Neumann, F  ̈rster, and <xref ref-type="bibr" rid="R43" id="56" class="deo:Reference">Strack (2003)</xref> summarized evidence for what they referred to as conceptual–motor compatibility. This work involves motor behaviors such as nodding one’s head in agreement, or shaking one’s head in disagreement, and performing movements of approach or avoidance. For example, head nodding can lead to better recall of positive words, whereas head shaking leads to better recall of negative words (F  ̈rster &amp; Strack, 1996). From our viewpoint, motor actions have such effects because head nodding is the appropriate response to positive words and an inappropriate response to negative words—the match or mismatch constituting affective coherence or incoherence—which has implications for the ability to recall the words later. In related research, approach and avoidance behaviors in the form of arm flexion and extension (<xref ref-type="bibr" rid="R11" id="57" class="deo:Reference">Cacioppo et al., 1993</xref>) have been used. Such approach and avoidance actions have been shown to influence the retrieval of positive and negative information (F  ̈rster &amp; <xref ref-type="bibr" rid="R23" id="58" class="deo:Reference">Strack, 1997</xref>, 1998), creative problem solving (Friedman &amp; F  ̈rster, 2000), and the speed of categorizing valenced words (<xref ref-type="bibr" rid="R44" id="59" class="deo:Reference">Neumann &amp; Strack, 2000</xref>). For example, when engaging in approach behavior, participants are faster at judging positive stimuli, but when engaging in avoidance behavior, they are faster at judging negative stimuli (<xref ref-type="bibr" rid="R44" id="60" class="deo:Reference">Neumann &amp; Strack, 2000</xref>). The importance of experiential factors in such phenomena is apparent from the fact that similar effects occur when people experience only the visual illusion that the valenced stimuli are approaching or reced- ing. It is often assumed that approach and avoidance actions are themselves positive and negative in affective meaning. However, recent investigations show that the values of approach–avoidance action and head nods and shakes depend on the context in which they occur. Thus, while viewing negative rather than positive stimuli, the effects of approach and avoidance responses are reversed, such that approach becomes affectively negative, and avoidance becomes positive (<xref ref-type="bibr" rid="R13" id="61" class="deo:Reference">Centerbar &amp; Clore, 2006</xref>). The meaning of approach and avoidance can also change depending on one’s own perceived spatial location relative to that behavior (<xref ref-type="bibr" rid="R39" id="62" class="deo:Reference">Markman &amp; Brendl, 2005</xref>). Also, shaking one’s head while hearing someone recount sad events in his or her life enhances sympathy for the person rather than rejection (Tamir, Robinson, Clore, Martin, &amp; <xref ref-type="bibr" rid="R67" id="63" class="deo:Reference">Whitaker, 2004</xref>). Studying the effects of head movements on persuasion, Bri  ̃ol and <xref ref-type="bibr" rid="R10" id="64" class="deo:Reference">Petty (2003)</xref> replicated past findings that head nodding increased persuasion relative to head shaking when persuasive arguments were strong (<xref ref-type="bibr" rid="R72" id="65" class="deo:Reference">Wells &amp; Petty, 1980</xref>). However, the effect of these head movements was reversed when arguments were weak. They interpreted these findings in the context of their self- validation hypothesis (Petty, Bri  ̃ol &amp; Tormala, 2002), which proposes that head nodding and shaking can validate or invalidate one’s own thoughts about persuasive messages. Such movements affect endorsement of the messages by increasing or decreasing feelings of confidence in one’s current thoughts about the messages. Such findings are compatible with our notion of affective<marker type="page" number="4"/><marker type="column" number="1"/><marker type="block"/> coherence as involving conceptual validation by embodied reactions.</region>
+        <outsider class="DoCO:TextBox" type="header" id="67" page="4" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="68" page="4" column="1">563</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="70" confidence="possible" page="4" column="1">Overview of the Current Research</h1>
+        <region class="DoCO:TextChunk" id="71" page="4" column="1">In each of the current experiments, affective concepts associated with happiness or sadness were primed, and participants engaged in one of three kinds of embodied reactions as they read a story. The validation or invalidation of primed concepts by the experienced reactions constituted affective coherence or incoherence. In each case, participants were then administered a recall task. In Studies 1 and 2, the embodied reactions were approach (arm flexion) and avoidance (arm extension). In Study 3, the embodied reactions were affective feelings induced by listening to happy or sad music. In Studies 4 and 5, the embodied reactions involved engaging the muscles involved in smiling or frowning. Affective coherence then depended on the compatibility of the primed affective concepts and affectively relevant embodied reactions. In each case, the question of interest concerned whether cognitive performance, as assessed by recall, would be influenced by affective coherence or incoherence. We expected the experience of affective coherence to facilitate, and affective incoherence to dis- rupt, ongoing cognitive processing, which should be apparent later in recall performance.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="72" confidence="possible" page="4" column="1">Study 1: Affective Coherence Between Concepts and Motor Behavior</h1>
+        <region class="DoCO:TextChunk" id="85" page="4" column="1">The first study investigated affective recall as a function of primed mental content and motivationally relevant approach– avoidance behaviors. We predicted that the coherence between such actions and the content of currently accessible thoughts should facilitate information processing. The relevance of such actions to recall was previously demonstrated by F  ̈rster and <xref ref-type="bibr" rid="R24" id="73" class="deo:Reference">Strack (1997, 1998)</xref>, who asked participants to generate the names of liked, disliked, or neutral persons while engaging in either arm flexion (approach action) or arm extension (avoidance action). F  ̈rster and <xref ref-type="bibr" rid="R23" id="74" class="deo:Reference">Strack (1997)</xref> reasoned that the positive–negative associations to approach–avoidance behaviors and affective evaluation would lead to biased memory search. Indeed, arm flexion was associated with the generation of more positive names, and arm contraction was associated with the generation of more negative names. The second set of investigations (F  ̈rster &amp; Strack, 1998) identified an important boundary condition for arm contraction effects— the presence of an affective, evaluative context. As previously noted by <xref ref-type="bibr" rid="R11" id="75" class="deo:Reference">Cacioppo et al. (1993)</xref>, F  ̈rster and <xref ref-type="bibr" rid="R24" id="76" class="deo:Reference">Strack (1998)</xref> found that the effect of arm contraction on memory retrieval occurred only during an evaluative task such as generating the names of liked, disliked, or neutral persons. When names were generated first and subsequently evaluated during arm contraction, no effect was found. Recent results from studies by <xref ref-type="bibr" rid="R13" id="77" class="deo:Reference">Centerbar and Clore (2006)</xref> further clarified such approach–avoidance motor effects. They extended the original work of <xref ref-type="bibr" rid="R11" id="78" class="deo:Reference">Cacioppo and colleagues (1993)</xref> by showing that the effect of approach–avoidance motor action on evaluation of ideographs depended on subtle pre-existing differences in the affective valence of the ideographs. In contrast to the original work by <xref ref-type="bibr" rid="R11" id="79" class="deo:Reference">Cacioppo and colleagues (1993)</xref>, both an approach action with positive ideographs and a withdrawal action<marker type="column" number="2"/><marker type="block"/> with negative ideographs produced more positive attitudes toward the ideographs. Avoidance did not lead to more negative attitudes, as previous data would have suggested. <xref ref-type="bibr" rid="R13" id="81" class="deo:Reference">Centerbar and Clore (2006)</xref> explained this result in terms of a motivational compatibility model. Approach is a motivationally compatible action for positive stimuli, and avoidance is a motivationally compatible action for negative stimuli. Motivationally compatible actions produced more favorable attitudes than incompatible ones, with no evidence of a main effect of arm contraction. Further, no effect of arm contraction was found with neutral ideographs, a finding that further supports the compatibility interpretation. <xref ref-type="bibr" rid="R13" id="82" class="deo:Reference">Centerbar and Clore (2006)</xref> found additionally that motivationally compatible actions affected not only evaluations of the focal stimuli (ideographs) but also, under some conditions, evaluations of the pleasantness of the arm contractions themselves. Thus, the stimulus–action combination may produce an experience of fluency, or positive affect, which can then affect evaluation of one’s own momentary experience. This suggests that such motivationally compatible actions might produce an experience of ease that could facilitate ongoing processing more generally. In the present studies, we therefore hypothesized that the effects of approach–avoidance actions should again depend on the interaction of the action and the valence of primed affective concepts. We predicted that this interaction should influence the ease of processing and later recall of events from a story. We subtly primed participants with happy, sad, or neutral words, using a scrambled sentences task. To the extent that primed concepts elicit tendencies to approach or avoid, as shown by <xref ref-type="bibr" rid="R59" id="83" class="deo:Reference">Solarz (1960)</xref> and <xref ref-type="bibr" rid="R14" id="84" class="deo:Reference">Chen and Bargh (1999)</xref>, we predicted that people’s particular actions would be motivationally compatible or incompatible experiences. The combinations of approach with positive primes or avoidance with negative primes should be affectively coherent, thereby facilitating processing of affective material during the memory task. Alternatively, combinations of approach actions with negative primes or avoidance actions with positive primes should be affectively incoherent, disrupting efficient processing and recall. Since neutral primes should have no implications for approach–avoidance action, we expected no effects in the neutral prime condition.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="86" page="4" column="2">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="87" page="4" column="2">Participants were 59 undergraduate students (33 men, 26 women) from the University of Virginia psychology participant pool who took part in exchange for course credit. Participants were tested individually and in small groups (up to 4 at a time). The data of 3 participants were excluded from analyses because they did not follow instructions, leaving data for 56 participants (32, men, 24 women).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="88" page="4" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="94" page="4" column="2">Participants were informed that they would engage in various tasks, including isometric exercises involving their nondominant arm. The cover story (adapted from Friedman &amp; F  ̈rster, 2000) suggested that the arm positions were related to differential brain hemispheric activation. The experimenter demonstrated the correct <marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> arm position for both arm flexion and arm extension and explained that for arm flexion, the participant should bend the arm at the elbow to make a 90° angle, place the palm of the hand under the tabletop, and press lightly against the bottom edge of the table. For arm extension, the participant was told to extend the arm straight, place the palm on the tabletop, and apply a small amount of pressure against the tabletop. A booklet contained instructions for the following tasks. Priming procedure. The scrambled sentences task (adapted from <xref ref-type="bibr" rid="R19" id="92" class="deo:Reference">Costin, 1969</xref>) involved 40 strings of four words. Participants were to underline any three words in each string that could be combined to form a sentence. A practice item illustrated that for each item, there were two ways to combine three of the four words to complete a sentence. For example, the word string “the book close read” could be combined to form either “close the book” or “read the book.” Participants were asked to work quickly. The arm movements were not performed during the priming task. Participants were randomly assigned to one of three priming conditions (happy, sad, or neutral). In the happy and sad conditions, half of the 40 items were valenced, and half were neutral. Valenced items included such strings as “kids played smiled happily” and “depressed seemed they you.” An example of a neutral string is “the book close read.” Recall task. Subsequently, participants read a story (adapted from Bower, Gilligan, &amp; <xref ref-type="bibr" rid="R9" id="93" class="deo:Reference">Monteiro, 1981</xref>) about a fictional character, “Paul.” In the story, Paul relates 10 happy and 10 sad events from his past. On the basis of random assignment, participants engaged in one of the two previously demonstrated arm positions as they read the story. Afterward, participants completed two filler tasks— drawing a picture of the continental United States and counting backwards from 200 by 3’s. Next, they answered questions about Paul, the character in the story. They judged Paul’s happiness and sadness on scales from 1 (not at all) to 10 (extremely) and answered two liking questions: “How favorable do you feel toward Paul?” ( 5 extremely unfavorable, 5 extremely favorable), and “How much do you think that you would like Paul if you were to get to know him” ( 5 not at all, 5 very much). After completing these judgments, participants had 5 min to write down as many of the events as they could recall from the story about Paul. Reported feelings. After completing the recall task, participants rated their current feelings using 15 affect-related words. They indicated, on a scale from 1 (not at all) to 9 (extremely), how much they were currently experiencing the following feelings: “calm,” “sad,” “relieved,” “happy,” “anxious,” “cheerful,” “relaxed,” “aroused,” “pleased,” “distressed,” “nervous,” “miserable,” “delighted,” “stimulated,” and “gloomy.” They then rated their overall mood (“How positive or negative overall do you feel right now?”) on a scale from 1 (extremely negative) to 9 (extremely positive). They also rated the arm movement task in terms of pleasantness (1 very unpleasant, 9 very pleasant) and effort (1 not at all effortful, 9 very effortful). Participants further indicated how enjoyable the scrambled sentences task was (1 not at all enjoyable, 9 extremely enjoyable). Finally, participants completed personality measures and answered open-ended questions probing for suspicions about the hypotheses.</region>
+        <outsider class="DoCO:TextBox" type="header" id="90" page="5" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="91" page="5" column="1">564</outsider>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="95" page="5" column="2">Results Recall</h1>
+        <region class="DoCO:TextChunk" id="97" page="5" column="2">Two raters, unaware of condition, counted the number of happy and sad events correctly recalled from the story ( .99 each for positive and negative items), with discrepancies decided by con- sensus. As hypothesized, recall from the story was greater overall when actions were motivationally congruent rather than incongruent with primed affective concepts. Data were analyzed using a mixed- model analysis of variance (ANOVA) for happy and sad recall with prime valence and arm contraction as between-subjects factors and valence of items recalled as a repeated measure. The analysis revealed only the predicted Prime Arm interaction for recall of events from the story, F(2, 50) 3.50, p .04, 2 .12. 1 Planned comparisons, using contrast weights of 1, 0, and 1 for positive, neutral, and negative primes, respectively, and 1 and 1 for flexion and extension, respectively, mirrored the same interaction pattern, F(1, 50) 5.92, p .02 (see <xref ref-type="fig" rid="F1" id="96" class="deo:Reference">Figure 1</xref> for means). There was no difference in recall of events from the story as a function of arm contraction across levels of the neutral prime condition, t(13) 1.38, p .19, ns. It is notable that there was no differential recall of positive and negative story events across conditions, Prime Arm Valence interaction, F(2, 50) 0.92, ns. Analyzing recall of the positive and negative items separately showed that the Prime Arm interaction was significant for recall of positive events by themselves, F(2, 50) 3.64, p .03, 2 .13, but not for recall of negative events, all Fs 1.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="98" page="5" column="2">Ratings of Mood</h1>
+        <region class="DoCO:TextChunk" id="99" page="5" column="2">Consistent with the general hypothesis, analyses of mood reports showed that people reported feeling more anxious with affective incoherence (M 5.41, SD 2.48) than with affective coherence (M 3.75, SD 2.40), F(1, 37) 4.10, p .051. Likewise, they felt more gloomy with affective incoherence (M 3.60, SD 2.64) than with affective coherence (M 2.19, SD 1.78), F(1, 37) 4.08, p .051. There were also several nonhypothesized main effects. People reported feeling more cheerful with the happy primes (M 5.90, SD 1.25) than with the sad primes (M 5.43, SD 1.89), F(1, 37) 7.20, p .01. People felt more aroused with arm extension (M 5.95, SD 1.56) than with flexion (M 5.35, SD 1.89), F(1, 37) 9.31, p .01.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="100" page="5" column="2">Ratings of Arm Contraction Task</h1>
+        <region class="DoCO:TextChunk" id="101" page="5" column="2">There were no effects of the experimental conditions on either ratings of the pleasantness, all Fs 1.46, ns, or the effortfulness of the arm task, all Fs 1.32, ns.</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="102" page="5" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="103" page="5" column="2">The results showed that affective coherence between actions and affective concepts influenced cognitive performance, as measured</region>
+        <region class="DoCO:TextChunk" id="104" confidence="possible" page="5" column="2">1 All effects sizes reported are the partial eta square statistics. For brevity, the symbol 2 is used throughout.</region>
+        <outsider class="DoCO:TextBox" type="header" id="105" page="6" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="106" page="6" column="1">565</outsider>
+        <region class="unknown" id="107" page="6" column="1">10.00 9.00 Recalled 8.00 7.00 Items 6.00 of 5.00 Number 4.00 3.00 Total 2.00 1.00 0.00</region>
+        <region class="DoCO:FigureBox" id="Fx108">
+          <image class="DoCO:Figure" src="r.page_006.image_01.png" thmb="r.page_006.image_01-thumb.png"/>
+          <image class="DoCO:Figure" src="r.page_006.image_02.png" thmb="r.page_006.image_02-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="109" confidence="possible" page="6" column="1">E x t e n s i o n Arm F l e x i o n Sad Prime Neutral Prime Happy Prime Mean number of items recalled as a function of level of embodied affective cue and primed affect concept in Study 1. Vertical bars standard errors.</region>
+        <region class="DoCO:TextChunk" id="113" page="6" column="1">by story recall. Evidence for this conclusion was the finding that story recall depended on an interaction between two variables— engaging in approach versus withdrawal action while reading a story and having had happy versus sad concepts primed. In addition to the importance of affective coherence with which we were primarily concerned, two other aspects of these results were notable. First, the cognitive impact of engaging in arm flexion and extension depended on what was in a participant’s mind at the time. In no instances did the main effects of prime alone or action alone approach significance. These results were consistent with previously reported research (<xref ref-type="bibr" rid="R13" id="110" class="deo:Reference">Centerbar &amp; Clore, 2006</xref>) examining the effects of approach and avoidance actions on evaluation. Second, the primary impact of coherence was on the total level of recall, regardless of the valence of the particular events that were remembered. Compatibility between approach–avoidance action and the valence of primed affective concepts resulted in better recall of the entire set of story events. There was no tendency for positive affect to cue recall of positive events, as might be predicted by a mood-congruent memory hypothesis (e.g., <xref ref-type="bibr" rid="R8" id="111" class="deo:Reference">Bower, 1981</xref>). The recall results were consistent with the hypothesized effect of affective coherence on the processing of affective information. In addition, if affective coherence produces its effects via fluency, one might expect the experience to influence affective reactions as well (<xref ref-type="bibr" rid="R74" id="112" class="deo:Reference">Winkielman &amp; Cacioppo, 2001</xref>). In fact, participants did report feeling more negative affect (anxious and gloomy) in the affectively incoherent conditions. However, these effects were not generally strong. One possible explanation is that because the focus in Study 1 was on processing and recall, the mood measures were not administered until after the recall task had been completed. Hence, any momentary effects on mood may have dissi- pated by that point. In Study 2, we varied the procedure to determine how robust the obtained effects were and whether varying the point at which affect was measured would provide evidence of the hypothesis that affective coherence and incoherence influences the experience of fluency.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="114" confidence="possible" page="6" column="2">Study 2: Affective Consequences of Affective Coherence</h1>
+        <region class="DoCO:TextChunk" id="115" page="6" column="2">In Study 2, some participants reported their mood immediately after the experimental manipulation (and before the recall task), while others reported their mood as in Study 1. We predicted that affective coherence involving motivational compatibility of approach–avoidance action with primed affective concepts would produce more pronounced differences in mood when measured immediately than after a delay.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="116" page="6" column="2">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="117" page="6" column="2">Participants were 77 undergraduate students (15 men, 62 women) from the University of Virginia psychology participant pool who took part to fulfill a course requirement. Participants were tested individually and in small groups (up to 4 at a time). Two of the participants were excluded from the analyses for failing to follow instructions, thus leaving 75 participants (14 men, 61 women).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="118" page="6" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="119" page="6" column="2">The procedure for Study 2 was identical to the one in Study 1 except for two changes in the sequence of tasks. First, participants completed the same scrambled sentences priming procedure described in Study 1 while simultaneously engaging in either arm flexion or arm extension. That is, the arm contraction task was paired with the priming task in Study 2, rather than with reading the Paul story. Second, half of the participants completed the ratings of their current mood and of the pleasantness of the arm task and scrambled sentences task immediately after this manipulation (immediate condition). The other half completed a filler task at this point in the experiment (delayed condition). All participants then read the Paul story. Following a filler task (drawing a map), all participants made evaluations about the character Paul, after which they were given 5 min for the recall task. Participants in the delayed condition then rated their mood, the arm task, and scrambled sentences task. During this time, participants in the immediate condition worked on the filler task that had been completed earlier by those in the delayed condition. Finally, participants completed the same surveys used in Study 1 about individual differences in affective functioning, demographic information, and suspicion re- garding the purpose of the study.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="120" page="6" column="2">Results Scoring of Recall Data</h1>
+        <region class="DoCO:TextChunk" id="121" page="6" column="2">Three independent raters blind to condition scored participants’ recall of happy and sad events ( s .98 for the happy items and .97 for the sad items, respectively), as in Study 1.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="122" page="6" column="2">Recall</h1>
+        <region class="DoCO:TextChunk" id="127" page="6" column="2">The order of time at which participants reported their moods (before or after the Paul story) was not expected to influence recall, and it did not, all Fs involving order 2.35, ns. As a result, this order variable was excluded from further recall analyses. <marker type="page" number="7"/><marker type="column" number="1"/><marker type="block"/> Of primary interest was the influence of affective coherence on total recall. Consistent with Study 1, the analysis indicated that people recalled more items from the story overall when there was coherence between affective cues. The ANOVA revealed a marginally significant Prime Arm interaction for recall of events from the story, F(2, 69) 2.81, p .07, 2 .08. Planned comparisons, using contrast weights of 1, 0, and 1 for positive, neutral, and negative primes, respectively, and 1 and 1 for flexion and extension, respectively, showed a significant interaction, F(1, 69) 6.94, p .01 (see <xref ref-type="fig" rid="F2" id="126" class="deo:Reference">Figure 2</xref>). Also as expected, there was no difference in recall of events from the story as a function of arm contraction in the neutral prime condition, t(24) 0.98, p .34, ns. Several additional effects were also obtained. A reliable difference was found in the number of positive and negative events recalled from the story. Overall, significantly more negative events (M 3.36) than positive events (M 2.96) were recalled, t(74) 1.99, p .05. There was also a trend for a within-subjects Prime Valence of Items Recalled interaction, F(2, 69) 2.64, p .08. Further inspection of this interaction showed some evidence for prime-congruent recall. Specifically, positive items were recalled at a higher rate by people experiencing positive primes (M 3.20, SD 1.35) compared with people experiencing negative primes (M 2.67, SD 1.46), with recall in the neutral prime condition in the middle (M 2.92, SD 1.76). Negative items were recalled at a higher rate by people experiencing negative primes (M 3.63, SD 1.32) compared with people experiencing positive primes (M 3.08, SD 1.32), with recall in the neutral prime condition between the two (M 3.42, SD 1.70). Nevertheless, these effects did not approach significance and did not qualify the effect on overall recall. As in Study 1, the effect of affective coherence on total recall was not moderated by differences in the recall of positive or negative events from the story, as revealed by the nonsignificant Prime Arm Valence of Event interaction, F 1. However, unlike Study 1, affective incoherence produced similar deficits in recall for both positive and negative story items.</region>
+        <outsider class="DoCO:TextBox" type="header" id="124" page="7" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="125" page="7" column="1">566</outsider>
+        <region class="unknown" id="128" page="7" column="1">10.00 9.00 Recalled 8.00 7.00 Items 6.00 of 5.00 Number 4.00 3.00 Total 2.00 1.00 0.00</region>
+        <region class="DoCO:FigureBox" id="Fx129">
+          <image class="DoCO:Figure" src="r.page_007.image_04.png" thmb="r.page_007.image_04-thumb.png"/>
+          <image class="DoCO:Figure" src="r.page_007.image_05.png" thmb="r.page_007.image_05-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="130" confidence="possible" page="7" column="1">Extension Arm Flexion Sad Prime Neutral Prime Happy Prime Mean number of items recalled as a function of level of embodied affective cue and primed affect concept in Study 2. Vertical bars standard errors.</region>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="131" page="7" column="2">Table 1 Means and Standard Deviations of Overall Mood Rating as a Function of Prime and Arm Contraction in Study 2</caption>
+          <content>
+            <h1 class="table"> Prime Happy Neutral Sad</h1>
+            <table class="DoCO:Table" number="1" page="7">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Arm position</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> Measured</td>
+                  <td class="table"> immediately</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Flexion</td>
+                  <td class="table"> 7.29</td>
+                  <td class="table"> 0.76</td>
+                  <td class="table"> 7.00</td>
+                  <td class="table"> 0.71</td>
+                  <td class="table"> 5.14</td>
+                  <td class="table"> 1.07</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Extension</td>
+                  <td class="table"> 5.83</td>
+                  <td class="table"> 1.17</td>
+                  <td class="table"> 6.33</td>
+                  <td class="table"> 1.21</td>
+                  <td class="table"> 6.14</td>
+                  <td class="table"> 1.21</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> Measured</td>
+                  <td class="table.strange"> after delay</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Flexion</td>
+                  <td class="table"> 3.83</td>
+                  <td class="table"> 1.60</td>
+                  <td class="table"> 6.86</td>
+                  <td class="table"> 1.07</td>
+                  <td class="table"> 5.80</td>
+                  <td class="table"> 1.30</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Extension</td>
+                  <td class="table"> 5.83</td>
+                  <td class="table"> 1.94</td>
+                  <td class="table"> 6.50</td>
+                  <td class="table"> 0.93</td>
+                  <td class="table"> 6.00</td>
+                  <td class="table"> 1.41</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="132" confidence="possible" page="7" column="2">Prime Happy Neutral Sad Arm position M SD M SD M SD Measured immediately Flexion 7.29 0.76 7.00 0.71 5.14 1.07 Extension 5.83 1.17 6.33 1.21 6.14 1.21 Measured after delay Flexion 3.83 1.60 6.86 1.07 5.80 1.30 Extension 5.83 1.94 6.50 0.93 6.00 1.41</region>
+        </region>
+        <region class="DoCO:TextChunk" id="133" confidence="possible" page="7" column="2">Note. Overall mood was rated on a scale from 1 (very negative) to 9 (very positive).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="134" page="7" column="2">Mood Ratings</h1>
+        <region class="DoCO:TextChunk" id="140" page="7" column="2">Immediate versus delayed mood reports. Analyses showed that, as anticipated, affective coherence between primed concepts and motor action produced positive mood compared with affective incoherence. Also as anticipated, this pattern appeared only when the measure of mood was administered close in time to the experience. When mood was assessed later, participants tended to report their feelings by contrasting them with their (presumed) earlier feelings at the time of the affective coherent or incoherent experience. Thus, the condition that had elicited the most elevated mood initially (positive primes, approach) became the least positive when reported later, and the condition that elicited the least positive mood initially (negative primes, approach) became more positive when assessed later. These effects emerged from a significant three-way interaction between Prime, Arm, and Time on the single-item overall mood measure (“How do you feel right now,” 1 very negative, 9 very positive), F(2, 63) 4.94, p .01, 2 .14 (see <xref ref-type="table" rid="T1" id="135" class="deo:Reference">Table 1</xref>). Mood ratings were also analyzed separately for the immediate and delayed groups. Immediate mood reports. As predicted, participants reported more positive moods after experiencing the affectively coherent pairings of prime and arm, as evidenced by a significant two-way interaction, F(2, 32) 4.79, p .02, 2 .23, on the single overall mood item (“How positive or negative do you feel right now?”). The test of the planned contrasts using contrast weights of 1, 0, and 1 for positive, neutral, and negative primes, respectively, and 1 and 1 for flexion and extension, respectively, was highly reliable, F(1, 32) 8.50, p .01. This interaction indicated that affective coherence (approach–positive, avoid–negative) was experienced more positively and affective incoherence (approach– negative, avoid–positive) was experienced more negatively than the same actions with affectively neutral primes. In addition to the effects on the single-item mood measure, participants also reported feeling significantly more cheerful, F(2, 32) 4.18, p .03, 2 .21; relaxed, F(2, 32) 3.76, p .03, 2 .20; pleased, F(2, 32) 4.84, p .02, 2 .24; and delighted, F(2, 32) 4.84, p .02, 2 .24, after experiencing affective coherence, and significantly less gloomy, F(2, 32)<marker type="page" number="8"/><marker type="column" number="1"/><marker type="block"/> 3.59, p .04, 2 .19, and distressed, F(2, 32) 5.30, p .01, 2 .26 (see <xref ref-type="table" rid="T2" id="139" class="deo:Reference">Table 2</xref> for means and standard deviations). Two nonhypothesized main effects were revealed. As in Study 1, participants reported feeling significantly more aroused with arm extension (M 3.44, SD 1.86) than with arm flexion (M 1.53, SD 0.84), t(35) 4.27, p .01. They likewise reported feeling more aroused with negative primes (M 3.00, SD 1.84) than with positive primes (M 1.67, SD 0.98), t(24) 2.25, p .03, with arousal in the neutral prime condition between the two (M 2.64, SD 1.80). Delayed mood reports. As anticipated, the affective consequences of coherence and incoherence were no longer apparent by the end of the experiment when the delayed mood assessment was made. Analysis of the single-item mood measure revealed only a significant main effect of prime, F(2, 31) 5.92, p .01, 2 .28, which reflected the tendency for later reports to be expressed in relation to earlier feelings at the time of the prime–action coherence or incoherence. Specifically, post hoc analyses indicated that mood was more positive in the neutral prime condition (M 6.67, SD 0.98) than in the positive prime condition (M 4.83, SD 1.99), t(25) 3.14, p .01. Similarly, people reported feeling more miserable after delay in the affective coherence conditions than in the incoherent conditions, F(1, 18) 10.21, p .01, 2 .31. Several nonhypothesized main effects also emerged. Participants reported feeling more pleased with the negative primes than with the positive primes, t(20) 3.49, p .01. With regard to mood and arm contraction, people reported feeling more happy, cheerful, pleased, and delighted after arm extension (avoidance) than after arm flexion (approach), all ps .01. Again, these results appear to reflect a tendency for participants to use their (presumed) earlier feelings as a standard against which to express their later feelings. Ratings of arm contraction task. Ratings of the pleasantness of the arm contraction task showed no significant effects. Primes did influence ratings of the effortfulness, F(2, 69) 3.63, p .03, with arm contraction rated as more effortful in the sad prime condition (M 4.58) than in the happy prime condition (M 3.24), t(47) 2.16, p .03, or in the neutral prime condition (M 3.05), t(48) 2.45, p .02. These effects have no obvious bearing on the predicted effects, since effortfulness did not differ as a function of arm position or its interaction with primes, Fs .26, ns.</region>
+        <outsider class="DoCO:TextBox" type="header" id="137" page="8" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="138" page="8" column="1">567</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="141" page="8" column="1">Table 2 Means and Standard Deviations of Level of Self-Reported Feelings as a Function of Prime and Arm Contraction in Study 2</caption>
+          <content>
+            <h1 class="table"> Arm flexion Happy Neutral Sad</h1>
+            <table class="DoCO:Table" number="2" page="8">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Feeling</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Overall mood</td>
+                  <td class="table"> 7.29</td>
+                  <td class="table"> 0.76</td>
+                  <td class="table"> 7.00</td>
+                  <td class="table"> 0.71</td>
+                  <td class="table"> 5.14</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Cheerful</td>
+                  <td class="table"> 6.86</td>
+                  <td class="table"> 1.46</td>
+                  <td class="table"> 3.80</td>
+                  <td class="table"> 1.64</td>
+                  <td class="table"> 4.43</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Relaxed</td>
+                  <td class="table"> 7.29</td>
+                  <td class="table"> 1.38</td>
+                  <td class="table"> 5.60</td>
+                  <td class="table"> 3.29</td>
+                  <td class="table"> 4.71</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Pleased</td>
+                  <td class="table"> 5.86</td>
+                  <td class="table"> 2.27</td>
+                  <td class="table"> 2.80</td>
+                  <td class="table"> 1.92</td>
+                  <td class="table"> 2.71</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Delighted</td>
+                  <td class="table"> 6.00</td>
+                  <td class="table"> 1.63</td>
+                  <td class="table"> 1.80</td>
+                  <td class="table"> 1.79</td>
+                  <td class="table"> 3.57</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Gloomy</td>
+                  <td class="table"> 1.57</td>
+                  <td class="table"> 0.53</td>
+                  <td class="table"> 1.20</td>
+                  <td class="table"> 0.45</td>
+                  <td class="table"> 3.57</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Distressed</td>
+                  <td class="table"> 2.71</td>
+                  <td class="table"> 1.70</td>
+                  <td class="table"> 1.60</td>
+                  <td class="table"> 1.34</td>
+                  <td class="table"> 5.00</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. Overall</td>
+                  <td class="table.strange"> mood was</td>
+                  <td class="table.strange"> rated on a scale</td>
+                  <td class="table.strange"> from 1</td>
+                  <td class="table.strange"> (very negative)</td>
+                  <td class="table.strange"> to 9 (very positive). The remaining feeling were rated on a scale from 1 (not at</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="142" confidence="possible" page="8" column="1">Arm flexion Happy Neutral Sad Feeling M SD M SD M Overall mood 7.29 0.76 7.00 0.71 5.14 Cheerful 6.86 1.46 3.80 1.64 4.43 Relaxed 7.29 1.38 5.60 3.29 4.71 Pleased 5.86 2.27 2.80 1.92 2.71 Delighted 6.00 1.63 1.80 1.79 3.57 Gloomy 1.57 0.53 1.20 0.45 3.57 Distressed 2.71 1.70 1.60 1.34 5.00 Note. Overall mood was rated on a scale from 1 (very negative) to 9 (very positive). The remaining feeling items were rated on a scale from 1 (not at</region>
+        </region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="143" page="8" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="146" page="8" column="2">In Study 2, participants engaged in either an approach behavior or avoidance behavior during a priming task designed to activate happy, neutral, or sad concepts. We found that the affective coherence of engaging in an action motivationally appropriate to the valence of the primed concept led to better overall recall of story items, replicating the findings of Study 1. We also tested the hypothesis that affective coherence would be associated with an experience of fluency and thus would produce reliable differences in positive affect. Indeed, participants reported feeling more positively after the experience of affective coherence when mood was measured immediately. We found some tendency for mood reports obtained after a delay to contrast with earlier mood reports obtained at the time of the coherence or incoherence experience. Such contrast effects are not uncommon when aspects of the procedure encourage participants to use an earlier affective moment as a standard of compar- ison (e.g., Strack, Schwarz, &amp; <xref ref-type="bibr" rid="R65" id="144" class="deo:Reference">Gschneidinger, 1985</xref>). The current study replicated the affective coherence effect for recall and showed that this experience is also associated with the presence of positive affect, as in previous investigations of fluency (e.g., <xref ref-type="bibr" rid="R74" id="145" class="deo:Reference">Winkielman &amp; Cacioppo, 2001</xref>). We interpreted the effects as being due to affective coherence following the motivational compatibility of the action and the primed concepts. Such coherence led to greater ability to process and later recall the events in the story. An alternative hypothesis is that the effects were due to the positive mood produced by affectively compatible action. Motivationally compatible action should and did lead to positive affect. Hence, the positive mood caused by coherence may have facilitated recall. If so, affective coherence per se may not lead to greater cognitive efficiency. Thus, a question raised by the results of Studies 1 and 2 was whether the effective variable was mood or affective coherence. In Study 3, we manipulated mood directly. As in the first two studies, we primed positive or negative concepts and crossed them with this mood manipulation. If the effects were due to positive affect, then direct manipulation of positive affect through a mood induction should result in greater recall. On the other hand, if the effects were due to affective coherence, then the effect of mood on recall should depend instead on its coherence with the primed concepts.</region>
+        <region class="unknown" id="147" page="8" column="2">Arm extension</region>
+        <region class="unknown" id="148" page="8" column="2">Happy Neutral Sad</region>
+        <region class="unknown" id="149" page="8" column="2">SD M SD M SD M SD</region>
+        <region class="unknown" id="150" page="8" column="2">1.07 1.27 1.70 1.11 1.27 2.07 1.83</region>
+        <region class="unknown" id="151" page="8" column="2">5.83 4.80 5.60 4.40 3.80 2.40 4.00</region>
+        <region class="unknown" id="152" page="8" column="2">1.17 2.17 2.30 1.14 2.49 2.19 2.35</region>
+        <region class="unknown" id="153" page="8" column="2">6.33 5.83 6.17 4.83 4.50 3.83 4.17</region>
+        <region class="unknown" id="154" page="8" column="2">1.21 1.83 1.17 2.79 1.87 1.94 2.48</region>
+        <region class="unknown" id="155" page="8" column="2">6.14 5.29 7.14 5.57 4.00 2.57 2.86</region>
+        <region class="unknown" id="156" page="8" column="2">1.21 2.06 1.35 0.98 2.16 1.90 1.46</region>
+        <outsider class="DoCO:TextBox" type="footer" id="157" page="8" column="2">all) to 9 (extremely).</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="158" page="9" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="159" page="9" column="1">568</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="160" confidence="possible" page="9" column="1">Study 3: Affective Coherence Between Affective Concepts and Mood</h1>
+        <region class="DoCO:TextChunk" id="161" page="9" column="1">In Study 3, we used the same priming procedure as in Studies 1 and 2 and induced feelings of happiness or sadness using music. We expected that induced affective feelings would provide experiential evidence for the appropriateness of similarly valenced primed concepts, producing a state of affective coherence. We again expected such affective coherence to facilitate cognitive processing, as indicated in better recall. In contrast, affective feelings occurring in association with oppositely valenced primed thoughts should constitute an experience of affective incoherence that should be disruptive to ongoing processes, as indicated by poorer recall.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="162" page="9" column="1">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="163" page="9" column="1">Participants were 60 undergraduate students from the University of Illinois at Urbana-Champaign who either took part to fulfill a course requirement or were paid $5 for their participation. The data of 2 participants were excluded from analyses because they did not follow instructions, thus leaving data for 58 participants (15 men, 43 women).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="164" page="9" column="1">Procedure</h1>
+        <region class="DoCO:TextChunk" id="171" page="9" column="1">Upon arrival in the laboratory, participants were informed that the first activity concerned music appreciation and would consist of listening to music for about 10 –15 min. The experimenter told participants the following: <marker type="block"/> Affect induction. Participants then listened through head- phones to happy or sad music for 12.5 min (adapted from Niedenthal, Halberstadt, &amp; <xref ref-type="bibr" rid="R45" id="167" class="deo:Reference">Setterlund, 1997</xref>). Music intended to induce happiness consisted of allegros from “Eine Kleine Nacht- musik,” “Divertimento in D,” and “Serenade in D,” all by Mozart, whereas music intended to induce sadness consisted of parts of “Adagio for Strings” by Barber and “Adagietto” by Mahler. While the music was playing, the lights were dimmed, and the doors to the rooms were closed to minimize distractions and help participants focus on the music. After 12.5 min, the music was turned off, and the lights were turned on. Throughout the mood induction procedure, no mention was made of the happy or sad feelings that the music was intended to elicit. Priming procedure. After the music ended, participants completed the happy and sad versions of the scrambled sentences task described in Studies 1 and 2. A neutral prime condition was not included in this study. Recall task. Next, participants read the same Paul story as in Studies 1 and 2, completed a filler task consisting of drawing a map of the continental United States, and then answered questions about the story character, Paul. They answered two questions about Paul’s typical affect (“How sad of a person would you say<marker type="column" number="2"/><marker type="block"/> Paul is?” and “How happy a person would you say Paul is?”) on a scale from 0 (not at all) to 10 (extremely), as well as a question about how much they liked him. After these judgments, participants completed the free recall task about Paul. Reported feelings. Participants next rated their momentary feelings on a scale of 1 (very slightly or not at all) to 5 (extremely), using a list of 18 words similar to those used in Studies 1 and 2. The specific words were taken from the circumplex model of emotion used by Larsen and Diener (1992; adapted from <xref ref-type="bibr" rid="R56" id="169" class="deo:Reference">Russell, 1980</xref>, and <xref ref-type="bibr" rid="R71" id="170" class="deo:Reference">Watson &amp; Tellegen, 1985</xref>). Six of the words described pleasant feelings (“happy,” “delighted,” “pleased,” “glad,” “cheerful,” “warmhearted”), six described unpleasant feelings (“sad,” “unhappy,” “miserable,” “grouchy,” “gloomy,” “blue”), three referred to high arousal states (“aroused,” “stimulated,” “active”), and three referred to low arousal states (“quiet,” “tranquil,” “still”). Participants also answered questions about feelings during the music: “How happy were you feeling while listening to the music?” and “How sad were you feeling while listening to the music?”</region>
+        <region class="unknown" id="166" page="9" column="1">Because previous research suggests that ratings of music are more reliable after a short delay between hearing the music and judging it, we will ask you to rate the music some time after you have listened to it. During this time, we will ask you to do some activities for another research project.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="172" page="9" column="2">Results Scoring of Recall Data</h1>
+        <region class="DoCO:TextChunk" id="173" page="9" column="2">Two independent raters scored the recall data as in Studies 1 and 2, and the average of the two item counts was used in all analyses.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="174" page="9" column="2">Recall</h1>
+        <region class="DoCO:TextChunk" id="176" page="9" column="2">We predicted that people would recall more events from the story in the affectively coherent conditions, when the valence of the affective information provided by the primes was validated by the affective feelings elicited by the music. To test this prediction, we analyzed participants’ recall of the positive and negative story events using a mixed-model ANOVA, with prime and music as the between-subjects factors and valence of event recalled as the repeated measure. The analysis yielded a marginally significant hypothesized between-subjects Prime Music interaction, F(1, 54) 3.48, p .07, 2 .06, for recall of all events (see <xref ref-type="fig" rid="F3" id="175" class="deo:Reference">Figure 3</xref> for means). The effect was somewhat smaller than that found in Study 1, 2 .15, and Study 2, 2 .10. Consistent with the affective coherence hypothesis, people remembered an additional 1.36 items on average when the valence of the music was consistent with the primed concepts than when it was not. This effect was not moderated by the valence of the events recalled, as indicated by the nonsignificant Prime Music Valence of Event interaction, F(1, 54) 1, ns. As in Study 2, a nonhypothesized interaction emerged between the valence of the prime and the valence of the event, F(1, 54) 4.57, p .04. In this priming effect, happy primes led to recall of more happy events, and sad primes led to recall of more sad events. No such effect was found for mood.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="177" page="9" column="2">Manipulation Check</h1>
+        <region class="DoCO:TextChunk" id="178" page="9" column="2">At the end of the experiment, participants rated how happy and how sad they had felt while listening to the music. Participants who listened to happy music reported having felt happier (M 6.66, SD 2.16) than did those who listened to sad music (M</region>
+        <outsider class="DoCO:TextBox" type="header" id="179" page="10" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="180" page="10" column="1">569</outsider>
+        <region class="DoCO:TextChunk" id="181" confidence="possible" page="10" column="1">10.00 9.00 Recalled 8.00 7.00 Items 6.00 of 5.00 Number 3.00 4.00 Total 2.00 1.00 0.00 S a d H a p p y Music Sad Prime Happy Prime Mean number of items recalled as a function of level of affective cue and primed affect concept in Study 3. Vertical bars standard errors.</region>
+        <region class="DoCO:TextChunk" id="182" page="10" column="1">4.45, SD 2.31), F(1, 54) 14.92, p .001, 2 .21. Also, participants who listened to sad music reported having felt sadder (M 4.10, SD 2.64) than did those who listened to happy music (M 1.97, SD 2.08), F(1, 54) 11.54, p .001, 2 .18. No prime or Prime Music effect was observed. Ratings of mood taken at the end of the experiment indicated that many participants were no longer in the mood induced by the music. No effects of music or of the interaction of Music Prime were observed.</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="183" page="10" column="1">Discussion</h1>
+        <region class="DoCO:TextChunk" id="184" page="10" column="1">Consistent with predictions, the results tended to show that affective coherence led to better story recall than affective incoherence. That is, there was a tendency for people to show superior recall of the story after experiencing happy primes in happy moods or sad primes in sad moods compared with recall shown in mis- matched conditions. However, these effects were somewhat smaller when mood was used as the experiential information instead of the experience of approach–avoidance. Neither positive mood nor primed positive concepts by themselves influenced overall recall. We concluded that affective coherence, rather than mood, led to greater cognitive efficiency. Indeed, affective coherence enhanced recall without producing positive mood. However, the effects were not as strong as in the previous studies. Therefore, we designed Study 4 as a conceptual replication using another kind of bodily cue: happy and sad facial expressions. In addition, to determine whether awareness of the primed concepts was necessary to produce these effects, we presented the priming words subliminally rather than within a scrambled sentences task.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="185" confidence="possible" page="10" column="1">Study 4: Affective Coherence Between Affective Concepts and Expressive Behaviors</h1>
+        <region class="DoCO:TextChunk" id="202" page="10" column="1">Expressive behaviors, such as facial expressions and postures typical of emotional states, have been found to influence people’s emotions (e.g., <xref ref-type="bibr" rid="R21" id="186" class="deo:Reference">Duclos et al., 1989</xref>; Flack, Laird, &amp; Cavallaro,<marker type="column" number="2"/><marker type="block"/> 1999; <xref ref-type="bibr" rid="R57" id="188" class="deo:Reference">Schnall &amp; Laird, 2003</xref>; <xref ref-type="bibr" rid="R60" id="189" class="deo:Reference">Soussignan, 2002</xref>; <xref ref-type="bibr" rid="R61" id="190" class="deo:Reference">Stepper &amp; Strack, 1993</xref>; Strack, Martin, &amp; <xref ref-type="bibr" rid="R62" id="191" class="deo:Reference">Stepper, 1988</xref>) as well as their cognitive processing (e.g., Bodenhausen, Kramer, &amp; S  ̈sser, 1994; Laird, Cuniff, Sheehan, Shulman, &amp; <xref ref-type="bibr" rid="R33" id="192" class="deo:Reference">Strum, 1989</xref>; Laird, Wagener, Halal, &amp; Szegda, 1982; <xref ref-type="bibr" rid="R44" id="193" class="deo:Reference">Strack &amp; Neumann, 2000</xref>). Such expressions are relevant to the concept of embodiment, which has recently become prominent in cognitive science. Proponents of embodied cognition assume that cognitive processes are influenced and constrained by enactment and bodily involvement (e.g., <xref ref-type="bibr" rid="R4" id="194" class="deo:Reference">Barsalou, 1999</xref>; <xref ref-type="bibr" rid="R15" id="195" class="deo:Reference">Clark, 1997</xref>; <xref ref-type="bibr" rid="R27" id="196" class="deo:Reference">Glenberg, 1997</xref>; <xref ref-type="bibr" rid="R35" id="197" class="deo:Reference">Lakoff &amp; Johnson, 1999</xref>; Varela, Thompson, &amp; <xref ref-type="bibr" rid="R69" id="198" class="deo:Reference">Rosch, 1991</xref>). The same assumptions that underlie the idea of embodied cognition are applicable to embodied affect (Niedenthal, Barsalou, Winkielman, Krauth-Gruber, &amp; Ric, 2005). For example, central to the embodied cognition position is the assumption that cognition ultimately serves action. A similar assumption can be made about affect because affect provides embodied information about the goodness and badness of objects and situations and about the value of enacting or avoiding particular actions (e.g., <xref ref-type="bibr" rid="R13" id="199" class="deo:Reference">Clore &amp; Storbeck, 2006</xref>). In Study 4, we hypothesized that the coherence of expressive behaviors that were consistent with current thoughts should exert the same kind of facilitating influence on cognitive performance as found in Studies 1–3. In Study 4, participants were asked to adopt a happy or a sad expressive behavior. Further, we explored to what extent awareness of the conceptual information was a necessary ingredient to our findings. Thus, instead of the scrambled sentences task used earlier, we used a subliminal priming task (Bargh, Bond, Lombardi, &amp; <xref ref-type="bibr" rid="R1" id="200" class="deo:Reference">Tota, 1986</xref>; <xref ref-type="bibr" rid="R2" id="201" class="deo:Reference">Bargh &amp; Pietromonaco, 1982</xref>) to make accessible positive or negative affective content in a maximally subtle fashion.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="203" page="10" column="2">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="204" page="10" column="2">Participants were 133 undergraduate students (67 men, 66 women) from the University of Virginia who either took part to fulfill a course requirement or were paid $6 for participation. The data of 1 male participant were excluded because he failed to follow instructions. Participants were tested individually and in small groups (up to 6 at a time).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="205" page="10" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="217" page="10" column="2">Participants, seated in individual booths, were informed that they would engage in several tasks, some involving muscle contractions. The experimenter taught the participants to contract certain facial muscles shown on an anatomical chart while moni- toring that the correct muscle contractions were produced. These instructions were based on procedures used in previous studies (e.g., <xref ref-type="bibr" rid="R21" id="206" class="deo:Reference">Duclos et al., 1989</xref>; <xref ref-type="bibr" rid="R25" id="207" class="deo:Reference">Flack et al., 1999</xref>; <xref ref-type="bibr" rid="R58" id="208" class="deo:Reference">Schnall &amp; Laird, 2007</xref>), and instructions continued until the participant successfully produced the desired expression. The experimenter was careful never to produce the contractions him/herself, nor to label them as emotional expressions. For the happiness expression, participants contracted the zygomaticus and risorius muscles by pushing the corners of the mouth up and back while opening the mouth a little. Ostensibly to activate the trapezius and latissimus dorsi muscles in the back, participants<marker type="page" number="11"/><marker type="column" number="1"/><marker type="block"/> sat straight up in the chair, with the nondominant hand resting on the armrest, knees bent, and feet placed directly below the knees. For the sadness expression, participants contracted the triangu- laris muscle by drawing the corners of the mouth down and back while contracting the platysma by letting the head hang down. Ostensibly to activate the trapezius and latissimus dorsi muscles in the back, participants drooped the shoulders and let the body go limp while dropping the rib cage. After this training phase, the experimenter explained the next task to the participants and emphasized that no muscle contractions should be performed during this task. Priming procedure. Participants were presented with a “vigi- lance task” that required them to respond to information on a computer screen. This subliminal priming task was modeled closely after the procedure described by <xref ref-type="bibr" rid="R2" id="212" class="deo:Reference">Bargh and Pietromonaco (1982)</xref> and <xref ref-type="bibr" rid="R1" id="213" class="deo:Reference">Bargh et al. (1986)</xref>. Instructions directed participants to focus their gaze on a fixation point in the middle of the screen. They were told that after seeing a very brief flash, they should indicate on which side of the screen the flash had appeared by pressing the “F” key with the left hand if the flash had appeared on the left and the “J” key with the right hand if the flash had appeared on the right. The fixation point was 56 cm away from the participant, and stimuli were presented no closer than 2.7° and no farther than 6° from the fixation point, ensuring that the stimuli were within the parafoveal visual field. Stimuli were presented for 60 ms and immediately covered with a mask (“XQFBZRMQWX”) that was also presented for 60 ms. The stimuli consisted of 12 words used in the scrambled sentences task from Study 1 and were matched for word length across the two priming conditions. The words for the happy priming condition were “fun,” “joke,” “glad,” “smile,” “happy,” “giggle,” “elated,” “joyful,” “success,” “laugh- ter,” “cheerful,” and “delighted.” The words for the sad priming condition were “sad,” “blue,” “glum,” “mourn,” “alone,” “grieve,” “lonely,” “gloomy,” “crushed,” “dejected,” “rejected,” and “de- pressed.” Each word was presented four times, once in each corner of the screen, resulting in 48 trials. To discourage participants’ anticipating the stimulus presentations, we followed the procedure described by <xref ref-type="bibr" rid="R1" id="214" class="deo:Reference">Bargh et al. (1986)</xref> of incorporating a randomized delay of between 2 s and 7 s before each flash occurred. Affect induction. Next, participants were asked to work on a cognitive task while simultaneously performing the muscle contractions (corresponding to a happy or sad facial expression and posture) practiced earlier. The experimenter emphasized that the contractions should never be painful in any way and that if the contractions felt uncomfortable at any point, participants should release their muscles a little. Recall task. While performing the muscle contractions, participants read the Paul story. Then participants discontinued the contractions and proceeded to a filler task, involving perceptual judgments about abstract stimuli for about 5 min. Next, participants answered questions about how happy or how sad they thought Paul was. They then performed the same recall task as in the earlier experiments. Reported feelings. After the recall task, participants rated how they had been feeling throughout the experiment. The scales were the same as those used in previous research investigating affective influences of bodily feedback and consisted of visual analogue scales for the items “relaxed,” “angry,” “happy,” “sad,” “afraid,” “depressed,” “upset,” and “confused.” Each item had a 4.25-inch-<marker type="column" number="2"/><marker type="block"/> long line next to it, with the anchors don’t feel at all and feel very strongly at either end. Participants were asked to describe their feelings by marking an “X” on the part of the line that best described how strongly each emotion had been felt. Affective personality measures. Participants then completed affective personality measures, demographic questions, and an exit question assessing how difficult it had been to follow experimental instructions on a scale from 1 (very easy) to 5 (very difficult). Priming recognition task. Following <xref ref-type="bibr" rid="R1" id="216" class="deo:Reference">Bargh et al. (1986)</xref>, we checked for any awareness of the subliminally presented stimuli. Participants were informed that they had been shown words during the vigilance task that would be shown again to see if the participants recognized them. The 10 trials were presented as in the priming task except that a trial number appeared at the center of the screen immediately before each presentation. Participants were asked to try to identify the word presented in each trial from a multiple-choice response sheet. The response sheet listed three words, one of which had been presented on that trial. While randomly ordered across items, the choices always consisted of the word that had actually been presented and two decoys. For example, if “glad” had been presented, one decoy would be an unpre- sented word of the same length and affective valence, (e.g., “joke”) and the other an affectively neutral word of identical length (e.g., “long”). Participants were instructed to guess if they were unsure which word they had seen.</region>
+        <outsider class="DoCO:TextBox" type="header" id="210" page="11" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="211" page="11" column="1">570</outsider>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="218" page="11" column="2">Results Scoring of Recall Data</h1>
+        <region class="DoCO:TextChunk" id="219" page="11" column="2">Three independent raters scored the recall data as in the previous studies, and their average was used in all analyses.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="220" page="11" column="2">Recall</h1>
+        <region class="DoCO:TextChunk" id="222" page="11" column="2">The main finding in Studies 1–3 was that when there was agreement between experiential and conceptual affect cues, participants showed better recall performance than when there was disagreement. We again tested for this effect using a mixed-model ANOVA, with happy and sad expressions and prime as between- subjects factors and valence of recalled event as a repeated factor. As expected, there was a significant Expression Prime interaction, F(1, 128) 3.97, p .05, 2 .03, such that participants producing a happy expression after being primed with happy words and participants producing a sad expression after being primed with sad words showed better recall than those with mis- matched expressions and primes (see <xref ref-type="fig" rid="F4" id="221" class="deo:Reference">Figure 4</xref> for means). No other effects were significant, although there was a trend for a main effect of prime, F(1, 128) 2.98, p .09; all other Fs 1.60.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="223" page="11" column="2">Reported Feelings</h1>
+        <region class="DoCO:TextChunk" id="224" page="11" column="2">We had expected that affective coherence between expressive cues and subliminally activated cognitions would influence memory performance as it did. No predictions were made about whether such expressive cues would also elicit affective feelings of mood or emotion. Nevertheless, to determine whether they did, we analyzed all emotion ratings using separate one-way ANOVAs with expression and prime as between-subject factors. There was</region>
+        <outsider class="DoCO:TextBox" type="header" id="225" page="12" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="226" page="12" column="1">571</outsider>
+        <region class="DoCO:TextChunk" id="227" confidence="possible" page="12" column="1">10.00 9.00 Recalled 8.00 7.00 Items 6.00 of 5.00 Number 4.00 3.00 Total 2.00 1.00 0.00 S a d H a p p y Expression Sad Prime Happy Prime Mean number of items recalled as a function of level of embodied affective cue and primed affect concept in Study 4. Vertical bars standard errors.</region>
+        <region class="DoCO:TextChunk" id="228" page="12" column="1">a main effect of expression condition on feeling depressed, F(1, 129) 4.43, p .04, 2 .03, with more depression reported after producing a sad expression (M 1.42, SD 1.75) compared with producing a happy expression (M 0.88, SD 1.12). Further, there was a main effect of expression condition on feeling angry, F(1, 129) 4.79, p .03, 2 .04, with more anger felt after producing a sad expression (M 1.40, SD 1.62) than after producing a happy expression (M 0.89, SD 1.31). However, people did not report feeling more sad, p .29, or happy, p .64, as a function of the expression produced. Thus, the significant effects on self-reported emotional feelings were not specific to the sad or happy expressions but rather produced differences in reports of other negative affect (e.g., depression, anger). When the negative items were combined, there was a marginally significant effect for expression condition, F(1, 129) 3.24, p .07, 2 .03, with somewhat higher means for the sadness (M 1.56, SD 1.23) than the happiness expression condition (M 1.21, SD 1.01).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="229" page="12" column="1">Difficulty of Expressive Behaviors</h1>
+        <region class="DoCO:TextChunk" id="230" page="12" column="1">Participants reported the sadness expression to have been more difficult to produce (M 2.62, SD 1.10) than the happiness expression (M 2.09, SD 1.03), F(1, 129) 7.71, p .01, 2 .06.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="231" page="12" column="1">Recognition Task</h1>
+        <region class="DoCO:TextChunk" id="234" page="12" column="1">As noted earlier, a postexperimental recognition task manipulation test modeled after <xref ref-type="bibr" rid="R1" id="232" class="deo:Reference">Bargh et al. (1986)</xref> was used to determine whether participants had been aware of the subliminally presented happy or sad words. Participants circled more correct emotion words (M 4.13, SD 1.97) than incorrect emotion words (M 2.54, SD 1.48) and also more correct emotion words than neutral words (M 3.24, SD 1.77). 2 Indeed, a chi-square analysis comparing the observed frequencies of the three kinds of responses on the recognition task was significant, 2 (2, N 132) 47.50, p .001, indicating that at least in the recognition task, the participants had some awareness of the subliminally presented<marker type="column" number="2"/><marker type="block"/> stimuli. However, when grouping the observations by the four experimental conditions, a chi-square analysis was not significant, 2 (6, N 132) 2.69, p .61. In other words, participants in all conditions selected the words presented in the priming task above chance. Further, correct recognition of emotion words was not correlated with recall of positive (r .01) or negative (r .03) items.</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="235" page="12" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="240" page="12" column="2">The findings from Study 4 in which implicit priming was used replicated the main finding of Studies 1–3 in which explicit priming was used. Recall was better when the experiential affective cue was affectively coherent with the primed concepts than when it was not. As in previous research on recall and affective expression (<xref ref-type="bibr" rid="R34" id="236" class="deo:Reference">Laird et al., 1982</xref>, 1989; <xref ref-type="bibr" rid="R57" id="237" class="deo:Reference">Schnall &amp; Laird, 2003</xref>), we found that sad expressions resulted in more negative affect, but we did not find any direct effect of expressive behavior on recall. Happy expressions did not result in more positive recall, nor did sad expression result in more negative recall. Unlike the earlier work, we included a context of primed concepts for the expressive behavior. <xref ref-type="bibr" rid="R67" id="238" class="deo:Reference">Tamir et al. (2004)</xref> have shown that such contextual factors can drastically alter the meaning of expressions. An additional noteworthy finding was that although we closely followed the procedure for subliminal priming developed by <xref ref-type="bibr" rid="R1" id="239" class="deo:Reference">Bargh and colleagues (1982, 1986)</xref>, participants appeared to have had some awareness of the subliminally primed words. Thus, we cannot rule out the possibility that some awareness of the primed concepts or their affective tone may be necessary to produce the coherence effect. In the final study, we sought to replicate the findings with expressive behaviors, using the scrambled sentences priming task from Studies 1–3 rather than subliminally presented primes. We also used a different experimental recall task to examine potential underlying processes involved in the coherence effects docu- mented in Studies 1– 4. The primary purpose in the next study was to explore the nature of differences in processing associated with affective coherence and affective incoherence.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="241" confidence="possible" page="12" column="2">Study 5: Affective Coherence and the Construction of Narrative Meaning</h1>
+        <region class="DoCO:TextChunk" id="242" page="12" column="2">In four experiments, we exposed participants to affective concepts and affective experiential cues: approach and avoidance behaviors (Studies 1 and 2), moods (Study 3), and expressive behaviors (Study 4). We then assessed subsequent recall of affective information. In each experiment, we observed that recall was superior when there was coherence between affectively relevant sources compared with when there was incoherence between sources. The evidence, when taken together, suggested to us that participants experienced differences in fluency in these affective contexts. Although we did not investigate mediating processes directly, we surmised that fluency differences would have influenced the ease or difficulty of subsequent processing.</region>
+        <region class="DoCO:TextChunk" id="243" confidence="possible" page="12" column="2">2 Because some participants had one or more missing observations on the recognition survey, the three types of responses do not sum exactly to the number of total trials (i.e., 10).</region>
+        <outsider class="DoCO:TextBox" type="header" id="244" page="13" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="245" page="13" column="1">572</outsider>
+        <region class="DoCO:TextChunk" id="255" page="13" column="1">As noted earlier, fluency describes the ease of processing continuous information ( <xref ref-type="bibr" rid="R75" id="246" class="deo:Reference">Winkielman et al., 2003</xref>). In the four studies that we have reported thus far, such a metacognitive feeling of fluency might be created when several sources of affective information are coherent, when affective concepts and affective experiences are in sync. The results of Studies 1 and 2, both of which included a neutral priming condition, indicated that coherence was facilitative, whereas incoherence was inhibitory, in their effects on processing. To the extent that the fluency associated with affective coherence is the driving force, we would expect that additional aspects of information processing might also be facilitated. For example, coherence would not only enhance recall but also the ease with which recalled information is generated. Alternatively, the presumed disfluency associated with the experience of incoherence would likely be experienced as problem- atic and thus disruptive to ongoing processing. To the extent that the incoherence suggests an ambiguous affective situation, people may experience more uncertainty in how to respond to or make sense of the situation. The affective meaning of the situation may be unclear. To explore the nature of qualitative differences associated with affective coherence and incoherence, we chose to examine differences in measures of linguistic style by having people construct self-narratives. Extensive research has demonstrated that as people actively work to understand unpleasant life experiences, their narrative descriptions of those experiences change. Making sense of such experiences influences markers of emotional well-being. For example, <xref ref-type="bibr" rid="R46" id="247" class="deo:Reference">Pennebaker (1997)</xref> observed that the individuals who experienced health benefits from writing about traumatic events were those who “began with poorly organized descriptions and progressed to coherent stories by the last day of writing” (p. 165). People experiencing the ease and fluency associated with affective coherence should be more likely to demonstrate corresponding coherence in their self-generated narratives. In contrast, disfluency associated with affective incoherence should be more likely to manifest itself in less coherent self-narratives. To explore these possibilities, we again exposed participants to affective concepts as they engaged in expressive behaviors. But this time, we measured indicators of the ease with which information was generated and the quality of the output. An autobiographical recall task was used to provide the participant with flexibility about the kind of information to be generated. Participants were exposed to neutral cue words (e.g., “tree”) and were asked to think of an experience from their own life associated with this word and to write a brief narrative about the nature of that experience. One of our interests was the extent to which participants generated either more or less information depending on whether they were experiencing affective coherence or affective incoherence. We considered two distinct possibilities. If affective coherence results in fluency that facilitates processing generally, then participants in the coherent conditions might be more generative in their narratives. That is, affective coherence should facilitate the fluency of their written expression generally, leading to longer narratives. Alternatively, if affective incoherence motivates an attempt to extract meaning from incoherent affective cues, then participants in the incoherent conditions might generate more material. Another of our interests was the qualitative content of the generated narratives. Because certain types of words are associated with cognitive complexity (<xref ref-type="bibr" rid="R50" id="248" class="deo:Reference">Pennebaker &amp; Stone, 2003</xref>), we exam-<marker type="column" number="2"/><marker type="block"/> ined the content of the narratives. In particular, we tested whether differences in affective coherence would affect linguistic markers of complexity (e.g., Pennebaker, Mayne, &amp; <xref ref-type="bibr" rid="R49" id="250" class="deo:Reference">Francis, 1997</xref>; Pennebaker &amp; <xref ref-type="bibr" rid="R51" id="251" class="deo:Reference">Stone, 2003</xref>). These markers include the use of long words ( six letters) and words related to causation and insight. Pennebaker and colleagues also found that the content of narratives tends to change over time (<xref ref-type="bibr" rid="R47" id="252" class="deo:Reference">Pennebaker &amp; Francis, 1999</xref>; <xref ref-type="bibr" rid="R46" id="253" class="deo:Reference">Pennebaker et al., 1997</xref>; <xref ref-type="bibr" rid="R50" id="254" class="deo:Reference">Pennebaker &amp; Stone, 2003</xref>). They showed that improvements in adjustment across writing sessions correlated with increased use of causal and insight words, suggesting that people had come to a more meaningful understanding of the unpleasant life events. To determine whether temporal factors might also influence the degree to which affective coherence influenced self-generated narrative content, we analyzed changes in story content across narratives. Thus, the question posed in Study 5 was whether affective coherence would influence general processing efficiency, such as the length and complexity of the narratives that the participants produced, or whether such differences would be specifically related to meaning making—the emergent meaning of the narrative generated.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="256" page="13" column="2">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="257" page="13" column="2">Participants were 144 undergraduate students (59 men, 85 women; mean age, 19.17 years) from the University of Virginia who took part to fulfill a course requirement. The data of 11 participants were eliminated from analyses because they demonstrated suspicion about the purpose of the study, leaving the data from 133 participants (57 men, 76 women).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="258" page="13" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="264" page="13" column="2">The procedure was similar to that used in Study 4, with the following exceptions. Participants were given the same scrambled sentences task as in Studies 1–3 and were then instructed to engage in muscle contractions associated with happy or sad expressions as in Study 4. However, instead of reading the Paul story, participants engaged in an autobiographical recall task developed by <xref ref-type="bibr" rid="R68" id="259" class="deo:Reference">Teasdale and Fogarty (1979)</xref> and used by <xref ref-type="bibr" rid="R57" id="260" class="deo:Reference">Schnall and Laird (2003)</xref>. For this task, participants received a cue word (e.g., “tree”) while producing the emotional expressions. Participants were asked to close their eyes while maintaining the muscle contractions and to think of an event from their life associated with the word. They were instructed to think of the first event that came to mind, to consider what the experience was like, and to recall the event in as much detail as possible. Afterward, they wrote down the nature of the event and the effect it had on them. To maximize variability in responses, the experimenters did not time this task and simply encouraged participants to “write down a couple of sentences” about the event. The participants then rated the event on a scale from 1 (very bad) to 7 (very good) and indicated the extent to which they had experienced various feelings when the event originally happened (“happy,” “sad,” “confused,” “angry,” “relaxed,” “afraid,” “depressed,” “upset”). The same retrieval and ratings procedure was repeated for each of three cue words: “tree,” “house,” and “car.” Then participants indicated their feelings dur-<marker type="page" number="14"/><marker type="column" number="1"/><marker type="block"/> ing the experiment using visual analogue scales for the same adjectives (in a different order). Finally, participants filled out personality questionnaires not pertinent to the current project.</region>
+        <outsider class="DoCO:TextBox" type="header" id="262" page="14" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="263" page="14" column="1">573</outsider>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="265" page="14" column="1">Results Word Count</h1>
+        <region class="DoCO:TextChunk" id="268" page="14" column="1">Reports of the personal life events were analyzed using the Linguistic Inquiry Word Count (LWIC) software (Pennebaker, Francis, &amp; <xref ref-type="bibr" rid="R48" id="266" class="deo:Reference">Booth, 2001</xref>). The narratives resulting from the three cue words were combined, and the total word counts obtained from the LWIC program were submitted to an ANOVA with priming (happy vs. sad) and expression (happy vs. sad) as between-subjects factors. A two-way interaction of Priming Expression emerged, F(1, 129) 5.21, p .02, 2 .04, with higher overall mean word count for participants in the affectively incoherent conditions compared with those in the coherent conditions (see <xref ref-type="table" rid="T3" id="267" class="deo:Reference">Table 3</xref>). Thus, affective coherence led to shorter, more concise narratives than did affective incoherence.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="269" page="14" column="1">Cognitive Complexity</h1>
+        <region class="DoCO:TextChunk" id="274" page="14" column="1">We examined the degree to which differences in affective coherence may have influenced changes in the content of material generated across the three narratives. For ease of interpretation, we compared those participants in the coherent conditions (happy prime and happy expression, or sad prime and sad expression) with those in the incoherent conditions (happy prime and sad expression, or sad prime and happy expression). We found that participants in the coherent condition showed a linear increase in their use of causal words (e.g., “because,” “effect,” “hence”) across the three narratives. Participants in the incoherent condition generated the same number of causal words across the narratives. Indeed, a repeated measures ANOVA with condition (coherent vs. incoherent) and story (1 vs. 2. vs. 3) produced a significant linear trend for the interaction of Condition Story, F(1, 131) 5.79, p .02, 2 .04. Participants in the affectively coherent condition showed a linear increase in the percentage of causal words that they used, from 0.36% to 0.51% to 0.99% across the three narratives, whereas participants in the affectively incoherent condition showed no change, with 0.46%, 0.51%, and 0.51% of words being causal across the three narratives. A similar, though less pronounced, pattern emerged for insight words (e.g., “think,” “know,” and “consider”). In the coherent conditions, participants’ use of insight words increased from 0.81% to 1.64% in the first and second narratives and remained <marker type="column" number="2"/><marker type="block"/> relatively high in the third with 1.45%. Participants in the incoherent conditions showed no appreciable increase in their use of insight words (1.11%, 1.15%, and 1.26%). The quadratic trend for the interaction of Condition Story was marginally significant, F(1, 131) 2.89, p .09, 2 .02. Finally, participants in the coherent conditions used a larger number of long words ( six letters) across time, which also is considered a marker of cognitive complexity (<xref ref-type="bibr" rid="R50" id="273" class="deo:Reference">Pennebaker &amp; Stone, 2003</xref>). Participants experiencing coherence used long words at a rate that increased from 11.00% to 12.77% to 14.10% across the narratives. Alternatively, participants experiencing incoherence did not show such linear increase, with long words account- ing for 12.80%, 12.26%, and 12.74% of words used across narratives. Indeed, the linear trend of the Condition Story interaction was significant, F(1, 131) 8.95, p .003, 2 .06.</region>
+        <region class="DoCO:TableBox" id="T3">
+          <caption class="deo:Caption" id="271" page="14" column="1">Table 3 Means and Standard Deviations of Overall Word Count as a Function of Prime and Expression in Study 5</caption>
+          <content>
+            <h1 class="table"> Prime Happy Sad</h1>
+            <table class="DoCO:Table" number="3" page="14">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Expression</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Happy</td>
+                  <td class="table"> 48.00</td>
+                  <td class="table"> 14.58</td>
+                  <td class="table"> 57.88</td>
+                  <td class="table"> 19.06</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Sad</td>
+                  <td class="table"> 56.21</td>
+                  <td class="table"> 19.78</td>
+                  <td class="table"> 51.88</td>
+                  <td class="table"> 17.46</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="272" confidence="possible" page="14" column="1">Prime Happy Sad Expression M SD M SD Happy 48.00 14.58 57.88 19.06 Sad 56.21 19.78 51.88 17.46</region>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="275" page="14" column="2">Word Count and Affective Categories</h1>
+        <region class="DoCO:TextChunk" id="277" page="14" column="2">In addition to the markers of cognitive complexity, we also analyzed the extent to which higher word count was associated with affectively positive or negative words contained in the narratives. For participants in the coherent condition, there was a marginally significant correlation between word count and use of positive emotion words (see <xref ref-type="table" rid="T4" id="276" class="deo:Reference">Table 4</xref>), which was due to a correlation between word count and words relating to optimism. In contrast, for participants in the incoherent condition, there was a significant correlation between word count and negative emotion words used—in particular, words relating to sadness. Thus, the longer the narrative, the more positive emotion words were used by coherent condition participants and the more negative emotion words were used by incoherent condition participants.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="278" page="14" column="2">Affective Content</h1>
+        <region class="DoCO:TextChunk" id="279" page="14" column="2">We further compared the coherent and incoherent conditions in terms of the positive and negative affect categories across the three narratives using a series of repeated measures ANOVAs. No significant effects emerged for condition or for the Condition Story interaction, consistent with Pennebaker, Mehl, and Nieder- hoffer’s (2003) conclusion that actual affective content is often less diagnostic of psychological processes than linguistic style.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="280" page="14" column="2">Participants’ Evaluations of the Narratives</h1>
+        <region class="DoCO:TextChunk" id="281" page="14" column="2">For each narrative, participants rated the overall valence of the recalled event, as well as how they felt during that event when it originally happened. Whereas narrative content, as assessed with LWIC did not show differences across the groups, participants’ self-reported evaluations of the events did. Over time, people in the incoherent condition rated their narratives as getting progres- sively worse on several dimensions, while no such linear trend was apparent for people in the coherent condition. Linear trend analyses for the interaction of Condition Story confirmed the reli- ability of these findings. Across the three stories, participants experiencing incoherence rated the events as getting worse, F(1, 126) 4.89, p .03, 2 .04, and themselves as less happy, F(1, 131) 4.77, p .03, 2 .04; more sad, F(1, 131) 3.71, p .06, 2 .03; more depressed, F(1, 131) 4.80, p .03, 2 .04; more angry, F(1, 129) 4.50, p .04, 2 .03; and more</region>
+        <outsider class="DoCO:TextBox" type="header" id="282" page="15" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="283" page="15" column="1">574</outsider>
+        <region class="DoCO:TableBox" id="T4">
+          <caption class="deo:Caption" id="284" page="15" column="1">Table 4 Intercorrelations Between Word Count and Affective Linguistic Categories as a Function of Affective Coherence in Study 5</caption>
+          <content>
+            <h1 class="table"> Affective coherence condition</h1>
+            <table class="DoCO:Table" number="4" page="15">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Feeling</th>
+                  <th class="table"></th>
+                  <th class="table"> Coherent</th>
+                  <th class="table"> Incoherent</th>
+                </tr>
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> Positive</th>
+                  <th class="table"> emotions</th>
+                  <th class="table"></th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> All positive emotions</td>
+                  <td class="table"></td>
+                  <td class="table"> .24</td>
+                  <td class="table"> .13</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Positive feelings</td>
+                  <td class="table"></td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .12</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Optimism</td>
+                  <td class="table"></td>
+                  <td class="table"> .37 b</td>
+                  <td class="table"> .11</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Negative</td>
+                  <td class="table"> emotions</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> All negative emotions</td>
+                  <td class="table"></td>
+                  <td class="table"> .16</td>
+                  <td class="table"> .24 a</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Anxiety</td>
+                  <td class="table"></td>
+                  <td class="table"> .02</td>
+                  <td class="table"> .01</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Anger</td>
+                  <td class="table"></td>
+                  <td class="table"> .05</td>
+                  <td class="table"> .04</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Sadness</td>
+                  <td class="table"></td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .29 a</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> a Significant at .05 alpha</td>
+                  <td class="table.strange"> level. b</td>
+                  <td class="table.strange"> Significant .005</td>
+                  <td class="table.strange"> level.</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> p</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="285" confidence="possible" page="15" column="1">Affective coherence condition Feeling Coherent Incoherent Positive emotions All positive emotions .24 .13 Positive feelings .06 .12 Optimism .37 b .11 Negative emotions All negative emotions .16 .24 a Anxiety .02 .01 Anger .05 .04 Sadness .14 .29 a a Significant at .05 alpha level. b Significant .005 alpha level.</region>
+          <region class="TableInfo" id="286" confidence="possible" page="15" column="1">p</region>
+        </region>
+        <region class="DoCO:TextChunk" id="288" confidence="possible" page="15" column="1">2 .03 (see <xref ref-type="table" rid="T5" id="287" class="deo:Reference">Table 5</xref> for means</region>
+        <region class="DoCO:TextChunk" id="289" confidence="possible" page="15" column="1">upset, F(1, 131) 6.52, .01, and standard deviations).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="290" page="15" column="1">Participants’ Feelings During the Study</h1>
+        <region class="DoCO:TextChunk" id="294" page="15" column="1">Toward the end of the study, participants rated how they had been feeling throughout the experiment. Consistent with the findings from Study 2, participants in Study 5 reported having experienced more negative affect when they were in the incoherent condition. In particular, relative to the participants in the coherent condition (M 0.64, SD 1.29), participants in the incoherent condition (M 1.06, SD 1.40) gave higher ratings of feeling <marker type="column" number="2"/><marker type="block"/> sad, F(1, 131) 3.09, p .08, 2 .02; depressed (M 0.44, SD 0.93 vs. M 0.87, SD 1.21), F(1, 131) 5.22, p .02, 2 .04; upset (M .52, SD .97 vs. M 1.02, SD 1.39), F(1, 131) 5.72, p .02, 2 .04; angry (M 0.41, SD 0.88 vs. M 0.71, SD 1.20), F(1, 131) 2.83, p .09, 2 .02; and afraid (M .40, SD .67 vs. M .71, SD 1.12), F(1, 131) 3.52, p .06, 2 .03. Thus, the consequences of affective incoherence concerned not only the content of the narratives that participants produced but were also reflected in their reported feelings of negative affect while generating the narratives.</region>
+        <region class="DoCO:TableBox" id="T5">
+          <caption class="deo:Caption" id="292" page="15" column="1">Table 5 Means and Standard Deviations in Level of Affective Evaluations of Recalled Life Events in Study 5</caption>
+          <content>
+            <h1 class="table"> Event 1 Event 2 Event 3</h1>
+            <table class="DoCO:Table" number="5" page="15">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Affective condition</th>
+                  <th class="table"> Feeling</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                  <th class="table"> M</th>
+                  <th class="table"> SD</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table.strange">
+                  <td class="table.strange"> All</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Overall good</td>
+                  <td class="table"> 4.64</td>
+                  <td class="table"> 1.92</td>
+                  <td class="table"> 4.52</td>
+                  <td class="table"> 1.79</td>
+                  <td class="table"> 4.33</td>
+                  <td class="table"> 2.21</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Happy</td>
+                  <td class="table"> 4.95</td>
+                  <td class="table"> 3.18</td>
+                  <td class="table"> 5.14</td>
+                  <td class="table"> 3.11</td>
+                  <td class="table"> 4.60</td>
+                  <td class="table"> 3.78</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Sad</td>
+                  <td class="table"> 2.20</td>
+                  <td class="table"> 2.70</td>
+                  <td class="table"> 2.39</td>
+                  <td class="table"> 2.78</td>
+                  <td class="table"> 2.37</td>
+                  <td class="table"> 3.07</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Depressed</td>
+                  <td class="table"> 1.35</td>
+                  <td class="table"> 2.26</td>
+                  <td class="table"> 1.40</td>
+                  <td class="table"> 2.25</td>
+                  <td class="table"> 1.28</td>
+                  <td class="table"> 2.30</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Coherent</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Angry</td>
+                  <td class="table"> 1.79</td>
+                  <td class="table"> 2.47</td>
+                  <td class="table"> 1.75</td>
+                  <td class="table"> 2.77</td>
+                  <td class="table"> 2.25</td>
+                  <td class="table"> 2.91</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Upset</td>
+                  <td class="table"> 2.82</td>
+                  <td class="table"> 3.34</td>
+                  <td class="table"> 2.74</td>
+                  <td class="table"> 3.03</td>
+                  <td class="table"> 2.94</td>
+                  <td class="table"> 3.43</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Afraid</td>
+                  <td class="table"> 3.17</td>
+                  <td class="table"> 3.40</td>
+                  <td class="table"> 2.34</td>
+                  <td class="table"> 2.94</td>
+                  <td class="table"> 2.96</td>
+                  <td class="table"> 2.99</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Confused</td>
+                  <td class="table"> 1.54</td>
+                  <td class="table"> 2.19</td>
+                  <td class="table"> 1.59</td>
+                  <td class="table"> 2.38</td>
+                  <td class="table"> 2.27</td>
+                  <td class="table"> 2.55</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Relaxed</td>
+                  <td class="table"> 4.35</td>
+                  <td class="table"> 3.27</td>
+                  <td class="table"> 3.71</td>
+                  <td class="table"> 2.80</td>
+                  <td class="table"> 2.95</td>
+                  <td class="table"> 2.83</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Overall good</td>
+                  <td class="table"> 5.13</td>
+                  <td class="table"> 1.66</td>
+                  <td class="table"> 5.00</td>
+                  <td class="table"> 1.52</td>
+                  <td class="table"> 3.76</td>
+                  <td class="table"> 2.08</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Happy</td>
+                  <td class="table"> 5.81</td>
+                  <td class="table"> 2.71</td>
+                  <td class="table"> 5.47</td>
+                  <td class="table"> 2.66</td>
+                  <td class="table"> 3.63</td>
+                  <td class="table"> 3.67</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Sad</td>
+                  <td class="table"> 1.65</td>
+                  <td class="table"> 2.15</td>
+                  <td class="table"> 2.47</td>
+                  <td class="table"> 2.71</td>
+                  <td class="table"> 3.06</td>
+                  <td class="table"> 2.97</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Depressed</td>
+                  <td class="table"> 1.04</td>
+                  <td class="table"> 1.75</td>
+                  <td class="table"> 1.37</td>
+                  <td class="table"> 2.02</td>
+                  <td class="table"> 1.99</td>
+                  <td class="table"> 2.60</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Incoherent</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Angry</td>
+                  <td class="table"> 1.35</td>
+                  <td class="table"> 2.13</td>
+                  <td class="table"> 1.72</td>
+                  <td class="table"> 2.32</td>
+                  <td class="table"> 3.15</td>
+                  <td class="table"> 3.16</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Upset</td>
+                  <td class="table"> 2.05</td>
+                  <td class="table"> 2.87</td>
+                  <td class="table"> 2.45</td>
+                  <td class="table"> 2.76</td>
+                  <td class="table"> 4.16</td>
+                  <td class="table"> 3.57</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Afraid</td>
+                  <td class="table"> 2.54</td>
+                  <td class="table"> 3.09</td>
+                  <td class="table"> 2.05</td>
+                  <td class="table"> 2.57</td>
+                  <td class="table"> 3.59</td>
+                  <td class="table"> 3.14</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Confused</td>
+                  <td class="table"> 1.81</td>
+                  <td class="table"> 2.46</td>
+                  <td class="table"> 2.07</td>
+                  <td class="table"> 2.51</td>
+                  <td class="table"> 2.84</td>
+                  <td class="table"> 2.96</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Relaxed</td>
+                  <td class="table"> 4.96</td>
+                  <td class="table"> 3.08</td>
+                  <td class="table"> 4.02</td>
+                  <td class="table"> 2.95</td>
+                  <td class="table"> 2.53</td>
+                  <td class="table"> 2.95</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. Feelings were rated on a</td>
+                  <td class="table"> scale from 1 (very bad )</td>
+                  <td class="table"> to 7 (very good ).</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="293" confidence="possible" page="15" column="1">Event 1 Event 2 Event 3 Affective condition Feeling M SD M SD M SD All Overall good 4.64 1.92 4.52 1.79 4.33 2.21 Happy 4.95 3.18 5.14 3.11 4.60 3.78 Sad 2.20 2.70 2.39 2.78 2.37 3.07 Depressed 1.35 2.26 1.40 2.25 1.28 2.30 Coherent Angry 1.79 2.47 1.75 2.77 2.25 2.91 Upset 2.82 3.34 2.74 3.03 2.94 3.43 Afraid 3.17 3.40 2.34 2.94 2.96 2.99 Confused 1.54 2.19 1.59 2.38 2.27 2.55 Relaxed 4.35 3.27 3.71 2.80 2.95 2.83 Overall good 5.13 1.66 5.00 1.52 3.76 2.08 Happy 5.81 2.71 5.47 2.66 3.63 3.67 Sad 1.65 2.15 2.47 2.71 3.06 2.97 Depressed 1.04 1.75 1.37 2.02 1.99 2.60 Incoherent Angry 1.35 2.13 1.72 2.32 3.15 3.16 Upset 2.05 2.87 2.45 2.76 4.16 3.57 Afraid 2.54 3.09 2.05 2.57 3.59 3.14 Confused 1.81 2.46 2.07 2.51 2.84 2.96 Relaxed 4.96 3.08 4.02 2.95 2.53 2.95 Note. Feelings were rated on a scale from 1 (very bad ) to 7 (very good ).</region>
+        </region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="295" page="15" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="303" page="15" column="2">Study 5 explored whether the effects observed in Studies 1– 4 might reflect a generalized experience of fluency, with accompa- nying epistemic benefits or costs (e.g. <xref ref-type="bibr" rid="R66" id="296" class="deo:Reference">Tamir et al., 2002</xref>). Results suggested that affective incoherence led to an experience of disfluency and carried epistemic costs. Compared with affective coherence, affective incoherence produced self-generated narratives that were less concise, interconnected, insightful, and artic- ulate. These narratives were unaccompanied by the structural markers typical of improved cognitive functioning over time (cf. <xref ref-type="bibr" rid="R50" id="297" class="deo:Reference">Pennebaker et al., 2003</xref>). Alternatively, participants in the coherent conditions, although they wrote less overall, showed a general increase in cognitive complexity across the three writing samples. Increases in cognitive complexity have been associated with beneficial health outcomes, presumably because they reflect increased understanding (see <xref ref-type="bibr" rid="R50" id="298" class="deo:Reference">Pennebaker et al., 2003</xref>). Such an interpretation of differences in cognitive complexity markers in our data would suggest that participants in the coherent condition achieved a higher level of understanding of the life events they described, using fewer words to do so. <xref ref-type="bibr" rid="R50" id="299" class="deo:Reference">Pennebaker et al. (2003)</xref> noted, “[I]t<marker type="page" number="16"/><marker type="column" number="1"/><marker type="block"/> is striking how weakly emotion words predict people’s emotional state” (p. 571). Our data were consistent with this conclusion because the emotion words used in the narratives did not vary as a function of affective coherence condition. However, there was a tendency for the participants in the affectively incoherent conditions to generate more negative events over time. Finally, we replicated the mood results from Study 2, demonstrating differences in self-reported feelings as a function of affective coherence. It was interesting that rather than finding differences in positive affect, as has been reported in the fluency literature, we found that disfluency was associated with increases in negative affect. Along with the findings of Studies 1– 4, the results of Study 5 suggested that affective coherence may influence cognitive processing because of its epistemic benefits. The written expressions generally suggest a concern with arriving at coherent meaning. Individuals experiencing affective coherence responded in their narratives with greater insightfulness and understanding of causation.</region>
+        <outsider class="DoCO:TextBox" type="header" id="301" page="16" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="302" page="16" column="1">575</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="304" confidence="possible" page="16" column="1">General Discussion</h1>
+        <region class="DoCO:TextChunk" id="308" page="16" column="1">Four experiments showed that the recall of affective material from a story depended on whether experiential information was coherent with conceptualized affect. In each experiment, when experiential cues were inconsistent with primed affective concepts, participants’ memories suffered. This same phenomenon emerged regardless of whether the experiential cues were from affectively relevant actions, feelings, or expressions. A fifth study provided evidence consistent with the hypothesis that affective coherence has epistemic benefits. We used a variety of manipulations and measures to examine the implications of affective coherence. For example, affectively relevant concepts were indirectly primed in Studies 1–3 and Study 5 and were subliminally primed in Study 4. Experiential information included the direct experience of affect in the form of mood (Study 3) but also experiences of affectively relevant actions (Studies 1 and 2) and expressions (Studies 4 and 5). In addition, memory was measured by recall of a story (Studies 1– 4) or by autobiographical recall (Study 5). Consistent effects and patterns of findings were generated across all five studies. Despite such variation in method and measures, these experiments focused only on the coherence with respect to affective valence. One can imagine similar research examining the affective coherence with respect to arousal. Just as valence provides information about value, arousal provides information about importance ( <xref ref-type="bibr" rid="R17" id="305" class="deo:Reference">Clore &amp; Schnall, 2005</xref>). Thus, to be credible, affective concepts implying great importance or urgency should be accom- panied by experiences, actions, or expressions that also imply importance or urgency. In the emotion literature, research on coherence has been directed toward questions about the nature of emotion. Are emotions tightly bound, evolved modules whose existence is reflected in expressions, feelings, and patterns of physiology that show coherence, or does the absence of high levels of coherence among emotional responses require a revision in our concept of emotion (<xref ref-type="bibr" rid="R3" id="306" class="deo:Reference">Barrett, 2006</xref>)? The current results do not speak to that question. However, emotion coherence could also be examined within the current model. To the extent that specific emotions are believed to imply particular experiences, then one might expect that coherence and incoherence between emotion concepts and emotional symp-<marker type="column" number="2"/><marker type="block"/> toms might have effects on cognitive performance similar to those observed in these studies.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="309" page="16" column="2">Context Dependency</h1>
+        <region class="DoCO:TextChunk" id="316" page="16" column="2">We have emphasized how embodied experiences of affect can function as evidence relevant to affective thoughts. In that sense, people in everyday life act like scientists (<xref ref-type="bibr" rid="R31" id="310" class="deo:Reference">Kelly, 1963</xref>), continually testing the appropriateness of affective conceptions of events against embodied affective experiences of them. But in everyday perception, as in science, an item of data never speaks for itself. The sensations of our senses have meaning only in context. In this article, we opted for the term coherence to reflect the crucial role of context. A term such as agreement might imply equality or interchangeability among the affective cues, something that prior data have suggested is not the case. For example, the affective impact of approach–avoidance action (<xref ref-type="bibr" rid="R13" id="311" class="deo:Reference">Centerbar &amp; Clore, 2006</xref>) or head nods and shakes (Bri  ̃ol &amp; <xref ref-type="bibr" rid="R10" id="312" class="deo:Reference">Petty, 2003</xref>; <xref ref-type="bibr" rid="R67" id="313" class="deo:Reference">Tamir et al., 2004</xref>) is not fixed but variable. Generally, our data showed no direct effects of experiential inputs on either affect or performance. In our research, and presumably in the real world, affective concepts and experiential cues show a curious symbiosis. The concepts provide a context within which actions, feelings, and expressions take on affective meaning, which then provides evidence of the validity of the concept. <xref ref-type="bibr" rid="R42" id="314" class="deo:Reference">Neisser (1976)</xref> made a related point when he indicated a preference for talking about a perceptual cycle rather than a perception. His point was that perceptual data are given meaning by their cognitive context but that the validity of the cognitions in any given situation in turn depends on perceptual data. Indeed, we found that flexing the muscles involved in arm extension could have positive or negative affective meaning depending on whether positive concepts or negative concepts were made more accessible through priming (Studies 1 and 2). Only after this process of acquiring affective meaning from the activated concepts could the experience of arm extension validate or invalidate those same concepts. Thus, a primed negative concept made the act of extending one’s arm in that context a positive action because avoidance is a motivationally appropriate reaction to negative objects. The affective coherence of this combination validated the appropriateness of the negative concept, which allowed attention to be paid to the subsequent task. Similarly, a primed positive concept made the same act of extending one’s arm negative because avoidance is a motivationally inappropriate reaction to positive objects. The affective incoherence of this combination invalidated the applicability of the positive concept, so that participants were left with an affective problem to resolve before they could attend fully to task demands. We re-emphasize that in these configurations, an avoidance action and a negative concept, for example, were affectively coherent because avoidance is a motivationally appropriate reaction to negative stimuli, not because avoidance is inherently negative. It all depends on what is being avoided, a point also made long ago by <xref ref-type="bibr" rid="R29" id="315" class="deo:Reference">Heider (1958)</xref>. It should be clear that context dependency is often a critical part of affective coherence. As a result of acquiring meaning from context, embodied responses can serve as evidence for the concepts. The epistemic benefits and costs of validation and invalidation are assumed to be reflected in the relative ease or fluency of processing.</region>
+        <outsider class="DoCO:TextBox" type="header" id="317" page="17" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="318" page="17" column="1">576</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="319" page="17" column="1">Fluency</h1>
+        <region class="DoCO:TextChunk" id="324" page="17" column="1">One way to characterize these effects is to say that affective coherence produces the experience of fluency. Recent evidence in the study of conceptual and perceptual fluency has identified two hallmarks associated with that experience. First, fluency has been shown to produce positive affect, measured both in terms of self-reported feelings and changes in physiology. Second, fluency has been shown to have asymmetrical effects, producing changes in positive, but not in negative affect (<xref ref-type="bibr" rid="R74" id="320" class="deo:Reference">Winkielman &amp; Cacioppo, 2001</xref>). Some evidence from the current studies is consistent with a fluency interpretation. Affective coherence not only caused differences in recall but also differences in self-reported mood, at least when measured shortly after the experience. In Study 2, participants reported feeling more positive affect (“cheerful,” “delighted,” “pleased,” and “relaxed”) under conditions of affective coherence. Thus, like fluency, affective coherence may lead to positive affect. These same participants also reported feeling less negative affect (“gloomy,” “distressed”), which contrasts with the emotional asymmetry reported in the fluency literature (Harmon-<xref ref-type="bibr" rid="R28" id="321" class="deo:Reference">Jones &amp; Allen, 2001</xref>; <xref ref-type="bibr" rid="R74" id="322" class="deo:Reference">Winkielman &amp; Cacioppo, 2001</xref>). We also found that affective incoherence produced higher reports of negative affect (Study 5). We were careful to use unipolar scales for assessing negative affect, but <xref ref-type="bibr" rid="R74" id="323" class="deo:Reference">Winkielman and Cacioppo (2001)</xref> have argued that people may report their negative affect essentially by assessing their positive affect and reversing that assessment. It remains for future investigations to determine whether differences in both positive and negative affect occur as a function of affective coherence.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="325" page="17" column="1">Sense Making</h1>
+        <region class="DoCO:TextChunk" id="328" page="17" column="1">If affective coherence is a form of fluency, we would expect the kinds of processing efficiency and positive affect that we observed. Additionally, we proposed that such coherence had the epistemic benefits of making sense of one’s affective reactions (Study 5). In this regard, we identified reliable differences on measures developed by Pennebaker and colleagues to demonstrate the psychological and health benefits of explaining negative life events. We found that such meaning-making may also be applicable to positive events. In related research, <xref ref-type="bibr" rid="R73" id="326" class="deo:Reference">Wilson, Centerbar, Kermer, and Gilbert (2005)</xref> have shown that making sense of positive experiences speeds the dissipation of the associated positive affect. In such cases, sense making may thus seem to have adverse consequences, at least in terms of ongoing mood. However, these two sets of results are not in conflict. <xref ref-type="bibr" rid="R73" id="327" class="deo:Reference">Wilson et al. (2005)</xref> showed that successful sense-making results in thinking less about one’s mood, thus reducing its intensity and duration. They suggested that this allows people to move on from their affective experiences, and we are making a similar point. That is, affective coherence may be beneficial for subsequent processing by allowing people to turn their attention away from their affect to more fully engage in ongoing tasks.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="329" page="17" column="1">Related Conceptualizations</h1>
+        <region class="DoCO:TextChunk" id="341" page="17" column="1">We offer the notion of affective coherence as a general affective principle with potentially wide applicability, including potential <marker type="column" number="2"/><marker type="block"/> relevance to research on emotion regulation (<xref ref-type="bibr" rid="R54" id="331" class="deo:Reference">Richards &amp; Gross, 1999</xref>, 2000), motor behaviors (Bri  ̃ol &amp; <xref ref-type="bibr" rid="R10" id="332" class="deo:Reference">Petty, 2003</xref>; <xref ref-type="bibr" rid="R11" id="333" class="deo:Reference">Cacioppo et al., 1993</xref>; F  ̈rster &amp; <xref ref-type="bibr" rid="R22" id="334" class="deo:Reference">Strack, 1996</xref>, 1997, 1998; <xref ref-type="bibr" rid="R44" id="335" class="deo:Reference">Neumann &amp; Strack, 2000</xref>), self-validation (Bri  ̃ol &amp; <xref ref-type="bibr" rid="R10" id="336" class="deo:Reference">Petty, 2003</xref>, Petty et al., 2002), and confirmation of self-beliefs (<xref ref-type="bibr" rid="R66" id="337" class="deo:Reference">Tamir et al., 2002</xref>). Further, relevant data come from research on persuasion. Ac- cording to the self-validation hypothesis (<xref ref-type="bibr" rid="R52" id="338" class="deo:Reference">Petty et al., 2002</xref>), the influence of persuasive arguments on attitudes is not only a function of the impact of the arguments on the magnitude (extent of thought) and direction (valence of thoughts) parameters but additionally on the metacognitive aspects of people’s confidence in their thoughts. High confidence was found to increases the impact of both positive and negative persuasive messages, and low confidence was found to reduce their impact. Bri  ̃ol and Petty (2003) further demonstrated that actions such as head nodding (agreement) and head shaking (disagreement) can have effects on persuasion by influencing interactions with the valence or strength of persuasive messages. Bri  ̃ol and <xref ref-type="bibr" rid="R10" id="339" class="deo:Reference">Petty (2003)</xref> likewise referred to these actions as validating or invalidating one’s thoughts about persuasive messages, albeit through the effect that they have on confidence. Whereas these authors focused on the role of action in validating or invalidating specific thoughts, our focus on affective coherence has emphasized the benefits for subsequent processing. Also related to the current conceptualization is the affective certainty hypothesis (<xref ref-type="bibr" rid="R66" id="340" class="deo:Reference">Tamir et al., 2002</xref>). Like the self-validation hypothesis of Bri  ̃ol and Petty (2003), the affective certainty hypothesis focuses on the degree to which momentary affective inputs are either consistent or inconsistent with cognitions, in this case, self-beliefs rather than responses to persuasive arguments. However, like us, they emphasized the epistemic benefits of the fit between these momentary affective experiences and chronic affective beliefs. In their case, the benefits were evident in fast reaction times for identifying things that participants did or did not want. As such, affective certainty can be considered an example of affective coherence, where the domain of one’s belief happens to concern information about oneself (e.g., one’s personality) rather than more general information about affective concepts.</region>
+      </section>
+      <section class="deo:Conclusion">
+        <h1 class="DoCO:SectionTitle" id="342" page="17" column="2">Conclusions</h1>
+        <region class="DoCO:TextChunk" id="350" page="17" column="2">The effect of emotion on memory has been a popular topic in psychology. Studies have generally examined the role of affective valence (e.g., <xref ref-type="bibr" rid="R8" id="343" class="deo:Reference">Bower, 1981</xref>), affective arousal (e.g., <xref ref-type="bibr" rid="R12" id="344" class="deo:Reference">Cahill &amp; McGaugh, 1998</xref>), or affective intensity (<xref ref-type="bibr" rid="R38" id="345" class="deo:Reference">Loftus &amp; Burns, 1982</xref>). We examined a different kind of affective influence. The memory effects that we observed lay not in affect itself but in whether cognitive and experiential manifestations of affect were coherent. We began this article by alluding to Descartes’ declarations about the primacy of thought, which we contrasted to the pronounce- ments of Jefferson concerning the primacy of feeling. Our results suggest that beyond the roles of concepts and feelings, what is important is their coherence. Rather than questions of whether cognitive or bodily cues dominate behavior, as has been the focus of prior work (e.g., <xref ref-type="bibr" rid="R37" id="346" class="deo:Reference">Loewenstein, 1996</xref>), we emphasized their joint action. Performance on a memory task depended on the agreement between the cognitive content made accessible by priming and the self-generated experiences of action, feeling, and expression. We suggest that this kind of mind– body coherence or incoherence was important in part because it governed the extent to which individ-<marker type="page" number="18"/><marker type="column" number="1"/><marker type="block"/> uals could fully engage in the experimental task and hence how much they could retrieve from memory.</region>
+        <outsider class="DoCO:TextBox" type="header" id="348" page="18" column="1">AFFECTIVE INCOHERENCE</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="349" page="18" column="1">577</outsider>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="351" confidence="possible" page="18" column="1">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="352" page="18" column="1">Bargh, J. A., Bond, R. N., Lombardi, W. J., &amp; Tota, M. E. (1986). The additive nature of chronic and temporary sources of construct accessi- bility. Journal of Personality and Social Psychology, 50, 869 – 878.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="353" confidence="possible" page="18" column="1">Bargh, J. A., &amp; Pietromonaco, P. (1982). Automatic information processing and social perception: The influence of trait information presented outside of conscious awareness on impression formation. Journal of Personality and Social Psychology, 43, 437– 449.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="354" confidence="possible" page="18" column="1">Barrett, L. F. (2006). Are emotions natural kinds? Perspectives on Psychological Science, 1, 28 –58.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="355" confidence="possible" page="18" column="1">Barsalou, L. W. (1999). Perceptual symbol systems. Behavioral and Brain Sciences, 22, 577– 660.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="356" confidence="possible" page="18" column="1">Baumeister, R. F., Bratslavsky, E., Muraven, M., &amp; Tice, D. M. (1998). Ego depletion: Is the self a limited resource? Journal of Personality and Social Psychology, 74, 1252–1265.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="357" confidence="possible" page="18" column="1">Bodenhausen, G. V., Kramer, G. P., &amp; S  ̈sser, K. (1994). Happiness and stereotypic thinking in social judgment. Journal of Personality and Social Psychology, 66, 621– 632.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="358" confidence="possible" page="18" column="1">Bonanno, G. A., &amp; Keltner, D. (2004). The coherence of emotion systems: Comparing “on-line” measures of appraisal and facial expressions, and self-report. Cognition &amp; Emotion, 18, 431– 444.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="359" confidence="possible" page="18" column="1">Bower, G. H. (1981). Mood and memory. American Psychologist, 36, 129 –148.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="360" confidence="possible" page="18" column="1">Bower, G. H., Gilligan, S. G., &amp; Monteiro, K. P. (1981). Selectivity of learning caused by affective states. Journal of Experimental Psychology: General, 110, 451– 473.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="361" confidence="possible" page="18" column="1">Bri  ̃ol, P., &amp; Petty, R. (2003). Overt head movements and persuasion: A self-validation analysis. Journal of Personality and Social Psychology, 84, 1123–1139.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="362" confidence="possible" page="18" column="1">Cacioppo, J. T., Priester, J. R., &amp; Berntson, G. G. (1993). Rudimentary determinants of attitudes: II. Arm flexion and extension have differential effects on attitudes. Journal of Personality and Social Psychology, 65, 5–17.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="363" confidence="possible" page="18" column="1">Cahill, L., &amp; McGaugh, J. L. (1998). Mechanisms of emotional arousal and lasting declarative memory. Trends in Neuroscience, 21, 294 –299.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="364" confidence="possible" page="18" column="1">Centerbar, D. B., &amp; Clore, G. L. (2006). Do approach–avoidance actions create attitudes? Psychological Science, 17, 22–29.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="365" confidence="possible" page="18" column="1">Chen, M., &amp; Bargh, J. A. (1999). Consequences of automatic evaluation: Immediate behavioral predispositions to approach or avoid the stimulus. Personality and Social Psychology Bulletin, 45, 215–224.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="366" confidence="possible" page="18" column="1">Clark, A. (1997). Being there: Putting the brain, body, and world together again. Cambridge, MA: MIT Press.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="367" confidence="possible" page="18" column="1">Clore, G. L., &amp; Gasper, K. (2000). Feeling is believing: Some affective influences on belief. In N. H. Frida &amp; A. Manstead (Eds.), Emotions and belief: How feelings influence thoughts. Studies in emotion and social interaction (pp. 10 – 44). New York: Cambridge University Press.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="368" confidence="possible" page="18" column="1">Clore, G. L., &amp; Schnall, S. (2005). The influence of affect on attitude. In D. Albarrac  ́n, B. T. Johnson, &amp; M. P. Zanna (Eds.), Handbook of attitudes (pp. 437– 489). Mahwah, NJ: Erlbaum.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="369" confidence="possible" page="18" column="1">Clore, G. L. &amp; Storbeck, J. (2006). Affect as information about liking, efficacy, and importance. In J. Forgas (Ed). Affect in social thinking and behavior (pp. 123–142). New York: Psychology Press.</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="370" confidence="possible" page="18" column="1">Costin, F. (1969). The scrambled sentence test: A group measure of hostility. Educational and Psychological Measurement, 29, 461– 468.</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="371" confidence="possible" page="18" column="1">Descartes, R. (1641). Discourse on the method of rightly conducting the reason and seeking truth in the sciences. Retrieved from Alex Catalogue of Electronic Texts/NetLibrary</ref>
+          <ref rid="R21" class="deo:BibliographicReference" id="372" confidence="possible" page="18" column="1">Duclos, S. E., Laird, J. D., Schneider, E., Sexter, M., Stern, L., &amp; Van Lighten, O. (1989). Emotion-specific effects of facial expressions and postures on emotional experience. Journal of Personality and Social Psychology, 57, 100 –108.</ref>
+          <ref rid="R22" class="deo:BibliographicReference" id="373" page="18" column="2">F  ̈rster, J., &amp; Strack, F. (1996). Influence of overt head movements on memory for valenced words: A case of conceptual-motor compatibility. Journal of Personality and Social Psychology, 71, 421– 430.</ref>
+          <ref rid="R23" class="deo:BibliographicReference" id="374" confidence="possible" page="18" column="2">F  ̈rster, J., &amp; Strack, F. (1997). Motor actions in retrieval of valenced information: A motor congruence effect. Perceptual and Motor Skills, 85, 1419 –1427.</ref>
+          <ref rid="R24" class="deo:BibliographicReference" id="375" confidence="possible" page="18" column="2">F  ̈rster, J., &amp; Strack, F. (1998). Motor actions in retrieval of valenced information: II. Boundary conditions for motor congruence effects. Perceptual and Motor Skills, 86, 1423–1426.</ref>
+          <ref rid="R25" class="deo:BibliographicReference" id="376" confidence="possible" page="18" column="2">Flack, W. F., Jr., Laird, J. D., &amp; Cavallaro, L. A. (1999). Separate and combined effects of facial expressions and bodily postures on emotional feelings. European Journal of Social Psychology, 29, 203–217.</ref>
+          <ref rid="R26" class="deo:BibliographicReference" id="377" confidence="possible" page="18" column="2">Friedman, R., S., &amp; F  ̈rster, J. (2000). The effect of approach and avoidance motor actions on the elements of creative insight. Journal of Personality and Social Psychology, 79, 477– 492.</ref>
+          <ref rid="R27" class="deo:BibliographicReference" id="378" confidence="possible" page="18" column="2">Glenberg, A. M. (1997). What memory is for. Behavioral and Brain Sciences, 20, 1–55.</ref>
+          <ref rid="R28" class="deo:BibliographicReference" id="379" confidence="possible" page="18" column="2">Harmon-Jones, E., &amp; Allen, J. J. B. (2001). The role of affect in the mere exposure effect: Evidence from psychophysiological and individual differences approaches. Personality and Social Psychology Bulletin, 27, 889 – 898.</ref>
+          <ref rid="R29" class="deo:BibliographicReference" id="380" confidence="possible" page="18" column="2">Heider, F. (1958). The psychology of interpersonal relations. New York: Wiley.</ref>
+          <ref rid="R30" class="deo:BibliographicReference" id="381" confidence="possible" page="18" column="2">Jefferson, T. (1993). Letter to John Adams dated August 15, 1820. In A. Koch &amp; W. Peden (Eds.), Life and selected writings of Thomas Jefferson. New York: Modern Library.</ref>
+          <ref rid="R31" class="deo:BibliographicReference" id="382" confidence="possible" page="18" column="2">Kelly, G. A. (1963). A theory of personality: The psychology of personal constructs. New York: Norton &amp; Company.</ref>
+          <ref rid="R32" class="deo:BibliographicReference" id="383" confidence="possible" page="18" column="2">Kruglanski, A. W. (1989). Lay epistemics and human knowledge: Cognitive and motivational bases. New York: Plenum.</ref>
+          <ref rid="R33" class="deo:BibliographicReference" id="384" confidence="possible" page="18" column="2">Laird, J. D., Cuniff, M., Sheehan, K., Shulman, D., &amp; Strum, G. (1989). Emotion-specific effects of facial expressions on memory for life events. Journal of Social Behavior and Personality, 4, 87–98.</ref>
+          <ref rid="R34" class="deo:BibliographicReference" id="385" confidence="possible" page="18" column="2">Laird, J. D., Wagener, J. J., Halal, M., &amp; Szegda, M. (1982). Remembering what you feel: The effects of emotion on memory. Journal of Personality and Social Psychology, 42, 646 – 658.</ref>
+          <ref rid="R35" class="deo:BibliographicReference" id="386" confidence="possible" page="18" column="2">Lakoff, G., &amp; Johnson, M. (1999). Philosophy in the flesh: The embodied mind and its challenge to Western thought. New York: Basic Books.</ref>
+          <ref rid="R36" class="deo:BibliographicReference" id="387" confidence="possible" page="18" column="2">Larsen, R. J., &amp; Diener, E. (1992). Promises and problems with the circumplex model of emotion. In M. S. Clark (Ed.), Review of personality and social psychology, (Vol. 13, pp 25–59). Newbury Park, CA: Sage.</ref>
+          <ref rid="R37" class="deo:BibliographicReference" id="388" confidence="possible" page="18" column="2">Loewenstein, G. (1996). Out of control: Visceral influences on behavior. Organizational Behavior and Human Decision Processes, 65, 272–292.</ref>
+          <ref rid="R38" class="deo:BibliographicReference" id="389" confidence="possible" page="18" column="2">Loftus, E. F., &amp; Burns, T. E. (1982). Mental shock can produce retrograde amnesia. Memory &amp; Cognition, 10, 318 –323.</ref>
+          <ref rid="R39" class="deo:BibliographicReference" id="390" confidence="possible" page="18" column="2">Markman, A. B., &amp; Brendl, C. M. (2005). Constraining theories of embodied cognition, Psychological Science, 16, 6 –10.</ref>
+          <ref rid="R40" class="deo:BibliographicReference" id="391" confidence="possible" page="18" column="2">Martin, L. L., Abend, T., Sedikides, C., &amp; Green, J. D. (1997). How would I feel if . . . ? Mood as input to a role fulfillment evaluation process. Journal of Personality and Social Psychology, 73, 242–253.</ref>
+          <ref rid="R41" class="deo:BibliographicReference" id="392" confidence="possible" page="18" column="2">Mauss, I. B., Levenson, R. W., McCarter, L., Wilhelm, F. H., &amp; Gross, J. J. (2005). The tie that binds? Coherence among emotion experience, behavior, and physiology. Emotion, 5, 175–190.</ref>
+          <ref rid="R42" class="deo:BibliographicReference" id="393" confidence="possible" page="18" column="2">Neisser, U. (1976). Cognition and reality. San Francisco: Freeman.</ref>
+          <ref rid="R43" class="deo:BibliographicReference" id="394" confidence="possible" page="18" column="2">Neumann, R., F  ̈rster, J., &amp; Strack, F. (2003). Motor compatibility: The bidirectional link between behavior and evaluation. In J. Musch &amp; K. C. Klauer (Eds.), Psychology of evaluation: Affective processes in cognition and emotion (pp. 371–391). Mahwah, NJ: Erlbaum.</ref>
+          <ref rid="R44" class="deo:BibliographicReference" id="395" confidence="possible" page="18" column="2">Neumann, R., &amp; Strack, F. (2000). Approach and avoidance: The influence of proprioceptive and exteroceptive cues on encoding of affective information. Journal of Personality and Social Psychology, 79, 39 – 48.</ref>
+          <ref class="deo:BibliographicReference" id="396" confidence="possible" page="18" column="2">Niedenthal, P. M., Barsalou, L., Winkielman, P., Krauth-Gruber, S., &amp; Ric,</ref>
+          <ref class="deo:BibliographicReference" id="399" page="19" column="1">F. (2005). Embodiment in attitudes, social perception, and emotion. Personality and Social Psychology Review, 9, 184 –211.</ref>
+          <ref rid="R45" class="deo:BibliographicReference" id="400" confidence="possible" page="19" column="1">Niedenthal, P. M., Halberstadt, J. B., &amp; Setterlund, M. B. (1997). Being happy and seeing “happy”: Emotional state mediates visual word recognition. Cognition &amp; Emotion, 11, 403– 432.</ref>
+          <ref rid="R46" class="deo:BibliographicReference" id="401" confidence="possible" page="19" column="1">Pennebaker, J. W. (1997). Opening up: The healing power of expressing emotions (Rev. ed.). New York: Guilford Press.</ref>
+          <ref rid="R47" class="deo:BibliographicReference" id="402" confidence="possible" page="19" column="1">Pennebaker, J. W., &amp; Francis, M. E. (Eds.). (1999). Linguistic Inquiry and Word Count (LIWC): A computer-based text analysis program. Mahwah, NJ: Erlbaum.</ref>
+          <ref rid="R48" class="deo:BibliographicReference" id="403" confidence="possible" page="19" column="1">Pennebaker, J. W., Francis, M. E., &amp; Booth, R. J. (2001). Linguistic Inquiry and Word Count (LIWC): A computer-based text analysis program. Mahwah, NJ: Erlbaum.</ref>
+          <ref rid="R49" class="deo:BibliographicReference" id="404" confidence="possible" page="19" column="1">Pennebaker, J. W., Mayne, T., &amp; Francis, M. E. (1997). Linguistic predic- tors of adaptive bereavement. Journal of Personality and Social Psychology, 72, 863– 871.</ref>
+          <ref rid="R50" class="deo:BibliographicReference" id="405" confidence="possible" page="19" column="1">Pennebaker, J. W., Mehl, M. R., &amp; Niederhoffer, K. G. (2003). Psychological aspects of natural language use: Our words, our selves. Annual Review of Psychology, 54, 547–577.</ref>
+          <ref rid="R51" class="deo:BibliographicReference" id="406" confidence="possible" page="19" column="1">Pennebaker, J. W., &amp; Stone, L. D. (2003). Words of wisdom: Language use over the lifespan. Journal of Personality and Social Psychology, 85, 291–301.</ref>
+          <ref rid="R52" class="deo:BibliographicReference" id="407" confidence="possible" page="19" column="1">Petty, R. E., Bri  ̃ol, P., &amp; Tormala, Z. L. (2002). Thought confidence as a determinant of persuasion: The self-validation hypothesis. Journal of Personality and Social Psychology, 82, 722–741.</ref>
+          <ref rid="R53" class="deo:BibliographicReference" id="408" confidence="possible" page="19" column="1">Reber, R., Winkielman, P., &amp; Schwarz, N. (1998). Effects of perceptual fluency on affective judgments. Psychological Science, 9, 45– 48.</ref>
+          <ref rid="R54" class="deo:BibliographicReference" id="409" confidence="possible" page="19" column="1">Richards, J. M., &amp; Gross, J. L. (1999). Composure at any cost? The cognitive consequences of emotion suppression. Personality and Social Psychology Bulletin, 8, 1033–1044.</ref>
+          <ref rid="R55" class="deo:BibliographicReference" id="410" confidence="possible" page="19" column="1">Richards, J. M., &amp; Gross, J. L. (2000). Emotion regulation and memory: The cognitive costs of keeping one’s cool. Journal of Personality and Social Psychology, 79, 410 – 424.</ref>
+          <ref rid="R56" class="deo:BibliographicReference" id="411" confidence="possible" page="19" column="1">Russell, J. A. (1980). A circumplex model of affect. Journal of Personality and Social Psychology, 39, 1161–1178.</ref>
+          <ref rid="R57" class="deo:BibliographicReference" id="412" confidence="possible" page="19" column="1">Schnall, S., &amp; Laird, J. D. (2003). Keep smiling: Enduring effects of facial expressions and postures on emotional experience and memory. Cognition &amp; Emotion, 17, 787–797.</ref>
+          <ref rid="R58" class="deo:BibliographicReference" id="413" confidence="possible" page="19" column="1">Schnall, S., &amp; Laird, J. D. (2007). Facing fear: Expression of fear facilitates processing of emotional information. Social Behavior and Personality, 35, 513–524.</ref>
+          <ref rid="R59" class="deo:BibliographicReference" id="414" confidence="possible" page="19" column="1">Solarz, A. K. (1960). Latency of instrumental responses as a function of compatibility with the meaning of eliciting verbal signs. Journal of Experimental Psychology, 59, 239 –245.</ref>
+          <ref rid="R60" class="deo:BibliographicReference" id="415" confidence="possible" page="19" column="1">Soussignan, R. (2002). Duchenne smile, emotional experience, and auto- nomic reactivity: A test of the facial feedback hypothesis. Emotion, 2, 52–74.</ref>
+          <ref rid="R61" class="deo:BibliographicReference" id="416" confidence="possible" page="19" column="1">Stepper, S., &amp; Strack, F. (1993). Proprioceptive determinants of emotional and nonemotional feelings. Journal of Personality and Social Psychology, 64, 211–220.</ref>
+          <ref rid="R62" class="deo:BibliographicReference" id="417" page="19" column="2">Strack, F., Martin, L. L., &amp; Stepper, S. (1988). Inhibiting and facilitating conditions of the human smile: A nonobtrusive test of the facial feedback hypothesis. Journal of Personality and Social Psychology, 54, 768 –777.</ref>
+          <ref rid="R63" class="deo:BibliographicReference" id="418" confidence="possible" page="19" column="2">Strack, F., &amp; Neumann, R. (1996). “The spirit is willing, but the flesh is weak”: Beyond mind– body interaction in human decision-making. Organizational Behavior and Human Decision Processes, 65, 300 –304.</ref>
+          <ref rid="R64" class="deo:BibliographicReference" id="419" confidence="possible" page="19" column="2">Strack, F., &amp; Neumann, R. (2000). Furrowing the brow may undermine perceived fame: The role of facial feedback in judgments of celebrity. Personality and Social Psychology Bulletin, 26, 762–768.</ref>
+          <ref rid="R65" class="deo:BibliographicReference" id="420" confidence="possible" page="19" column="2">Strack, F., Schwarz, N., &amp; Gschneidinger, E. (1985). Happiness and reminiscing: The role of time perspective, affect, and mode of thinking. Journal of Personality and Social Psychology, 49, 1460 –1469.</ref>
+          <ref rid="R66" class="deo:BibliographicReference" id="421" confidence="possible" page="19" column="2">Tamir, M., Robinson, M. D., &amp; Clore, G. L. (2002). The epistemic benefits of trait-consistent mood states: An analysis of extraversion and mood. Journal of Personality and Social Psychology, 83, 663– 667.</ref>
+          <ref rid="R67" class="deo:BibliographicReference" id="422" confidence="possible" page="19" column="2">Tamir, M., Robinson, M. D., Clore, G. L., Martin, L. L., &amp; Whitaker, D. J. (2004). Are we puppets on a string? The contextual meaning of uncon- scious expressive cues. Personality and Social Psychology Bulletin, 30, 237–249.</ref>
+          <ref rid="R68" class="deo:BibliographicReference" id="423" confidence="possible" page="19" column="2">Teasdale, J. D., &amp; Fogarty, S. J. (1979). Differential effects of induced mood on retrieval of pleasant and unpleasant events from episodic memory. Journal of Abnormal Psychology, 88, 248 –257.</ref>
+          <ref rid="R69" class="deo:BibliographicReference" id="424" confidence="possible" page="19" column="2">Varela, F. J., Thompson, E., &amp; Rosch, E. (1991). The embodied mind: Cognitive science and human experience. Cambridge, MA: MIT Press.</ref>
+          <ref rid="R70" class="deo:BibliographicReference" id="425" confidence="possible" page="19" column="2">Vohs, K. D., &amp; Heatherton, T. F. (2000). Self-regulatory failure: A resource-depletion approach. Psychological Science, 11, 249 –254.</ref>
+          <ref rid="R71" class="deo:BibliographicReference" id="426" confidence="possible" page="19" column="2">Watson, D., &amp; Tellegen, A. (1985). Toward a consensual structure of mood. Psychological Bulletin, 98, 219 –235.</ref>
+          <ref rid="R72" class="deo:BibliographicReference" id="427" confidence="possible" page="19" column="2">Wells, G. L., &amp; Petty, R. E. (1980). The effects of overt head movements on persuasion: Compatibility and incompatibility of responses. Basic and Applied Social Psychology, 1, 219 –230.</ref>
+          <ref rid="R73" class="deo:BibliographicReference" id="428" confidence="possible" page="19" column="2">Wilson, T. D., Centerbar, D. B., Kermer, D. A., &amp; Gilbert, D. T. (2005). The pleasures of uncertainty: Prolonging positive moods in ways people do not appreciate. Journal of Personality and Social Psychology, 88, 5–21.</ref>
+          <ref rid="R74" class="deo:BibliographicReference" id="429" confidence="possible" page="19" column="2">Winkielman, P., &amp; Cacioppo, J. T. (2001). Mind at ease puts a smile on the face: Psychophysiological evidence that processing facilitation increases positive affect. Journal of Personality and Social Psychology, 81, 989 – 1000.</ref>
+          <ref rid="R75" class="deo:BibliographicReference" id="430" confidence="possible" page="19" column="2">Winkielman, P., Schwarz, N., Fazendeiro, T. A., &amp; Reber, R. (2003). The hedonic marking of processing fluency: Implications for evaluative judgment. In J. Musch &amp; K. C. Klauer (Eds.), Psychology of evaluation: Affective processes in cognition and emotion. Mahwah, NJ: Erlbaum.</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="header" id="397" page="19" column="1">CENTERBAR, SCHNALL, CLORE, AND GARVIN</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="398" page="19" column="1">578</outsider>
+        <region class="DoCO:TextChunk" id="431" confidence="possible" page="19" column="2">Received September 2, 2006 Revision received August 10, 2007 Accepted August 31, 2007</region>
+      </section>
+    </body>
+  </article>
+</pdfx>

@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>e3e7c2093b14be62c37e1d3598d8e7728ef62f67c65e027e7c0e6c1c9dd289a1</job>
+    <base_name>2j</base_name>
+    <doi>10.1037/0278-7393.34.3.524</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Journal of Experimental Psychology: Learning, Memory, and Cognition 2008, Vol. 34, No. 3, 524 –532</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="2">Copyright 2008 by the American Psychological Association 0278-7393/08/$12.00 DOI: 10.1037/0278-7393.34.3.524</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">Learning Correct Responses and Errors in the Hebb Repetition Effect: Two Faces of the Same Coin</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="4" confidence="possible">Mathieu Couture, Daniel Lafond, and S  ́bastien Tremblay Universit  ́ Laval</region>
+      <abstract class="DoCO:Abstract" id="5" confidence="possible">In a serial recall task, the Hebb repetition effect occurs when recall performance improves for a sequence repeated throughout the experimental session. This phenomenon has been replicated many times. Nevertheless, such cumulative learning seldom leads to perfect recall of the whole sequence, and errors persist. Here the authors report evidence that there is another side to the Hebb repetition effect that involves learning errors produced in a repeated sequence. A learning measure based on past recalls (correct or incorrect) shows that the probability of a given response increases with the number of prior occurrences of that response. The pattern of results reveals another manifestation of the Hebb repetition effect and speaks to the nature of implicit learning. Keywords: Hebb repetition effect, implicit memory, sequence learning, serial recall, error analysis</abstract>
+      <outsider class="DoCO:TextBox" type="sidenote" id="6">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="19" page="1" column="1">In a seminal study in the field of cognitive science, Donald O. <xref ref-type="bibr" rid="R11" id="7" class="deo:Reference">Hebb (1961)</xref> used a variant of the verbal immediate serial recall (ISR) task in which participants heard sequences of nine digits, displayed at a rate of one item per second, which they then had to reproduce in their order of presentation. Among a number of different trials, one particular series, that is, the same digits in the same order, recurred in every third trial. Contrary to the predictions of his initial theory regarding cell assemblies (see <xref ref-type="bibr" rid="R10" id="8" class="deo:Reference">Hebb, 1949</xref>), <xref ref-type="bibr" rid="R11" id="9" class="deo:Reference">Hebb (1961)</xref> found that ISR improved over repetitions and above mere task practice. Such cumulative learning occurred for the repeated series (and not for the novel trials) and is thus assumed to reflect the formation of an enduring representation of the repeated sequence. This form of learning is now referred to as the Hebb repetition effect and constitutes a powerful research paradigm to investigate sequence learn- ing—which is believed by many researchers to be the basis of most cognitive activities such as language, problem solving, and motor control (<xref ref-type="bibr" rid="R3" id="10" class="deo:Reference">Conrad, 1964</xref>; <xref ref-type="bibr" rid="R17" id="11" class="deo:Reference">Lashley, 1951</xref>; <xref ref-type="bibr" rid="R19" id="12" class="deo:Reference">Melton, 1963</xref>)—and to explore how information is consolidated within the human brain (e.g., see Hitch, Fastame, &amp; <xref ref-type="bibr" rid="R14" id="13" class="deo:Reference">Flude, 2005</xref>; see also Page, Cumming, Norris, Hitch, &amp; <xref ref-type="bibr" rid="R24" id="14" class="deo:Reference">McNeil, 2006</xref>). There are by now some very well-established features of the Hebb repetition effect, though the underlying mechanism is still not fully understood. Learning takes place with up to five novel trials between repetitions (<xref ref-type="bibr" rid="R19" id="15" class="deo:Reference">Melton, 1963</xref>, 1964). The Hebb repetition effect is not restricted by the nature of inputs, as learning appears to be of comparable magnitude for digits (<xref ref-type="bibr" rid="R2" id="16" class="deo:Reference">Cohen &amp; Johansson, 1967</xref>; Cumming, Page, &amp; <xref ref-type="bibr" rid="R5" id="17" class="deo:Reference">Norris, 2003</xref>; <xref ref-type="bibr" rid="R16" id="18" class="deo:Reference">Kogo &amp; Koshikawa, 1991</xref>; O’Shea &amp; Clegg,</region>
+      <region class="DoCO:TextChunk" id="21" confidence="possible" page="1" column="1">Mathieu Couture, Daniel Lafond, and S  ́bastien Tremblay, Universit  ́ Laval, Qu  ́bec City, Qu  ́bec, Canada. We thank Robert Hughes, Jean Saint-Aubin, Fabrice Parmentier, and Fran  ̧ois Vachon for critical readings of a draft of this article. This work was supported in the form of a project grant to S  ́bastien Tremblay from the Natural Sciences and Engineering Research Council (NSERC) of Canada. Mathieu Couture also re- ceives support from NSERC in the form of a scholarship. Correspondence concerning this article should be addressed to S  ́bastien Tremblay, E  ́ cole de Psychologie, Universit  ́ Laval, Qu  ́bec City, Qu  ́bec G1K 7P4, Canada. E-mail: <email id="20">sebastien.tremblay@psy.ulaval.ca</email></region>
+      <region class="DoCO:TextChunk" id="49" page="1" column="2">2006), letters (Cunningham, Healy, &amp; <xref ref-type="bibr" rid="R6" id="22" class="deo:Reference">Williams, 1984</xref>; <xref ref-type="bibr" rid="R14" id="23" class="deo:Reference">Hitch et al., 2005</xref>; <xref ref-type="bibr" rid="R20" id="24" class="deo:Reference">Melton, 1964</xref>), words (<xref ref-type="bibr" rid="R27" id="25" class="deo:Reference">Sechler &amp; Watkins, 1991</xref>), and spatial objects (Gagnon, Foster, Turcotte, &amp; <xref ref-type="bibr" rid="R9" id="26" class="deo:Reference">Jongenelis, 2004</xref>; <xref ref-type="bibr" rid="R21" id="27" class="deo:Reference">Milner, 1971</xref>; Turcotte, Gagnon, &amp; <xref ref-type="bibr" rid="R30" id="28" class="deo:Reference">Poirier, 2005</xref>; see <xref ref-type="bibr" rid="R4" id="29" class="deo:Reference">Couture &amp; Tremblay, 2006</xref>, for a direct comparison between verbal and spatial Hebb repetition effects). Finally, participants unaware of the repetition show similar learning curves to those who become aware of it (Couture &amp; Tremblay, 2006; <xref ref-type="bibr" rid="R18" id="30" class="deo:Reference">McKelvie, 1987</xref>). Despite the robustness of the Hebb repetition effect and the resistance of such incidental learning to interference (see <xref ref-type="bibr" rid="R28" id="31" class="deo:Reference">Seger, 1994</xref>, for a discussion), there are reports that such cumulative learning can be modulated and even abolished under some conditions. First, large individual differences are observed, with some participants not exhibiting a significant learning curve. For instance, <xref ref-type="bibr" rid="R18" id="32" class="deo:Reference">McKelvie (1987)</xref> found that only 66 participants out of 163 reached a perfect score following 12 repetitions of the sequence, and mean recall performance for the last repetition was about seven items out of nine. These results suggest that, even after a relatively high number of repetitions (up to 12) of the same set of items, for example, nine digits, learning is far from complete. Second, there is also some evidence that Hebbian-like sequence learning can be markedly impaired when auditory distraction is present (Farley, Neath, Allbritton, &amp; <xref ref-type="bibr" rid="R8" id="33" class="deo:Reference">Surprenant, 2007</xref>), perceptual properties of the repeated items are changed (e.g., <xref ref-type="bibr" rid="R15" id="34" class="deo:Reference">Hughes &amp; Jones, 2004</xref>), or participants are prevented from responding to the to-be-remembered sequences (e.g., <xref ref-type="bibr" rid="R2" id="35" class="deo:Reference">Cohen &amp; Johansson, 1967</xref>; <xref ref-type="bibr" rid="R6" id="36" class="deo:Reference">Cunningham et al., 1984</xref>). Finally, there are reports that older adults do not learn from Hebbian repetitions of a sequence of spatial items, whereas young adults show the classical learning curve (e.g., see <xref ref-type="bibr" rid="R30" id="37" class="deo:Reference">Turcotte et al., 2005</xref>). The classical method for evaluating recall performance and thus detecting the Hebb repetition effect is to take into account correct responses. Scoring is done according to a strict serial recall crite- rion: A response is considered correct when the right item is recalled in the same serial position in which it was presented. However, analyses of errors committed by participants performing ISR have revealed various types of errors, such as transpositions<marker type="page" number="2"/><marker type="column" number="1"/><marker type="block"/> (an item recalled in the wrong serial position), repetitions (the same item recalled more than once in the same trial), intrusions (items “recalled” that were not actually presented), and protrusions (items erroneously recalled at the serial position of preceding sequences; see <xref ref-type="bibr" rid="R12" id="43" class="deo:Reference">Henson, 1996</xref>; see also <xref ref-type="bibr" rid="R7" id="44" class="deo:Reference">Estes, 1991</xref>). It has been observed that some errors recur across trials in ISR tasks. After introducing a clever way of analyzing the recurrences of such errors across trials, <xref ref-type="bibr" rid="R7" id="45" class="deo:Reference">Estes (1991)</xref> concluded that short-term memory is not reset after an experimental trial and that at the time of recall, representations from the actual trial and those from preceding trials are competing for selection. In short, “recall on a given trial [is] substantially influenced by events of preceding trials” (<xref ref-type="bibr" rid="R7" id="46" class="deo:Reference">Estes, 1991</xref>, p.168). In the Hebb paradigm, given that the repeated series recurs, representations from that sequence might be reactivated. As suggested by Estes’s (1991) results and interpretation, these representations might reflect correct recalls as well as errors. It is therefore possible that sequence learning involves learning both correct responses and errors. The study of <xref ref-type="bibr" rid="R30" id="47" class="deo:Reference">Turcotte et al. (2005)</xref>, which explored the effect of aging on the learning of supraspan sequences of spatial materials, may be taken to support an error-learning hypothesis. Indeed, this study revealed that older adults exhibited not only an attenuated Hebb repetition effect but also a larger proportion of recurring errors, such as intrusions and protrusions in the visuospatial do- main. However, these results were averaged across participants and trials, and the authors did not provide error analyses for the verbal Hebb repetition effect. Individual analyses would provide more information about the relative contribution of error learning. To better understand the memory processes highlighted by the Hebb repetition effect and investigate the possibility that errors may be learned, we adapted the approach used by <xref ref-type="bibr" rid="R7" id="48" class="deo:Reference">Estes (1991)</xref> to pinpoint the source of errors in an order reconstruction version of the ISR task. A closed set of nine letters was used as to-be-remembered material. The total number of responses was divided into correct and incorrect responses. Errors were considered as repeated when they were made in the same serial position on any previous repeated trial (Repetition n 1, n 2, up to n 11) or as “new” when they were falsely recalled on a given serial position for the first time. 1 We used the classical Hebb procedure: An auditory verbal ISR task was used in which the same sequence of letters was repeated every four trials. For the classical Hebb repetition effect, the proportion of correct responses was calculated separately for each participant, and individual learning slopes were estimated for the 12 presentations of the repeated sequence and for the mean of the 12 corresponding blocks of three nonrepeated trials. A different approach was necessary to study error learning. It was not possible to simply test for an increase in the number of repeated errors across the 12 presentations of the critical sequence. Such an analysis would naturally show an increase in the recurrence of errors, even in the absence of error learning, because each new error necessarily increases the subsequent probability to observe a repeated error. We present an analysis of individual response probabilities that depends on the number of past occurrences of that response. This measure provides an indication of correct and incorrect response learning across the repeated sequences.</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="39" page="1" column="2">524</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="40" page="2" column="1">HEBB REPETITION EFFECT AND ERROR LEARNING</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="41" page="2" column="1">525</outsider>
+      <outsider class="DoCO:TextBox" type="sidenote" id="42" page="2" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="50" confidence="possible" page="2" column="1">Method</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="51" page="2" column="1">Participants</h1>
+        <region class="DoCO:TextChunk" id="53" page="2" column="1">Twenty-four adults from the Universit  ́ Laval, Qu  ́bec City, Qu  ́bec, Canada, took part in the experiment in exchange for a <marker type="column" number="2"/><marker type="block"/> small honorarium. All participants reported normal or corrected- to-normal audition and vision.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="54" page="2" column="2">Material</h1>
+        <region class="DoCO:TextChunk" id="56" page="2" column="2">The ISR task was programmed with Microsoft Visual Basic (Version 6.0). At each trial, nine letters were played to the participant through headphones at a rate of one letter per second (700 ms On, 300 ms Off) at approximately 65 dB(A). The items were recorded in a French female voice and edited with Sound Forge (Version 7.0; <xref ref-type="bibr" rid="R29" id="55" class="deo:Reference">Sony Corporation, 2003</xref>). The same set of monosyl- labic letters was used over trials (D, F, G, H, K, L, N, Q, and R); only the order of presentation changed from trial to trial. After each sequence, the nine letters were randomly presented horizon- tally within a 17- 17-cm frame on a computer screen, and participants had to give their responses by using a mouse to click on the letters. Each letter changed from black to green when selected and remained that way until the end of the trial.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="57" page="2" column="2">Design and Procedure</h1>
+        <region class="DoCO:TextChunk" id="58" page="2" column="2">The sequence heard on Trial 4 was presented 12 times during the experiment, once every four trials. There were three novel randomly generated sequences between each repetition of the critical sequence, forming 12 blocks of four trials. Two practice trials preceded the 48 experimental trials (12 repeated sequences and 36 novel sequences). The critical repeated sequence was randomly chosen for each participant. Participants were told to memorize all the items they heard in the same order in which they were presented and to try to reproduce the correct sequence in the recall phase. Participants received no feedback on their responses. No other instructions were given and, of course, no cues about the repeating sequences were provided. Participants were tested individually.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="59" confidence="possible" page="2" column="2">Results and Discussion</h1>
+        <region class="DoCO:TextChunk" id="60" page="2" column="2">To study the classical Hebb repetition effect, the proportion of correct responses for repeated and novel sequences was calculated for each of the 12 experimental blocks. All items recalled in their correct serial position were considered correct. We calculated slopes for the proportion of correct responses across for repeated and nonrepeated sequences (separately for each participant and then averaged over all 24 participants). Two average learning slopes are compared. One slope represents the change in proportion of correct responses on Presentations 1 to 12 of the repeated sequence. The second slope corresponds to the change in proportion of correct responses for the 12 corresponding blocks of three nonrepeated trials. We observed a Hebb repetition effect, that is, a sequence repetition learning beyond mere task practice. Indeed, the averaged learning slope for the repeated series was 0.15 correct items per repetition and 0.05 correct items for the novel trials. This difference was significant, t(23) 1.99, p .05, effect size d 0.83.</region>
+        <region class="DoCO:TextChunk" id="62" confidence="possible" page="2" column="2">1 Because we used a closed pool of to-be-remembered items (as in most classical studies; e.g., see <xref ref-type="bibr" rid="R11" id="61" class="deo:Reference">Hebb, 1961</xref>), the present study is constrained to the examination of protrusions. These errors refer to the incorrect production of an item from the closed pool of to-be-remembered items at its serial position of preceding trials (n 1 and n 2 ).</region>
+        <outsider class="DoCO:TextBox" type="header" id="63" page="3" column="1">COUTURE, LAFOND, AND TREMBLAY</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="64" page="3" column="1">526</outsider>
+        <region class="unknown" id="65" page="3" column="1">Number of items recalled at Presentations 2 to 12 2,376 Correct responses 1,438 Repeated 468 From Presentation n – 1 159 Diagram screening types of responses made to the 11 repetitions of the recurring sequence. Totals are calculated for all participants combined.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="66" page="3" column="1">New Errors Versus Repeated Errors</h1>
+        <outsider class="DoCO:TextBox" type="sidenote" id="67" page="3" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TextChunk" id="73" page="3" column="1">Responses not recalled in their proper serial positions were classified as erroneous responses. The error analysis was restricted to the 11 last-repeated trials (errors on the first presentation of the critical list are necessarily new). If a given error was previously made in the same serial position on any preceding repeated sequence, it was counted as a repeated error. Otherwise, the error counted as a new error. <xref ref-type="fig" rid="F1" id="68" class="deo:Reference">Figure 1</xref> shows the number of correct responses and errors made by participants for the repeated series in the verbal ISR task. On this diagram, errors are decomposed into new and repeated errors. Repeated errors were further decomposed into repetitions from the last repeated sequence (n 1) or repetitions from an earlier sequence (n 2 ). <xref ref-type="bibr" rid="R7" id="69" class="deo:Reference">Estes (1991)</xref> showed that protrusions from the sequence that immediately precedes a list are a key source of error. <xref ref-type="fig" rid="F1" id="70" class="deo:Reference">Figure 1</xref> suggests that protrusions may also originate from preceding repeated sequences when using a Hebb paradigm (interspaced by filler lists). These two types of protrusions are conceptually distinct and complementary. Only protrusions from the repeated sequences are considered in the present study to test whether these errors are subject to a form of learning that mirrors the classical Hebb repetition effect. When one uses the Hebb procedure, two forms of learning may occur across the repeated sequences: One is characterized by an increasing proportion of correct responses, and one is characterized by an increasing proportion of repeated errors. The former corresponds to the classical Hebb sequence learning effect, whereas the latter suggests that learning can also take place for erroneous responses. How-<marker type="column" number="2"/><marker type="block"/> ever, one has to consider that simply repeating errors does not necessarily indicate that they are learned. Indeed, fixed error probabilities (with no learning across repetitions) can also explain why errors are repeated. Repeated errors can be shown to increase simply due to chance, given constant error probabilities. 2 This increase in recurring errors across the 12 experimental blocks is attributable to the fact that each new error necessarily increases the probability for subsequent errors to be classified as repeated rather than new. Therefore, a simple error repetition analysis does not adequately answer the question of interest. If errors are progressively learned across repetitions of the critical sequence as typically observed for correct responses, then they should become more probable as a function of the number of times that they have been produced in previous identical sequences. On the basis of this reasoning, we developed a measure that can reveal two sides of Hebbian learning. Indeed this measure applies both to correct responses and errors. The measure and analysis are proved valid by simulation (i.e., that they do not falsely indicate error learning when there is none).</region>
+        <region class="unknown" id="72" page="3" column="2">Errors 938 New 470 From Presentation n – 2+ 309</region>
+        <region class="DoCO:TextChunk" id="74" confidence="possible" page="3" column="2">2 We thank an anonymous reviewer for noting the possibility that the increase in repeated errors and the decrease in new errors could be the result of an artifact. We are grateful to Stephan Lewandowksy for dem- onstrating this confound in a MATLAB simulation.</region>
+        <outsider class="DoCO:TextBox" type="header" id="75" page="4" column="1">HEBB REPETITION EFFECT AND ERROR LEARNING</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="76" page="4" column="1">527</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="77" page="4" column="1">A Measure of Response Learning Across Repeated Sequences</h1>
+        <region class="DoCO:TextChunk" id="81" page="4" column="1">We hypothesize that if learning takes place on the basis of responses made (correct or incorrect), then the probability of producing a given response should increase as a function of the number of times the same response had previously been recalled (referred to as the number of past occurrences). The number of past occurrences indicates the specific number of times that a response is produced at the same serial position in preceding presentations of the repeated sequence. The key difference between error learning across repeated sequences and error repetitions due to constant transposition probabilities is that the latter does not predict an increase in error probabilities across the number of past occurrences. Conversely, if a response (correct or incorrect) is repeated without being learned—as tested in a simulation reported below—its observed probability should be invariable across those repetitions. Probabilities were calculated for the nine correct responses (one for each serial position) and for 16 transposition errors involving the most common errors in ISR, that is, Serial Position p 1 or p 1 transpositions. Each of the nine serial positions was associated with two types of transpositions, p 1 or p 1, except for the first and the final serial positions for which only one transposition can occur, p 1 for the first serial position or p 1 for the final one. The transpositions considered in the current analysis were as follows: T 1 1, T 2 1, T 2 1, T 3 1, T 3 1, T 4 1, T 4 1, T 5 1, T 5 1, T 6 1, T 6 1, T 7 1, T 7 1, T 8 1, T 8 1, T 9 1. For instance, a T 2 1 transposition involves an incorrect item recalled on Serial Position 2 that should have been recalled on Serial Position 3. It is worth noting that errors studied here are perhaps those that are the most likely to be learned. Other transpositions (of Serial Position p 3 or p 3, for example) may show a weaker learning effect (or interfere less with the production of a correct response). For correct responses, probabilities were computed separately for each serial position. Thus, data from responses with different probabilities were not aggregated. The analysis involves sorting responses according to the number of occurrences of that response in the preceding trials of the repeated sequence. Each time a response is recalled by a participant (at the relevant serial position), it counts as an occurrence of that response for a specific repetition (Repetition 1, Repetition 2, and so on). For each repetition, probabilities are calculated by counting the number of occurrences of a response and dividing it by the number of opportunities. Response opportunities correspond to the number of presentations of the repeated sequence (those associated with a same number of past occurrences) in which the response was produced or could have been produced. The occurrences and opportunities for each number of past occurrences are pooled across participants before the probability of each response is computed. <xref ref-type="table" rid="T1" id="78" class="deo:Reference">Table 1</xref> shows the responses of a sample participant for the 12 repetitions of the critical sequence. These data will be used as an example to show exactly how response probabilities are calculated for each repetition. The present analysis requires calculating the probability of a response for each repetition of that response. For each cell in <xref ref-type="table" rid="T1" id="79" class="deo:Reference">Table 1</xref>, the number of past occurrences can be obtained by counting the number of previous occurrences of the target response in the cells above it in the same column. <xref ref-type="table" rid="T1" id="80" class="deo:Reference">Table 1</xref> shows two examples of this</region>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="82" page="4" column="2">Table 1 Responses Produced by a Sample Participant for the 12 Repeated Sequences and Identification of the Number of Past Occurrences for Correct Response Q at Position 3 and Transposition Error K at Position 8</caption>
+          <content>
+            <table class="DoCO:Table" number="1" page="4">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Repeated</td>
+                  <td class="table"> sequence</td>
+                  <td class="table"> (from</td>
+                  <td class="table"> Serial</td>
+                  <td class="table"> Positions 1–9)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Presentation of the</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> repeated sequence</td>
+                  <td class="table"> H R</td>
+                  <td class="table"> Q L</td>
+                  <td class="table"> D</td>
+                  <td class="table"> N</td>
+                  <td class="table"> K F G</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 1</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> q 0 r</td>
+                  <td class="table"> f</td>
+                  <td class="table"> d</td>
+                  <td class="table"> n k 0 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 2</td>
+                  <td class="table"> h n</td>
+                  <td class="table"> r 1 q</td>
+                  <td class="table"> l</td>
+                  <td class="table"> f</td>
+                  <td class="table"> d k 1 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 3</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> q 1 r</td>
+                  <td class="table"> d</td>
+                  <td class="table"> n</td>
+                  <td class="table"> k f 2 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 4</td>
+                  <td class="table"> h n</td>
+                  <td class="table"> l 2 r</td>
+                  <td class="table"> q</td>
+                  <td class="table"> d</td>
+                  <td class="table"> k f 2 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 5</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> r 2 q</td>
+                  <td class="table"> f</td>
+                  <td class="table"> d</td>
+                  <td class="table"> k n 2 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 6</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> q 2 r</td>
+                  <td class="table"> d</td>
+                  <td class="table"> n</td>
+                  <td class="table"> f k 2 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 7</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> q 3 r</td>
+                  <td class="table"> f</td>
+                  <td class="table"> k</td>
+                  <td class="table"> n d 3 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 8</td>
+                  <td class="table"> h l</td>
+                  <td class="table"> q 4 r</td>
+                  <td class="table"> d</td>
+                  <td class="table"> n</td>
+                  <td class="table"> k f 3 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 9</td>
+                  <td class="table"> h r</td>
+                  <td class="table"> l 5 n</td>
+                  <td class="table"> q</td>
+                  <td class="table"> f</td>
+                  <td class="table"> d k 3 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 10</td>
+                  <td class="table"> h r</td>
+                  <td class="table"> q 5 l</td>
+                  <td class="table"> f</td>
+                  <td class="table"> d</td>
+                  <td class="table"> n k 4 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 11</td>
+                  <td class="table"> h r</td>
+                  <td class="table"> q 6 l</td>
+                  <td class="table"> n</td>
+                  <td class="table"> f</td>
+                  <td class="table"> k d 5 g</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 12</td>
+                  <td class="table"> h r</td>
+                  <td class="table"> l 7 q</td>
+                  <td class="table"> f</td>
+                  <td class="table"> k</td>
+                  <td class="table"> d n 5 g</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="83" confidence="possible" page="4" column="2">Repeated sequence (from Serial Positions 1–9) Presentation of the repeated sequence H R Q L D N K F G 1 h l q 0 r f d n k 0 g 2 h n r 1 q l f d k 1 g 3 h l q 1 r d n k f 2 g 4 h n l 2 r q d k f 2 g 5 h l r 2 q f d k n 2 g 6 h l q 2 r d n f k 2 g 7 h l q 3 r f k n d 3 g 8 h l q 4 r d n k f 3 g 9 h r l 5 n q f d k 3 g 10 h r q 5 l f d n k 4 g 11 h r q 6 l n f k d 5 g 12 h r l 7 q f k d n 5 g</region>
+        </region>
+        <region class="DoCO:TextChunk" id="84" confidence="possible" page="4" column="2">Note. The superscripts in Column Q show the number of past occurrences of the Correct Response Q. The superscripts in Column F show the number of past occurrences for the T 8 – 1 transposition (Error K).</region>
+        <region class="DoCO:TextChunk" id="85" page="4" column="2">procedure, one for a correct response (Q at Position 3) and the other for a transposition error (K at Position 8). These examples (described below) were chosen randomly from our sample of participants for illustrative purposes.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="86" page="4" column="2">Example 1</h1>
+        <region class="DoCO:TextChunk" id="92" page="4" column="2">The first example shows how to calculate the probability of producing the correct response “Q” at Serial Position 3 as a function of the number of previous occurrences of that response. At the first presentation of the list, the number of prior occurrences of that Response Q is 0 (see Column Q in <xref ref-type="table" rid="T1" id="87" class="deo:Reference">Table 1</xref>). In this example, the number of prior occurrences becomes 1 at the second presentation of the repeated sequence because there is now 1 occurrence of Response Q above that cell. This value does not change at the third presentation because there is still only 1 prior occurrence of Response “Q” (the occurrence of “Q” at the third presentation does not count as a prior occurrence). The number of prior occurrences becomes 2 at the fourth presentation, 3 at the seventh presentation, 4 at the eighth presentation, and so on. The number of occurrences and opportunities of a response are calculated for Repetitions 1 to 4. There is 1 occurrence of Response Q among the two cells that have 1 prior occurrence of that response (those at the second and third presentations of the repeated sequence; see Column Q in <xref ref-type="table" rid="T1" id="88" class="deo:Reference">Table 1</xref>). For that participant, we count 1 occurrence and 2 opportunities for producing that response at Repetition 1. For Repetition 2, there were 3 opportunities (the fourth, fifth, and sixth presentations) and again only 1 occurrence. Hence, for Repetition 1 the probability of producing the correct response is 1/2. For Repetition 2, the probability is 1/3. Using the same logic, for Repetition 3 the probability is 1/1, and for Repetition 4, the observed probability is 1/1. The number of occurrences is always either 0 or 1 when based on individual participant data (after a single occurrence, if there is one, the number of prior occurrences necessarily increases). To obtain group trends, occurrences and opportunities are pooled across participants for each number of prior occurrences. For exam-<marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> ple, across all participants, the probability of producing the correct response at Serial Position 3 when there is 1 prior occurrence (Repetition 1) is obtained by dividing the total of 24 occurrences by the total of 51 opportunities, giving a probability of .47. For Repetition 4, the total across participants is 21 occurrences on 26 opportunities, giving a probability of .81. This means that when this item has been recalled four times in previous repeated lists, the observed probability of recalling it again on the next repeated list is .81. For the present analysis, we only estimated the probabilities for Repetitions 1, 2, 3, and 4. The trend for each response was then approximated with a slope.</region>
+        <outsider class="DoCO:TextBox" type="header" id="90" page="5" column="1">COUTURE, LAFOND, AND TREMBLAY</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="91" page="5" column="1">528</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="93" page="5" column="1">Example 2</h1>
+        <region class="DoCO:TextChunk" id="97" page="5" column="1">The same procedure was used for each of the 16 errors selected for the present analysis ( p 1 or p 1 transpositions). Example 2 shows how to calculate the probability of producing the error “K” at Serial Position 8 (Transposition T 8 1) as a function of the number of previous occurrences of that response. In <xref ref-type="table" rid="T1" id="94" class="deo:Reference">Table 1</xref> (Column F), the number of prior occurrences displayed corresponds to the error K, not to the correct response. The number of prior occurrences in each cell is calculated by counting the number of Ks in the cells above it (i.e., in the previous presentations of the repeated sequence). The error K occurred once when the number of prior occurrences was 1 (Repetition 1) and there was only 1 opportunity. For Repetition 2, there was 1 occurrence on 4 opportunities. Repetition 3 has 1 occurrence of Error K and 3 opportunities. For Repetition 4, there was 1 occurrence and 1 opportunity. To estimate response probabilities for each repetition, we divided the total number of occurrences on the total number of opportunities when combined for all 24 participants. For example, transposition T 8 1 was actually produced 8 times out of 29 occasions for Repetition 2, when calculated over all participants (note that if all 24 participants had repeated that error twice, the total number of occurrences would have been 24). The estimated probability of transposition T 8 1 for Repetition 2 was .28. The probabilities for each correct response and transposition, as a function of the number of past occurrences, are listed in <xref ref-type="table" rid="T2" id="95" class="deo:Reference">Table 2</xref> and <xref ref-type="table" rid="T3" id="96" class="deo:Reference">Table 3</xref>. For each response, we calculated the slope of the estimated probabilities for Repetitions 1 to 4. A positive slope suggests that learning occurred.</region>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="98" page="5" column="1">Table 2 Observed Response Probabilities and Slopes for p</caption>
+        </region>
+        <region class="DoCO:TextChunk" id="99" confidence="possible" page="5" column="1">1 or p 1 Transposition Errors on the Repeated Sequence as a Function of Prior Occurrences of That Response (Repetitions 1– 4)</region>
+        <region class="DoCO:TableBox" id="Tx100">
+          <content>
+            <h1 class="table"> Prior occurrences</h1>
+            <table class="DoCO:Table" number="2" page="5">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Serial</th>
+                  <th class="table"> position</th>
+                  <th class="table"> 1</th>
+                  <th class="table"> 2</th>
+                  <th class="table"> 3</th>
+                  <th class="table"> 4</th>
+                  <th class="table"> Slope</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 1</td>
+                  <td class="table"> .71</td>
+                  <td class="table"> .69</td>
+                  <td class="table"> .86</td>
+                  <td class="table"> .77</td>
+                  <td class="table"> .04</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 2</td>
+                  <td class="table"> .59</td>
+                  <td class="table"> .65</td>
+                  <td class="table"> .80</td>
+                  <td class="table"> .67</td>
+                  <td class="table"> .04</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 3</td>
+                  <td class="table"> .47</td>
+                  <td class="table"> .54</td>
+                  <td class="table"> .88</td>
+                  <td class="table"> .81</td>
+                  <td class="table"> .14</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 4</td>
+                  <td class="table"> .33</td>
+                  <td class="table"> .40</td>
+                  <td class="table"> .50</td>
+                  <td class="table"> .88</td>
+                  <td class="table"> .18</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 5</td>
+                  <td class="table"> .40</td>
+                  <td class="table"> .43</td>
+                  <td class="table"> .52</td>
+                  <td class="table"> .74</td>
+                  <td class="table"> .11</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 6</td>
+                  <td class="table"> .38</td>
+                  <td class="table"> .40</td>
+                  <td class="table"> .50</td>
+                  <td class="table"> .68</td>
+                  <td class="table"> .10</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 7</td>
+                  <td class="table"> .32</td>
+                  <td class="table"> .47</td>
+                  <td class="table"> .89</td>
+                  <td class="table"> .37</td>
+                  <td class="table"> .06</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 8</td>
+                  <td class="table"> .38</td>
+                  <td class="table"> .65</td>
+                  <td class="table"> .48</td>
+                  <td class="table"> .67</td>
+                  <td class="table"> .07</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> 9</td>
+                  <td class="table"> .61</td>
+                  <td class="table"> .69</td>
+                  <td class="table"> .77</td>
+                  <td class="table"> .76</td>
+                  <td class="table"> .05</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> M</td>
+                  <td class="table"> .47</td>
+                  <td class="table"> .55</td>
+                  <td class="table"> .69</td>
+                  <td class="table"> .71</td>
+                  <td class="table"> .09</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="101" confidence="possible" page="5" column="1">Prior occurrences Serial position 1 2 3 4 Slope 1 .71 .69 .86 .77 .04 2 .59 .65 .80 .67 .04 3 .47 .54 .88 .81 .14 4 .33 .40 .50 .88 .18 5 .40 .43 .52 .74 .11 6 .38 .40 .50 .68 .10 7 .32 .47 .89 .37 .06 8 .38 .65 .48 .67 .07 9 .61 .69 .77 .76 .05 M .47 .55 .69 .71 .09</region>
+          <caption class="deo:Caption" id="102" page="5" column="2">Table 3 Observed Response Probabilities and Slopes for Correct Responses on the Repeated Sequence as a Function of Prior Occurrences of That Response (Repetitions 1– 4)</caption>
+        </region>
+        <region class="DoCO:TableBox" id="Tx103">
+          <content>
+            <h1 class="table"> Prior occurrences</h1>
+            <table class="DoCO:Table" number="3" page="5">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Transposition</th>
+                  <th class="table"> 1</th>
+                  <th class="table"> 2</th>
+                  <th class="table"> 3</th>
+                  <th class="table"> 4</th>
+                  <th class="table"> Slope</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> T 1 1</td>
+                  <td class="table"> .11</td>
+                  <td class="table"> .13</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .02</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 2 1</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .18</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .03</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 2 1</td>
+                  <td class="table"> .05</td>
+                  <td class="table"> .17</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .12</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 3 1</td>
+                  <td class="table"> .16</td>
+                  <td class="table"> .08</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .08</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 3 1</td>
+                  <td class="table"> .11</td>
+                  <td class="table"> .22</td>
+                  <td class="table"> .13</td>
+                  <td class="table"> 1.00</td>
+                  <td class="table"> .26</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 4 1</td>
+                  <td class="table"> .10</td>
+                  <td class="table"> .11</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> 1.00</td>
+                  <td class="table"> .27</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 4 1</td>
+                  <td class="table"> .17</td>
+                  <td class="table"> .17</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .00</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 5 1</td>
+                  <td class="table"> .09</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .11</td>
+                  <td class="table"></td>
+                  <td class="table"> .01</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 5 1</td>
+                  <td class="table"> .19</td>
+                  <td class="table"> .11</td>
+                  <td class="table"> .13</td>
+                  <td class="table"> .50</td>
+                  <td class="table"> .09</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 6 1</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .01</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 6 1</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .11</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> 1.00</td>
+                  <td class="table"> .27</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 7 1</td>
+                  <td class="table"> .08</td>
+                  <td class="table"> .37</td>
+                  <td class="table"> .33</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .03</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 7 1</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .16</td>
+                  <td class="table"> .17</td>
+                  <td class="table"> .33</td>
+                  <td class="table"> .06</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 8 1</td>
+                  <td class="table"> .12</td>
+                  <td class="table"> .28</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .33</td>
+                  <td class="table"> .05</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 8 1</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .14</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .03</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> T 9 1</td>
+                  <td class="table"> .14</td>
+                  <td class="table"> .05</td>
+                  <td class="table"> 1.00</td>
+                  <td class="table"> .25</td>
+                  <td class="table"> .13</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> M</td>
+                  <td class="table"> .13</td>
+                  <td class="table"> .17</td>
+                  <td class="table"> .25</td>
+                  <td class="table"> .53</td>
+                  <td class="table"> .08</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="104" confidence="possible" page="5" column="2">Prior occurrences Transposition 1 2 3 4 Slope T 1 1 .11 .13 .02 T 2 1 .14 .18 .03 T 2 1 .05 .17 .12 T 3 1 .16 .08 .08 T 3 1 .11 .22 .13 1.00 .26 T 4 1 .10 .11 .14 1.00 .27 T 4 1 .17 .17 .00 T 5 1 .09 .18 .11 .01 T 5 1 .19 .11 .13 .50 .09 T 6 1 .14 .18 .07 .20 .01 T 6 1 .14 .11 .20 1.00 .27 T 7 1 .08 .37 .33 .20 .03 T 7 1 .14 .16 .17 .33 .06 T 8 1 .12 .28 .20 .33 .05 T 8 1 .18 .14 .03 T 9 1 .14 .05 1.00 .25 .13 M .13 .17 .25 .53 .08</region>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="105" page="5" column="2">Simulation</h1>
+        <region class="DoCO:TextChunk" id="113" page="5" column="2">To show that this measure is valid and not biased in any way, a simulation was designed to test a null model that assumes that there is no error learning, only correct repetition learning. For the error learning analysis, the simulation data can be viewed as a control group. The simulation also assumes that repetition learning relates specifically to the production of correct responses. It at- tempts to replicate the Hebb repetition effect by relying exclu- sively on a (correct) response-learning mechanism. The basic probabilities used to generate correct responses and errors (transpositions) are shown in <xref ref-type="table" rid="T4" id="106" class="deo:Reference">Table 4</xref>. These probabilities were chosen arbitrarily for the purposes of (a) recreating a typical serial position effect and (b) reproducing a typical trend in error distributions where transposition probabilities diminish with the number of serial positions between the error and the correct response. To simulate correct response learning, a new set of probabilities was derived for each repetition of the correct response. At each repetition, its probability of being recalled was increased by 9% (which corresponds to the learning slope for correct responses in the experiment). The chance of recalling the other possible responses was reduced by that same percentage (this reduction was distrib- uted evenly across responses). No additional parameters or as- sumptions were necessary for the simulation. The simulation generated data for 200 fictitious participants. Each simulated participant performed 12 repeated sequences (there was no point in simulating the filler lists because they were not part of the analysis). Individual differences were entirely due to random sampling, as the data were generated with the same underlying probabilities (those in <xref ref-type="table" rid="T4" id="107" class="deo:Reference">Table 4</xref>). Error repetitions throughout the 12 trials were necessarily due to chance (not to error learning). This simulation thus embodies the null hypothesis that no error learning occurs but that errors are nevertheless repeated due to the usual pattern of transpositions. The simulated data can then be analyzed in exactly the same way as the empirical data. If the learning measure is<marker type="page" number="6"/><marker type="column" number="1"/><marker type="block"/> sound, then response probabilities for the simulated errors should not increase as a function of the number of prior occurrences of these errors. However, the same measure should indicate that correct response probabilities increased across Repetitions 1 to 4, at a similar rate to that observed in the experiment (increasing by 9% at each repetition).</region>
+        <outsider class="DoCO:TextBox" type="header" id="109" page="6" column="1">HEBB REPETITION EFFECT AND ERROR LEARNING</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="110" page="6" column="1">529</outsider>
+        <region class="DoCO:TableBox" id="T4">
+          <caption class="deo:Caption" id="111" page="6" column="1">Table 4 Simulated Probabilities of Recalling the Correct Item (Diagonal) and Error Probabilities as a Function of Serial Position</caption>
+          <content>
+            <h1 class="table"> Letter</h1>
+            <table class="DoCO:Table" number="4" page="6">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Position</th>
+                  <th class="table"> A</th>
+                  <th class="table"> B</th>
+                  <th class="table"> C</th>
+                  <th class="table"> D</th>
+                  <th class="table"> E</th>
+                  <th class="table"> F</th>
+                  <th class="table"> G</th>
+                  <th class="table"> H</th>
+                  <th class="table"> I</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> 1</td>
+                  <td class="table"> .75</td>
+                  <td class="table"> .17</td>
+                  <td class="table"> .05</td>
+                  <td class="table"> .03</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 2</td>
+                  <td class="table"> .12</td>
+                  <td class="table"> .65</td>
+                  <td class="table"> .12</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .04</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 3</td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .15</td>
+                  <td class="table"> .55</td>
+                  <td class="table"> .15</td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .03</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 4</td>
+                  <td class="table"> .03</td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .45</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .04</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 5</td>
+                  <td class="table"></td>
+                  <td class="table"> .03</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .40</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .03</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 6</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .03</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .22</td>
+                  <td class="table"> .35</td>
+                  <td class="table"> .22</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .04</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 7</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .09</td>
+                  <td class="table"> .23</td>
+                  <td class="table"> .30</td>
+                  <td class="table"> .23</td>
+                  <td class="table"> .09</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 8</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .06</td>
+                  <td class="table"> .13</td>
+                  <td class="table"> .18</td>
+                  <td class="table"> .45</td>
+                  <td class="table"> .18</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 9</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> .03</td>
+                  <td class="table"> .07</td>
+                  <td class="table"> .20</td>
+                  <td class="table"> .70</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="112" confidence="possible" page="6" column="1">Letter Position A B C D E F G H I 1 .75 .17 .05 .03 2 .12 .65 .12 .07 .04 3 .06 .15 .55 .15 .06 .03 4 .03 .06 .18 .45 .18 .06 .04 5 .03 .07 .20 .40 .20 .07 .03 6 .03 .07 .22 .35 .22 .07 .04 7 .06 .09 .23 .30 .23 .09 8 .06 .13 .18 .45 .18 9 .03 .07 .20 .70</region>
+        </region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="114" page="6" column="1">Results for the Observed and Simulated Data</h1>
+        <region class="DoCO:TextChunk" id="119" page="6" column="1">Mixed analyses of variance were performed on the estimated probabilities for Repetitions 1 to 4 (see Tables 2 and 3). For the <marker type="column" number="2"/><marker type="block"/> experimental data, a significant effect of prior occurrences was observed for both correct responses, F(3, 32) 5.47, p .01, d 1.43 (mean slope 0.09), and errors, F(3, 48) 9.14, p .001, d 1.51 (mean slope 0.08). For the simulated data, a significant effect of prior occurrences was observed for correct responses, F(3, 32) 5.27, p .01, d 1.41 (mean slope 0.09), but not for errors, F(3, 54) 1.48, p .23, d 0.57 (mean slope 0.01). The analysis of the simulated data indicates that there was no error learning, showing that the response learning measure does not falsely indicate a learning effect when there is none. The key outcome of this analysis is summarized in <xref ref-type="fig" rid="F2" id="117" class="deo:Reference">Figure 2</xref>. This figure shows the observed probability of producing correct responses and errors as a function of the number of times that they were previously recalled. The parallel between the two average slopes suggests that response learning had a similar effect for correct responses and errors. <xref ref-type="fig" rid="F3" id="118" class="deo:Reference">Figure 3</xref> shows the results of the simulation, indicating that no error learning occurred and success- fully reproducing the classic Hebb repetition effect solely on the basis of “response learning.”</region>
+        <region class="unknown" id="116" page="6" column="1">1.0 Errors Correct answers .9 Average slope (Errors) Average slope (Correct answers) .8 item .7 an recalling .6 .5 of .4 Probability .3 .2 .1 .0 0.0 1.0 2.0 3.0 4.0 Number of times an item was previously recalled</region>
+      </section>
+      <section class="deo:Conclusion">
+        <h1 class="DoCO:SectionTitle" id="120" page="6" column="2">Conclusion</h1>
+        <region class="DoCO:TextChunk" id="126" page="6" column="2">As predicted, the probability of producing a specific response increased as a function of the number of times this response was previously recalled in the repeated series at that same position. The simulation of a null model showed that this pattern of results is not attributable to a flaw in the learning measure. Hence, two forms of learning do seem to take place in our experiment: learning of <marker type="page" number="7"/><marker type="column" number="1"/><marker type="block"/> correct responses (the classical Hebb repetition effect) and error learning. Both effects were observed using the same measure. Results suggest that responses are stored in memory and have a cumulative effect on the subsequent trials of a repeated series in a verbal ISR task. We assume that the responses produced have an effect on stored representations via an implicit learning mechanism that increases the probability of selecting that response in subsequent trials. The fact that errors seem to be learned at a comparable rate to that of correct responses remains quite surprising. We would expect correct responses to be learned more quickly, as they are also presented at each repeated trial. In the present analysis, we only show the learning effect when there are one to four prior occurrences, as most errors are never repeated more than four times throughout the 12 trials of the repeated sequence. On the other hand, correct responses are generally repeated much more than four times. The repetition effect for correct responses ends up having a greater impact on performance than errors—which explains why overall performance improves across repetitions de- spite error learning. Also, whereas the slopes in <xref ref-type="fig" rid="F2" id="125" class="deo:Reference">Figure 2</xref> show that the repetition effect for error learning is proportional to the one for correct responses, the impact of error learning on performance remains smaller in absolute terms.</region>
+        <outsider class="DoCO:TextBox" type="header" id="122" page="7" column="1">COUTURE, LAFOND, AND TREMBLAY</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="123" page="7" column="1">530</outsider>
+        <region class="unknown" id="124" page="7" column="1">Errors 1.0 Correct answers Average slope (Errors) .9 Average slope (Correct answers) .8 item .7 an .6 recalling .5 of .4 Probability .3 .2 .1 .0 0.0 1.0 2.0 3.0 Number of times an item was previously recalled Mean learning slopes for the simulated data showing the probability of recalling an item as a function of the number of times this item was previously recalled. The slope for correct responses is the average learning slope for the nine correct responses (one for each serial position). The slope for errors is the average learning slope for the 16 errors studied in the present analysis ( p 1 or p 1 transpositions).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="127" confidence="possible" page="7" column="1">General Discussion</h1>
+        <region class="DoCO:TextChunk" id="152" page="7" column="1">The present study revealed a key and novel finding with regard to sequence learning: The Hebb repetition effect involves a gradual <marker type="column" number="2"/><marker type="block"/> learning process for both correct and incorrect responses. We used a measure capable of assessing whether learning occurs (or does not occur) on the basis of previous responses in the repeated series. The measure appropriately indicated that no learning occurred under simulated conditions with fixed transposition probabilities. The very same analysis on the experimental data shows that the probability of correct responses and transpositions increases with the number of times that those responses were previously produced. These results basically indicate that people “learn” from their responses, whether those responses are correct or not. The current findings suggest that the Hebb repetition effect may take two forms— error learning and correct response learning over repetitions—which can be reduced to the notion of response learning. In an empirical test of the positional model of serial memory using the Hebb repetition paradigm, <xref ref-type="bibr" rid="R5" id="130" class="deo:Reference">Cumming et al. (2003)</xref> concluded from their results that “although such positional effects [e.g., protrusions] are well documented, they appear to be short- lived, not contributing greatly, if at all, to the observed Hebb effect” (<xref ref-type="bibr" rid="R5" id="131" class="deo:Reference">Cumming et al., 2003</xref>, p. 58). Such a conclusion does not fit with our results showing that protrusions might remain “acti- vated” for up to four trials (three novel trials separating each repetition) and thus lead to error learning. The concept of error learning may offer a parsimonious explanation for some unresolved issues in ISR. Error learning could explain why some researchers found the Hebb repetition effect to be abolished under some conditions in which serial recall was<marker type="page" number="8"/><marker type="column" number="1"/><marker type="block"/> disrupted, such as when either response production (e.g., <xref ref-type="bibr" rid="R2" id="135" class="deo:Reference">Cohen &amp; Johansson, 1967</xref>), rehearsal (e.g., <xref ref-type="bibr" rid="R6" id="136" class="deo:Reference">Cunningham et al., 1984</xref>) or perceptual organization (e.g., <xref ref-type="bibr" rid="R15" id="137" class="deo:Reference">Hughes &amp; Jones, 2004</xref>; <xref ref-type="bibr" rid="R23" id="138" class="deo:Reference">O’Shea &amp; Clegg, 2006</xref>; see also <xref ref-type="bibr" rid="R26" id="139" class="deo:Reference">Remillard, 2003</xref>, in the context of a serial reaction time task) was disrupted. Under conditions in which participants are more prone to make errors, the increased contribution of error learning may seem to abolish the classical Hebb repetition effect (if proportion correct no longer increases with repetitions). In relation to the debate on the mechanisms underlying the Hebb repetition phenomenon, one explanation would be that implicit learning might essentially depend on response production. What we observed here is that the responses produced by participants— correct or incorrect—appear to be of great significance for Hebbian learning. A parallel could be made between the present findings and the generation effect. Indeed, the generation effect suggests that at encoding, self-generated items will often be better remembered than items presented to the participant (e.g., Hirshman &amp; <xref ref-type="bibr" rid="R13" id="140" class="deo:Reference">Bjork, 1988</xref>; see <xref ref-type="bibr" rid="R22" id="141" class="deo:Reference">Mulligan, 2002</xref>, for a discussion). Along the same lines, there is evidence that testing memory per se—that is, having participants produce responses in addition to recalling them— enhances long-term retention beyond factors such as inten- tional memorization and additional study time (see, e.g., Carpenter, Pashler, &amp; <xref ref-type="bibr" rid="R1" id="142" class="deo:Reference">Vul, 2006</xref>). In this way, Hebb repetition learning of correct responses and errors, as observed in the present study, seems to be related to the generation effect and reflects the im- portance of response production. Nevertheless, we cannot rule out that the repetition learning effect may also involve information encoded at some processing stage other than response production. One key question remains: Why are erroneous responses learned? According to <xref ref-type="bibr" rid="R7" id="143" class="deo:Reference">Estes (1991)</xref>, the items’ representations from the actual trial are competing with those from previous events at the time of response selection. With time, each item representation is distorted in memory, thus reducing the probability this item produces interference on a given trial. In the Hebb task, the recurrence of the repeated series could reactivate the representations of the previous repeated trial or trials. If correct responses were given on this or these trial or trials, the likelihood that the “correct” representations would be reactivated is higher. Such a repeated reactivation would help consolidate a memory trace of the repeated series and then increase the probability of observing the classical Hebb repetition effect (see also <xref ref-type="bibr" rid="R11" id="144" class="deo:Reference">Hebb, 1961</xref>; <xref ref-type="bibr" rid="R19" id="145" class="deo:Reference">Melton, 1963</xref>, for a similar interpretation). However, if errors were committed on previous repeated trials, the representations of the repeated sequence items might have been altered. Therefore, on a subsequent repetition, the memory trace would increase the probability of producing that erroneous response. At a speculative level, the propensity to “learn” errors might reflect some properties of the implicit memory device, as awareness does not appear to influence learning in the Hebb task (<xref ref-type="bibr" rid="R4" id="146" class="deo:Reference">Couture &amp; Tremblay, 2006</xref>; <xref ref-type="bibr" rid="R18" id="147" class="deo:Reference">McKelvie, 1987</xref>). Such a system would be adaptive, given that it memorizes all the information potentially useful to guide behaviors (<xref ref-type="bibr" rid="R25" id="148" class="deo:Reference">Reber, 1993</xref>), yet rigid, as all will be learned, whether the information is correct or not. In this way, incidental learning appears like a blind memory system. The Hebb repetition effect has been extensively used as a privileged tool for investigating human memory and is now considered by many researchers to be a benchmark against which memory models for serial order can be tested (e.g., Cumming et<marker type="column" number="2"/><marker type="block"/> al., 2003; <xref ref-type="bibr" rid="R14" id="150" class="deo:Reference">Hitch et al., 2005</xref>; <xref ref-type="bibr" rid="R24" id="151" class="deo:Reference">Page et al., 2006</xref>). The concept of error learning constitutes an important new issue for studies on human memory, theoretical models of serial recall, and conceptu- alizations of implicit memory.</region>
+        <region class="unknown" id="129" page="7" column="2">4.0</region>
+        <outsider class="DoCO:TextBox" type="header" id="133" page="8" column="1">HEBB REPETITION EFFECT AND ERROR LEARNING</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="134" page="8" column="1">531</outsider>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="153" confidence="possible" page="8" column="2">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="154" page="8" column="2">Carpenter, S. K., Pashler, H., &amp; Vul, E. (2006). What types of learning are enhanced by a cued recall test? Psychonomic Bulletin &amp; Review, 13, 826 – 830.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="155" confidence="possible" page="8" column="2">Cohen, R. L., &amp; Johansson, B. S. (1967). The activity trace in immediate memory: A re-evaluation. Journal of Verbal Learning and Verbal Behavior, 6, 139 –143.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="156" confidence="possible" page="8" column="2">Conrad, R. (1964). Acoustic confusions in immediate memory. British Journal of Psychology, 55, 75– 84.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="157" confidence="possible" page="8" column="2">Couture, M., &amp; Tremblay, S. (2006). Exploring the characteristics of the visuospatial Hebb repetition effect. Memory &amp; Cognition, 34, 1720 – 1729.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="158" confidence="possible" page="8" column="2">Cumming, N., Page, M., &amp; Norris, D. (2003). Testing a positional model of the Hebb effect. Memory, 11, 43– 63.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="159" confidence="possible" page="8" column="2">Cunningham, T. F., Healy, A. F., &amp; Williams, D. M. (1984). Effects of repetition on short-term retention of order information. Journal of Experimental Psychology: Learning, Memory, and Cognition, 10, 575– 597.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="160" confidence="possible" page="8" column="2">Estes, W. K. (1991). On types of item coding and sources of recall in short-term memory. In W. E. Hockler &amp; S. Lewandowski (Eds.), Relat- ing theory and data: Essays on human memory in honor of Bennet B. Murdock (pp. 155–173). Hillsdale, NJ: Erlbaum.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="161" confidence="possible" page="8" column="2">Farley, L. A., Neath, I., Allbritton, D. W., &amp; Surprenant, A. M. (2007). Irrelevant speech effects and sequence learning. Memory &amp; Cognition, 35, 156 –165.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="162" confidence="possible" page="8" column="2">Gagnon, S., Foster, J. K., Turcotte, J., &amp; Jongenelis, S. (2004). Involve- ment of the hippocampus in implicit learning of supra-span sequences: The case of SJ. Cognitive Neuropsychology, 21, 867– 882.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="163" confidence="possible" page="8" column="2">Hebb, D. O. (1949). Organization of behavior. New York: Wiley.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="164" confidence="possible" page="8" column="2">Hebb, D. O. (1961). Brain mechanisms and learning. In J. F. Delafresnaye (Ed.), Distinctive features of learning in the higher animal (pp. 37– 46). New York: Oxford University Press.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="165" confidence="possible" page="8" column="2">Henson, R. N. A. (1996). Short-term memory for serial order. Unpublished doctoral dissertation, University of Cambridge, Cambridge, England.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="166" confidence="possible" page="8" column="2">Hirshman, E., &amp; Bjork, R. A. (1988). The generation effect: Support for a two-factor theory. Journal of Experimental Psychology: Learning, Memory, and Cognition, 14, 484 – 494.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="167" confidence="possible" page="8" column="2">Hitch, G. J., Fastame, M. C., &amp; Flude, B. (2005). How is the serial order of a verbal sequence coded? Some comparisons between models. Memory, 13, 247–258.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="168" confidence="possible" page="8" column="2">Hughes, R. W., &amp; Jones, D. M. (2004, November). Hebbian auditory sequence learning: The role of passive perceptual processes. Paper presented at the 45th Annual Meeting of the Psychonomic Society, Minneapolis, MN.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="169" confidence="possible" page="8" column="2">Kogo, C., &amp; Koshikawa, F. (1991). Paradoxical fall in Hebb digits task: Mode change in the search process. Japanese Psychological Research, 33, 97–101.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="170" confidence="possible" page="8" column="2">Lashley, K. S. (1951). The problem of serial order in behavior. In L. A. Jeffress (Ed.), Cerebral mechanisms in behaviour: The Hixon Sympo- sium (pp. 112–146). Oxford, England: Wiley.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="171" confidence="possible" page="8" column="2">McKelvie, S. J. (1987). Learning and awareness in the Hebb Digits task. Journal of General Psychology, 114, 75– 88.</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="172" confidence="possible" page="8" column="2">Melton, A. W. (1963). Implications of short-term memory for a general theory of memory. Journal of Verbal Learning and Verbal Behavior, 2, 1–21.</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="173" confidence="possible" page="8" column="2">Melton, A. W. (1964). Categories of human learning. Oxford, England: Academic Press.</ref>
+          <ref rid="R21" class="deo:BibliographicReference" id="174" confidence="possible" page="8" column="2">Milner, B. (1971). Interhemispheric differences in the localization of psychological processes in man. British Medical Bulletin, 27, 272–277.</ref>
+          <ref rid="R22" class="deo:BibliographicReference" id="177" page="9" column="1">Mulligan, N. W. (2002). The generation effect: Dissociating enhanced item memory and disrupted order memory. Memory &amp; Cognition, 30, 850 – 861.</ref>
+          <ref rid="R23" class="deo:BibliographicReference" id="178" confidence="possible" page="9" column="1">O’Shea, G., &amp; Clegg, B. A. (2006). Stimulus and response chunking in the Hebb Digits task. Psychological Research, 70, 180 –192.</ref>
+          <ref rid="R24" class="deo:BibliographicReference" id="179" confidence="possible" page="9" column="1">Page, M. P. A., Cumming, N., Norris, D., Hitch, G. J., &amp; McNeil, A. M. (2006). Repetition learning in the immediate serial recall of visual and auditory materials. Journal of Experimental Psychology: Learning, Memory, and Cognition, 32, 716 –733.</ref>
+          <ref rid="R25" class="deo:BibliographicReference" id="180" confidence="possible" page="9" column="1">Reber, A. S. (1993). Implicit learning and tacit knowledge: An essay on the cognitive unconscious. London: Oxford University Press.</ref>
+          <ref rid="R26" class="deo:BibliographicReference" id="181" confidence="possible" page="9" column="1">Remillard, G. (2003). Pure perceptual-based sequence learning. Journal of Experimental Psychology: Learning, Memory, and Cognition, 29, 581– 597.</ref>
+          <ref rid="R27" class="deo:BibliographicReference" id="183" page="9" column="2">Sechler, E. S., &amp; Watkins, M. J. (1991). Learning to reproduce a list and memory for the learning. American Journal of Psychology, 104, 367– 394.</ref>
+          <ref rid="R28" class="deo:BibliographicReference" id="184" confidence="possible" page="9" column="2">Seger, C. A. (1994). Implicit learning. Psychological Bulletin, 115, 163– 196.</ref>
+          <ref rid="R29" class="deo:BibliographicReference" id="185" confidence="possible" page="9" column="2">Sony Corporation. (2003). Sound Forge (Version 7.0) [Computer soft- ware]. Madison, WI: Author.</ref>
+          <ref rid="R30" class="deo:BibliographicReference" id="186" confidence="possible" page="9" column="2">Turcotte, J., Gagnon, S., &amp; Poirier, M. (2005). The effect of old age on the learning of supraspan sequences. Psychology and Aging, 20, 251–260.</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="header" id="175" page="9" column="1">COUTURE, LAFOND, AND TREMBLAY</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="176" page="9" column="1">532</outsider>
+        <region class="unknown" id="182" page="9" column="1">Members of Underrepresented Groups: Reviewers for Journal Manuscripts Wanted If you are interested in reviewing manuscripts for APA journals, the APA Publications and Communications Board would like to invite your participation. Manuscript reviewers are vital to the publications process. As a reviewer, you would gain valuable experience in publishing. The P&amp;C Board is particularly interested in encouraging members of underrepresented groups to participate more in this process. If you are interested in reviewing manuscripts, please write to the address below. Please note the following important points: • To be selected as a reviewer, you must have published articles in peer-reviewed journals. The experience of publishing provides a reviewer with the basis for preparing a thorough, objective review. • To be selected, it is critical to be a regular reader of the five to six empirical journals that are most central to the area or journal for which you would like to review. Current knowledge of recently published research provides a reviewer with the knowledge base to evaluate a new submission within the context of existing research. • To select the appropriate reviewers for each manuscript, the editor needs detailed information. Please include with your letter your vita. In the letter, please identify which APA journal(s) you are interested in, and describe your area of expertise. Be as specific as possible. For example, “social psychology” is not sufficient—you would need to specify “social cognition” or “attitude change” as well. • Reviewing a manuscript takes time (1– 4 hours per manuscript reviewed). If you are selected to review a manuscript, be prepared to invest the necessary time to evaluate the manuscript thoroughly. Write to Journals Office, American Psychological Association, 750 First Street, NE, Washington, DC 20002-4242.</region>
+        <region class="DoCO:TextChunk" id="187" confidence="possible" page="9" column="2">Received June 30, 2007 Revision received November 8, 2007 Accepted November 20, 2007</region>
+      </section>
+    </body>
+  </article>
+</pdfx>

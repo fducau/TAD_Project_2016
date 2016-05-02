@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>9694aede56d99ba4028df5657df248b4dff9296c6fea84fdba225abe3529cc9a</job>
+    <base_name>1i</base_name>
+    <doi>http://dx.doi.org/10.1111/j.1467-9280.2008.02057.x</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">PS YC HOLOGICA L SC IENCE</outsider>
+      <region class="unknown" id="2">Research Article</region>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">Precision of the Anchor Influences the Amount of Adjustment</article-title>
+      </title-group>
+      <region class="unknown" id="4">Chris Janiszewski and Dan Uy University of Florida</region>
+      <abstract class="DoCO:Abstract" id="5">ABSTRACT— The anchoring-and-adjustment heuristic has been used to account for a wide variety of numerical judgments. Five studies show that adjustment away from a numerical anchor is smaller if the anchor is precise than if it is rounded. Evidence suggests that precise anchors, compared with rounded anchors, are represented on a subjective scale with a finer resolution. If adjustment consists of a series of iterative mental movements along a subjective scale, then an adjustment from a precise anchor should result in a smaller overall correction than an adjustment from a rounded anchor.</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="10" page="1" column="1">The anchoring-and-adjustment heuristic (<xref ref-type="bibr" rid="R15" id="6" class="deo:Reference">Tversky &amp; Kahneman, 1974</xref>) has been used to account for a wide variety of numerical judgments, including appraisals of home values (<xref ref-type="bibr" rid="R12" id="7" class="deo:Reference">Northcraft &amp; Neale, 1987</xref>), estimates of risk and uncertainty (Wright &amp; Anderson, 1989), and estimates of future performance (<xref ref-type="bibr" rid="R14" id="8" class="deo:Reference">Switzer &amp; Sniezek, 1991</xref>). In all these cases, the explanation rests on the claim that a numerical judgment can be influenced by the prior consideration of a numerical anchor (i.e., referent). For example, <xref ref-type="bibr" rid="R12" id="9" class="deo:Reference">Northcraft and Neale (1987)</xref> asked real estate agents to estimate the appraised value of a home. Agents who received an information packet that included a higher list price estimated a higher appraisal value. Northcraft and Neale proposed that the agents started the judgment process by rejecting the list price as an accurate estimate and then adjusted downward until they reached a plausible estimate. Adjustments tend to be insufficient, so the final appraisal values were biased in the direction of the initial anchor value.</region>
+      <region class="DoCO:TextChunk" id="12" confidence="possible" page="1" column="1">Address correspondence to Chris Janiszewski, Warrington College of Business Administration, University of Florida, P.O. Box 117155, Gainesville, FL 32611-1755, e-mail: <email id="11">chris.janiszewski@cba.ufl.edu</email>.</region>
+      <region class="DoCO:TextChunk" id="18" page="1" column="2">Two fundamental questions concerning numerical judgments are, when do people adjust, and what factors influence the amount of adjustment? With respect to the first question, recent evidence suggests that when people perceive that an anchor is diagnostic but incorrect, they often attempt to adjust from that anchor when formulating their estimate (<xref ref-type="bibr" rid="R4" id="13" class="deo:Reference">Epley &amp; Gilovich, 2001</xref>, 2005, 2006). For example, consider how people might respond if asked, ‘‘Is the freezing point of vodka 32 1F?’’ and then ‘‘What is the freezing point of vodka?’’ Although they know that the freezing point of vodka is not 32 1F, many people perceive that this anchor is diagnostic because it is the freezing point of water. Hence, a downward adjustment from this anchor is a legitimate strategy for making an educated guess at the answer to the second question. With respect to the second question, there are many factors that influence the amount of adjustment from a diagnostic anchor. These factors include the perceived relevance of the anchor to the judgment (<xref ref-type="bibr" rid="R11" id="14" class="deo:Reference">Mussweiler &amp; Strack, 1999</xref>), beliefs about the degree of error of the anchor (<xref ref-type="bibr" rid="R8" id="15" class="deo:Reference">Gilbert, 2002</xref>; <xref ref-type="bibr" rid="R16" id="16" class="deo:Reference">Wegener &amp; Petty, 1995</xref>), and the ambiguity and uncertainty associated with the anchor (<xref ref-type="bibr" rid="R3" id="17" class="deo:Reference">Einhorn &amp; Hogarth, 1985</xref>). The common theme underlying all of these influences is that reduced confidence in the accuracy of a diagnostic anchor will lead to a greater amount of adjustment. We believe that there is an additional, arguably more fundamental, factor that influences the amount of adjustment from a plausible anchor. If adjustment is viewed as movement along a subjective representational scale, then the resolution of this scale might also influence the amount of adjustment. X units of adjustment along a fine-resolution scale will cover less objective distance than the same number of units of adjustment along a coarse-resolution scale. As a consequence, there will be less adjustment when numerical judgments are made using subjective scales with a finer resolution.</region>
+      <outsider class="DoCO:TextBox" type="footer" id="19" page="1" column="2">Volume 19—Number 2</outsider>
+      <outsider class="DoCO:TextBox" type="footer" id="20" page="1" column="2">Downloaded Copyright from pss.sagepub.com r 2008 Association at Bobst Library, for Psychological New York University Science on April 19, 2016</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="21" page="1" column="2">121</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="22" page="2" column="1">Anchor Precision Influences the Amount of Adjustment</outsider>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="23" confidence="possible" page="2" column="1">EXPERIMENT 1</h1>
+        <region class="DoCO:TextChunk" id="25" page="2" column="1">Experiment 1 assessed the influence of rounded versus precise anchors on the amount of adjustment from the anchor. The precise anchors came in two forms. Precise under anchors were values up to 3% below the rounded anchors. Precise over anchors were values up to 3% above the rounded anchors. <xref ref-type="table" rid="T1" id="24" class="deo:Reference">Table 1</xref> lists the values of the rounded, precise under, and precise over anchors for the 10 scenarios used in this experiment.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="26" page="2" column="1">Method</h1>
+        <region class="DoCO:TextChunk" id="33" page="2" column="1">Forty-three students from an undergraduate subject pool par- ticipated in the experiment for extra credit. The experiment used a mixed design with type of anchor (rounded, precise under, precise over) as a between-subjects factor and scenario (10— see <xref ref-type="table" rid="T1" id="27" class="deo:Reference">Table 1</xref>) as a within-subjects factor. Respondents read the scenarios one at a time and provided a numerical estimate for each scenario before moving on to the next. Nine of the scenarios investigated price estimates (plasma TV, quick-melt cheese, beach house, pet rock, figurine) or estimates of attribute values (grams of protein in a health drink, pen life in kilometers, basketball shooting percentage, Hummer height). For example, the plasma-TV scenario stated:<marker type="column" number="2"/><marker type="block"/> A context-free scenario (i.e., ‘‘There is a number saved in a file on this computer. It is just slightly less than 10,000/9,989/ 10,011. Can you guess the number?’’) was also included. We assumed this scenario was free of preexisting associations and that estimates would not be affected by inferences about the reliability of the anchor.</region>
+        <region class="unknown" id="29" page="2" column="1">Imagine that you have just earned your first paycheck as a highly paid executive. As a result, you want to reward yourself by buying a large-screen, high-definition plasma TV. As you browse through a store, you see a plasma TV from Sony that you like because of its attractive carbon-fiber finish. Its WEGA 50-inch screen has been rated by a panel of electronics experts as the ‘‘clearest and sharpest in the market today, because of a new technology that doubled its resolution and increased its contrast ratio to 4,000:1.’’</region>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="30" page="2" column="1">TABLE 1 Anchor Values Used and Participants’ Mean Estimates in Experiment 1</caption>
+          <content>
+            <h1 class="table"> Anchor value Participants’ mean estimate Precise Precise Precise Precise Analysis of</h1>
+            <table class="DoCO:Table" number="1" page="2">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"></th>
+                  <th class="table"> Rounded</th>
+                  <th class="table"> under</th>
+                  <th class="table"> over</th>
+                  <th class="table"> Rounded</th>
+                  <th class="table"> under</th>
+                  <th class="table"> over</th>
+                  <th class="table"> variance a</th>
+                </tr>
+                <tr class="table">
+                  <th class="table"> Scenario</th>
+                  <th class="table"> Measure</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> anchor</th>
+                  <th class="table"> F p rep</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Beach house</td>
+                  <td class="table"> Bid price ($)</td>
+                  <td class="table"> 800,000</td>
+                  <td class="table"> 799,800</td>
+                  <td class="table"> 800,200</td>
+                  <td class="table"> 751,867</td>
+                  <td class="table"> 784,671</td>
+                  <td class="table"> 778,264</td>
+                  <td class="table"> 10.32 .974</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Beverage</td>
+                  <td class="table"> Protein (grams)</td>
+                  <td class="table"> 10</td>
+                  <td class="table"> 9.8</td>
+                  <td class="table"> 10.2</td>
+                  <td class="table"> 8.28</td>
+                  <td class="table"> 9.28</td>
+                  <td class="table"> 9.41</td>
+                  <td class="table"> 10.84 .979</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Cheese</td>
+                  <td class="table"> Cost ($)</td>
+                  <td class="table"> 5</td>
+                  <td class="table"> 4.85</td>
+                  <td class="table"> 5.15</td>
+                  <td class="table"> 3.75</td>
+                  <td class="table"> 4.17</td>
+                  <td class="table"> 4.41</td>
+                  <td class="table"> 5.41 .917</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Context-free</td>
+                  <td class="table"> Number</td>
+                  <td class="table"> 10,000</td>
+                  <td class="table"> 9,989</td>
+                  <td class="table"> 10,011</td>
+                  <td class="table"> 9,316</td>
+                  <td class="table"> 9,967</td>
+                  <td class="table"> 9,918</td>
+                  <td class="table"> 11.83 .986</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Basketball</td>
+                  <td class="table"> Field goal</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> percentage</td>
+                  <td class="table"> .500</td>
+                  <td class="table"> .498</td>
+                  <td class="table"> .502</td>
+                  <td class="table"> .46</td>
+                  <td class="table"> .47</td>
+                  <td class="table"> .50</td>
+                  <td class="table"> 6.79 .942</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Figurine</td>
+                  <td class="table"> Cost ($)</td>
+                  <td class="table"> 50</td>
+                  <td class="table"> 49</td>
+                  <td class="table"> 51</td>
+                  <td class="table"> 36.00</td>
+                  <td class="table"> 37.07</td>
+                  <td class="table"> 45.25</td>
+                  <td class="table"> 9.70 .974</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Hummer</td>
+                  <td class="table"> Height (meters)</td>
+                  <td class="table"> 2.3</td>
+                  <td class="table"> 2.28</td>
+                  <td class="table"> 2.32</td>
+                  <td class="table"> 2.05</td>
+                  <td class="table"> 2.15</td>
+                  <td class="table"> 2.20</td>
+                  <td class="table"> 13.56 .986</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Pen</td>
+                  <td class="table"> Life (kilometers)</td>
+                  <td class="table"> 4</td>
+                  <td class="table"> 3.998</td>
+                  <td class="table"> 4.002</td>
+                  <td class="table"> 3.52</td>
+                  <td class="table"> 3.81</td>
+                  <td class="table"> 3.85</td>
+                  <td class="table"> 7.98 .959</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Pet rock</td>
+                  <td class="table"> Sale price ($)</td>
+                  <td class="table"> 40</td>
+                  <td class="table"> 39.75</td>
+                  <td class="table"> 40.25</td>
+                  <td class="table"> 34.73</td>
+                  <td class="table"> 37.25</td>
+                  <td class="table"> 37.82</td>
+                  <td class="table"> 8.27 .962</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Plasma TV</td>
+                  <td class="table"> Cost ($)</td>
+                  <td class="table"> 5,000</td>
+                  <td class="table"> 4,998</td>
+                  <td class="table"> 5,012</td>
+                  <td class="table"> 4,158</td>
+                  <td class="table"> 4,569</td>
+                  <td class="table"> 4,578</td>
+                  <td class="table"> 8.02 .959</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Aggregate b</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> 0.35</td>
+                  <td class="table"> À0.21</td>
+                  <td class="table"> À0.16</td>
+                  <td class="table"> 21.78 .996</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> a These columns</td>
+                  <td class="table.strange"> present the results of analyses</td>
+                  <td class="table.strange"> comparing</td>
+                  <td class="table.strange"> estimates in the</td>
+                  <td class="table.strange"> rounded-anchor</td>
+                  <td class="table.strange"> condition with the</td>
+                  <td class="table.strange"> average estimates</td>
+                  <td class="table.strange"> in the</td>
+                  <td class="table.strange"> and</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> precise-over-anchor</td>
+                  <td class="table.strange"> conditions. b This row</td>
+                  <td class="table.strange"> presents the</td>
+                  <td class="table.strange"> average z scores</td>
+                  <td class="table.strange"> across scenarios.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="31" confidence="possible" page="2" column="1">Anchor value Participants’ mean estimate Precise Precise Precise Precise Analysis of Rounded under over Rounded under over variance a Scenario Measure anchor anchor anchor anchor anchor anchor F p rep Beach house Bid price ($) 800,000 799,800 800,200 751,867 784,671 778,264 10.32 .974 Beverage Protein (grams) 10 9.8 10.2 8.28 9.28 9.41 10.84 .979 Cheese Cost ($) 5 4.85 5.15 3.75 4.17 4.41 5.41 .917 Context-free Number 10,000 9,989 10,011 9,316 9,967 9,918 11.83 .986 Basketball Field goal percentage .500 .498 .502 .46 .47 .50 6.79 .942 Figurine Cost ($) 50 49 51 36.00 37.07 45.25 9.70 .974 Hummer Height (meters) 2.3 2.28 2.32 2.05 2.15 2.20 13.56 .986 Pen Life (kilometers) 4 3.998 4.002 3.52 3.81 3.85 7.98 .959 Pet rock Sale price ($) 40 39.75 40.25 34.73 37.25 37.82 8.27 .962 Plasma TV Cost ($) 5,000 4,998 5,012 4,158 4,569 4,578 8.02 .959 Aggregate b 0.35 À0.21 À0.16 21.78 .996 a These columns present the results of analyses comparing estimates in the rounded-anchor condition with the average estimates in the precise-under-anchor and precise-over-anchor conditions. b This row presents the average z scores across scenarios.</region>
+        </region>
+        <region class="unknown" id="32" page="2" column="2">If you were to guess the plasma TV’s actual cost to the retailer (i.e., how much the store bought it for), what would it be? Because this is your first purchase of a plasma TV, you have very little information with which to base your estimate. All you know is that it should cost less than the retail price of $5,000/$4,988/$5,012. Guess the product’s actual cost. This electronics store is known to offer a fair price. Most of their items are priced very close to their actual cost because they compete on volume. The only reason that this par- ticular plasma TV is expensive is that it uses a new technology, and the picture quality is outstanding. So the actual cost would be only slightly less than $5,000/$4,988/$5,012.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="34" page="2" column="2">Results</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="35" confidence="possible" page="2" column="2">Main Analysis</h2>
+          <region class="DoCO:TextChunk" id="42" page="2" column="2">The raw cell means are reported in <xref ref-type="table" rid="T1" id="36" class="deo:Reference">Table 1</xref>. The difference between the anchor value and each estimate was calculated and transformed into a z score using the error term from the entire sample. The Type of Anchor Â Scenario interaction was not significant, F(18, 360) 5 0.52, so we collapsed the data across the 10 scenarios and found that the type of anchor had a significant effect, F(2, 40) 5 10.94, o 2 5 .32. The rounded anchors (M 5 0.35, MSE 5 0.1) resulted in an adjustment that was larger than the average adjustment observed with the precise anchors (under: M 5 À0.21, MSE 5 0.08; over: M 5 À0.16, MSE 5<marker type="page" number="3"/><marker type="column" number="1"/><marker type="block"/> 0.1), F(1, 40) 5 21.78, p rep 5 .996, o 2 5 .33. The estimates did not differ between the precise under and precise over anchors, F(1, 40) 5 0.10.</region>
+          <outsider class="DoCO:TextBox" type="page_nr" id="38" page="2" column="2">122</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="39" page="2" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="40" page="2" column="2">Volume 19—Number 2</outsider>
+          <outsider class="DoCO:TextBox" type="header" id="41" page="3" column="1">Chris Janiszewski and Dan Uy</outsider>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="43" confidence="possible" page="3" column="1">Supplemental Analysis</h2>
+          <region class="DoCO:TextChunk" id="44" page="3" column="1">If different types of anchors induce people to represent their subjective scale differently, then rounded anchors should encourage rounded responses, and precise anchors should encourage precise responses. To test this idea, we coded each response for its level of precision. For example, in the beach- house scenario, an estimate that was a multiple of $5,000, $10,000, or $25,000 was considered rounded. The rounded anchors resulted in a larger proportion of rounded responses (.73) than the precise under anchors (.49) and the precise over anchors (.46), F(1, 40) 5 15.01, p rep 5 .996.</region>
+        </section>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="45" page="3" column="1">Discussion</h1>
+        <region class="DoCO:TextChunk" id="46" page="3" column="1">Experiment 1 shows that precise and rounded anchors result in estimates that are, respectively, closer to and farther from the anchor value. We propose that the precision of an anchor value can influence the resolution of the subjective scale used to represent the to-be-judged dimension. If respondents make an estimate by adjusting by X units on a subjective scale, they will cover less distance on a fine-resolution scale than on a coarse- resolution scale. The results of Experiment 1 can be used to rule out two alternative hypotheses. First, it does not appear that the estimation process is based on the selective accessibility of information that results from considering the anchor value. The rounded and precise anchors were similar in value, and there- fore should have encouraged the consideration of similar information. Second, it does not appear that respondents took a proportion of the anchor value to calculate their estimated value. If respondents were using a proportion rule, then the estimates associated with the rounded anchors should have been between the estimates associated with the precise under and precise over anchors.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="47" confidence="possible" page="3" column="1">EXPERIMENT 2</h1>
+        <region class="DoCO:TextChunk" id="49" page="3" column="1">A plausible alternative explanation for the results of Experiment 1 is that they were due to a difference in objective scale ranges. That is, a precise anchor might evoke a narrower range of plausible responses than a rounded anchor. If the adjustment from the anchor value is a constant percentage change within the objective range of plausible responses, then the narrower range in the precise-anchor condition would result in less adjustment than observed in the rounded-anchor condition. In Experiment 2, we manipulated the objective scale range independently of anchor precision. For example, the following information was added to the plasma-TV scenario in the broad- range condition (note that precise over anchors were not in- <marker type="column" number="2"/><marker type="block"/> cluded in this experiment): ‘‘You also know that electronics stores can make margins as high as 40%, suggesting that the cost could be as low as $3,000/$2,998, although these types of margins are usually for peripherals like headphones and/or iPod holders.’’ In the narrow-range condition, a 20% margin was suggested in this scenario, and the possible actual cost was given as $4,000 or $3,998. If anchor precision influences the resolution of the respondent’s subjective scale, then the effect of anchor precision on estimates would be independent of the effect of scale range. If anchor precision influences the range of plausible objective values and not scale resolution, then the effect of anchor precision either would be overwhelmed by the manipulation of scale range or would correlate with the observed effect of range.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="50" page="3" column="2">Method</h1>
+        <region class="DoCO:TextChunk" id="52" page="3" column="2">Eighty-five students from an undergraduate subject pool par- ticipated in this experiment for extra credit. The experiment used a mixed design with type of anchor (rounded, precise under) and range of plausible values (narrow, broad) as between- subjects factors and scenario (plasma TV, pet rock, beach house, Hummer, figurine) as a within-subjects factor. 1 The procedure mimicked that of Experiment 1 except for the addition of a manipulation check. After responding to all five scenarios, respondents reconsidered each scenario and provided a range of plausible estimates. To ensure that we would obtain a range effect, we set the lower values in the broad range to correspond to the lowest estimates reported in Experiment 1. The lower values in the narrow range were set to correspond to the median estimates in Experiment 1 (see <xref ref-type="table" rid="T2" id="51" class="deo:Reference">Table 2</xref>). For both broad and narrow ranges, the lower values were precise when the anchor was precise.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="53" page="3" column="2">Results</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="54" confidence="possible" page="3" column="2">Manipulation Check</h2>
+          <region class="DoCO:TextChunk" id="55" page="3" column="2">The plausible range values given by the participants were transformed into z scores. As expected, the range manipulation influenced the lowest plausible value. The lowest plausible value was lower in the broad-range condition (M 5 À0.47, MSE 5 0.1) than in the narrow-range condition (M 5 0.48, MSE 5 0.05), F(1, 81) 5 66.65, p rep 5 .996, o 2 5 .43. There was no influence of the type of anchor on the lowest plausible value, F(1, 81) 5 0.15, nor was there an interaction of range and type of anchor, F(1, 81) 5 0.11. As expected, the manipulations had no influence on the highest plausible value.</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="56" confidence="possible" page="3" column="2">Estimates</h2>
+          <region class="DoCO:TextChunk" id="57" page="3" column="2">As in Experiment 1, the difference between the anchor value and each estimate was calculated and transformed into a z score.</region>
+          <region class="DoCO:TextChunk" id="58" confidence="possible" page="3" column="2">1 The remaining scenarios could not be modified to be consistent with the range manipulation.</region>
+          <outsider class="DoCO:TextBox" type="footer" id="59" page="3" column="2">Volume 19—Number 2</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="60" page="3" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+          <outsider class="DoCO:TextBox" type="page_nr" id="61" page="3" column="2">123</outsider>
+          <outsider class="DoCO:TextBox" type="header" id="62" page="4" column="1">Anchor Precision Influences the Amount of Adjustment</outsider>
+          <region class="DoCO:TableBox" id="T2">
+            <caption class="deo:Caption" id="63" page="4" column="1">TABLE 2 Range of Values Presented in Experiment 2</caption>
+            <content>
+              <h1 class="table"> Broad range</h1>
+              <table class="DoCO:Table" number="2" page="4">
+                <thead class="table">
+                  <tr class="table">
+                    <th class="table"> Scenario</th>
+                    <th class="table"> Rounded anchor</th>
+                    <th class="table"> Precise anchor</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="table">
+                    <td class="table"> Beach house</td>
+                    <td class="table"> $700,000–$800,000</td>
+                    <td class="table"> $699,800–$800,000</td>
+                  </tr>
+                  <tr class="table">
+                    <td class="table"> Figurine</td>
+                    <td class="table"> $25–$50</td>
+                    <td class="table"> $24.50–$50</td>
+                  </tr>
+                  <tr class="table">
+                    <td class="table"> Hummer</td>
+                    <td class="table"> 2 m–2.3 m</td>
+                    <td class="table"> 1.98 m–2.3 m</td>
+                  </tr>
+                  <tr class="table">
+                    <td class="table"> Pet rock</td>
+                    <td class="table"> $30–$40</td>
+                    <td class="table"> $29.75–$40</td>
+                  </tr>
+                  <tr class="table">
+                    <td class="table"> Plasma TV</td>
+                    <td class="table"> $3,000–$5,000</td>
+                    <td class="table"> $2,998–$5,000</td>
+                  </tr>
+                </tbody>
+              </table>
+            </content>
+            <region class="TableInfo" id="64" confidence="possible" page="4" column="1">Broad range Scenario Rounded anchor Precise anchor Beach house $700,000–$800,000 $699,800–$800,000 Figurine $25–$50 $24.50–$50 Hummer 2 m–2.3 m 1.98 m–2.3 m Pet rock $30–$40 $29.75–$40 Plasma TV $3,000–$5,000 $2,998–$5,000</region>
+          </region>
+          <region class="DoCO:TextChunk" id="65" page="4" column="1">The rounded anchors (M 5 0.29, MSE 5 0.10) resulted in more adjustment than the precise anchors (M 5 À0.30, MSE 5 0.10), F(1, 81) 5 22.23, p rep 5 .996, o 2 5 .18. The broad ranges (M 5 0.18, MSE 5 0.09) resulted in more adjustment than the narrow ranges (M 5 À0.18, MSE 5 0.11), F(1, 81) 5 8.65, p rep 5 .97, o 2 5 .07. There was no Range Â Type of Anchor interaction, F(1, 81) 5 0.01.</region>
+        </section>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="66" confidence="possible" page="4" column="1">EXPERIMENT 3</h1>
+        <region class="DoCO:TextChunk" id="69" page="4" column="1">Experiment 2 provides evidence that anchor precision has an influence on adjustment that is independent of the influence of the objective range of plausible values. Experiment 3 addressed the possibility that precise anchors led to smaller adjustments because respondents perceived them as more accurate or valid (i.e., reliable) than rounded anchors. To test this hypothesis, we added a reliable-rounded-anchor condition to the precise- and rounded-anchor conditions. In the reliable-rounded-anchor condition, information was added to the rounded-anchor materials to make participants more confident in the anchor. For example, the plasma-TV scenario was modified by adding, <marker type="block"/> Similar modifications were made to the four other scenarios presented to participants (beach house, figurine, Hummer, pet rock). We expected that making an anchor more reliable would lead to less adjustment. We also expected that the effect of the reliability manipulation would be independent of the effect of anchor precision. If a reliable rounded anchor is perceived as more reliable than a precise anchor, but a precise anchor results in less adjustment than a reliable rounded anchor, then the reliability of the anchor cannot be responsible for the anchor- precision effect.</region>
+        <region class="unknown" id="68" page="4" column="1">All you know are the following three things. First, the plasma TV should cost less than the retail price of $5,000. Second, you have checked the price of the plasma TVat three other stores in the area. They were all selling the plasma TV for $5,000. Third, you checked on-line and the lowest price you saw was $5,000.</region>
+        <region class="unknown" id="70" page="4" column="2">Narrow range Rounded anchor Precise anchor $750,000–$800,000 $749,800–$800,000 $35–$50 $34.50–$50 2.1 m–2.3 m 2.08 m–2.3 m $35–$40 $34.75–$40 $4,000–$5,000 $3,998–$5,000</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="71" page="4" column="2">Method</h1>
+        <region class="DoCO:TextChunk" id="72" page="4" column="2">Forty-five students from an undergraduate subject pool partic- ipated in the experiment for extra credit. The experiment used a mixed design with type of anchor (rounded, reliable rounded, precise under) as a between-subjects factor and scenario (plasma TV, pet rock, beach house, Hummer, figurine) as a within-subjects factor. The stimulus materials were identical to those used in Experiment 2 except for the additional information for the reliable rounded anchors. The procedure included checks on the manipulation of reliability. After responding to all five scenarios, respondents were asked to reconsider each scenario and indicate the reliability of the anchor. They used three 7-point scales to indicate how informative they found the anchor (not informative, very informative), how much they relied on it when making the estimate (not at all, considerably), and how confident they were that the anchor was a good starting point for the estimate (not confident, very confident). Finally, participants were asked how much they tried to adjust from the anchor.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="73" page="4" column="2">Results</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="74" confidence="possible" page="4" column="2">Manipulation Check</h2>
+          <region class="DoCO:TextChunk" id="75" page="4" column="2">The three measures of anchor reliability were averaged to create a reliability index for each scenario (average Cronbach’s a 5 .86). The indices for the five scenarios were analyzed using a repeated measures multivariate analysis of variance. An initial analysis confirmed the effectiveness of the reliability manipulation, F(2, 42) 5 37.02, o 2 5 .30. Planned contrasts showed that the reliable rounded anchors (M 5 5.90, MSE 5 0.15) were perceived as more reliable than the precise anchors (M 5 4.11, MSE 5 0.18), F(1, 42) 5 59.03, p rep 5 .996, o 2 5 .50, but that the rounded anchors (M 5 4.28, MSE 5 0.17) and precise anchors (M 5 4.11, MSE 5 0.18) were perceived as equally reliable, F(1, 42) 5 0.55. The degree to which participants perceived that they were trying to adjust from the anchor did not vary by condition, F(2, 42) 5 0.15.</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="76" confidence="possible" page="4" column="2">Estimates</h2>
+          <region class="DoCO:TextChunk" id="82" page="4" column="2">An initial analysis confirmed the influence of the anchor manipulation, F(2, 42) 5 23.07, o 2 5 .24. The results of Experiment 1 were replicated: A planned contrast showed that the <marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> rounded anchors (M 5 0.49, MSE 5 0.13) led to more adjustment than the precise anchors (M 5 À0.66, MSE 5 0.11), F(1, 42) 5 44.61, p rep 5 .996, o 2 5 .49. Another planned contrast showed that the reliable rounded anchors (M 5 0.12, MSE 5 0.11) led to more adjustment than the precise anchors (M 5 À0.66, MSE 5 0.11), F(1, 42) 5 20.80, p rep 5 .996, o 2 5 .22. Thus, participants made larger adjustments from the reliable rounded anchors than from the precise anchors, even though they found the reliable rounded anchors to be more reliable than the precise anchors. We note that the reliability measures and estimate values differed between the rounded and reliable-rounded conditions. Thus, it is unlikely that the reliability scale had different representational properties across conditions (Birnbaum, 1999).</region>
+          <outsider class="DoCO:TextBox" type="page_nr" id="78" page="4" column="2">124</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="79" page="4" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+          <outsider class="DoCO:TextBox" type="footer" id="80" page="4" column="2">Volume 19—Number 2</outsider>
+          <outsider class="DoCO:TextBox" type="header" id="81" page="5" column="1">Chris Janiszewski and Dan Uy</outsider>
+        </section>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="83" confidence="possible" page="5" column="1">EXPERIMENT 4</h1>
+        <region class="DoCO:TextChunk" id="84" page="5" column="1">If rounded and precise anchors influence scale resolution, then estimates based on these anchors should diverge more as the number of units of adjustment increases. For example, suppose that a rounded anchor evokes a subjective scale with units that are twice the width of those in a subjective scale evoked by a precise anchor. Also suppose that the motivation to adjust influences the number of units of adjustment. As the motivation to adjust increases and the number of units of adjustment increases correspondingly, the amount of adjustment on the coarse-resolution scale should increase at a faster rate than the amount of adjustment on the fine-resolution scale (i.e., motivation to adjust and scale resolution should interact).</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="85" page="5" column="1">Method</h1>
+        <region class="DoCO:TextChunk" id="87" page="5" column="1">Experiment 4 included two subexperiments in which motivation to adjust and width of the scale unit were manipulated between subjects. The high-motivation-to-adjust condition was created by removing information from the scenarios used in Experiment 2 (the scenarios from Experiment 2 were used without alteration in the low-motivation-to-adjust condition). For example, sen- tences in the plasma-TV scenario that encouraged a slight adjustment (‘‘items are priced very close to their actual cost . . . actual cost would be only slightly less than $5,000’’) were re- placed with a sentence that encouraged more adjustment (‘‘What is your estimate of the TV’s actual cost?’’). Experiment 4a (n 5 59) manipulated the width of the scale unit by manipulating the precision of the anchor (i.e., rounded anchor for broad width and precise anchor for narrow width). The remainder of the procedure mimicked the procedure in Experiment 1 (e.g., open-ended responses). Experiment 4b (n 5 149) manipulated width of the scale unit by replacing the open-ended response format with a demarcated line. The coarse-unit line had five numerically labeled hatch marks, and the fine-unit line had nine numerically labeled hatch marks. The endpoint labels and physical line <marker type="column" number="2"/><marker type="block"/> lengths were identical across these conditions. The anchor was always rounded.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="88" page="5" column="2">Results</h1>
+        <region class="DoCO:TextChunk" id="89" page="5" column="2">In Experiment 4a, there was a Motivation to Adjust Â Scale Unit Width interaction, F(1, 55) 5 6.88, p rep 5 .947, o 2 5 .02. The difference in the amount of adjustment between the rounded- and precise-anchor conditions increased as the motivation to adjust went from low (M precise 5 À0.76, M rounded 5 À0.23, M difference 5 0.53), F(1, 55) 5 15.76, p rep 5 .994, o 2 5 .06, to high (M precise 5 À0.04, M rounded 5 0.98, M difference 5 1.02), F(1, 55) 5 60.55, p rep 5 .996, o 2 5 .25. In Experiment 4b, there was also a Motivation to Adjust Â Scale Unit Width interaction, F(1, 145) 5 4.01, p rep 5 .882, o 2 5 .02. The difference in the amount of adjustment between the two response-line conditions increased as the motivation to adjust went from low (M fine 5 À0.58, M coarse 5 À0.34, M difference 5 0.24), F(1, 145) 5 5.15, p rep 5 .917, o 2 5 .03, to high (M fine 5 0.19, M coarse 5 0.72, M difference 5 0.53), F(1, 145) 5 26.42, p rep 5 .99, o 2 5 .15. The symmetry of results across the two subexperiments suggests that the precision of an anchor influences the resolution of the underlying subjective response scale.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="90" confidence="possible" page="5" column="2">QUASI-EXPERIMENT 5</h1>
+        <region class="DoCO:TextChunk" id="97" page="5" column="2">Real estate agents are sensitive to numerical anchors (Northcraft &amp; <xref ref-type="bibr" rid="R12" id="91" class="deo:Reference">Neale, 1987</xref>). We examined the possibility that home buyers exhibit similar behavior by analyzing 5 years of home sales data (N 5 25,564) from Alachua County, Florida. First, each list price was coded as being precise to the ten thousands, thousands, hundreds, tens, or ones. Discussions with brokers revealed that prices precise to the tens or ones (n 5 492) often indicate sales due to foreclosure; because such sales are not representative home sales, we excluded these data from our analysis. Second, the sales-price ratio (sale price/list price) was used to exclude sales that were completed at or above the list price, as these sales often involved a ‘‘bidding war’’ (n 5 12,491). The final sample included 12,581 homes priced between $600 and $2,000,000 (Mdn 5 $130,000). After we controlled for the list price, F(1, 12,577) 5 23.88, there was a main effect of list-price precision on the sales-price ratio, F(2, 12,577) 5 207.08, o 2 5 .015. There was a difference between the sales-price ratios for list prices that were precise to the hundreds (M 5 0.950, MSE 5 0.0006) and list prices that were precise to the thousands (M 5 0.935, MSE 5 0.001), F(1, 12,577) 5 139.51, p rep 5 .996, o 2 5 .01; there was also a difference between the sales-price ratios for list prices that were precise to the thousands and list prices that were precise to the ten thousands (M 5 0.910, MSE 5 0.003), F(1, 12,577) 5 114.96, p rep 5 .996, o 2 5 .008. An ancillary analysis showed that the difference between the amount of adjustment to a rounded versus a precise anchor increased as the number of days<marker type="page" number="6"/><marker type="column" number="1"/><marker type="block"/> the home was listed on the market increased, F(2, 12,578) 5 8.80, o 2 5 .001. For example, the difference between the sales- price ratios for prices precise to the hundreds and prices precise to the ten thousands increased as the number of days the home was listed increased from less than 40 days (M 100s 5 0.962, M 10,000s 5 0.939, M difference 5 0.023) to more than 100 days (M 100s 5 0.936, M 10,000s 5 0.886, M difference 5 0.05). If the number of days a home is listed influences the buyer’s motivation to adjust, then the effect of anchor precision should increase as the number of days increases.</region>
+        <outsider class="DoCO:TextBox" type="footer" id="93" page="5" column="2">Volume 19—Number 2</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="94" page="5" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="95" page="5" column="2">125</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="96" page="6" column="1">Anchor Precision Influences the Amount of Adjustment</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="98" confidence="possible" page="6" column="1">GENERAL DISCUSSION</h1>
+        <region class="DoCO:TextChunk" id="106" page="6" column="1">The results of the five studies allow us to draw two conclusions, with different levels of confidence. First, a precise anchor results in less adjustment than a rounded anchor. The anchor-precision effect is robust. It occurred with regularity across a large number of replicates, both inside the laboratory and in the field. Second, it appears plausible that anchor precision influences resolution of the subjective scale, which in turn influences the amount that people adjust from an anchor. This claim is more difficult to substantiate because the resolution of a subjective scale must be inferred from response patterns, and because there are other factors (e.g., objective scale range, confidence in the anchor value) that also contribute to the amount of adjustment. There are also other adjustment strategies that might be used (e.g., proportion of the anchor value). The anchor-precision effect may be operative in a large number of real-world circumstances, influencing negotiations, assessments of health risk, and assessments of present and future value. For example, <xref ref-type="bibr" rid="R7" id="99" class="deo:Reference">Galinsky and Mussweiler (2001)</xref> found that the initial offer in a negotiation acts as an anchor, and hence has a significant influence on the settlement amount. Our results suggest that the influence of the initial offer will be stronger when the initial offer is precise, rather than rounded. Also, <xref ref-type="bibr" rid="R10" id="100" class="deo:Reference">Michie, Lester, Pinto, and Marteau (2005)</xref> showed that patients are sensitive to the manner in which medical information is communicated. Patients seem to understand estimates of life expectancy and treatment responsiveness better when such information is presented in general terms (e.g., ‘‘moderate risk,’’ ‘‘high risk’’), rather than in specific terms (e.g., 40%, 80%; <xref ref-type="bibr" rid="R2" id="101" class="deo:Reference">Brun &amp; Teigen, 1988</xref>). Yet, to the extent that patients adjust initial estimates to account for family history, personal motivation, and other variables, general terms may encourage more adjustment and alter treatment choices. Anchor precision may also influence the confidence intervals people use to make decisions. Confidence intervals surrounding numerical values or estimates influence search for information, resource allocation, and willingness to execute a decision (<xref ref-type="bibr" rid="R13" id="102" class="deo:Reference">Soll &amp; Klayman, 2004</xref>). Yet, despite the importance of estimated confidence intervals, people are poor at generating them. For example, when people are asked to make an estimate and sur- round it with a 90% confidence interval, the interval includes<marker type="column" number="2"/><marker type="block"/> the correct answer about 50% of the time, owing to the interval being too narrow (Klayman, Soll, Gonz  ́ lez-Vallejo, &amp; <xref ref-type="bibr" rid="R9" id="104" class="deo:Reference">Barlas, 1999</xref>). One factor that may contribute to the narrowness of such confidence intervals is the resolution of the subjective scales used to generate the initial values (<xref ref-type="bibr" rid="R13" id="105" class="deo:Reference">Soll &amp; Klayman, 2004</xref>). If people begin the estimation process by generating an initial estimate, the precision of this initial estimate will influence the resolution of the subjective scale and the size of the confidence interval. Thus, policymakers should be able to increase the size of confidence intervals by encouraging people to generate a rounded initial estimate, and hence to use a coarse-resolution subjective scale.</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="107" confidence="possible" page="6" column="2">REFERENCES</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="108" page="6" column="2">Birnbaum, M. (1999). How to show that 9 &gt; 221: Collect judgments in a between-subjects design. Psychological Methods, 4, 243–249.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="109" confidence="possible" page="6" column="2">Brun, W., &amp; Teigen, K.H. (1988). Verbal probabilities: Ambiguous, context-dependent, or both? Organizational Behavior and Human Decision Processes, 41, 390–404.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="110" confidence="possible" page="6" column="2">Einhorn, H.J., &amp; Hogarth, R.M. (1985). Ambiguity and uncertainty in probabilistic inference. Psychological Review, 92, 433–461.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="111" confidence="possible" page="6" column="2">Epley, N., &amp; Gilovich, T. (2001). Putting adjustment back in the anchoring and adjustment heuristic: Differential processing of self- generated and experimenter-provided anchors. Psychological Science, 12, 391–396.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="112" confidence="possible" page="6" column="2">Epley, N., &amp; Gilovich, T. (2005). When effortful thinking influences judgmental anchoring: Differential effects of forewarning and incentives on self-generated and externally provided anchors. Journal of Behavioral Decision Making, 18, 199–212.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="113" confidence="possible" page="6" column="2">Epley, N., &amp; Gilovich, T. (2006). The anchoring-and-adjustment heuristic: Why the adjustments are insufficient. Psychological Science, 17, 311–318.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="114" confidence="possible" page="6" column="2">Galinsky, A.D., &amp; Mussweiler, T. (2001). First offers as anchors: The role of perspective-taking and negotiator focus. Journal of Personality and Social Psychology, 81, 657–669.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="115" confidence="possible" page="6" column="2">Gilbert, D.T. (2002). Inferential correction. In T. Gilovich, D. Griffin, &amp; D. Kahneman (Eds.), Heuristics and biases: The psychology of intuitive judgment (pp. 167–184). New York: Cambridge University Press.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="116" confidence="possible" page="6" column="2">Klayman, J., Soll, J.B., Gonz  ́lez-Vallejo, C., &amp; Barlas, S. (1999). Overconfidence: It depends on how, what, and whom you ask. Organizational Behavior and Human Decision Processes, 79, 216– 247.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="117" confidence="possible" page="6" column="2">Michie, S., Lester, K., Pinto, J., &amp; Marteau, T.M. (2005). Communi- cating risk information in genetic counseling: An observational study. Health Education &amp; Behavior, 32, 589–598.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="118" confidence="possible" page="6" column="2">Mussweiler, T., &amp; Strack, F. (1999). Hypothesis consistent testing and semantic priming in the anchoring paradigm: A selective accessibility model. Journal of Experimental Social Psychology, 35, 136–164.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="119" confidence="possible" page="6" column="2">Northcraft, G.B., &amp; Neale, M.A. (1987). Experts, amateurs, and real estate: An anchoring-and-adjustment perspective on property pricing decisions. Organizational Behavior and Human Decision Processes, 39, 84–97.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="120" confidence="possible" page="6" column="2">Soll, J.B., &amp; Klayman, J. (2004). Overconfidence in interval estimates. Journal of Experimental Psychology: Learning, Memory, and Cognition, 30, 299–314.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="125" page="7" column="1">Switzer, F.S., &amp; Sniezek, J.A. (1991). Judgment processes in motivation: Anchoring and adjustment effects on judgment and behavior. Organizational Behavior and Human Decision Processes, 49, 208–229.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="126" confidence="possible" page="7" column="1">Tversky, A., &amp; Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185, 1124–1131.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="127" confidence="possible" page="7" column="1">Wegener, D.T., &amp; Petty, R.E. (1995). Flexible correction processes in social judgment: The role of na  ̈ve theories in corrections for</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="128" page="7" column="2">perceived bias. Journal of Personality and Social Psychology, 68, 36–51. Wright, W.F., &amp; Anderson, U. (1989). Effects of situation familiarity and financial incentives on use of the anchoring and adjustment heuristic for probability assessment. Organizational Behavior and Human Decision Processes, 44, 68–82. (R ECEIVED 2/15/07; R EVISION ACCEPTED 6/29/07)</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="page_nr" id="121" page="6" column="2">126</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="122" page="6" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="123" page="6" column="2">Volume 19—Number 2</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="124" page="7" column="1">Chris Janiszewski and Dan Uy</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="129" page="7" column="2">Volume 19—Number 2</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="130" page="7" column="2">Downloaded from pss.sagepub.com at Bobst Library, New York University on April 19, 2016</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="131" page="7" column="2">127</outsider>
+      </section>
+    </body>
+  </article>
+</pdfx>

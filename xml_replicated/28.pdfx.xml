@@ -1,0 +1,360 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>6f30f897b5ab46daac7525a8c27d35bcf64f24fade4c03cc777725a20dc29ee8</job>
+    <base_name>1p</base_name>
+    <doi>10.1037/0278-7393.34.1.249</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Journal of Experimental Psychology: Learning, Memory, and Cognition 2008, Vol. 34, No. 1, 249 –256</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="2">Copyright 2008 by the American Psychological Association 0278-7393/08/$12.00 DOI: 10.1037/0278-7393.34.1.249</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">Semantic Interference in a Delayed Naming Task: Evidence for the Response Exclusion Hypothesis</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="4" confidence="possible">Niels Janssen Harvard University and CNRS &amp; Universit  ́ de Provence Bradford Z. Mahon and Alfonso Caramazza Harvard University and University of Trento</region>
+      <abstract class="DoCO:Abstract" id="5" confidence="possible">In 2 experiments participants named pictures of common objects with superimposed distractor words. In one naming condition, the pictures and words were presented simultaneously on every trial, and participants produced the target response immediately. In the other naming condition, the presentation of the picture preceded the presentation of the distractor by 1,000 ms, and participants delayed production of their naming response until distractor word presentation. Within each naming condition, the distractor words were either semantic category coordinates of the target pictures or unrelated. Orthogonal to this manipulation of semantic relatedness, the frequency of the pictures’ names was manipulated. The authors observed semantic interference effects in both the immediate and delayed naming conditions but a frequency effect only in the immediate naming condition. These data indicate that semantic interference can be observed when target picture naming latencies do not reflect the bottleneck at the level of lexical selection. In the context of other findings from the picture–word interference paradigm, the authors interpret these data as supporting the view that the semantic interference effect arises at a postlexical level of processing. Keywords: semantic interference effect, lexical selection by competition, picture–word interference, delayed naming, response exclusion hypothesis</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="9" page="1" column="1">A central question in language production research concerns the dynamical principles that govern the mechanism responsible for retrieving words from the mental lexicon. A widespread assumption in language production models is that lexical selection is a competitive process (e.g., <xref ref-type="bibr" rid="R20" id="6" class="deo:Reference">La Heij, 1988</xref>; Levelt, Roelofs, &amp; <xref ref-type="bibr" rid="R21" id="7" class="deo:Reference">Meyer, 1999</xref>; <xref ref-type="bibr" rid="R28" id="8" class="deo:Reference">Roelofs, 2003</xref>). The hypothesis of lexical selection by competition proposes that the time it takes to select a target word increases as the levels of activation of nontarget words increase. The primary source of empirical evidence cited in support of lexical selection by competition is the semantic interfer-</region>
+      <region class="DoCO:TextChunk" id="11" confidence="possible" page="1" column="1">Niels Janssen, Department of Psychology, Harvard University, and Laboratoire de Psychologie Cognitive, CNRS &amp; Universit  ́ de Provence, Marseille, France; Walter Schirm, Department of Psychology, University of Groningen, Groningen, the Netherlands; Bradford Z. Mahon and Alfonso Caramazza, Department of Psychology, Harvard University, and Centre for Mind/Brain Sciences, University of Trento, Trento, Italy. This research was supported by National Institute of Health Grant DC04542 to Alfonso Caramazza and by a postdoctoral fellowship from the Fyssen Foundation to Niels Janssen. Walter Schirm received support from the Dutch Brain Foundation, the Dutch Aphasia Foundation, and the Dr. Hendrik Muller Foundation. Bradford Z. Mahon was supported by a National Science Foundation Graduate Research Fellowship. We would like to thank Yanchao Bi, Xavier Alario, and Jorge Almeida for helpful comments. Correspondence concerning this article should be addressed to Niels Janssen, Laboratoire de Psychologie Cognitive, CNRS &amp; Universit  ́ de Provence, 3 place Victor Hugo – Case 66, 13331 Marseille Cedex 3, France. E-mail: <email id="10">janssen@up.univ-mrs.fr</email></region>
+      <region class="DoCO:TextChunk" id="12" confidence="possible" page="1" column="2">Walter Schirm University of Groningen</region>
+      <region class="DoCO:TextChunk" id="18" page="1" column="2">ence effect (e.g., <xref ref-type="bibr" rid="R22" id="13" class="deo:Reference">Lupker, 1979</xref>; <xref ref-type="bibr" rid="R29" id="14" class="deo:Reference">Rosinski, 1977</xref>): Naming a picture of an object (e.g., CAR) is slower in the context of a semantic category coordinate distractor word (e.g., truck) compared to an unrelated distractor word (e.g., table). The explanation of the semantic interference effect in terms of lexical selection by competition assumes that semantic category coordinate distractors lead to more highly activated lexical representations than do unrelated distractors. 1 Recently, the assumption that lexical selection is a competitive process has been challenged. A number of studies have observed semantic facilitation effects when target pictures and distractor words are semantically related. For example, naming a picture of an object (e.g., CAR) is (a) faster in the context of a semantically related verb distractor (e.g., drive) compared to an unrelated verb distractor (e.g., read; Mahon, Costa, Peterson, Vargas, &amp; Caramazza, 2007), (b) faster in the context of a distractor word that refers to a part of the target object (e.g., engine) compared to an unrelated distractor (e.g., branches; Costa, Alario, &amp; <xref ref-type="bibr" rid="R7" id="15" class="deo:Reference">Caramazza, 2005</xref>), (c) faster in the context of a within-category semantically close distractor word (e.g., truck) compared to a within-category semantically far distractor word (e.g., wagon; <xref ref-type="bibr" rid="R24" id="16" class="deo:Reference">Mahon et al., 2007</xref>; but see Vigliocco, Vinson, Lewis, &amp; <xref ref-type="bibr" rid="R33" id="17" class="deo:Reference">Garrett, 2004</xref>), and (d) faster in the context of a masked semantic category coordinate distractor</region>
+      <region class="DoCO:TextChunk" id="19" confidence="possible" page="1" column="2">1 This is because lexical representations of semantic category coordinate distractors receive activation from two sources (the picture and word), whereas those of unrelated distractors receive activation from only one source (the word).</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="20" page="1" column="2">249</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="21" page="2" column="1">BRIEF REPORTS</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="22" page="2" column="1">250</outsider>
+      <region class="DoCO:TextChunk" id="31" page="2" column="1">word (e.g., truck) compared to a masked unrelated distractor (e.g., table; <xref ref-type="bibr" rid="R11" id="23" class="deo:Reference">Finkbeiner &amp; Caramazza, 2006</xref>). (This list is nonexhaustive; for a review of semantic facilitation effects, see <xref ref-type="bibr" rid="R24" id="24" class="deo:Reference">Mahon et al., 2007</xref>.) If lexical selection were by competition, one would have expected semantic interference effects—not facilitation ef- fects—in the studies cited above. An alternative to lexical selection by competition is the view that the highest activated lexical node is selected, without regard to the levels of activation of nontarget lexical nodes (e.g., <xref ref-type="bibr" rid="R3" id="25" class="deo:Reference">Caramazza, 1997</xref>; <xref ref-type="bibr" rid="R8" id="26" class="deo:Reference">Dell, 1986</xref>; <xref ref-type="bibr" rid="R32" id="27" class="deo:Reference">Stemberger, 1985</xref>). 2 If one adopted such a model of lexical selection then the range of semantic facilitation effects that have been reported in the literature would follow as a natural consequence (<xref ref-type="bibr" rid="R7" id="28" class="deo:Reference">Costa et al., 2005</xref>; <xref ref-type="bibr" rid="R11" id="29" class="deo:Reference">Finkbeiner &amp; Caramazza, 2006</xref>; <xref ref-type="bibr" rid="R24" id="30" class="deo:Reference">Mahon et al., 2007</xref>). Specifically, such semantic facilitation effects would arise as a result of semantic priming between distractor words and target pictures. However, if one assumed that the semantic facilitation effects arise during lexical selection, one would be compelled to assume that the semantic interference effect arises at a different level of processing. It is thus clear that the semantic interference effect would constitute evidence for the hypothesis of lexical selection by competition only if there is independent reason to believe that the phenomenon reflects a lexical-level process.</region>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="32" confidence="possible" page="2" column="1">The Response Exclusion Hypothesis</h1>
+        <region class="DoCO:TextChunk" id="42" page="2" column="1">Spoken language permits only a single word to be produced at a given time. It must therefore be the case that at a suitably peripheral level of processing, spoken language production in- volves a single-channel output buffer. It is also known that aurally and visually presented words have a privileged relationship to the articulators in a way that pictures do not (e.g., <xref ref-type="bibr" rid="R28" id="33" class="deo:Reference">Roelofs, 2003</xref>). It follows that in the situation presented by the picture–word interference paradigm, written or aurally presented distractor words will be available to the articulators sooner than the names of the target pictures. Thus, in a given picture naming event in the picture–word interference paradigm, a production-ready representation corresponding to the distractor word must be purged from the single-channel output buffer before the name of the picture can be produced. Consistent with this analysis, recent work has sug- gested that part of the variance in naming latencies observed in the picture–word interference paradigm arises at a postlexical level. For instance, <xref ref-type="bibr" rid="R25" id="34" class="deo:Reference">Miozzo and Caramazza (2003)</xref> had participants name pictures of objects (e.g., CAR) in the context of low frequency (e.g., spleen) and high frequency (e.g., school) distractor words. Picture naming latencies were faster in the context of high frequency distractor words compared to low frequency distractor words. The distractor frequency effect can be explained if it is assumed that high frequency words are available for exclusion from production sooner than low frequency words. A recent proposal for explaining the semantic interference effect at a postlexical level of processing is the response exclusion hypothesis (<xref ref-type="bibr" rid="R11" id="35" class="deo:Reference">Finkbeiner &amp; Caramazza, 2006</xref>; <xref ref-type="bibr" rid="R24" id="36" class="deo:Reference">Mahon et al., 2007</xref>). The central claim of the response exclusion hypothesis is that the decision process responsible for excluding nontarget words from the single-channel output buffer has semantically interpreted information at its disposal. Such semantically interpreted information would be, for instance, the provenance (word or picture) or the coarse semantic category of a production-ready representation<marker type="column" number="2"/><marker type="block"/> (e.g., “animal”). In this framework, the semantic interference effect arises because unrelated distractors can be excluded from production relatively sooner than distractor words corresponding to semantic category coordinates of the target pictures. For example, when naming a picture of a CAR, the semantically related distractor word truck satisfies the semantic criterion of naming a vehicle, whereas the unrelated distractor word table does not satisfy this response-relevant criterion (for discussion of response relevant criteria, see also Hantsch, Jescheniak, &amp; <xref ref-type="bibr" rid="R15" id="38" class="deo:Reference">Schriefers, 2005</xref>; Kuipers, La Heij, &amp; <xref ref-type="bibr" rid="R19" id="39" class="deo:Reference">Costa, 2006</xref>; for the first systematic treatment of response relevant factors, see <xref ref-type="bibr" rid="R22" id="40" class="deo:Reference">Lupker, 1979</xref>; <xref ref-type="bibr" rid="R23" id="41" class="deo:Reference">Lupker &amp; Katz, 1981</xref>). The response exclusion hypothesis and the hypothesis of lexical selection by competition make different assumptions regarding the locus of the semantic interference effect. According to the hypothesis of lexical selection by competition, the semantic interference effect arises at the level of lexical selection. According to the response exclusion hypothesis, the semantic interference effect arises at a postlexical level of processing. One way to distinguish between a lexical and a postlexical locus of the semantic interference effect is to test whether semantic interference is observed when participants delay their picture naming responses. In a delayed picture naming task, naming latencies to target pictures will not reflect the bottleneck at the level of lexical selection but rather the bottleneck at the single-channel output buffer. We can thus derive the following predictions. If the semantic interference effect arises at the level of lexical selection, then the semantic interference effect will not be observed when participants delay their picture naming responses. However, if the semantic interference effect arises at a postlexical level of processing, then semantic interference should be observed in a delayed naming task. We tested these predictions in two experiments. Both experiments consisted of an immediate and a delayed naming condition. In the immediate naming condition, pictures and distractor words appeared simultaneously, and participants named the pictures immediately. In the delayed naming condition, the distractors appeared 1,000 ms after the onset of the pictures, and participants produced the target picture names only when the distractor word was presented. Within each naming condition, distractor words were either semantic category coordinates of the target pictures or unrelated to the target pictures. We used the presence versus absence of a frequency effect of the target pictures as an independent means for determining whether naming latencies in the immediate and delayed naming conditions reflect the bottleneck at the level of lexical selection. If participants have already retrieved the lexical representations corresponding to the target picture names in the delayed naming condition at the time the cue is presented, then there should be no effect of the frequency of the target pictures on naming latencies.</region>
+        <region class="DoCO:TextChunk" id="43" confidence="possible" page="2" column="2">2 There are several ways in which such a “selection by activation level model” may be implemented. For instance, we may assume that selection occurs according to a temporal threshold, an activation threshold, or a combination of the two. For purposes of the present discussion, it is sufficient to assume that the word that is ultimately produced in a given utterance was at the time of selection the most highly activated lexical node. In other words, either a “temporal threshold” or an “activation threshold” account (all else equal) would yield the observed semantic facilitation effects.</region>
+        <outsider class="DoCO:TextBox" type="header" id="44" page="3" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="45" page="3" column="1">251</outsider>
+        <region class="DoCO:TextChunk" id="53" page="3" column="1">It is uncontroversial in the field of language production that a manipulation of frequency affects, at least, lexical levels of processing (Alario, Costa, &amp; <xref ref-type="bibr" rid="R1" id="46" class="deo:Reference">Caramazza, 2002</xref>; Almeida, Knobel, Finkbeiner, &amp; Caramazza, in press; <xref ref-type="bibr" rid="R9" id="47" class="deo:Reference">Dell, 1990</xref>; <xref ref-type="bibr" rid="R18" id="48" class="deo:Reference">Jescheniak &amp; Levelt, 1994</xref>; <xref ref-type="bibr" rid="R27" id="49" class="deo:Reference">Oldfield &amp; Wingfield, 1965</xref>). Previous studies that have used the delayed naming task have shown that the frequency effect disappears with delays longer than 800 ms (<xref ref-type="bibr" rid="R18" id="50" class="deo:Reference">Jescheniak &amp; Levelt, 1994</xref>; Savage, Bradley, &amp; <xref ref-type="bibr" rid="R30" id="51" class="deo:Reference">Forster, 1990</xref>; but see Goldinger, Azuma, Abramson, &amp; <xref ref-type="bibr" rid="R13" id="52" class="deo:Reference">Jain, 1997</xref>). On the basis of these studies we expected a frequency effect of the target pictures in the immediate but not in the delayed naming condition.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="54" page="3" column="1">Experiment 1: Immediate Versus Delayed Naming Method</h1>
+        <region class="DoCO:TextChunk" id="62" page="3" column="1">Participants. Sixty-four native English speakers, students at Harvard University, participated in the experiment. Half participated in the immediate naming condition, half in the delayed naming condition. All were paid for their participation. Materials and design. Forty pictures of common objects were selected from Snodgrass and Vanderwart’s (1980) picture database and were scaled to fit within a 245-pixels wide 240-pixels high rectangle. Half the pictures had low frequency names (range 1–9 per million), and half had high frequency names (range 72–724 per million). Properties of the pictures and their names in the low and high frequency conditions are presented in <xref ref-type="table" rid="T1" id="55" class="deo:Reference">Table 1</xref>. A related word was selected for each picture, and the unrelated items were created by re-pairing each word with an unrelated picture from the other frequency category. Thus, the same words appeared in the semantically related and unrelated conditions (see Appendix A). In the design there were two crossed experimental variables (i.e., frequency and semantic relatedness) with two levels of each variable. Each cell in the design had 20 items, leading to a total of 80 experimental items. For each experimental item the distractor word was colored blue. For the filler items the color of the distractor words was red. Participants’ task in both immediate and delayed naming conditions alternated unpredictably between picture naming and distractor word reading on the basis of the color of the distractor word, with blue distractors designating picture naming and red distractors designating word reading. A total of 160 items were included in each naming condition (immediate and delayed). Twelve additional pictures and words<marker type="column" number="2"/><marker type="block"/> were selected to form 36 practice items. Distractor words were assigned to pictures and were colored appropriately such that 18 picture naming and 18 word reading items were created. The experimental and filler items were pseudorandomized into four blocks of trials. Within a given block there were an equal number of each condition, and each picture appeared once per block, either in the experimental or in the filler condition. Care was taken that (a) on consecutive trials there was no semantic or phonological relationship between pictures’ names or distractor words, and (b) no more than three consecutive trials were from the same condition. The order of the blocks was counterbalanced according to an orthogonal Latin-square design into four lists. Procedure. The experiment was controlled by DMDX soft- ware (Forster &amp; <xref ref-type="bibr" rid="R12" id="60" class="deo:Reference">Forster &amp; Forster, 2003</xref> There were three phases in the experiment. In the first phase, participants were familiarized with all of the pictures and their names. In this phase, on each trial, a fixation point appeared for 700 ms and was replaced with the picture for 2,000 ms. After 1,000 ms, the picture name appeared beneath the picture and cued the participant to pronounce the picture name aloud. The second phase consisted of 36 trials in which the experimental task was practiced. Participants were instructed to name pictures or words depending on the color of the word. If the word was colored blue they were instructed to name the picture; whereas if the word was colored red they were to read the word. The third phase was the experiment proper. The trial structure of the second and third phases was identical. Participants either took part in the delayed or in the immediate naming condition. Participants in the delayed naming condition were instructed to postpone their naming response until the distractor word was presented. On each trial in the delayed naming condition, a fixation point appeared for 700 ms and was replaced by a picture. After the picture was presented for 1,000 ms, the distractor word appeared. The pictures and distractor words remained on the screen for 500 ms. An empty screen was then displayed for 1,000 ms. Participants in the immediate naming condition were instructed to name the picture or word upon presentation (depending on the color of the word). The trial structure for the immediate naming condition was identical except for the fact that the distractor appeared simultaneously with the presentation of the picture. The picture and distractor remained on the screen for 500 ms. The participant initiated the next trial by pressing the space bar. The duration of the experiment was about 25 min. Analysis. Only the picture naming trials were analyzed. Three types of responses were excluded from the analysis of response times (RTs): (a) naming errors, (b) verbal disfluencies (stuttering, utterance repairs, production of nonverbal sounds), (c) recording failures, and (d) RTs below 300 or above 3,000 ms (immediate naming, 4.7%; delayed naming, 5.3%). RTs exceeding a cutoff value (defined as a participant’s and an item’s mean plus three standard deviations) were replaced by the cutoff value (immediate naming, 2.0%; delayed naming, 4.4%). In the analyses reported here we distinguish between by- subjects (F 1 ) and by-items (F 2 ) analyses. For the F 1 analyses we treat frequency and semantic relatedness as within-subjects variables. For the F 2 analyses we treat frequency as a between-subjects variable and semantic relatedness as a within-subjects variable. We report separate analyses for the immediate and delayed naming conditions. An overview of RTs for each naming condition is presented in <xref ref-type="table" rid="T2" id="61" class="deo:Reference">Table 2</xref>.</region>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="57" page="3" column="1">Table 1 Properties of Low Frequency and High Frequency Items in Experiment 1</caption>
+          <content>
+            <h1 class="table"> High Low</h1>
+            <table class="DoCO:Table" number="1" page="3">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Property</th>
+                  <th class="table"> frequency</th>
+                  <th class="table"> frequency</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Lexical frequency</td>
+                  <td class="table"> 192.3</td>
+                  <td class="table"> 4.9 *</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Visual complexity</td>
+                  <td class="table"> 2.8</td>
+                  <td class="table"> 3.1</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Image agreement</td>
+                  <td class="table"> 3.6</td>
+                  <td class="table"> 4.0</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Age of acquisition</td>
+                  <td class="table"> 2.4</td>
+                  <td class="table"> 3.9 *</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Familiarity</td>
+                  <td class="table"> 4.2</td>
+                  <td class="table"> 2.5 *</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Word length</td>
+                  <td class="table"> 4.6</td>
+                  <td class="table"> 4.5</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No. of syllables</td>
+                  <td class="table"> 1.2</td>
+                  <td class="table"> 1.2</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. Norms from Snodgrass and</td>
+                  <td class="table"> Vanderwart (1980).</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> * p .01.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="59" confidence="possible" page="3" column="1">High Low Property frequency frequency Lexical frequency 192.3 4.9 * Visual complexity 2.8 3.1 Image agreement 3.6 4.0 Age of acquisition 2.4 3.9 * Familiarity 4.2 2.5 * Word length 4.6 4.5 No. of syllables 1.2 1.2 Note. Norms from <xref ref-type="bibr" rid="R31" id="58" class="deo:Reference">Snodgrass and Vanderwart (1980)</xref>. * p .01.</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="header" id="63" page="4" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="64" page="4" column="1">252</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="65" page="4" column="1">Table 2 Average Naming Latencies in Milliseconds (and Error Percentages) for Immediate (0 ms) and Delayed (1,000 ms) Naming Conditions of Experiment 1</caption>
+          <content>
+            <h1 class="table"> Immediate naming</h1>
+            <table class="DoCO:Table" number="2" page="4">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> condition</th>
+                  <th class="table"></th>
+                  <th class="table"> Delayed</th>
+                  <th class="table"> naming condition</th>
+                </tr>
+                <tr class="table">
+                  <th class="table"> Frequency</th>
+                  <th class="table"> REL UNREL</th>
+                  <th class="table"> diff</th>
+                  <th class="table"> REL</th>
+                  <th class="table"> UNREL diff</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> High</td>
+                  <td class="table"> 897 (5.0) 873 (2.7)</td>
+                  <td class="table"> 24</td>
+                  <td class="table"> 624 (5.2)</td>
+                  <td class="table"> 610 (3.9) 14</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Low</td>
+                  <td class="table"> 943 (5.9) 925 (6.3)</td>
+                  <td class="table"> 17</td>
+                  <td class="table"> 626 (5.9)</td>
+                  <td class="table"> 612 (6.3) 14</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> diff</td>
+                  <td class="table"> 46 52</td>
+                  <td class="table"></td>
+                  <td class="table"> 2</td>
+                  <td class="table"> 2</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. REL</td>
+                  <td class="table"> semantically related</td>
+                  <td class="table"> items;</td>
+                  <td class="table"> UNREL</td>
+                  <td class="table"> semantically unre-</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> lated items;</td>
+                  <td class="table.strange"> diff difference.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="66" confidence="possible" page="4" column="1">Immediate naming condition Delayed naming condition Frequency REL UNREL diff REL UNREL diff High 897 (5.0) 873 (2.7) 24 624 (5.2) 610 (3.9) 14 Low 943 (5.9) 925 (6.3) 17 626 (5.9) 612 (6.3) 14 diff 46 52 2 2 Note. REL semantically related items; UNREL semantically unrelated items; diff difference.</region>
+        </region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="67" page="4" column="1">Results</h1>
+        <region class="DoCO:TextChunk" id="68" page="4" column="1">Immediate naming condition. The RT analysis revealed a main effect of frequency, F 1 (1, 31) 29.2, MSE 2,663.2, p .001; F 2 (1, 38) 10.9, MSE 4,501.5, p .003, indicating faster RTs in the high frequency than low frequency condition, and a main effect of semantic relatedness, F 1 (1, 31) 8.5, MSE 1,624.0, p .007; F 2 (1, 38) 3.4, MSE 2,491.2, p .07, indicating slower RTs in the semantically related than the unrelated condition. The interaction between frequency and semantic relatedness was not significant (both Fs 1). The error analysis revealed a main effect of frequency that approached significance, F 1 (1, 31) 4.2, MSE 0.99, p .05; F 2 (1, 38) 1.3, MSE 5.0, p .26, indicating a trend for fewer errors in the high frequency compared to the low frequency condition, no main effect of semantic relatedness, F 1 (1, 31) 2.7, MSE 0.65, p .11; F 2 (1, 38) 1.1, MSE 2.6, p .30, and no interaction, F 1 (1, 31) 3.4, MSE 0.52, p .07; F 2 (1, 38) 1.1, MSE 2.6, p .30. Delayed naming condition. The RT analysis revealed a main effect of semantic relatedness, F 1 (1, 31) 4.1, MSE 1,504.6, p .06; F 2 (1, 38) 4.4, MSE 1,137.2, p .05, indicating slower RTs in the semantically related than the unrelated condition. Neither the main effect of frequency nor the interaction between frequency and semantic relatedness reached significance (all Fs 1). The error analysis revealed no main effects of frequency or semantic relatedness and no interaction between frequency and semantic relatedness (all Fs 1).</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="69" page="4" column="1">Discussion</h1>
+        <region class="DoCO:TextChunk" id="80" page="4" column="1">In Experiment 1 we tested a central prediction of the response exclusion hypothesis: If the semantic interference effect arises at a postlexical level, then a semantic interference effect should be obtained when participants delay their picture naming responses. By contrast, if the semantic interference effect reflects lexical selection by competition, then no semantic interference effect should be observed under delayed naming conditions. The results of Experiment 1 demonstrate that semantic interference is observed under delayed naming conditions—that is, in an experimental situation in which a frequency effect of the pictures’ names was not observed. Convergent evidence suggesting that semantic interference can arise under delayed naming conditions has been reported by Hum- <marker type="column" number="2"/><marker type="block"/> phreys, Lloyd-<xref ref-type="bibr" rid="R17" id="71" class="deo:Reference">Jones, and Fias (1995)</xref>. In that study participants were shown two colored pictures (e.g., CAR in red, TRUCK in green) that were then removed from the screen. Participants were instructed to prepare both picture names for production. After a delay of 2,000 ms, participants were presented with a cue word (e.g., the word red). The cue word designated which prepared response should be produced (i.e., in this case, car). Humphreys et al. found that picture naming latencies were slower when the two pictures that had been presented were items from the same semantic category (e.g., CAR and TRUCK) compared to when the two pictures were items from different semantic categories (e.g., CAR and TABLE). One concern with Humphreys et al.’s (1995) findings is that it cannot be known whether participants in the postcue paradigm actually prepared their naming responses. For instance, it may have been the case that in that paradigm participants delayed lexical processing of the target picture name until presentation of the cue. In contrast, in Experiment 1, we directly assessed whether participants prepared their picture-naming responses by manipu- lating the frequency of the target pictures. It is important to note that in studies in which the stimuli consist of pictures of common objects, the lexical frequency variable often correlates with subjective familiarity and age of acquisition variables (e.g., Barry, Morrison, &amp; <xref ref-type="bibr" rid="R3" id="72" class="deo:Reference">Ellis, 1997</xref>; Bonin, Barry, M  ́ot, &amp; <xref ref-type="bibr" rid="R4" id="73" class="deo:Reference">Chalard, 2006</xref>; <xref ref-type="bibr" rid="R6" id="74" class="deo:Reference">Caroll &amp; White, 1973</xref>; <xref ref-type="bibr" rid="R10" id="75" class="deo:Reference">Ellis &amp; Morrison, 1998</xref>; <xref ref-type="bibr" rid="R14" id="76" class="deo:Reference">Gordon, 1983</xref>). In our study (both Experiment 1 above and Experiment 2 below) this correlation is also present. Critical for our purposes, however, is that there is positive empirical evidence indicating that a manipulation of lexical frequency affects lexical- level processing, even though the manipulation of lexical frequency is correlated with familiarity and/or age of acquisition. Almeida et al. (in press) had participants delay their picture naming responses for 1,000 ms. On 75% of trials, participants were cued to produce the superordinate-level name of pictures, while on 25% of trials, participants were required to produce the basic-level names. Given this imbalance, participants would be expected to prepare superordinate-level names more often than basic-level names. Critically, however, on every trial participants would have retrieved the concept corresponding to the picture. Thus, under such circumstances, producing the basic-level name (on 25% of trials) would reflect only lexical and articulatory processes, not picture recognition processes. The results revealed a frequency effect in producing the basic-level names. A control experiment in which there was no uncertainty regarding the level at which the pictures were to be named ruled out an articulatory level of processing for the observed frequency effect. Almeida et al.’s data thus provide positive evidence for a lexical locus of the frequency effect in picture naming. We can thus confidently interpret the lack of a frequency effect in the delayed naming condition of Experiment 1 as an indication that participants fully retrieved the lexical nodes corresponding to the picture names by the time the cue was presented. An interpretation of the data from Experiment 1 in terms of the response exclusion hypothesis compels an important inference. The fact that semantic interference can arise despite the fact that the lexical representation of the target picture has been retrieved means that the representation corresponding to the distractor (i.e., cue) word effectively displaces the target response from the single-channel output buffer. We assume that this happens in situations in which<marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> there is a strong difference between the target and distracting stimuli, in terms of the privileged relationship of those stimuli to the articulators, and when participants cannot produce the naming response until distractor (i.e., cue) presentation. The semantic interference effect in the delayed naming condition in Experiment 1 was marginally significant. Given the impor- tance of this effect for models of lexical selection in speech production, Experiment 2 is an attempt to further establish the robustness of this effect.</region>
+        <outsider class="DoCO:TextBox" type="header" id="78" page="5" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="79" page="5" column="1">253</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="81" confidence="possible" page="5" column="1">Experiment 2: Replication in French</h1>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="82" page="5" column="1">Method</h1>
+        <region class="DoCO:TextChunk" id="87" page="5" column="1">Participants. Thirty-six native French speakers, students at the Universit  ́ de Provence, took part in the experiment. Half participated in the immediate naming condition and half in the delayed naming condition. All participants received credit for participation. Materials and design. Twenty-four pictures with high name agreement ( 90%) were chosen from the picture set of <xref ref-type="bibr" rid="R2" id="83" class="deo:Reference">Alario and Ferrand (1999)</xref>. Half of the pictures had a low frequency name, and half had a high frequency name, as estimated by Lexique (New, Pallier, Ferrand, &amp; <xref ref-type="bibr" rid="R26" id="84" class="deo:Reference">Matos, 2001</xref>). Properties of the pictures and their names in the low and high frequency conditions are presented in <xref ref-type="table" rid="T3" id="85" class="deo:Reference">Table 3</xref>. Each picture was paired with a semantically related distractor word to form the semantically related condition, which was then re-paired with a different picture to form the unrelated condition. Thus, the same pictures and distractors appeared in the related and unrelated conditions. This led to a total of 48 experimental items (see Appendix B) for the immediate and delayed naming conditions. For each experimental item, the distractor was colored black. For the filler items, the color of the distractor was dark blue. In total there were 96 items in the experiment. Twenty-four practice pictures were created as in Experiment 1. Other aspects of the design were identical to those in Experiment 1. Procedure. The procedure for the immediate and delayed naming conditions was identical to that in Experiment 1. Analysis. The same exclusion criteria as in Experiment 1 were employed (trials excluded: immediate naming, 9.5%; delayed naming, 6.0%. Trials replaced by cutoff: immediate naming, 0.3%; delayed naming, 1.5%). One picture (i.e., CYGNE [SWAN]) was discarded from the analyses due to a high error rate (24%). An overview of RTs for each naming condition is presented in <xref ref-type="table" rid="T4" id="86" class="deo:Reference">Table 4</xref>.</region>
+        <region class="DoCO:TableBox" id="T3">
+          <caption class="deo:Caption" id="88" page="5" column="1">Table 3 Properties of Low Frequency and High Frequency Items in Experiment 2</caption>
+          <content>
+            <h1 class="table"> High Low</h1>
+            <table class="DoCO:Table" number="3" page="5">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Property</th>
+                  <th class="table"> frequency</th>
+                  <th class="table"> frequency</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Lexical frequency</td>
+                  <td class="table"> 218.5</td>
+                  <td class="table"> 7.9 *</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Visual complexity</td>
+                  <td class="table"> 3.1</td>
+                  <td class="table"> 3.1</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Image agreement</td>
+                  <td class="table"> 3.5</td>
+                  <td class="table"> 4.0</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Age of acquisition</td>
+                  <td class="table"> 1.6</td>
+                  <td class="table"> 2.2</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Familiarity</td>
+                  <td class="table"> 3.9</td>
+                  <td class="table"> 2.7 *</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Word length</td>
+                  <td class="table"> 5.2</td>
+                  <td class="table"> 5.9</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No. of syllables</td>
+                  <td class="table"> 1.7</td>
+                  <td class="table"> 1.6</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. Norms from Alario and</td>
+                  <td class="table"> Ferrand (1999).</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> * p .01.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="90" confidence="possible" page="5" column="1">High Low Property frequency frequency Lexical frequency 218.5 7.9 * Visual complexity 3.1 3.1 Image agreement 3.5 4.0 Age of acquisition 1.6 2.2 Familiarity 3.9 2.7 * Word length 5.2 5.9 No. of syllables 1.7 1.6 Note. Norms from <xref ref-type="bibr" rid="R2" id="89" class="deo:Reference">Alario and Ferrand (1999)</xref>. * p .01.</region>
+        </region>
+        <region class="DoCO:TableBox" id="T4">
+          <caption class="deo:Caption" id="91" page="5" column="2">Table 4 Average Naming Latencies in Milliseconds (and Error Percentages) for the Immediate (0 ms) and Delayed Naming Conditions (1,000 ms) of Experiment 2</caption>
+          <content>
+            <table class="DoCO:Table" number="4" page="5">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> Immediate</th>
+                  <th class="table"> naming condition</th>
+                  <th class="table"> Delayed</th>
+                  <th class="table"> naming condition</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table.strange">
+                  <td class="table.strange"> Frequency Frequency</td>
+                  <td class="table.strange"> REL</td>
+                  <td class="table.strange"> UNREL diff</td>
+                  <td class="table.strange"> REL</td>
+                  <td class="table.strange"> UNREL diff</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> High</td>
+                  <td class="table"> 966 (10.1)</td>
+                  <td class="table"> 915 (7.1) 51</td>
+                  <td class="table"> 743 (7.1)</td>
+                  <td class="table"> 702 (6.6) 41</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Low</td>
+                  <td class="table"> 1,010 (11.1)</td>
+                  <td class="table"> 990 (13.1) 20</td>
+                  <td class="table"> 734 (5.6)</td>
+                  <td class="table"> 690 (7.1) 44</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> diff</td>
+                  <td class="table"> 44</td>
+                  <td class="table"> 75</td>
+                  <td class="table"> 9</td>
+                  <td class="table"> 12</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="92" confidence="possible" page="5" column="2">Immediate naming condition Delayed naming condition Frequency REL UNREL diff REL UNREL diff High 966 (10.1) 915 (7.1) 51 743 (7.1) 702 (6.6) 41 Low 1,010 (11.1) 990 (13.1) 20 734 (5.6) 690 (7.1) 44 diff 44 75 9 12</region>
+        </region>
+        <region class="unknown" id="93" page="5" column="2">Note. REL semantically related items; UNREL semantically unrelated items; diff difference.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="94" page="5" column="2">Results</h1>
+        <region class="DoCO:TextChunk" id="95" page="5" column="2">Immediate naming condition. The RT analysis revealed a main effect of frequency, F 1 (1, 17) 24.9, MSE 2,519.5, p .001; F 2 (1, 21) 5.3, MSE 7,680.5, p .04, indicating faster RTs in the high frequency compared to the low frequency condition, and a main effect of semantic relatedness, F 1 (1, 17) 7.1, MSE 3,166.6, p .02; F 2 (1, 21) 6.4, MSE 2,869.5, p .03, indicating slower RTs in the semantically related than the unrelated condition. The interaction between frequency and semantic relatedness was not significant (both Fs 1). The error analysis revealed a main effect of frequency that approached significance, F 1 (1, 17) 5.5, MSE 0.49, p .03; F 2 (1, 21) 2.9, MSE 2.2, p .10, indicating a trend for fewer errors in the high frequency compared to the low frequency condition, no main effect of semantic relatedness (both Fs 1), and no interaction between frequency and semantic relatedness, F 1 (1, 17) 2.2, MSE 1.4, p .15; F 2 (1, 21) 1.9, MSE 1.1, p .18. Delayed naming condition. The RT analysis revealed a main effect of semantic relatedness, F 1 (1, 17) 7.6, MSE 4,293.4, p .02; F 2 (1, 21) 5.1, MSE 4,000.8, p .04, indicating slower RTs in the semantically related than the unrelated condition. Neither frequency nor the interaction between frequency and semantic relatedness reached significance (all Fs 1). The error analysis revealed no main effects of frequency or semantic relatedness or an interaction between frequency and semantic relatedness (all Fs 1).</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="96" page="5" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="97" page="5" column="2">The results of Experiment 2 establish the reliability of the findings of Experiment 1 using a new set of materials and a new language: Semantic interference can be observed in a delayed naming task in which target naming latencies no longer show a frequency effect of the target pictures. The presence of a semantic interference effect in the absence of a target picture frequency effect indicates that the existence of semantic interference does not require that target picture naming latencies be determined by the bottleneck at lexical selection.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="98" confidence="possible" page="5" column="2">General Discussion</h1>
+        <region class="DoCO:TextChunk" id="113" page="5" column="2">We have shown that the semantic interference effect in the picture–word interference paradigm can arise at a postlexical level of processing. The presence of the semantic interference effect in <marker type="page" number="6"/><marker type="column" number="1"/><marker type="block"/> a delayed naming task cannot be explained in terms of lexical selection by competition. In the introduction, we noted that the semantic interference effect would constitute empirical support for the assumption of lexical selection by competition only if there is reason to believe it is a lexical-level phenomenon. For this reason, the data that we have reported remove the empirical support from the picture–word interference paradigm for the hypothesis of lexical selection by competition. By contrast, the presence of the semantic interference effect in a delayed naming task is a central prediction of the response exclusion hypothesis (<xref ref-type="bibr" rid="R11" id="102" class="deo:Reference">Finkbeiner &amp; Caramazza, 2006</xref>; <xref ref-type="bibr" rid="R24" id="103" class="deo:Reference">Mahon et al., 2007</xref>). It might be argued that the demonstration that semantic interference can arise at a postlexical level of processing is consistent with a two-loci account of the semantic interference effect: one locus at the lexical level (e.g., <xref ref-type="bibr" rid="R20" id="104" class="deo:Reference">La Heij, 1988</xref>; <xref ref-type="bibr" rid="R21" id="105" class="deo:Reference">Levelt et al., 1999</xref>; <xref ref-type="bibr" rid="R28" id="106" class="deo:Reference">Roelofs, 2003</xref>) and one locus at the postlexical level. In other words, the pattern of findings we have reported do not directly disconfirm the interpretation of the semantic interference effect, as observed in immediate picture naming, in terms of lexical selection by competition. Of course, a simpler (i.e., single locus) theory is to be preferred if there were independent grounds for questioning whether lexical selection is a competitive process. As noted in the introduction, a number of studies have demonstrated that higher levels of activation of nontarget lexical nodes result in faster target naming latencies (<xref ref-type="bibr" rid="R7" id="107" class="deo:Reference">Costa et al., 2005</xref>; <xref ref-type="bibr" rid="R11" id="108" class="deo:Reference">Finkbeiner &amp; Caramazza, 2006</xref>; <xref ref-type="bibr" rid="R24" id="109" class="deo:Reference">Mahon et al., 2007</xref>; <xref ref-type="bibr" rid="R25" id="110" class="deo:Reference">Miozzo &amp; Caramazza, 2003</xref>). Such findings (for review, see <xref ref-type="bibr" rid="R24" id="111" class="deo:Reference">Mahon et al., 2007</xref>) provide independent evidence for challenging the assumption that lexical selection is by competition. We thus favor the view that the semantic interference effect in the picture–word interference paradigm arises at a postlexical level of processing. An important topic for future research is whether other observations of semantic interference (e.g., Howard, Nickels, Coltheart, &amp; Cole-<xref ref-type="bibr" rid="R16" id="112" class="deo:Reference">Virtue, 2006</xref>) fall within the scope of the response exclusion hypothesis.</region>
+        <outsider class="DoCO:TextBox" type="header" id="100" page="6" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="101" page="6" column="1">254</outsider>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="114" confidence="possible" page="6" column="1">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="115" page="6" column="1">Alario, F.-X., Costa, A., &amp; Caramazza, A. (2002). Frequency effects in noun phrase production: Implications for models of lexical access. Language and Cognitive Processes, 17, 299 –319.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="116" confidence="possible" page="6" column="1">Alario, F. X., &amp; Ferrand, L. (1999). A set of 400 pictures standardized for French: Norms for name agreement, image agreement, familiarity, visual complexity, image variability, and age of acquisition. Behavior Research Methods, Instruments, &amp; Computers, 31(3), 531–552.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="117" confidence="possible" page="6" column="1">Almeida, J., Knobel, M., Finkbeiner, M., &amp; Caramazza, A. (in press). The locus of the frequency effect in picture naming: When recognizing is not enough. Psychonomic Bulletin and Review. Barry, C., Morrison, C. M., &amp; Ellis, A. W. (1997). Naming the Snodgrass and Vanderwart pictures: Effects of age of acquisition, frequency, and name agreement. Quarterly Journal of Experimental Psychology: Human Experimental Psychology, 50(A), 560 –585.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="118" confidence="possible" page="6" column="1">Bonin, P., Barry, C., M  ́ot, A., &amp; Chalard, M. (2006). The influence of age of acquisition in word reading and other tasks: A never ending story? Journal of Memory and Language, 50, 456 – 476.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="119" confidence="possible" page="6" column="1">Caramazza, A. (1997). How many levels of processing are there in lexical access? Cognitive Neuropsychology, 14, 177–208.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="120" confidence="possible" page="6" column="1">Caroll, J. B., &amp; White, M. N. (1973). Age-of-acquisition norms for 220 picturable nouns. Journal of Verbal Learning and Verbal Behavior, 12, 563–576.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="121" confidence="possible" page="6" column="1">Costa, A., Alario, F. X., &amp; Caramazza, A. (2005). On the categorical nature of the semantic interference effect in the picture–word interference paradigm. Psychonomic Bulletin &amp; Review, 12(1), 125–131.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="122" page="6" column="2">Dell, G. S. (1986). A spreading activation theory of retrieval in sentence production. Psychological Review, 93, 283–321.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="123" confidence="possible" page="6" column="2">Dell, G. S. (1990). Effects of frequency and vocabulary type on phonological speech errors. Language and Cognitive Processes, 5, 313–349.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="124" confidence="possible" page="6" column="2">Ellis, A. W., &amp; Morrison, C. M. (1998). Real age-of-acquisition effects in lexical retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 24, 515–523.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="125" confidence="possible" page="6" column="2">Finkbeiner, M., &amp; Caramazza, A. (2006). Now you see it, now you don’t: On turning semantic interference into facilitation in a Stroop-like task. Cortex, 42, 790 –796.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="126" confidence="possible" page="6" column="2">Forster, K. I., &amp; Forster, J. C. (2003). DMDX: A Windows display program with millisecond accuracy. Behavior Research Methods, Instruments, &amp; Computers, 35(1), 116 –124.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="127" confidence="possible" page="6" column="2">Goldinger, S. D., Azuma, T., Abramson, M., &amp; Jain, P. (1997). Open wide and say “Blah!”: Attentional dynamics of delayed naming. Journal of Memory and Language, 37, 190 –216.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="128" confidence="possible" page="6" column="2">Gordon, B. (1983). Lexical access and lexical decision: Mechanisms of frequency sensitivity. Journal of Verbal Learning and Verbal Behavior, 22, 24 – 44.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="129" confidence="possible" page="6" column="2">Hantsch, A., Jescheniak, J. D., &amp; Schriefers, H. (2005). Semantic competition between hierarchically related words during speech planning. Memory &amp; Cognition, 33, 984 –1000.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="130" confidence="possible" page="6" column="2">Howard, D., Nickels, L., Coltheart, M., &amp; Cole-Virtue, J. (2006). Cumu- lative semantic inhibition in picture naming: Experimental and compu- tational studies. Cognition, 100, 464 – 482.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="131" confidence="possible" page="6" column="2">Humphreys, G. W., Lloyd-Jones, T. J., &amp; Fias, W. (1995). Semantic interference effects on naming using a postcue procedure: Tapping the links between semantics and phonology with pictures and words. Journal of Experimental Psychology: Learning, Memory, and Cognition, 21(4), 961–980.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="132" confidence="possible" page="6" column="2">Jescheniak, J. D., &amp; Levelt, W. J. M. (1994). Word frequency effects in speech production: Retrieval of syntactic information and of phonological forms. Journal of Experimental Psychology: Learning, Memory, and Cognition, 20(4), 824 – 843.</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="133" confidence="possible" page="6" column="2">Kuipers, J.-R., La Heij, W., &amp; Costa, A. (2006). A further look at semantic contexts effects in language production: The role of response congru- ency. Language and Cognitive Processes, 21, 892–919.</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="134" confidence="possible" page="6" column="2">La Heij, W. (1988). Components of Stroop-like interference in picture naming. Memory &amp; Cognition, 16(5), 400 – 410.</ref>
+          <ref rid="R21" class="deo:BibliographicReference" id="135" confidence="possible" page="6" column="2">Levelt, W. J. M., Roelofs, A., &amp; Meyer, A. S. (1999). A theory of lexical access in speech production. Behavioral and Brain Sciences, 22, 1–75.</ref>
+          <ref rid="R22" class="deo:BibliographicReference" id="136" confidence="possible" page="6" column="2">Lupker, S. J. (1979). The semantic nature of response competition in the picture–word interference task. Memory &amp; Cognition, 7(6), 485– 495.</ref>
+          <ref rid="R23" class="deo:BibliographicReference" id="137" confidence="possible" page="6" column="2">Lupker, S. J., &amp; Katz, A. N. (1981). Input, decision, and response factors in picture–word interference. Journal of Experimental Psychology: Human Learning and Memory, 7, 269 –282.</ref>
+          <ref rid="R24" class="deo:BibliographicReference" id="138" confidence="possible" page="6" column="2">Mahon, B. Z., Costa, A., Peterson, R., Vargas, K., &amp; Caramazza, A. (2007). Lexical selection is not by competition: A reinterpretation of semantic interference and facilitation effects in the picture–word interference paradigm. Journal of Experimental Psychology: Learning, Memory, and Cognition, 33, 503–535.</ref>
+          <ref rid="R25" class="deo:BibliographicReference" id="139" confidence="possible" page="6" column="2">Miozzo, M., &amp; Caramazza, A. (2003). When more is less: A counterintuitive effect of distractor frequency in the picture–word interference paradigm. Journal of Experimental Psychology: General, 132(2), 228 –252.</ref>
+          <ref rid="R26" class="deo:BibliographicReference" id="140" confidence="possible" page="6" column="2">New, B., Pallier, C., Ferrand, L., &amp; Matos, R. (2001). A lexical database for contemporary French on the internet: Lexique. Ann  ́e Psychologique, 101(3), 447– 462.</ref>
+          <ref rid="R27" class="deo:BibliographicReference" id="141" confidence="possible" page="6" column="2">Oldfield, R. C., &amp; Wingfield, A. (1965). Response latencies in naming objects. Quarterly Journal of Experimental Psychology, 17, 273–281.</ref>
+          <ref rid="R28" class="deo:BibliographicReference" id="142" confidence="possible" page="6" column="2">Roelofs, A. (2003). Goal-referenced selection of verbal action: Modeling attentional control in the Stroop task. Psychological Review, 110, 88 –125.</ref>
+          <ref rid="R29" class="deo:BibliographicReference" id="143" confidence="possible" page="6" column="2">Rosinski, R. R. (1977). Picture–word interference is semantically based. Child Development, 48(2), 643– 647.</ref>
+          <ref rid="R30" class="deo:BibliographicReference" id="146" page="7" column="1">Savage, G. R., Bradley, D. C., &amp; Forster, K. I. (1990). Word frequency and the pronunciation task: The contribution of articulatory frequency. Language and Cognitive Processes, 5, 203–236.</ref>
+          <ref rid="R31" class="deo:BibliographicReference" id="147" confidence="possible" page="7" column="1">Snodgrass, J. G., &amp; Vanderwart, M. (1980). A standardized set of 260 pictures: Norms for name agreement, image agreement, familiarity, and visual complexity. Journal of Experimental Psychology: Human Learning and Memory, 6(2), 174 –215.</ref>
+          <ref class="deo:BibliographicReference" id="148" page="7" column="1">Appendix A Stimuli Used in Experiment 1 Picture name Frequency Airplane HF Bed HF Bottle HF Bread HF Car HF Church HF Dog HF Eye HF Fish HF Hand HF Heart HF Horse HF Leg HF Lips HF Mountain HF Rain HF Shoe HF Sun HF Table HF Train HF Acorn LF Broom LF Dice LF Pipe LF Well LF Owl LF Kite LF Cannon LF Vase LF Flute LF Harp LF Saw LF Pear LF Rake LF Dolphin LF Frog LF Snail LF Swan LF Carrot LF Nail LF Note. HF high frequency; LF low frequency.</ref>
+          <ref rid="R32" class="deo:BibliographicReference" id="150" page="7" column="2">Stemberger, J. P. (1985). An interactive activation model of language production. In A. W. Ellis (Ed.), Progress in the psychology of language: Vol. 1 (pp. 143–186). Hillsdale, NJ: Erlbaum.</ref>
+          <ref rid="R33" class="deo:BibliographicReference" id="151" confidence="possible" page="7" column="2">Vigliocco, G., Vinson, D. P., Lewis, W., &amp; Garrett, M. F. (2004). Representing the meanings of object and action words: The featural and unitary semantic space hypothesis. Cognitive Psychology, 48, 422– 488.</ref>
+          <ref class="deo:BibliographicReference" id="160" page="7" column="2">Related distractor Ferry Couch Flask Cracker Truck Mosque Rabbit Ankle Clam Shin Kidney Goat Elbow Brow Volcano Lightening Glove Comet Bench Carriage Chestnut Swab Cards Cigar Fountain Eagle Balloon Pistol Urn Guitar Violin Drill Orange Spade Whale Lizard Worm Goose Onion Screw <marker type="block"/> Unrelated distractor Chestnut Swab Cards Cigar Fountain Eagle Balloon Pistol Urn Guitar Violin Drill Orange Spade Whale Lizard Worm Goose Onion Screw Ferry Couch Flask Cracker Truck Mosque Rabbit Ankle Clam Shin Kidney Goat Elbow Brow Volcano Lightening Glove Comet Bench Carriage<marker type="page" number="8"/><marker type="column" number="1"/><marker type="block"/> Appendix B Stimuli Used in Experiment 2 Picture name Frequency Related distractor Nez [nose] HF Sourcil [eyebrow] Cheval [horse] HF Mouton [sheep] Main [hand] HF Genou [knee] Canon [cannon] HF Pistolet [gun] Avion [airplane] HF Train [train] Chien [dog] HF Lapin [rabbit] Bouteille [bottle] HF Carafe [pitcher] Oeil [eye] HF Cheville [ankle] Table [table] HF Bureau [desk] E  ́ glise [church] HF Usine [factory] Lit [bed] HF Fauteuil [couch] Voiture [car] HF Camion [truck] Dauphin [dolphin] LF Baleine [whale] Girafe [giraffe] LF Lion [lion] *Cygne [swan] LF Oie [goose] Chaussure [shoe] LF Gant [glove] Tambour [drum] LF Guitare [guitar] Carotte [carrot] LF Oignon [onion] Fraise [strawberry] LF Banane [banana] Balai [broom] LF R ˆteau [rake] Harpe [harp] LF Violon [violin] Crabe [crab] LF Homard [lobster] Poire [pear] LF Orange [orange] Pipe [pipe] LF Cigare [cigar] Note. HF high frequency; LF low frequency. An asterisk indicates that the picture name was discarded from analyses (see text).<marker type="column" number="2"/><marker type="block"/> Unrelated distractor R ˆteau [rake] Orange [orange] Bureau [desk] Usine [factory] Fauteuil [couch] Camion [truck] Cigare [cigar] Guitare [guitar] Genou [knee] Pistolet [gun] Train [train] Lapin [rabbit] Oignon [onion] Banane [banana] Violon [violin] Homard [lobster] Cheville [ankle] Baleine [whale] Lion [lion] Sourcil [eyebrow] Oie [goose] Gant [glove] Mouton [sheep] Carafe [pitcher]</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="header" id="144" page="7" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="145" page="7" column="1">255</outsider>
+        <region class="DoCO:TextChunk" id="149" confidence="possible" page="7" column="1">(Appendixes</region>
+        <region class="unknown" id="154" page="7" column="2">continue)</region>
+        <outsider class="DoCO:TextBox" type="header" id="155" page="8" column="1">BRIEF REPORTS</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="156" page="8" column="1">256</outsider>
+        <region class="unknown" id="159" page="8" column="1">Correction to Tse and Neely (2007) In the article “Semantic Priming From Letter-Searched Primes Occurs for Low- but Not High- Frequency Targets: Automatic Semantic Access May Not Be a Myth,” by Chi-Shing Tse and James H. Neely (Journal of Experimental Psychology: Learning, Memory, and Cognition, 2007, Vol. 33, No. 6, pp. 1143–1161), the URL for the supplemental materials was incomplete. The complete URL is <ext-link ext-link-type="uri" href="http://dx.doi.org/10.1037/0278-7393.33.6.1143.supp" id="158">http://dx.doi.org/10.1037/0278-7393.33.6.1143.supp</ext-link> DOI: 10.1037/0278-7393.34.1.256</region>
+        <region class="DoCO:TextChunk" id="161" confidence="possible" page="8" column="2">Received January 2, 2007 Revision received August 22, 2007 Accepted September 9, 2007</region>
+      </section>
+    </body>
+  </article>
+</pdfx>

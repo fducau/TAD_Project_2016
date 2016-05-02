@@ -1,0 +1,974 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>37596b99b39ac8633523eba47733cd39cc0e0326e08ba58329c8cb96a41b85ef</job>
+    <base_name>y</base_name>
+    <doi>10.1037/0022-3514.94.1.116</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Journal of Personality and Social Psychology 2008, Vol. 94, No. 1, 116 –132</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="2">Copyright 2008 by the American Psychological Association 0022-3514/08/$12.00 DOI: 10.1037/0022-3514.94.1.116</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">A Needs-Based Model of Reconciliation: Satisfying the Differential Emotional Needs of Victim and Perpetrator as a Key to Promoting Reconciliation</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="4" confidence="possible">Nurit Shnabel and Arie Nadler Tel Aviv University</region>
+      <abstract class="DoCO:Abstract" id="7" confidence="possible">The authors propose that conflict threatens different psychological resources of victims and perpetrators and that these threats contribute to the maintenance of conflict (A. <xref ref-type="bibr" rid="R29" id="5" class="deo:Reference">Nadler, 2002</xref>; A. Nadler &amp; I. <xref ref-type="bibr" rid="R30" id="6" class="deo:Reference">Liviatan, 2004</xref>; A. Nadler &amp; N. Shnabel, in press). On the basis of this general proposition, the authors developed a needs-based model of reconciliation that posits that being a victim is associated with a threat to one’s status and power, whereas being a perpetrator threatens one’s image as moral and socially acceptable. To counter these threats, victims must restore their sense of power, whereas perpetrators must restore their public moral image. A social exchange interaction in which these threats are removed should enhance the parties’ willingness to reconcile. The results of 4 studies on interpersonal reconciliation support these hypotheses. Applied and theoretical implications of this model are discussed. Keywords: reconciliation, conflict resolution, emotional needs, victims, perpetrators</abstract>
+      <outsider class="DoCO:TextBox" type="sidenote" id="8">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="18" page="1" column="1">The study of conflict and its resolution has generated much theoretical and empirical interest in the last few decades (<xref ref-type="bibr" rid="R20" id="9" class="deo:Reference">Jones, 1998</xref>; <xref ref-type="bibr" rid="R33" id="10" class="deo:Reference">Pruitt, 1998</xref>). Most of the research in this field is based on the realist approach to conflict and its resolution, according to which disputes between persons and groups are grounded in conflicts over material interests (<xref ref-type="bibr" rid="R38" id="11" class="deo:Reference">Scheff, 1994</xref>). Consequently, most of the literature in this field assumes that conflicts are resolved once the relevant parties are able to agree on a formula for redistributing contested resources. In the present article, we focus on reconciliation between opponents as distinguished from conflict resolution. Reconciliation, in contrast to conflict resolution, “must include a changed psychological orientation towards the other” (Staub, Pearlman, Gubin, &amp; <xref ref-type="bibr" rid="R44" id="12" class="deo:Reference">Hagengimana, 2005</xref>, p. 301) and may occur only once the parties have resolved the emotional issues that may have left them estranged (<xref ref-type="bibr" rid="R29" id="13" class="deo:Reference">Nadler, 2002</xref>; <xref ref-type="bibr" rid="R31" id="14" class="deo:Reference">Nadler &amp; Liviatan, 2006</xref>). Theories of reconciliation stress that an end to a conflict cannot be achieved merely by satisfying the instrumental motivations of opponents (such as the motivation to maximize one’s outcomes; <xref ref-type="bibr" rid="R35" id="15" class="deo:Reference">Rusbult &amp; Van Lange, 1996</xref>). Instead, satisfying the emotional needs of the parties (such as the need to take revenge; <xref ref-type="bibr" rid="R18" id="16" class="deo:Reference">Frijda, 1994</xref>) is necessary as well. Similarly, theoreticians of negotiation stress that although focusing on tangible issues such as money or prop- erty and ignoring intangible issues that relate to the psychological needs of the adversaries is a common practice, it often deadlocks the negotiation (Zubek, Pruitt, Peirce, McGillicuddy, &amp; <xref ref-type="bibr" rid="R52" id="17" class="deo:Reference">Syna, 1992</xref>). In other words, as long as these emotional needs remain unsatisfied, they block the path to reconciliation. The process of satisfying these emotional needs that impede reconciliation was</region>
+      <region class="DoCO:TextChunk" id="20" confidence="possible" page="1" column="1">Nurit Shnabel and Arie Nadler, Department of Psychology, Tel Aviv University, Ramat-Aviv, Israel. Correspondence concerning this article should be addressed to Nurit Shnabel, Department of Psychology, Tel Aviv University, Ramat-Aviv, Israel 69978. E-mail: <email id="19">nurit.shnabel@yale.edu</email></region>
+      <region class="DoCO:TextChunk" id="28" page="1" column="2">termed by <xref ref-type="bibr" rid="R29" id="21" class="deo:Reference">Nadler (2002)</xref> the socio-emotional route to reconciliation. One major way these emotional barriers can be removed is through the apology–forgiveness cycle (<xref ref-type="bibr" rid="R45" id="22" class="deo:Reference">Tavuchis, 1991</xref>), that is, when a perpetrator apologizes to the victim and when the victim reciprocates by granting forgiveness. The processes of socio-emotional reconciliation has received little attention in social psychology research, and the few studies devoted to this subject have mostly explored factors at the intrapersonal level. Some of these have included attention to affective states (e.g., feeling empathy toward the offender; McCullough, Worthington, &amp; <xref ref-type="bibr" rid="R23" id="23" class="deo:Reference">Rachal, 1997</xref>) and personality traits (e.g., psychological femininity; <xref ref-type="bibr" rid="R22" id="24" class="deo:Reference">McCullough et al., 1998</xref>). Others have focused on how parties to a conflict perceive the relationship between them (e.g., perceived quality of alternatives) or the profitability of main- taining the relationship (<xref ref-type="bibr" rid="R34" id="25" class="deo:Reference">Rusbult, 1983</xref>; <xref ref-type="bibr" rid="R35" id="26" class="deo:Reference">Rusbult &amp; Van Lange, 1996</xref>; Rusbult, Verette, Whitney, Slovik, &amp; <xref ref-type="bibr" rid="R36" id="27" class="deo:Reference">Lipkus, 1991</xref>). Consequently, these studies focused on only one side of the conflict (i.e., either on the perpetrator or the victim) and thus have over- looked the interaction between the victim and the perpetrator and the role of this interaction in promoting interpersonal reconciliation. The present research seeks to amend this shortcoming by proposing a model of reconciliation as the outcome of the simul- taneous and reciprocal satisfaction of the emotional needs of the perpetrator and the victim.</region>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="29" confidence="possible" page="1" column="2">Reconciliation as an Act of Social Exchange</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="73" confidence="possible" page="3" column="1">Hypothesis 3:</h2>
+          <region class="DoCO:TextChunk" id="74" confidence="possible" page="3" column="1">Hypothesis 3: After receiving a message of empowerment from perpetrators, victims will perceive themselves as more powerful. After receiving a message of acceptance, perpetrators will perceive that others view them as relatively more moral (i.e., will have a higher public moral image).</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="75" confidence="possible" page="3" column="1">Hypothesis 4:</h2>
+          <region class="DoCO:TextChunk" id="76" confidence="possible" page="3" column="1">Hypothesis 4: Restoring victims’ sense of power will enhance their willingness to reconcile with perpetrators. Similarly, restoring perpetrators’ public moral image will enhance their willingness to reconcile with victims.</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="77" confidence="possible" page="3" column="1">Discussion</h2>
+          <region class="DoCO:TextChunk" id="78" confidence="possible" page="3" column="1">We Discussion conducted four studies to test these hypotheses. The first two studies used laboratory experiments: Study 1 tested Hypotheses 1 and 2 (these hypotheses were also tested in natu- rally occurring situations, in a study briefly described in the section of Study 1), and Study 2 tested Hypotheses 3 and 4. Study 3 again tested Hypotheses 3 and 4 by using vignettes describing real-life situations. Finally, Study 4 used vignettes in a role-playing methodology to test the whole model (Hypotheses 1– 4).</region>
+        </section>
+      </section>
+      <region class="DoCO:TextChunk" id="68" page="1" column="2">The needs-based model of reconciliation is predicated on the idea that following an episode in which one side has been victim- ized by another, both the victim and the perpetrator are deprived of certain unique psychological resources. This deprivation brings about different emotional needs in victims and in perpetrators, and until these needs are satisfied they serve as barriers to reconciliation. Actions that satisfy the differential needs of victims and perpetrators (such as granting forgiveness or offering an apology) <marker type="page" number="2"/><marker type="column" number="1"/><marker type="block"/> facilitate the recovery of the parties’ impaired psychological resources and thus promote their willingness to reconcile. In this manner, socio-emotional reconciliation can be framed as an act of social exchange: Reconciliation is facilitated when victims and perpetrators receive needed emotional “commodities” through postconflict interactions. In a victimization episode, the impairment to the psychological resources of victims and perpetrators is asymmetrical. Victims feel inferior regarding their power (<xref ref-type="bibr" rid="R16" id="35" class="deo:Reference">Foster &amp; Rusbult, 1999</xref>), honor (<xref ref-type="bibr" rid="R38" id="36" class="deo:Reference">Scheff, 1994</xref>), self-esteem (Scobie &amp; <xref ref-type="bibr" rid="R39" id="37" class="deo:Reference">Scobie &amp; Scobie, 1998</xref> and perceived control (Baumeister, Stillwell, &amp; <xref ref-type="bibr" rid="R3" id="38" class="deo:Reference">Heatherton, 1994</xref>) and may experience feelings of victimization or anger (<xref ref-type="bibr" rid="R22" id="39" class="deo:Reference">McCullough et al., 1998</xref>). In contrast, perpetrators suffer from moral inferiority (<xref ref-type="bibr" rid="R14" id="40" class="deo:Reference">Exline &amp; Baumeister, 2000</xref>; <xref ref-type="bibr" rid="R51" id="41" class="deo:Reference">Zechmeister &amp; Romero, 2002</xref>) and may feel guilt (<xref ref-type="bibr" rid="R3" id="42" class="deo:Reference">Baumeister et al., 1994</xref>), shame (<xref ref-type="bibr" rid="R14" id="43" class="deo:Reference">Exline &amp; Baumeister, 2000</xref>), or repentance (<xref ref-type="bibr" rid="R32" id="44" class="deo:Reference">North, 1998</xref>). This myriad of emotional states has been said to reflect the perpetrators’ “anxiety over social exclusion” (<xref ref-type="bibr" rid="R3" id="45" class="deo:Reference">Baumeister et. al., 1994</xref>, p. 246) because they face the threat of being rejected from the moral community to which they belong (<xref ref-type="bibr" rid="R45" id="46" class="deo:Reference">Tavuchis, 1991</xref>). From a broader perspective, these impaired emotional resources can be subsumed under the human need for power and the human need for love and belonging, two needs that constitute the core of interpersonal experience (<xref ref-type="bibr" rid="R5" id="47" class="deo:Reference">Bennis &amp; Shepard, 1956</xref>). Using the terminology of resources theory, which classifies the resources that are exchanged in social interactions into six categories (love, status, services, goods, information, and money; Foa &amp; <xref ref-type="bibr" rid="R15" id="48" class="deo:Reference">Foa &amp; Foa, 1980</xref> we suggest that the resource that is threatened in victims falls into the category of status (i.e., the need for relative power), whereas the resource that is threatened for perpetrators is associated with the category of love (i.e., the need for relatedness). Deprivation of the above resources leads to a corresponding motivational state in which the individual experiences his or her deprivation as a need that must be fulfilled. For victims, this emerges as an enhanced need to restore their sense of power and an increase in power-seeking behavior (<xref ref-type="bibr" rid="R16" id="49" class="deo:Reference">Foster &amp; Rusbult, 1999</xref>). To achieve this goal, victims are likely to want perpetrators to acknowledge their responsibility for the injustice that they have caused. This acknowledgement creates a kind of “debt” that only the victim can cancel, and thus returns control to the hands of the victim, who may then determine whether the perpetrator will be forgiven and reaccepted into the moral community (<xref ref-type="bibr" rid="R1" id="50" class="deo:Reference">Akhtar, 2002</xref>; <xref ref-type="bibr" rid="R27" id="51" class="deo:Reference">Minow, 1998</xref>; Sch  ̈nbach, 1990). For this reason, victims often try to induce guilt among perpetrators: Perpetrators’ guilt serves as an admission of the debt they owe victims (<xref ref-type="bibr" rid="R3" id="52" class="deo:Reference">Baumeister et al., 1994</xref>). The perpetrator, unlike the victim, exercises more power and control during the victimization episode. Nevertheless, when perpetrators are accused of violating conventional moral standards or deviating from group norms, they may fear exclusion from the designated moral community to which they belong (<xref ref-type="bibr" rid="R45" id="53" class="deo:Reference">Tavuchis, 1991</xref>). The anxiety over social exclusion increases perpetrators’ motivation to perceive themselves as acceptable people (Baumeister, Stillwell, &amp; <xref ref-type="bibr" rid="R4" id="54" class="deo:Reference">Wotman, 1990</xref>) as well as their need to have others express understanding and empathy regarding the circumstances that compelled them to act in a socially unacceptable way (<xref ref-type="bibr" rid="R30" id="55" class="deo:Reference">Nadler &amp; Liviatan, 2004</xref>, 2006) and empathy for their emotional distress (<xref ref-type="bibr" rid="R23" id="56" class="deo:Reference">McCullough et al., 1997</xref>). This understanding, in turn, restores perpetrators’ public moral image (i.e., their sense of being perceived as moral individuals) and helps them feel “rehumanized”<marker type="column" number="2"/><marker type="block"/>  (<xref ref-type="bibr" rid="R44" id="58" class="deo:Reference">Staub et al., 2005</xref>). Empathy and understanding for the perpetrator’s perspective are therefore a kind of “gift” that victims give to those who have offended them, which culminates in their explicitly granting forgiveness (Enright, Freedman, &amp; <xref ref-type="bibr" rid="R13" id="59" class="deo:Reference">Rique, 1998</xref>). Forgiveness mitigates the moral inferiority engendered by the role of perpetrators (<xref ref-type="bibr" rid="R14" id="60" class="deo:Reference">Exline &amp; Baumeister, 2000</xref>) and is a reassurance that they belong to the moral community to which their membership was questioned. In line with this reasoning, <xref ref-type="bibr" rid="R9" id="61" class="deo:Reference">Carlsmith and Gross (1969)</xref> reported that participants who delivered an electric shock to a confederate tended to offer more help to the confederate following the experiment than those who did not deliver the shock. This behavior may be interpreted as a reaction by perpetrators aimed at balancing the impairment to their resource of love (Foa &amp; <xref ref-type="bibr" rid="R15" id="62" class="deo:Reference">Foa &amp; Foa, 1980</xref> The impairment to the perpetrators’ resource of love consists of a threat to their moral image in the eyes of relevant others (i.e., threat to public moral image) rather than to their feelings of guilt. Research that indicates that victims and perpetrators have different perspectives on the same victimization episode is consistent with the idea that concerns about one’s moral image may be disasso- ciated from perpetrators’ guilt. In fact, while perpetrators are concerned as to whether others view them as moral actors, they often avoid feelings of guilt by minimizing the moral implications of their actions or by denying responsibility for them (<xref ref-type="bibr" rid="R25" id="63" class="deo:Reference">Mikula, 2002</xref>); in fact, even actions that seem senselessly cruel may be perceived by perpetrators as having at least some redeeming purpose or merit (<xref ref-type="bibr" rid="R2" id="64" class="deo:Reference">Baumeister, 1996</xref>). This contrasts with victims’ tendency to emphasize the injustice that they suffered and the perpetrator’s responsibility for it. This phenomenon, labeled by <xref ref-type="bibr" rid="R14" id="65" class="deo:Reference">Exline and Baumeister (2000)</xref> as the magnitude gap underscores the idea that the impairment to perpetrator’s resource of love, which is posited in our model, reflects a threat to perpetrators’ moral image that is relatively independent of their feelings of guilt. When a successful social exchange takes place between victim and perpetrator, both sides satisfy their emotional needs and cease to feel weaker than or morally inferior to their counterpart. This generates a process of symbolic erasure of the roles of victim and perpetrator, which places the involved parties on a more equal footing (<xref ref-type="bibr" rid="R32" id="66" class="deo:Reference">North, 1998</xref>) and thus leads to a greater willingness to reconcile with one’s opponent (cf. Nadler &amp; Shnabel, in press). The progress of the socio-emotional route to reconciliation is summarized in <xref ref-type="fig" rid="F1" id="67" class="deo:Reference">Figure 1</xref>. The present research was designed to test this model. The first two hypotheses center on the psychological resources that are impaired in the victim and the perpetrator and the needs that result from this impairment. The third and fourth hypotheses focus on the way in which messages of empowerment and acceptance affect victims’ and perpetrators’ views of themselves and their subsequent willingness to reconcile. Accordingly, the major hypotheses are as follows:</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="31" page="1" column="2">116</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="32" page="2" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="33" page="2" column="1">117</outsider>
+      <outsider class="DoCO:TextBox" type="sidenote" id="34" page="2" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+      <region class="DoCO:TextChunk" id="69" confidence="possible" page="2" column="2">Hypothesis 1: For victims, the primary psychological resource that is impaired following a victimization episode is their sense of power, whereas for perpetrators, the primary impairment is to their public moral image (i.e., their perception that others view them as being relatively immoral). Hypothesis 2: This differential impairment elicits different emotional needs: Perpetrators will express a stronger need for</region>
+      <outsider class="DoCO:TextBox" type="header" id="70" page="3" column="1">SHNABEL AND NADLER</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="71" page="3" column="1">118</outsider>
+      <region class="DoCO:TextChunk" id="72" confidence="possible" page="3" column="1">Role V i c t i m P e r p e t r a t o r Impaired Emotional Resources: sense of power public moral image ( p o w e r ) ( l o v e ) Resource Sought from Partner: empowerment acceptance (e.g., victim wants (e.g., perpetrator partner to take wants responsibility for partner to express c a u s i n g i n j u s t i c e ) e m p a t h y ) Restore Balance by: restored sense restored public of power moral image Resulting in: increased willingness to reconcile The needs-based model of reconciliation. social acceptance (i.e., that victims should try to understand and accept their perspective), whereas victims will express a stronger need for power.</region>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="79" confidence="possible" page="3" column="1">Study 1</h1>
+        <region class="DoCO:TextChunk" id="85" page="3" column="1">The first study was designed to test the first part of our theoretical model: In the course of an offense, victims primarily experience an impairment to their psychological resource of power and consequently have a stronger need to restore power. By contrast, perpetrators primarily experience an impairment to their psychological resource of moral worth and hence have a higher need for social acceptance. Unlike past research on victim–perpetrator relations that has investigated this topic through the use of role- playing techniques (e.g., <xref ref-type="bibr" rid="R16" id="80" class="deo:Reference">Foster &amp; Rusbult, 1999</xref>) or recall of relevant life situations (e.g., <xref ref-type="bibr" rid="R23" id="81" class="deo:Reference">McCullough et al., 1997</xref>), we chose a laboratory setting to test our hypotheses. The use of the experi-<marker type="column" number="2"/><marker type="block"/> mental method allowed us to randomly assign participants to the victim or perpetrator role in the same controlled social situation. This created two major methodological challenges: The first was to provide a cover story that was ethically sound, given that classical paradigms that produce victims and perpetrators such as the teacher–student paradigm (<xref ref-type="bibr" rid="R26" id="83" class="deo:Reference">Milgram, 1974</xref>) or the jail paradigm (Haney, Banks, &amp; <xref ref-type="bibr" rid="R19" id="84" class="deo:Reference">Zimbardo, 1973</xref>) are unacceptable. The second was to have all participants in the perpetrator condition hurt their victim and believe that they had done so of their own volition. The experimental design was a 2 2 between-subjects design: Role (victim vs. perpetrator) Condition (experimental vs. control).</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="86" page="3" column="2">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="87" page="3" column="2">Participants (N 103) were 81 female and 22 male university undergraduates (age: M 23 years), who were paid for their participation. Men and women were represented in equal proportion in the four experimental cells.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="88" page="3" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="92" page="3" column="2">The experiment was described as a study being conducted by the International Advertising Association (IAA) in collaboration with Tel Aviv University Business School. All instructions and procedures were computerized. Participants were told that they would take part in a “creativity test” meant to identify participants who had a high potential to work in the advertising industry. To enhance the value of success on the creativity test, participants were told that if they succeeded on the test they could advance to a second and rewarding phase of the study. Participants were then randomly assigned to be either “writers” or “judges.” The writers’ task was to write slogans for a list of products that were presented to them, and the judges’ task was to evaluate these slogans. To advance to the second phase of the study, writers had to achieve an average score of at least 85. Judges were told that their advancement to the second phase depended on an assessment by an IAA representative of the quality of their judgment and their ability to evaluate creativity potential. To maintain a high level of psychological relevance of the interaction with the partner, all participants were led to believe that after the test they would have to work together with their partner on a common task. Judges in the experimental condition were advised to be strict in their evaluations and to judge the slogans by real-world standards, whereas judges in the control condition were advised to be lenient and regard the slogans as preliminary drafts. It was stressed that following this advice for lenient or strict assessments of the slogans would increase the judges’ chances of passing to the next phase of the experiment, which was presented as highly rewarding. Thus, judges in both conditions were free to choose which grades to give their partners, but in the experimental condition they knew that being too nice to their partner might harm their chances of moving to the next and rewarding phase of the experiment. As a result of these instructions, judges in the experimental condition gave their partners lower grades, and the experimenter later informed them that the writers had failed the test due their harsh <marker type="page" number="4"/><marker type="column" number="1"/><marker type="block"/> evaluations. Judges in the control condition gave their partners higher grades, and the experimenter later informed these judges that despite their positive evaluations, the IAA committee declined to advance the writer to the second phase due to external considerations. Writers in the experimental condition received low scores from their partners throughout the exam and consequently failed the test, whereas writers in the control condition received relatively higher scores from their partners but were informed that they failed the test due to the decision of the IAA representatives. Afterward, the experimenter asked participants to complete questionnaires, which included the dependent measures. These were presented as a standard feedback procedure required by the university’s ethics committee. Upon completion, participants were thanked and debriefed.</region>
+        <outsider class="DoCO:TextBox" type="header" id="90" page="4" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="91" page="4" column="1">119</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="93" page="4" column="1">Measures</h1>
+        <region class="DoCO:TextChunk" id="95" page="4" column="1">The questionnaire included (a) manipulation checks, (b) a measure of sense of power, (c) a measure of public moral image, and (d) measures of need for power and need for social acceptance. Manipulation checks. Participants were asked to indicate on a 7-point scale the degree to which they (a) were offended by their partner, (b) felt that their partner had caused them injustice, (c) offended their partner, or (d) felt that they had caused their partner injustice. Ratings for the first two items were highly correlated (r .85) and were averaged to obtain a single measure of victimhood. Ratings for the third and fourth items were also highly correlated (r .86) and were averaged to obtain a single measure of perpetration. Sense of power. Three 7-point scale items measured participants’ self-perception of power: (a) During the interaction with my partner, I felt relatively weak to I felt relatively strong; (b) I did not have a lot of influence on the interaction with my partner to I had a lot of influence; and (c) I had the lower hand to I had the upper hand. Another three items measured the public image of power (i.e., the extent to which participants thought their partners viewed them as powerful): My partner perceives me as. . . (a) relatively weak to relatively strong, (b) not having a lot of control over the interaction between us to having a lot of control, and (c) having relatively low influence on the interaction to relatively high influence. Ratings for the 6 items were averaged to obtain a single measure of sense of power (Cronbach’s .92). Public moral image. Three 7-point scale items measured participants’ public moral image (i.e., the extent to which participants believed that their partners viewed them as moral): My partner perceives. . . (a) me as not being completely moral to me as being completely moral, (b) my behavior as not 100% appropriate to my behavior as 100% appropriate, and (c) my behavior as not ethically flawless to my behavior as ethically flawless. Ratings for the three items were averaged to obtain a single measure of public moral image (Cronbach’s .92). Emotional needs. Four 7-point scale items measured participants’ need for power: I would like to. . . (a) have more influence on the test and its procedure, (b) have more power in the role to which I was assigned, (c) increase my level of control over the interaction between myself and my partner, and (d) have more say during joint work. Participants rated these items from 1 (not particularly) to 7 (very much). Ratings for the four items were <marker type="column" number="2"/><marker type="block"/> averaged to obtain a single measure of need for power (Cronbach’s .95). Five 7-point scale items measured participants’ need for social acceptance: I would like. . . (a) to explain my considerations during the task to my partner, (b) my partner to understand the reasons for my behavior, (c) my partner to know that I tried to act fairly during the test, (d) my partner to know that I did not act out of thoughtlessness, and (e) my partner to understand that I am not a harsh person. Ratings for the five items were averaged to obtain a single measure of need for social acceptance (Cronbach’s .89). The dependent variables above were used in identical form in the subsequent studies, except for minor adjustments in wording that were made to suit the different experimental contexts.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="96" page="4" column="2">Results</h1>
+        <region class="DoCO:TextChunk" id="99" page="4" column="2">We tested our hypotheses by using a series of analyses of variance (ANOVAs) followed by planned comparisons for testing hypothesized differences between means. Means and standard deviations of the dependent variables are presented in <xref ref-type="table" rid="T1" id="97" class="deo:Reference">Table 1</xref>; the matrix of correlations between all measurements (i.e., manipulation checks and dependent variables) is presented in <xref ref-type="table" rid="T2" id="98" class="deo:Reference">Table 2</xref>.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="100" page="4" column="2">Manipulation Checks</h1>
+        <region class="DoCO:TextChunk" id="108" page="4" column="2">Victimhood. The significant main effects for role, F(1, 99) 14.53, p .001, 2 .13, and condition, F(1, 99) 9.87, p .005, 2 .09, were qualified by a significant Role Condition interaction, F(1, 99) 7.40, p .01, 2 .07. Planned comparisons revealed that, as expected, writers in the experimental condition perceived themselves as victims more than did writers in the control condition, F(1, 99) 18.10, p .001, 2 .20; means were 3.50 and 1.72, respectively. By contrast, the corresponding difference between conditions for judges was not significant, F(1, 99) 0.08, ns, 2 .00; means were 1.39 and 1.52, respectively. <marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> Perpetration. The significant main effects for role, F(1, 99) 67.82, p .001, 2 .41, and condition, F(1, 99) 8.39, p .005, 2 .08, were qualified by a significant Role Condition interaction, F(1, 99) 4.84, p .05, 2 .05. Planned comparisons revealed that, as expected, judges in the experimental condition perceived themselves as perpetrators more than did judges in the control condition, F(1, 99) 12.36, p .001, 2 .12; means were 3.37 and 2.28, respectively. The corresponding difference for writers was not significant, F(1, 99) 0.26, ns, 2 .02; means were 1.15 and 1.00, respectively.</region>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="102" page="4" column="2">Table 1 Means and Standard Deviations (in Parentheses) of Manipulation Checks, Self- and Public Perceptions, and Emotional Needs of Victims and Perpetrators in Experimental and Control Conditions in Study 1</caption>
+          <content>
+            <table class="DoCO:Table" number="1" page="4">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> Role</th>
+                  <th class="table"></th>
+                </tr>
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> Victim (writer) Perpetrator</th>
+                  <th class="table"> (judge)</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Variable</td>
+                  <td class="table"> Experimental Control Experimental</td>
+                  <td class="table"> Control</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> Self- and public perceptions</td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Sense of power</td>
+                  <td class="table"> 5.39 5.62 2.80</td>
+                  <td class="table"> 4.24</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.19) (0.20) (0.19)</td>
+                  <td class="table"> (0.18)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Public moral image</td>
+                  <td class="table"> 5.01 5.82 6.31</td>
+                  <td class="table"> 6.21</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.23) (0.24) (0.23)</td>
+                  <td class="table"> (0.22)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> Emotional needs</td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Power</td>
+                  <td class="table"> 3.54 3.61 5.84</td>
+                  <td class="table"> 3.80</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.30) (0.32) (0.30)</td>
+                  <td class="table"> (0.31)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Social acceptance</td>
+                  <td class="table"> 5.61 4.85 4.48</td>
+                  <td class="table"> 2.90</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.30) (0.32) (0.30)</td>
+                  <td class="table"> (0.30)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. N 103.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="103" confidence="possible" page="4" column="2">Role Victim (writer) Perpetrator (judge) Variable Experimental Control Experimental Control Self- and public perceptions Sense of power 5.39 5.62 2.80 4.24 (0.19) (0.20) (0.19) (0.18) Public moral image 5.01 5.82 6.31 6.21 (0.23) (0.24) (0.23) (0.22) Emotional needs Power 3.54 3.61 5.84 3.80 (0.30) (0.32) (0.30) (0.31) Social acceptance 5.61 4.85 4.48 2.90 (0.30) (0.32) (0.30) (0.30) Note. N 103.</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="header" id="104" page="5" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="105" page="5" column="1">120</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="106" page="5" column="1">Table 2 Correlations Between Manipulation Checks, Self- and Public Perceptions, and Emotional Needs in Study 1</caption>
+          <content>
+            <table class="DoCO:Table" number="2" page="5">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> Variable</td>
+                  <td class="table"> 1</td>
+                  <td class="table"> 2</td>
+                  <td class="table"> 3</td>
+                  <td class="table"> 4</td>
+                  <td class="table"> 5 6</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 1.</td>
+                  <td class="table"> Victimhood</td>
+                  <td class="table"> —</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 2.</td>
+                  <td class="table"> Perpetration</td>
+                  <td class="table"> .15</td>
+                  <td class="table"> —</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 3.</td>
+                  <td class="table"> Sense of power</td>
+                  <td class="table"> .26 **</td>
+                  <td class="table"> .39 **</td>
+                  <td class="table"> —</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 4.</td>
+                  <td class="table"> Public moral image</td>
+                  <td class="table"> .04</td>
+                  <td class="table"> .56 **</td>
+                  <td class="table"> .26 **</td>
+                  <td class="table"> —</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 5.</td>
+                  <td class="table"> Need for power</td>
+                  <td class="table"> .41 **</td>
+                  <td class="table"> .25 *</td>
+                  <td class="table"> .30 **</td>
+                  <td class="table"> .15</td>
+                  <td class="table"> —</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> 6.</td>
+                  <td class="table"> Need for social</td>
+                  <td class="table"> .08</td>
+                  <td class="table"> .40 **</td>
+                  <td class="table"> .28 **</td>
+                  <td class="table"> .29 **</td>
+                  <td class="table"> .13 —</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> acceptance</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"></td>
+                  <td class="table.strange"> Note. N 103.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> * p</td>
+                  <td class="table.strange"> .05. ** p .01.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="107" confidence="possible" page="5" column="1">Variable 1 2 3 4 5 6 1. Victimhood — 2. Perpetration .15 — 3. Sense of power .26 ** .39 ** — 4. Public moral image .04 .56 ** .26 ** — 5. Need for power .41 ** .25 * .30 ** .15 — 6. Need for social .08 .40 ** .28 ** .29 ** .13 — acceptance Note. N 103. * p .05. ** p .01.</region>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="109" page="5" column="1">Sense of Power</h1>
+        <region class="DoCO:TextChunk" id="110" page="5" column="1">The significant main effects for role, F(1, 98) 109.27, p .001, 2 .53, and condition, F(1, 98) 19.31, p .001, 2 .17, were qualified by a significant Role Condition interaction, F(1, 98) 10.07, p .005, 2 .09. Planned comparisons revealed that, as expected, writers in the experimental condition perceived themselves as less powerful than did writers in the control condition, F(1, 98) 29.85, p .001, 2 .34. The corresponding difference for judges was not significant, F(1, 98) 0.72, ns, 2 .02.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="111" page="5" column="1">Public Moral Image</h1>
+        <region class="DoCO:TextChunk" id="112" page="5" column="1">The meaning of the significant main effect for role, F(1, 98) 13.43, p .001, 2 .12, was qualified by a Role Condition interaction, F(1, 98) 3.83, p .05, 2 .04. Planned comparisons revealed that, as expected, judges in the experimental condition believed that they were perceived by their partners as less moral than were judges in the control condition, F(1, 98) 5.90, p .05, 2 .10, whereas the corresponding difference for writers was not significant, F(1, 98) 0.09, ns, 2 .00.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="113" page="5" column="1">Emotional Needs</h1>
+        <region class="DoCO:TextChunk" id="115" page="5" column="1">Power. The significant main effects for role, F(1, 95) 16.31, p .001, 2 .15, and condition, F(1, 95) 10.14, p .005, 2 .10, were qualified by a significant Role Condition interaction, F(1, 95) 11.64, p .001, 2 .11. Planned comparisons indicated that, as expected, writers in the experimental condition had a higher need for power compared with writers in the control condition, F(1, 95) 22.00, p .001, 2 .32, <marker type="column" number="2"/><marker type="block"/> whereas the corresponding difference for judges was not significant, F(1, 95) 0.03, ns, 2 .00. Social acceptance. A significant main effect for role, F(1, 98) 25.08, p .001, 2 .20, indicated that judges had a higher need for social acceptance compared with writers. The main effect for condition was also significant, F(1, 98) 14.52, p .001, 2 .13, and indicates that participants in the experimental condition had a higher need for social acceptance compared with participants in the control condition. Although the Role Condition interaction failed to reach significance, F(1, 98) 1.79, p .2, 2 .02, we conducted planned comparisons to test the a priori hypotheses. These comparisons indicated that judges in the experimental condition tended to have a higher need for social acceptance than did judges in the control condition, F(1, 98) 2.94, p .06, 2 .08, but, unexpectedly, the same was true for writers, who had a higher need for social acceptance in the experimental condition than in the control condition, F(1, 98) 13.08, p .001, 2 .18. However, in line with our a priori hypothesis, when compared with the other three groups, judges in the experimental group had the highest need for social acceptance, t(63) 5.2, p .001; means were 5.61 and 4.03, respectively. 1 This finding is consistent with our prediction regarding perpetrators’ emotional needs.</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="116" page="5" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="117" page="5" column="2">In general, the results of Study 1 support our theoretical model. First, the manipulation was successful in producing perpetrators and victims: Judges in the experimental condition perceived themselves as perpetrators to a greater extent than did the participants in the other three conditions, and writers in the experimental condition perceived themselves as victims to a greater extent than did the participants in the other three conditions. Furthermore, our predictions regarding most of the dependent variables were supported: For victims, the primary psychological resource that was impaired was their sense of power, and for perpetrators, the primary impairment was to their public moral image. The results also supported our predictions that the differential impairment of psychological resources would elicit different emotional needs: Victims expressed a stronger need for power, whereas perpetrators expressed a stronger need for social acceptance (i.e., wanting victims to understand and accept their perspective). However, there was one empirical inconsistency with our predictions that needs to be considered. The unpredicted finding was that writers in the experimental condition expressed a higher need for social acceptance compared with writers in the control condition. This finding does not contradict our theoretical model (because perpetrators nevertheless exhibited the greatest need for social acceptance). Because the victims’ need for social acceptance was related to their need for power (these two measures were strongly correlated, r .37, p .01), it is possible that victims felt that if they could spell out their perspectives to perpetrators, the perpetrators would realize the extent of their wrongdoing and would try to compensate them for this mistreatment.</region>
+        <region class="DoCO:TextChunk" id="118" confidence="possible" page="5" column="2">1 Here, as well as in all other t tests reported in this article, we conducted Levene’s test for homogeneity of variances and decided whether to assume equal variances accordingly. For the sake of brevity, we do not report the results of the Levene’s tests, but these can be deduced by the reported degrees of freedom of the t tests.</region>
+        <outsider class="DoCO:TextBox" type="header" id="119" page="6" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="120" page="6" column="1">121</outsider>
+        <region class="DoCO:TextChunk" id="121" page="6" column="1">In order to extend the generalizability and external validity of our findings, we tested the same hypotheses in a real-world context. Participants in this study were 107 university undergraduates who were instructed to recall a situation in which they had hurt a significant other (perpetrator condition) or were hurt by a significant other (victim condition). Following this, participants were asked to complete a questionnaire that assessed (a) self-ratings of power, (b) public moral image, and (c) emotional needs (i.e., the needs for power and social acceptance). The results replicated the findings of Study 1: Victims perceived themselves as weaker than perpetrators and exhibited a higher need for power, whereas perpetrators perceived themselves as having an inferior public moral image compared with victims and exhibited a higher need for social acceptance. 2 Taken together, the findings of both studies support the first part of our theoretical model, which asserts that in a victim–perpetrator interaction different psychological resources are impaired for victims and perpetrators and that this leads to the arousal of different emotional needs.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="122" confidence="possible" page="6" column="1">Study 2</h1>
+        <region class="DoCO:TextChunk" id="123" page="6" column="1">Study 2 tested the second part of our model, which asserts that satisfying the differential emotional needs of victims and perpetrators will facilitate reconciliation between them in the setting of a laboratory experiment. The experiment used the experimental condition of the creativity test paradigm used in Study 1, which was proven effective in producing victims and perpetrators. Half of the participants were randomly assigned to the victim condition (i.e., writer) and the other half were assigned to the perpetrator condition (i.e., judge). At the end of the session (i.e., after they were informed of their success or failure in passing to the next phase), participants received messages allegedly sent by their partners. The content of the message emphasized either social acceptance or empowerment or neither social acceptance nor empowerment (i.e., the control condition). Thus, the experimental design was a 2 3 between-subjects design: Role (victim vs. perpetrator) Message (empowerment vs. acceptance vs. control). We hypothesized that messages emphasizing empowerment would render victims readier to reconcile, whereas messages emphasizing acceptance would render perpetrators readier to reconcile.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="124" page="6" column="1">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="125" page="6" column="1">Participants (N 184) were 140 female and 44 male university undergraduates (age: M 23.5 years), who took part in the experiment in fulfillment of a course credit. Men and women were represented in equal proportion in the six experimental cells.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="126" page="6" column="1">Procedure</h1>
+        <region class="DoCO:TextChunk" id="133" page="6" column="1">After inducing the victim and perpetrator conditions via the creativity test procedure (see Study 1), participants were told that because they and their partner would be working as a team in a later part of the experiment, they would now be asked to exchange structured feedback with each other. Participants completed the feedback form electronically and ostensibly exchanged feedback with their partner by pressing a Send or Receive button. 3 <marker type="column" number="2"/><marker type="block"/> This feedback consisted of ratings on two subscales, each containing four items. The first subscale rated the participants’ competence on four measures (talent, creativity, originality, and quality of ideas), and the second subscale rated the partners’ agreeableness and interpersonal skills (the extent to which the participant was perceived as kind, agreeable, pleasant to work with, and having good social skills). The manipulation of empowerment through competence feedback and acceptance through feedback on agreeableness and interpersonal skills is consistent with Foa and Foa’s (1980) resource theory as well as with research in the field of empowerment, which treats competence as one of its components (<xref ref-type="bibr" rid="R7" id="128" class="deo:Reference">Brookings &amp; Bolton, 2000</xref>; <xref ref-type="bibr" rid="R24" id="129" class="deo:Reference">Menson &amp; Hartmann, 2002</xref>; <xref ref-type="bibr" rid="R47" id="130" class="deo:Reference">Vardi, 2000</xref>; <xref ref-type="bibr" rid="R50" id="131" class="deo:Reference">Yiannakis &amp; Melnick, 2001</xref>), and research in the field of agreeableness, which associates this trait with the feeling of being accepted by others (Buckley, Winkel, &amp; <xref ref-type="bibr" rid="R8" id="132" class="deo:Reference">Leary, 2004</xref>). On the empirical level, the competence feedback was designed to increase participants’ sense of power, and the feedback was aimed at increasing their public moral image; these manipulations were successful in inducing the intended psychological effects. In the empowerment condition, participants received feedback implying that they were perceived by their partners as very competent and creative (receiving an average competence score of 6.5) but mediocre on agreeableness (receiving an average agreeableness score of 3.5); in the acceptance condition, the partners’ feedback implied that they perceived the participant as very agreeable (receiving an average agreeableness score of 6.5) but mediocre in terms of competence (receiving an average competence score of 3.5). In the control condition, the partners’ feedback implied that participants were perceived as mediocre on competence and agreeableness (both average scores were 3.5). After participants finished reading the feedback, they were asked to fill in the dependent measure questionnaire in a manner similar to Study 1 (assessing the manipulation checks as well as the dependent variables: sense of power, public moral image, and willingness to reconcile with the partner). 4 Upon completion, participants were thanked and debriefed.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="134" page="6" column="2">Measures</h1>
+        <region class="DoCO:TextChunk" id="135" page="6" column="2">Manipulation checks. In order to assess the efficacy of the role manipulation, two 7-point scale items were administered before participants exchanged feedback with their partners. The first item indicated whether participants felt that they were offended by their partner, and the second item indicated whether they felt that they offended their partner. To assess the efficacy of the type of message manipulation, participants were asked to indicate on two</region>
+        <region class="DoCO:TextChunk" id="136" confidence="possible" page="6" column="2">2 Due to space limitations, we report only the main findings of this study. Further details are available from Nurit Shnabel on request. 3 An analysis of the feedback sent by participants to their fictitious partners revealed a main effect for role on both subscales; that is, perpetrators’ feedback to their partners was more positive on both the Compe- tence subscale, F(1, 178) 14.92, p . 001, and the Interpersonal Skills subscale, F(1, 178) 46.68, p .001, compared with victims’ feedback. The main effects for condition, as well as the Condition Role interactions, were not significant for either subscale. 4 The measures of emotional needs that were examined in Study 1 were not assessed in this study because the dependent measures were collected after the participants had received the experimental feedback from their partner.</region>
+        <outsider class="DoCO:TextBox" type="header" id="137" page="7" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="138" page="7" column="1">122</outsider>
+        <region class="DoCO:TextChunk" id="140" page="7" column="1">7-point scales the degree to which their partner accepted them and viewed them as skillful. Sense of power and public moral image. The items used in these measures were identical to those used in Study 1. For the six sense of power items, Cronbach’s .93, and for the three public moral image items, Cronbach’s .89. Willingness to reconcile. Ten 7-point scales measured participants’ willingness to reconcile with their partners. Four items measured participants’ willingness to continue cooperating with their partner (e.g., I prefer to continue working with my partner to I prefer to continue working with another partner); two items measured participants’ perceptions of their future relationship with their partner (e.g., I believe that working together on the next task will be enjoyable to I don’t believe that working together on the next task will be enjoyable); and four items measured participants’ general affective response (e.g., The feedback that I received from my partner gave me a better feeling to The feedback that I received from my partner did not give me a better feeling). Ratings for the 10 items were averaged to obtain a single measure of willingness to reconcile (Cronbach’s .81). Means and standard deviations of the dependent variables are presented in <xref ref-type="table" rid="T3" id="139" class="deo:Reference">Table 3</xref>.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="141" page="7" column="1">Results Manipulation Checks</h1>
+        <region class="DoCO:TextChunk" id="146" page="7" column="1">Role. A two-way ANOVA on victimhood revealed a significant effect for role, F(1, 178) 26.02, p .001, 2 .13, which indicated that participants assigned to the victim condition felt that they were offended by their partners more than participants assigned to the perpetrator condition; means were 5.81 and 4.01, respectively. For perpetration, a significant effect for role, F(1, 178) 92.32, p .001, 2 .35, indicated that participants assigned to the perpetrator condition felt that they had offended their partner more than did the participants assigned to the victim condition; means were 5.28 and 3.42, respectively. Neither the main effect for type of message nor the Type of Message Role interaction was significant on either of the two manipulation checks. Type of message. For acceptance, the main effect for condition was significant, F(2, 178) 89.96, p .001, 2 .50. Planned comparisons revealed that participants assigned to the acceptance <marker type="column" number="2"/><marker type="block"/> condition believed that their partners perceived them as more agreeable compared with participants assigned to the empowerment condition, t(181) 11.29, p .001, or to participants assigned to the control condition, t(181) 12.10, p .001; means were 5.36, 3.02, and 2.75, respectively. A significant main effect for role, F(1, 178) 3.93, p .05, indicated that participants assigned to the victim role believed that their partners perceived them as more agreeable compared with participants assigned to the perpetrator role; means were 3.91 and 3.56, respectively. The Condition Role interaction was not significant, F(2, 178) 1.30, ns, 2 .01. For empowerment, the main effect for condition was significant, F(2, 178) 127.42, p .001, 2 .59. Planned comparisons revealed that participants assigned to the empowerment condition believed that their partners perceived them as more competent compared with participants assigned to the acceptance condition, t(181) 11.23, p .001, or to participants assigned to the control condition, t(181) 14.63, p .001; means were 5.41, 3.26, and 2.56, respectively. A significant main effect for role, F(1, 178) 20.97, p .001, 2 .11, indicated that participants assigned to the perpetrator role believed that their partners perceived them as more competent compared with participants assigned to the victim role; means were 4.05 and 3.35, respectively. The Condition Role interaction was not significant, F(2, 178) 0.12, ns, 2 .00.</region>
+        <outsider class="DoCO:TextBox" type="sidenote" id="143" page="7" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TableBox" id="T3">
+          <caption class="deo:Caption" id="144" page="7" column="1">Table 3 Means and Standard Deviations (in Parentheses) of Self- and Public Perceptions and Willingness to Reconcile of Victims and Perpetrators in Empowerment, Acceptance, and Control Conditions in Study 2</caption>
+          <content>
+            <h1 class="table"> Role Victim Perpetrator</h1>
+            <table class="DoCO:Table" number="3" page="7">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table.strange">
+                  <td class="table.strange"> Self- and public</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> perception</td>
+                  <td class="table"> Empowerment</td>
+                  <td class="table"> Acceptance</td>
+                  <td class="table"> Control</td>
+                  <td class="table"> Empowerment</td>
+                  <td class="table"> Acceptance</td>
+                  <td class="table"> Control</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Sense of power</td>
+                  <td class="table"> 3.77</td>
+                  <td class="table"> 3.23</td>
+                  <td class="table"> 3.39</td>
+                  <td class="table"> 5.78</td>
+                  <td class="table"> 5.30</td>
+                  <td class="table"> 5.30</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.68)</td>
+                  <td class="table"> (0.89)</td>
+                  <td class="table"> (0.86)</td>
+                  <td class="table"> (0.71)</td>
+                  <td class="table"> (0.75)</td>
+                  <td class="table"> (0.90)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Public moral image</td>
+                  <td class="table"> 6.11</td>
+                  <td class="table"> 6.02</td>
+                  <td class="table"> 5.69</td>
+                  <td class="table"> 4.87</td>
+                  <td class="table"> 5.60</td>
+                  <td class="table"> 3.79</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.85)</td>
+                  <td class="table"> (1.07)</td>
+                  <td class="table"> (1.24)</td>
+                  <td class="table"> (1.16)</td>
+                  <td class="table"> (0.92)</td>
+                  <td class="table"> (1.18)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Willingness to reconcile</td>
+                  <td class="table"> 4.63</td>
+                  <td class="table"> 4.23</td>
+                  <td class="table"> 3.90</td>
+                  <td class="table"> 4.88</td>
+                  <td class="table"> 5.29</td>
+                  <td class="table"> 4.31</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.65)</td>
+                  <td class="table"> (0.85)</td>
+                  <td class="table"> (0.98)</td>
+                  <td class="table"> (0.69)</td>
+                  <td class="table"> (0.41)</td>
+                  <td class="table"> (0.83)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. N 184.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="145" confidence="possible" page="7" column="1">Role Victim Perpetrator Self- and public perception Empowerment Acceptance Control Empowerment Acceptance Control Sense of power 3.77 3.23 3.39 5.78 5.30 5.30 (0.68) (0.89) (0.86) (0.71) (0.75) (0.90) Public moral image 6.11 6.02 5.69 4.87 5.60 3.79 (0.85) (1.07) (1.24) (1.16) (0.92) (1.18) Willingness to reconcile 4.63 4.23 3.90 4.88 5.29 4.31 (0.65) (0.85) (0.98) (0.69) (0.41) (0.83) Note. N 184.</region>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="147" page="7" column="2">Measures</h1>
+        <region class="DoCO:TextChunk" id="151" page="7" column="2">Sense of power. A significant main effect for role, F(1, 178) 281.21, p .001, 2 .61, indicated that participants assigned to the perpetrator role perceived themselves as more powerful than did participants assigned to the victim role. The main effect for condition was also significant, F(2, 178) 7.33, p .001, 2 .08. Planned comparisons revealed that participants assigned to the empowerment condition perceived themselves as more powerful than participants assigned to the acceptance condition, t(181) 2.39, p .05, and than participants assigned to the control condition, t(181) 2.02, p .05. The Condition Role interaction was not significant. Public moral image. The significant main effects for role, F(1, 178) 54.47, p .001, 2 .23, and condition, F(2, 178) 14.94, p .001, 2 .14, were qualified by a significant Role <marker type="page" number="8"/><marker type="column" number="1"/><marker type="block"/> Condition interaction, F(2, 178) 6.87, p .005, 2 .07. Post hoc comparisons with a Tukey’s honestly significant difference test indicated that perpetrators’ public moral image was significantly higher in the acceptance condition than in the empowerment or control conditions ( p .05). Differences between victims’ ratings of public moral image in the three message conditions were not significant. Willingness to reconcile. The significant main effects for role, F(1, 178) 27.35, p .001, 2 .13, and condition, F(1, 178) 15.00, p .001, 2 .14, were qualified by a significant Role Condition interaction, F(2, 178) 4.99, p .01, 2 .05. Planned comparisons revealed that the effects of the type of message (acceptance vs. empowerment) were different for victims and perpetrators. Perpetrators were more willing to reconcile in the acceptance condition than in the empowerment condition, F(1, 178) 5.35, p .05, 2 .11, or in the control condition, F(1, 178) 28.52, p .001, 2 .37. By contrast, victims’ willingness to reconcile was higher in the empowerment condition than in the acceptance condition, F(1, 178) 3.93, p .05, 2 .07, or in the control condition, F(1, 178) 12.83, p .001, 2 .17.</region>
+        <outsider class="DoCO:TextBox" type="header" id="149" page="8" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="150" page="8" column="1">123</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="152" page="8" column="1">Mediation Analyses</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="153" confidence="possible" page="8" column="1">The empowerment–sense of power–willingness to reconcile</h2>
+          <region class="DoCO:TextChunk" id="156" page="8" column="1">path. Following <xref ref-type="bibr" rid="R21" id="154" class="deo:Reference">Kenny, Kashy, and Bolger (1998)</xref>, to examine whether the effect of the empowerment manipulation on victims’ willingness to reconcile was mediated by their perceived sense of power, we first established that relationships existed between (a) empowerment and willingness to reconcile ( .31, p .01); (b) empowerment and sense of power ( .27, p .05); and (c) sense of power and willingness to reconcile, when controlling for empowerment ( .40, p .001). After we regressed willingness to reconcile simultaneously on empowerment and sense of power, the relation between empowerment and willingness to reconcile was no longer significant ( .19, p .05). A Sobel test of mediation (<xref ref-type="bibr" rid="R43" id="155" class="deo:Reference">Sobel, 1982</xref>) confirmed that the indirect effect of empowerment on willingness to reconcile significantly differed from zero (z 2.07, p .05). This result indicated that among victims, sense of power mediated the relationship between receiving a message of empowerment and willingness to reconcile, as predicted by our theoretical model. For perpetrators, by contrast, there was no significant relationship between receiving a message of empowerment and willingness to reconcile ( .04, ns) or between sense of power and willingness to reconcile ( .09, ns).</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="157" confidence="possible" page="8" column="1">The acceptance–public moral image–willingness to reconcile</h2>
+          <region class="DoCO:TextChunk" id="159" page="8" column="1">path. To examine whether the effect of the acceptance manipulation on perpetrators’ willingness to reconcile was mediated by their perceived public moral image, we first established that relationships existed between (a) acceptance and willingness to reconcile ( .41, p .001); (b) acceptance and public moral image ( .44, p .001); and (c) public moral image and willingness to reconcile, when controlling for acceptance ( .32, p .001). After we regressed willingness to reconcile simultaneously on acceptance and public moral image, the relationship between acceptance and willingness to reconcile decreased ( .27, p .005). A Sobel test of mediation confirmed that the indirect effect of acceptance on willingness to reconcile significantly differed from zero (z 2.77, p .01). This result indicates that among <marker type="column" number="2"/><marker type="block"/> perpetrators, public moral image partially mediated the relationship between receiving a message of acceptance and willingness to reconcile, as predicted by our theoretical model. For victims, by contrast, there was no significant relation between receiving a message of acceptance and willingness to reconcile ( .03, ns) or between their public moral image and willingness to reconcile ( .09, ns).</region>
+        </section>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="160" page="8" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="161" page="8" column="2">The results of Study 2 support our theoretical model. Receiving a message of empowerment from an opponent positively affected participants’ sense of power, but this change was associated with increased willingness to reconcile only among victims; perpetrators’ willingness to reconcile was not affected by the change in their sense of power. By contrast, receiving a message of acceptance from an opponent positively affected perpetrators’ public moral image, and this change was associated with an increase in their willingness to reconcile. Receiving a message of acceptance did not enhance victims’ public moral image. This result might reflect a ceiling effect; that is, because victims’ public moral image had not been impaired in the first place (as suggested by our model and as indicated by the finding that victims’ average score on public moral image was 5.94 on a 7-point scale), it could not be raised much further. Furthermore, as our claim is that the resources that are damaged for victims and perpetrators are their sense of power and public moral image, respectively, it makes sense that the extent of change in these resources following messages of empowerment or acceptance would be different due to the differences in their perspectives. To replicate the findings of Study 2 and to extend their generalizability, we assessed the next two experiments and the same hypotheses by using vignettes that described real-life situations.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="162" confidence="possible" page="8" column="2">Study 3</h1>
+        <region class="DoCO:TextChunk" id="166" page="8" column="2">Study 3 tested the same hypotheses tested in Study 2 in the context of a real-life situation. To accomplish this task, we used two versions of the same vignette. Both depicted exactly the same situation but from opposite perspectives: In the perpetrator condition, the protagonist was the offender and the antagonist was the offended party, whereas in the victim condition, the roles were reversed. In the story, the antagonist approached the protagonist after the offense occurred and conveyed a message of empowerment, acceptance, empowerment and acceptance, or none of these. It should be noted that it was highly important for the different messages to be meaningful and relevant for both victims and perpetrators. It is likely that a uniform message such as I understand your perspective or I acknowledge violating your rights without any further reference to the specific context of the incident would be perceived as too general and therefore artificial and even condescending. We therefore decided to phrase different messages for victims and perpetrators that would refer to the specific context and details of the victimization episode and thus be perceived as natural and meaningful for both victims and perpetrators. Despite the different phrasing of the messages, they nevertheless manipulated the same variables (i.e., acceptance and empowerment); furthermore, the measurement of the dependent variables was identical for victims and perpetrators. We therefore conducted the <marker type="page" number="9"/><marker type="column" number="1"/><marker type="block"/> analyses for victims and perpetrators together; the advantage of conducting such an analysis (in contrast to conducting separate analysis for each role) is that it makes it possible to detect a Role Message interaction. The experimental design was thus a 2 2 2 between-subjects design: Role (victim vs. perpetrator) Empowerment (included vs. not included) Acceptance (included vs. not included). Because the same theoretical constructs were manipulated differently, this study could have been presented as two 2 (acceptance vs. empowerment) 2 (included vs. not included) experiments (i.e., for perpetrators and victims separately). The cost of such a strategy would have been an inability to assess the statistical significance of the Role Message interaction, which is the central theoretical prediction of this study. We therefore opted for the above 2 2 2 factorial design. The dependent variables (sense of power, public moral image, and willingness to reconcile) were identical to those measured in Study 2. On the basis of our theoretical model, we hypothesized that although a message of empowerment would increase sense of power for all participants, it would be associated with greater willingness to reconcile only among victims. In contrast, a message of social acceptance would enhance the public moral image of all participants but would facilitate reconciliation only among perpetrators.</region>
+        <outsider class="DoCO:TextBox" type="header" id="164" page="9" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="165" page="9" column="1">124</outsider>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="167" page="9" column="1">Method Participants</h1>
+        <region class="DoCO:TextChunk" id="168" page="9" column="1">Participants (N 155) were 112 female and 43 male university undergraduates (age: M 22.5 years), who participated in the experiment as a course requirement. Participants were randomly assigned to one of the eight experimental conditions. Men and women were represented in equal proportion in the eight experimental cells.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="169" page="9" column="1">Materials and Procedure</h1>
+        <outsider class="DoCO:TextBox" type="sidenote" id="170" page="9" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TextChunk" id="172" page="9" column="1">Participants were told that they were taking part in a study on interpersonal relationships. They were asked to read a short vignette about a student working as a waitron. 5 In the story, the waitron asks her superior for permission not to work a shift on New Year’s Eve due to a very important exam she must take the next day. The superior rejects the request because every employee is needed on that particular evening. The protagonist in the story was either the waitron (in the victim condition) or the superior (in the perpetrator condition). The gender of both characters was matched to that of the participant. At the end of the New Year’s shift, the antagonist in the story (either the waitron or the superior) approaches the protagonist and conveys a message containing empowerment, acceptance, both, or neither (control). In the victim condition, a message of social acceptance included expressions by the superior of empathy for the victim following the refusal of his or her request. A message of empowerment included the superior’s accepting responsibility for having caused an injustice to the waitron. In the perpetrator condition, a message of social acceptance included the waitron’s expressions of understanding the fact that the superior had no option but to reject the request and empathy for the uneasiness that this must have caused. <marker type="column" number="2"/><marker type="block"/> A message of empowerment included an acknowledgement by the waitron of the perpetrator’s legitimate right to act as he or she did. 6 After reading the vignette, participants received a questionnaire that included the manipulation checks and the dependent variables (sense of power, public moral image, and willingness to reconcile). Upon completion, participants were thanked and debriefed.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="173" page="9" column="2">Measures</h1>
+        <region class="DoCO:TextChunk" id="174" page="9" column="2">Manipulation checks. Two 7-point scales were used to assess the efficacy of the role manipulation. The first item asked participants to indicate the degree to which they felt offended by the antagonist (victimization), and the second item asked participants to indicate whether they felt that they had offended the antagonist (perpetration). These checks were conducted before the type of message manipulation was carried out. Two 7-point scales were used to assess the efficacy of the type of message manipulation. Participants were asked to indicate the extent to which the message they had received expressed (a) social acceptance (the extent to which the protagonist expressed empathy toward the antagonist) and (b) empowerment (the extent to which the antagonist accepted responsibility for misbehaving or recog- nized the protagonist’s right to behave as he or she did).</region>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="175" confidence="possible" page="9" column="2">Sense of power, public moral image, and willingness to recon-</h2>
+          <region class="DoCO:TextChunk" id="177" page="9" column="2">cile. These measures were identical to those used in Study 2, except for minor adjustments in wording to suit the different context of the vignette. For the 6 sense of power items, Cronbach’s .86; for the 3 public moral image items, Cronbach’s .81; and for the 10 willingness to reconcile items, Cronbach’s .88. Means and standard deviations of the dependent variables are presented in <xref ref-type="table" rid="T4" id="176" class="deo:Reference">Table 4</xref>.</region>
+        </section>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="178" page="9" column="2">Results Manipulation Checks</h1>
+        <region class="DoCO:TextChunk" id="179" page="9" column="2">Role. For victimhood, a significant main effect for role, F(1, 151) 12.61, p .001, 2 .08, indicated that participants assigned to the victim condition felt that they had been offended by their antagonist more than did participants assigned to the perpetrator condition; means were 5.31 and 4.44, respectively. For perpetration, a significant main effect of role, F(1, 151) 9.12, p .005, 2 .06, indicated that participants assigned to the perpetrator condition felt that they had offended the antagonist more than did participants assigned to the victim condition; means were 3.91 and 3.09, respectively. Type of message. A two-way ANOVA revealed a significant main effect for acceptance, F(1, 151) 141.31, p .001, 2 .48, indicating that participants in the acceptance condition perceived the message they received from the antagonist as express-</region>
+        <region class="DoCO:TextChunk" id="182" confidence="possible" page="9" column="2">5 Waitron is a non-gender-specific term for waiter or waitress. 6 Our manipulation was based on the works of <xref ref-type="bibr" rid="R17" id="180" class="deo:Reference">French and Raven (1959)</xref>, who viewed legitimate power as one of the resources of social power, and <xref ref-type="bibr" rid="R46" id="181" class="deo:Reference">Turner (2005)</xref>, who suggested that “authority is the power to control ingroup members because they are persuaded that it is right for a certain person to control them in certain matters” (p. 11). It is implied from these definitions that undermining the perpetrator’s right to force the victim to work would weaken him, whereas an acceptance of his right to do so would empower him.</region>
+        <outsider class="DoCO:TextBox" type="header" id="183" page="10" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="184" page="10" column="1">125</outsider>
+        <region class="DoCO:TableBox" id="T4">
+          <caption class="deo:Caption" id="185" page="10" column="1">Table 4 Means and Standard Deviations (in Parentheses) of Self- and Public Perceptions and Willingness to Reconcile of Victims and Perpetrators in Acceptance Empowerment Conditions in Study 3</caption>
+          <content>
+            <h1 class="table"> Role Victim Perpetrator</h1>
+            <table class="DoCO:Table" number="4" page="10">
+              <thead class="table"/>
+              <tbody>
+                <tr class="table.strange">
+                  <td class="table.strange"> Perception and</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> condition No</td>
+                  <td class="table"> acceptance</td>
+                  <td class="table"> Acceptance</td>
+                  <td class="table"> Total No</td>
+                  <td class="table"> acceptance</td>
+                  <td class="table"> Acceptance</td>
+                  <td class="table"> Total</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Sense of power</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No empowerment</td>
+                  <td class="table"> 2.62</td>
+                  <td class="table"> 3.46</td>
+                  <td class="table"> 3.06</td>
+                  <td class="table"> 4.38</td>
+                  <td class="table"> 4.51</td>
+                  <td class="table"> 4.44</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.72)</td>
+                  <td class="table"> (1.27)</td>
+                  <td class="table"> (1.11)</td>
+                  <td class="table"> (0.88)</td>
+                  <td class="table"> (0.77)</td>
+                  <td class="table"> (0.82)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Empowerment</td>
+                  <td class="table"> 4.04</td>
+                  <td class="table"> 4.23</td>
+                  <td class="table"> 4.15</td>
+                  <td class="table"> 4.81</td>
+                  <td class="table"> 4.70</td>
+                  <td class="table"> 4.75</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.68)</td>
+                  <td class="table"> (1.23)</td>
+                  <td class="table"> (1.02)</td>
+                  <td class="table"> (0.77)</td>
+                  <td class="table"> (1.01)</td>
+                  <td class="table"> (0.88)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Total</td>
+                  <td class="table"> 3.29</td>
+                  <td class="table"> 3.85</td>
+                  <td class="table"></td>
+                  <td class="table"> 4.60</td>
+                  <td class="table"> 4.60</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (1.00)</td>
+                  <td class="table"> (1.29)</td>
+                  <td class="table"></td>
+                  <td class="table"> (0.84)</td>
+                  <td class="table"> (0.89)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Public moral image</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No empowerment</td>
+                  <td class="table"> 4.02</td>
+                  <td class="table"> 5.50</td>
+                  <td class="table"> 4.80</td>
+                  <td class="table"> 2.53</td>
+                  <td class="table"> 4.43</td>
+                  <td class="table"> 3.48</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (1.19)</td>
+                  <td class="table"> (0.88)</td>
+                  <td class="table"> (1.27)</td>
+                  <td class="table"> (0.83)</td>
+                  <td class="table"> (0.84)</td>
+                  <td class="table"> (1.27)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Empowerment</td>
+                  <td class="table"> 4.83</td>
+                  <td class="table"> 5.79</td>
+                  <td class="table"> 5.38</td>
+                  <td class="table"> 2.71</td>
+                  <td class="table"> 5.07</td>
+                  <td class="table"> 3.83</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.81)</td>
+                  <td class="table"> (1.14)</td>
+                  <td class="table"> (1.11)</td>
+                  <td class="table"> (0.72)</td>
+                  <td class="table"> (0.94)</td>
+                  <td class="table"> (1.45)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Total</td>
+                  <td class="table"> 4.40</td>
+                  <td class="table"> 5.65</td>
+                  <td class="table"></td>
+                  <td class="table"> 2.63</td>
+                  <td class="table"> 4.74</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (1.09)</td>
+                  <td class="table"> (1.02)</td>
+                  <td class="table"></td>
+                  <td class="table"> (0.78)</td>
+                  <td class="table"> (0.93)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Willingness to reconcile</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> No empowerment</td>
+                  <td class="table"> 2.85</td>
+                  <td class="table"> 3.51</td>
+                  <td class="table"> 3.20</td>
+                  <td class="table"> 3.29</td>
+                  <td class="table"> 4.78</td>
+                  <td class="table"> 4.04</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (0.84)</td>
+                  <td class="table"> (0.83)</td>
+                  <td class="table"> (0.89)</td>
+                  <td class="table"> (0.64)</td>
+                  <td class="table"> (0.67)</td>
+                  <td class="table"> (0.99)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Empowerment</td>
+                  <td class="table"> 4.07</td>
+                  <td class="table"> 4.29</td>
+                  <td class="table"> 4.19</td>
+                  <td class="table"> 3.69</td>
+                  <td class="table"> 5.18</td>
+                  <td class="table"> 4.40</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (1.08)</td>
+                  <td class="table"> (1.18)</td>
+                  <td class="table"> (1.12)</td>
+                  <td class="table"> (0.73)</td>
+                  <td class="table"> (1.04)</td>
+                  <td class="table"> (1.16)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Total</td>
+                  <td class="table"> 3.42</td>
+                  <td class="table"> 3.90</td>
+                  <td class="table"></td>
+                  <td class="table"> 3.49</td>
+                  <td class="table"> 4.98</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"> (1.13)</td>
+                  <td class="table"> (1.08)</td>
+                  <td class="table"></td>
+                  <td class="table"> (0.71)</td>
+                  <td class="table"> (0.88)</td>
+                  <td class="table"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. N 155.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="186" confidence="possible" page="10" column="1">Role Victim Perpetrator Perception and condition No acceptance Acceptance Total No acceptance Acceptance Total Sense of power No empowerment 2.62 3.46 3.06 4.38 4.51 4.44 (0.72) (1.27) (1.11) (0.88) (0.77) (0.82) Empowerment 4.04 4.23 4.15 4.81 4.70 4.75 (0.68) (1.23) (1.02) (0.77) (1.01) (0.88) Total 3.29 3.85 4.60 4.60 (1.00) (1.29) (0.84) (0.89) Public moral image No empowerment 4.02 5.50 4.80 2.53 4.43 3.48 (1.19) (0.88) (1.27) (0.83) (0.84) (1.27) Empowerment 4.83 5.79 5.38 2.71 5.07 3.83 (0.81) (1.14) (1.11) (0.72) (0.94) (1.45) Total 4.40 5.65 2.63 4.74 (1.09) (1.02) (0.78) (0.93) Willingness to reconcile No empowerment 2.85 3.51 3.20 3.29 4.78 4.04 (0.84) (0.83) (0.89) (0.64) (0.67) (0.99) Empowerment 4.07 4.29 4.19 3.69 5.18 4.40 (1.08) (1.18) (1.12) (0.73) (1.04) (1.16) Total 3.42 3.90 3.49 4.98 (1.13) (1.08) (0.71) (0.88) Note. N 155.</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="sidenote" id="187" page="10" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TextChunk" id="188" page="10" column="1">ing more social acceptance than did participants in the no- acceptance condition. The effect of role was also significant, F(1, 151) 4.61, p .05, 2 .03, indicating that perpetrators tended to perceive their partner’s message as expressing more acceptance than did victims. The meanings of the main effects were qualified by a significant Role Acceptance interaction, F(1, 151) 6.49, p .05, 2 .04, which indicated that although the acceptance manipulation affected perceived acceptance of both victims and perpetrators, it affected perpetrators more than it affected victims (for perpetrators, means were 2.46 in the no-acceptance condition and 5.90 in the acceptance condition, whereas for victims, means were 2.56 and 4.78, respectively). The significant main effect for empowerment, F(1, 151) 53.79, p .001, 2 .26, indicated that participants in the empowerment condition perceived the message they received from the antagonist as expressing more empowerment than did participants in the no-empowerment condition. The effect of role was also significant, F(1, 151) 10.75, p .001, 2 .07, indicating that perpetrators tended to perceive their partner’s message as expressing more empowerment than did victims. The meanings of the main effects were qualified by a Role Empowerment interaction that approached significance, F(1, 151) 3.04, p .08, 2 .02, which indicated that although the empowerment manipulation affected perceived empowerment of both victims and perpetrators, it affected victims more than it affected perpetrators (for victims, means were 2.61 in the no-empowerment condition and 5.08 in the empowerment condition, whereas for perpetrators means were 3.98 and 5.50, respectively).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="189" page="10" column="2">Dependent Variables</h1>
+        <region class="DoCO:TextChunk" id="190" page="10" column="2">Public moral image. As expected, the three-way ANOVA revealed significant effects for role, F(1, 147) 80.65, p .001, 2 .35, and for acceptance, F(1, 147) 124.34, p .001, 2 .46. However, receiving a message of empowerment also enhanced participants’ public moral image, F(1, 147) 10.28, p .005, 2 .07. Nonetheless, the magnitude of the expected effect (i.e., the effect of acceptance on public moral image) was considerably greater than the magnitude of the unexpected effect (i.e., the effect of empowerment on public moral image), t(153) 5.05, p .001. 7 The meaning of the main effects was qualified by a significant Role Acceptance interaction, F(1, 147) 9.12, p .005, 2 .06. Planned comparisons indicated that acceptance affected perpetrators, F(1, 147) 64.24, p .001, 2 .61, more than it affected victims, F(1, 147) 20.77, p .001, 2 .26. Sense of power. The significant main effects for empowerment, F(1, 147) 21.04, p .001, 2 .13, and role, F(1, 147) 43.32, p .001, 2 .23, were qualified by a significant Role Empowerment interaction, F(1, 147) 6.59, p .05, 2 .04. Planned comparisons indicated that empowerment affected victims, F(1, 147) 19.35, p .001, 2 .21, more than it affected perpetrators, F(1, 147) 2.70, p .1, 2 .03.</region>
+        <region class="DoCO:TextChunk" id="191" confidence="possible" page="10" column="2">7 To compare the magnitude of the effects, we regressed the acceptance manipulation check simultaneously on empowerment and acceptance. Then we compared the two regression coefficients by computing the difference between them and dividing it by the standard error of their difference.</region>
+        <outsider class="DoCO:TextBox" type="header" id="192" page="11" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="193" page="11" column="1">126</outsider>
+        <region class="DoCO:TextChunk" id="194" page="11" column="1">Willingness to reconcile. The significant main effects for role, F(1, 147) 15.16, p .001, 2 .09, acceptance, F(1, 147) 45.37, p .001, 2 .24, and empowerment, F(1, 147) 23.74, p .001, 2 .14, were qualified by a Role Acceptance interaction, F(1, 147) 13.68, p .001, 2 .09, and a Role Empowerment interaction, F(1, 147) 4.39, p .05, 2 .03. Planned comparisons probing the Role Acceptance interaction indicated that the effect of acceptance on willingness to reconcile was significant for perpetrators, F(1, 147) 69.68, p .001, 2 .47, but only approached significance for victims, F(1, 147) 3.53, p .07, 2 .05. In contrast, receiving a message of empowerment significantly increased willingness to reconcile for victims, F(1, 147) 18.25, p .001, 2 .20, but not for perpetrators, F(1, 147) 2.23, ns, 2 .03.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="195" page="11" column="1">Mediation Analyses</h1>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="196" confidence="possible" page="11" column="1">The empowerment–sense of power–willingness to reconcile</h2>
+          <region class="DoCO:TextChunk" id="197" page="11" column="1">path. To examine whether the effect of the empowerment manipulation on victims’ willingness to reconcile was mediated by their perceived sense of power, we first established that relationships existed between (a) empowerment and willingness to reconcile ( .45, p .001); (b) empowerment and sense of power ( .46, p .001); and (c) sense of power and willingness to reconcile, when controlling for empowerment ( .71, p .001). After we regressed willingness to reconcile simultaneously on empowerment and sense of power, the relation between empowerment and willingness to reconcile was no longer significant ( .12, p .05). A Sobel test of mediation confirmed that the indirect effect of empowerment on willingness to reconcile significantly differed from zero (z 6.47, p .05). This indicated that among victims, sense of power mediated the relationship between receiving a message of empowerment and willingness to reconcile, as predicted by our theoretical model. For perpetrators, by contrast, there was no significant relation between receiving a message of empowerment and willingness to reconcile ( .17, ns) or their sense of power and willingness to reconcile ( .10, ns).</region>
+        </section>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="198" confidence="possible" page="11" column="1">The acceptance–public moral image–willingness to reconcile</h2>
+          <region class="DoCO:TextChunk" id="200" page="11" column="1">path. To examine whether the effect of the acceptance manipulation on perpetrators’ willingness to reconcile was mediated by their perceived public moral image, we first established that relationships existed between (a) acceptance and willingness to reconcile ( .69, p .001); (b) acceptance and public moral image ( .78, p .001); and (c) public moral image and willingness to reconcile, when controlling for acceptance ( .59, p .001). After we regressed willingness to reconcile simultaneously on acceptance and public moral image, the relationship between acceptance and willingness to reconcile decreased ( .23, p .05). A Sobel test of mediation confirmed that the indirect effect of acceptance on willingness to reconcile significantly differed from zero (z 4.67, p .001). This result indicates that among perpetrators, public moral image partially mediated the relationship between receiving a message of acceptance and willingness to reconcile, as predicted by our theoretical model. For victims, by contrast, the relationship between receiving a message of acceptance and willingness to reconcile approached significance ( .22, p .06) as did the relationship between public moral image and willingness to reconcile ( .24, p .07). Because the relationship between receiving a message of <marker type="column" number="2"/><marker type="block"/> acceptance and victims’ public moral image was significant ( .51, p .001), we decided to test the indirect effect. A Sobel test proved the indirect effect to only approach significance (z 1.71, p .08). This result suggests that although the acceptance–public moral image–willingness to reconcile path did affect victims to some extent, it affected victims much less than it affected perpetrators.</region>
+        </section>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="201" page="11" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="206" page="11" column="2">In general, the results of Study 3 support our hypotheses. Receiving a message of acceptance increased participants’ public moral image, but the increase in public moral image was related to an increase in willingness to reconcile only among perpetrators; victims’ public moral image was not related to willingness to reconcile. By contrast, receiving a message of empowerment increased participants’ sense of power, but the increase in sense of power was related to willingness to reconcile only among victims; perpetrators’ sense of power did not affect their willingness to reconcile. These findings support the main assertion of our model that willingness to reconcile is mediated by satisfaction of victims’ and perpetrators’ different needs. In addition to these findings, which lend direct support to our model, we also found that the Role Empowerment interaction had a significant effect on both the empowerment manipulation check and the sense of power measurement. These findings indicate that victims were more affected by a message of empowerment than were perpetrators. This might reflect victims’ stronger motivation to restore their sense of power: Because victims’ sense of power is impaired in the victimization episode, they might be more sensitive to messages that remedy this impairment and therefore might be more affected by empowerment messages than might perpetrators, whose sense of power has not been similarly affected. Similarly, the Role Acceptance interaction had a significant effect on both the acceptance manipulation check and the public moral image measurement. These results indicate that perpetrators were more affected by a message of acceptance than were victims. This might reflect perpetrators’ stronger motivation to restore their public moral image; that is, because perpetrators’ public moral image is harmed in the victimization episode, they might be more sensitive to messages that remedy this harm and therefore might be more affected by such messages than might victims, whose public moral image has not been similarly affected. These results are consistent with our theoretical model. Another intriguing finding is that although the manipulations of acceptance and empowerment were perceived as intended, their effects were not orthogonal. Participants perceived messages of acceptance as expressing some amount of empowerment and messages of empowerment as expressing some amount of acceptance. This nonorthogonality was also found in a study that assessed the effects of receiving messages of empathy and responsibility (i.e., acceptance and empowerment in terms of the present study) on participants’ willingness to reconcile in the context of intergroup conflict ( <xref ref-type="bibr" rid="R31" id="202" class="deo:Reference">Nadler &amp; Liviatan, 2006</xref>). Consistent with Nadler and Liviatan’s (2006) suggestion, such nonorthogonality may be unavoidable in the context of a conflict when the opponent makes an unexpected positive gesture. However, this nonorthogonality represents an unavoidable partial overlap rather than equivalence in<marker type="page" number="12"/><marker type="column" number="1"/><marker type="block"/> the effects of these two independent variables. The fact that the magnitude of the effect of each independent variable on its corresponding manipulation check (i.e., acceptance on perceived acceptance and empowerment on perceived empowerment) was higher than its effect on the noncorresponding measure (i.e., empowerment on perceived acceptance and acceptance on perceived empowerment) supports this view. Also, the effects of these two variables on the main dependent measures were consistent with our predictions. This suggests that our manipulations are better seen as emphasizing empowerment or acceptance rather than as excluding one or the other.</region>
+        <outsider class="DoCO:TextBox" type="header" id="204" page="12" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="205" page="12" column="1">127</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="207" confidence="possible" page="12" column="1">Study 4</h1>
+        <region class="DoCO:TextChunk" id="208" page="12" column="1">Study 4 tested the complete needs-based model of reconciliation, from the differential impairment of the psychological resources of victims and perpetrators through the fulfillment of victims’ and perpetrators’ emotional needs, resulting in the increased willingness of the two sides to reconcile. Unlike the previous experiments, which assessed participants’ perceptions following a victimization episode (Study 1) or their perceptions following the receipt of a message from their adversary (Studies 2 and 3), Study 4 assessed participants’ perceptions and willingness to reconcile before and after receiving a message from their rival. Thus, it examined the full range of the model’s hypotheses. The major prediction of this study was that willingness to reconcile should be characterized by a three-way Role Message Time of Measurement interaction.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="209" page="12" column="1">Method</h1>
+        <outsider class="DoCO:TextBox" type="sidenote" id="210" page="12" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TextChunk" id="211" page="12" column="1">Participants were asked to read a vignette and to imagine themselves as the protagonist who was either a victim or a perpetrator. The experimental design followed a split plot factorial design: a 2 (role: victim vs. perpetrator) 2 (message: empowerment vs. acceptance) between-subjects design, combined with a within- subject design (time: before vs. after receiving the message from the antagonist). In addition, in order to replicate the findings of Study 1, we measured participants’ needs for power and social acceptance before receiving the message from their partner. We predicted that, as in Study 1, before receiving the message, victims would perceive themselves as weaker than perpetrators and would therefore express a higher need for power, whereas perpetrators would perceive themselves as having a worse public moral image compared with that of victims and would therefore express a higher need for social acceptance. On the basis of our theoretical model, we also hypothesized that participants who received a message of acceptance from their partner would exhibit higher ratings for public moral image than would those who received a message of empowerment. In contrast, a message of empowerment should enhance participants’ sense of power more than should a message of acceptance. Further, we predicted that the increase in participants’ public moral image would be related to an increased willingness to reconcile only for perpetrators, whereas an increase in participants’ sense of power would be related to an increased willingness to reconcile only for victims. Thus, we predicted a three-way Time Message Role interaction on the measure of willingness to reconcile.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="212" page="12" column="2">Participants</h1>
+        <region class="DoCO:TextChunk" id="213" page="12" column="2">Participants (N 94) were 75 female and 19 male university undergraduates (age: M 23.5 years), who were randomly assigned to the four experimental cells. Men and women were represented in equal proportion in the four experimental cells. The questionnaire was distributed to participants via e-mail, and over 90% returned the completed questionnaires. Participants received payment or course credit for their participation.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="214" page="12" column="2">Materials and Procedure</h1>
+        <region class="DoCO:TextChunk" id="215" page="12" column="2">Participants were told that they were taking part in a study on interpersonal relationships. They were asked to read a short vignette about an employee in an advertising company who was absent from work for 2 weeks due to maternity leave (for women) or military reserve duty (for men)—the most common reasons for extended work absences in Israeli society. The gender of both the protagonist and the antagonist were matched to that of the participant. It was further indicated that upon returning to the office, the employee learned that a colleague who had temporarily filled her position was ultimately promoted to her job, whereas she herself was demoted. The demoted employee blamed her colleague for this demotion. In the victim condition, participants were asked to imagine themselves as the employee who was demoted from her position; in the perpetrator condition, participants were asked to imagine themselves as the colleague who was promoted. Following these instructions, participants received a questionnaire that included the before measures: (a) manipulation checks (measuring the extent to which participants perceived themselves as victims or perpetrators), (b) sense of power, (c) public moral image, (d) willingness to reconcile, and (e) psychological needs for power and social acceptance. After they completed these measures, participants received the second part of the vignette, which included the manipulation of the content of the antagonist’s message (i.e., a message of acceptance or empowerment). The story continued as follows: After a week, in a staff feedback meeting, the antagonist either praised the protagonist’s interpersonal skills but made no mention of her professional skills (acceptance condition) or praised the protagonist’s professional skills but said nothing about her interpersonal skills (empowerment condition). Subsequently, participants were asked to respond to a second questionnaire that included the after measures: (a) manipulation checks (the extent to which the message was perceived as expressing empowerment or acceptance), (b) sense of power, (c) public moral image, and (d) willingness to reconcile. Upon completion, participants were thanked and debriefed.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="216" page="12" column="2">Measures</h1>
+        <region class="DoCO:TextChunk" id="220" page="12" column="2">The following measures were taken in the first (before) questionnaire. Manipulation checks. Participants were asked to indicate on a 7-point scale the degree to which they (a) were offended by their partner, (b) offended their partner, and (c) perceived that their partner was angry with them. Ratings for the first item assessed perceived victimhood. Ratings for the second and third items <marker type="page" number="13"/><marker type="column" number="1"/><marker type="block"/> assessed perceived perpetration. The latter two items were highly correlated (r .80) and were averaged to obtain a single measure of perpetration.</region>
+        <outsider class="DoCO:TextBox" type="header" id="218" page="13" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="219" page="13" column="1">128</outsider>
+        <section class="DoCO:Section">
+          <h2 class="DoCO:SectionTitle" id="221" confidence="possible" page="13" column="1">Sense of power, public moral image, and willingness to recon-</h2>
+          <region class="DoCO:TextChunk" id="223" page="13" column="1">cile. The items used in these measurements were almost identical to those used in Studies 2 and 3, with the exception of minor changes in phrasing to suit the vignette. Six 7-point scale items measured participants’ sense of power (Cronbach’s .90), three 7-point scale items measured participants’ public moral image (Cronbach’s .93), and ten 7-point scale items measured willingness to reconcile (Cronbach’s .74). Psychological needs. The items used in these measurements were almost identical to those used in Study 1, except for minor changes in phrasing to suit the context of the vignette. Four 7-point scale items measured participants’ need for power (Cronbach’s .94); and five 7-point scale items measured participants’ need for social acceptance (Cronbach’s .86). The following measures were taken in the second (after) questionnaire. Manipulation checks. Participants were asked to indicate on a 7-point scale the degree to which they believed that (a) the antagonist appreciated their professional skills and (b) the antagonist appreciated their interpersonal skills. Dependent variables. Sense of power, public moral image, and willingness to reconcile were measured with the same items as those in the before measurement. Cronbach’s alpha reliabilities were .92, .96, and .91, respectively. Means and standard deviations of the dependent variables are presented in <xref ref-type="table" rid="T5" id="222" class="deo:Reference">Table 5</xref>.</region>
+        </section>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="224" page="13" column="1">Results Manipulation Checks</h1>
+        <region class="DoCO:TextChunk" id="231" page="13" column="1">Manipulation checks in the first and second questionnaires were tested by a series of t tests. For victimhood, a significant difference <marker type="column" number="2"/><marker type="block"/> between the cells, t(69) 6.02, p .001, indicated that participants assigned to the victim role perceived themselves as victims more than did participants assigned to the perpetrator role; means were 6.04 and 4.20, respectively. For perpetration, a significant difference between the cells, t(71) 15.66, p .001, indicated that participants assigned to the perpetrator role perceived themselves as perpetrators more than did participants assigned to the victim role; means were 5.22 and 1.64, respectively. A significant main effect for acceptance, t(84) 7.06, p .001, indicated that participants assigned to the acceptance condition believed that the antagonist appreciated their interpersonal skills more than did participants assigned to the empowerment condition; means were 6.00 and 4.15, respectively. Likewise, a significant main effect for empowerment, t(72) 7.31, p .001, indicated that participants assigned to the empowerment condition believed that the antagonist appreciated their professional skills more than did participants assigned to the acceptance condition; means were 6.08 and 4.05, respectively.</region>
+        <region class="DoCO:TableBox" id="T5">
+          <caption class="deo:Caption" id="226" page="13" column="1">Table 5 Means and Standard Deviations (in Parentheses) of Before and After Measurements of Self- and Public Perceptions and Willingness to Reconcile of Victims and Perpetrators in Acceptance and Empowerment Conditions in Study 4</caption>
+          <region class="TableInfo" id="227" confidence="possible" page="13" column="1">Role Victim Perpetrator Self- and public perception Empowerment Acceptance Empowerment Acceptance</region>
+        </region>
+        <outsider class="DoCO:TextBox" type="sidenote" id="228" page="13" column="1">publishers. broadly. allied disseminated its of be to one not or is Association and user Psychological individual the of American use personal the by the for copyrighted solely is intended document is article This This</outsider>
+        <region class="DoCO:TableBox" id="Tx229">
+          <content>
+            <h1 class="table"> Role Victim Perpetrator</h1>
+            <table class="DoCO:Table" number="5" page="13">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Self- and</th>
+                  <th class="table"> public perception</th>
+                  <th class="table"> Empowerment</th>
+                  <th class="table"> Acceptance</th>
+                  <th class="table"> Empowerment</th>
+                  <th class="table"> Acceptance</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table.strange">
+                  <td class="table.strange"> Sense of</td>
+                  <td class="table.strange"> power</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Before</td>
+                  <td class="table"></td>
+                  <td class="table"> 3.39</td>
+                  <td class="table"> 3.35</td>
+                  <td class="table"> 5.83</td>
+                  <td class="table"> 5.90</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (0.93)</td>
+                  <td class="table"> (0.83)</td>
+                  <td class="table"> (0.58)</td>
+                  <td class="table"> (0.64)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> After</td>
+                  <td class="table"></td>
+                  <td class="table"> 4.92</td>
+                  <td class="table"> 3.60</td>
+                  <td class="table"> 5.91</td>
+                  <td class="table"> 5.20</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (0.87)</td>
+                  <td class="table"> (1.17)</td>
+                  <td class="table"> (0.68)</td>
+                  <td class="table"> (0.93)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Public</td>
+                  <td class="table.strange"> moral image</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Before</td>
+                  <td class="table"></td>
+                  <td class="table"> 4.74</td>
+                  <td class="table"> 4.75</td>
+                  <td class="table"> 1.94</td>
+                  <td class="table"> 1.90</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (1.23)</td>
+                  <td class="table"> (1.36)</td>
+                  <td class="table"> (0.77)</td>
+                  <td class="table"> (0.80)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> After</td>
+                  <td class="table"></td>
+                  <td class="table"> 5.19</td>
+                  <td class="table"> 5.65</td>
+                  <td class="table"> 3.13</td>
+                  <td class="table"> 4.38</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (1.24)</td>
+                  <td class="table"> (1.11)</td>
+                  <td class="table"> (1.40)</td>
+                  <td class="table"> (1.09)</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Willingness</td>
+                  <td class="table.strange"> to reconcile</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Before</td>
+                  <td class="table"></td>
+                  <td class="table"> 2.70</td>
+                  <td class="table"> 2.63</td>
+                  <td class="table"> 3.38</td>
+                  <td class="table"> 3.32</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (1.06)</td>
+                  <td class="table"> (0.95)</td>
+                  <td class="table"> (0.81)</td>
+                  <td class="table"> (0.65)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> After</td>
+                  <td class="table"></td>
+                  <td class="table"> 3.65</td>
+                  <td class="table"> 3.09</td>
+                  <td class="table"> 4.62</td>
+                  <td class="table"> 5.25</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"> (1.14)</td>
+                  <td class="table"> (1.08)</td>
+                  <td class="table"> (1.40)</td>
+                  <td class="table"> (1.09)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. N</td>
+                  <td class="table"> 94.</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="230" confidence="possible" page="13" column="1">Sense of power Before 3.39 3.35 5.83 5.90 (0.93) (0.83) (0.58) (0.64) After 4.92 3.60 5.91 5.20 (0.87) (1.17) (0.68) (0.93) Public moral image Before 4.74 4.75 1.94 1.90 (1.23) (1.36) (0.77) (0.80) After 5.19 5.65 3.13 4.38 (1.24) (1.11) (1.40) (1.09) Willingness to reconcile Before 2.70 2.63 3.38 3.32 (1.06) (0.95) (0.81) (0.65) After 3.65 3.09 4.62 5.25 (1.14) (1.08) (1.40) (1.09) Note. N 94.</region>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="232" page="13" column="2">Dependent Variables</h1>
+        <region class="DoCO:TextChunk" id="237" page="13" column="2">Before measurements. Participants assigned to the victim condition had a significantly lower sense of power than did participants assigned to the perpetrator condition, t(85) 16.07, p .001. Participants assigned to the perpetrator condition had a significantly lower public moral image than did participants assigned to the victim condition, t(81) 13.12, p .001, and exhibited greater willingness to reconcile, t(88) 3.76, p .001. With respect to psychological needs, participants assigned to the victim condition, compared with those in the perpetrator condition, expressed a significantly higher need for power, t(56) 6.03, p .001; means were 6.65 and 5.30, respectively. Whereas participants assigned to the perpetrator condition expressed signif- <marker type="page" number="14"/><marker type="column" number="1"/><marker type="block"/> icantly higher need for social acceptance, t(74) 3.84, p .001; means were 6.08 and 5.11, respectively. Before versus after comparisons. We conducted a series of mixed ANOVAs to test the effects of role (victim vs. perpetrator), message (acceptance vs. empowerment), and time (before vs. after) on the dependent variables of sense of power, public moral image, and willingness to reconcile (role and message served as between-subjects variables and time as a within-subject variable). Planned comparisons for testing hypothesized differences between means were used to probe the results of each analysis. For sense of power, the significant main effects for message, F(1, 90) 14.11, p .001, 2 .14, role, F(1, 90) 201.83, p .001, 2 .69, and time, F(1, 90) 6.36, p .05, 2 .07, were qualified by significant Time Message, F(1, 90) 20.24, p .001, 2 .18, and Time Role interactions, F(1, 90) 27.46, p .001, 2 .23. Planned comparisons on the Time Message interaction revealed that, as expected, there was a significant increase in participants’ sense of power in the empowerment condition, F(1, 90) 28.08, p .001, 2 .36, whereas there was no significant change in participants’ sense of power in the acceptance condition, F(1, 90) 1.16, ns, 2 .03. Planned comparisons on the Time Role interaction revealed a significant increase in victims’ sense of power, F(1, 90) 23.07, p .001, 2 .33, and a significant decrease in perpetrators’ sense of power, F(1, 90) 4.25, p .05, 2 .09. Possible explanations for this result are set out in the Discussion section of this study. For public moral image, the significant main effects for message, F(1, 89) 4.76, p .05, 2 .05, role, F(1, 89) 134.45, p .001, 2 .60, and time of measurement, F(1, 89) 76.45, p .001, 2 .46, were qualified by significant Time Message, F(1, 89) 9.41, p .005, 2 .10, and Time Role interactions, F(1, 89) 16.25, p .001, 2 .15. Planned comparisons on the Time Message interaction revealed that, as expected, the increase in participants’ public moral image was higher in the acceptance condition, F(1, 89) 49.50, p .001, 2 .55, than in the empowerment condition, F(1, 89) 15.77, p .001, 2 .24. Planned comparisons on the Time Role interaction indicated that the increase in participants’ public moral image was higher for perpetrators, F(1, 89) 72.04, p .001, 2 .62, than for victims, F(1, 89) 9.28, p .005, 2 .17. Possible explanations for this finding are suggested in the Discussion section of this study. For willingness to reconcile, the significant main effects for time, F(1, 90) 95.83, p .001, 2 .52, and role, F(1, 90) 43.61, p .001, 2 .33, were qualified by significant Time Role interactions, F(1, 90) 14.37, p .001, 2 .14, which indicated that the change in perpetrators’ willingness to reconcile was higher than that of victims, and by a three-way Time Message Role interaction, F(1, 90) 6.43, p .05, 2 .07. To interpret the three-way interaction, we conducted a Message Role ANOVA in the before and after conditions separately. In line with our predictions, although the Message Role interaction was nonsignificant in the before condition, F(1, 90) .00, ns, 2 .00, it was significant in the after condition, F(1, 90) 6.98, p .01, 2 .07. Probing the Role Message interaction revealed, as expected, an opposite pattern for victims and perpetrators: Victims tended to have a higher willingness to reconcile in the empowerment condition than in the acceptance condition, t(47) 1.76, p .09, whereas perpetrators had a higher willingness to<marker type="column" number="2"/><marker type="block"/> reconcile in the acceptance condition than in the empowerment condition, t(39) 2.05, p .05. Thus, as predicted, a message of acceptance was more effective in promoting reconciliation among perpetrators, whereas a message of empowerment was more effective in promoting reconciliation among victims.</region>
+        <outsider class="DoCO:TextBox" type="header" id="234" page="14" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="235" page="14" column="1">129</outsider>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="238" page="14" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="239" page="14" column="2">The results of Study 4 support our theoretical model. First, this study replicated the findings of Study 1 that being a perpetrator threatens one’s public moral image, resulting in a greater need for social acceptance, and that being a victim threatens one’s sense of power, resulting in a greater need for power. Second, the repeated measures analyses revealed that the messages of acceptance and empowerment had the expected effect on the restoration of participants’ psychological resources: The increase in participants’ sense of power was higher following a message of empowerment than following a message of acceptance; in contrast, the increase in participants’ public moral image was higher following a message of acceptance than following a message of empowerment. Third, as expected, the increase in victims’ willingness to reconcile was higher in the empowerment condition than in the acceptance condition, whereas the reverse pattern was true for perpetrators, whose willingness to reconcile increased in the acceptance condition more than it did in the empowerment condition. Thus, the restoration of the differentially impaired psychological resources of victims and perpetrators promoted their willingness to reconcile. The finding that across conditions (i.e., after receiving any positive message from their partner, either acceptance or empowerment) victims’ sense of power increased, whereas that of perpetrators’ decreased, which may imply a regression to the mean effect on the second measurement. Alternatively, for victims, this increase in sense of power may indicate that their greater need for power led them to interpret any positive message from their partner as affirming their power. The parallel finding that the increase in public moral image across conditions was significantly higher for perpetrators than for victims may be similarly explained as reflecting perpetrators’ greater need for signs of acceptance, which may have led them to interpret any positive gesture from their partner as implying acceptance. Finally, the perpetrators’, but not the victims’, greater increase in willingness to reconcile across conditions, which cannot by explained as a regression to mean effect (as perpetrators’ initial level of willingness to reconcile was higher than that of victims), may be interpreted as reflecting their relatively greater need to restore social harmony with the victim, which finds expression in willingness to reconciliation in response to any positive indication from the other side.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="240" confidence="possible" page="14" column="2">General Discussion</h1>
+        <region class="DoCO:TextChunk" id="249" page="14" column="2">The above four experiments support the hypotheses of the needs-based model of reconciliation. Taken together, these studies indicate that a victimizing episode makes victims feel less powerful and perpetrators feel more morally inadequate. Thus, the main psychological resource that is damaged for victims is their sense of power, whereas the main psychological resource that is damaged <marker type="page" number="15"/><marker type="column" number="1"/><marker type="block"/> for perpetrators is their sense of belongingness and social acceptance. Consequently, a social exchange interaction that restores the respective psychological resources of the adversaries facilitates their willingness to reconcile. These findings support the main tenet of our model, which states that reconciliation between adversaries depends on satisfying relevant emotional needs and restoring their damaged psychological resources. The empirical support for our hypotheses is underscored by the methodological differences that existed between the five studies: Studies 1 and 2 tested the hypotheses in the context of a laboratory experiment in which the social role (victim or perpetrator) was deter- mined ad hoc, whereas Studies 3 and 4 were role-playing experiments in which participants imagined how they would feel and act in a vignette they had read; yet another study (mentioned in the Discussion section of Study 1) used the context of real-life situations. The studies also differed on the following dimensions: (a) the characteristics of the relationship between the victim and the perpetrator, such as whether these were relationships between strangers who had not met before (Studies 1 and 2) or imagined relationships in the workplace that were either hierarchical (Study 3) or equal (Study 4); and (b) the type of harm caused, such as limiting the victim’s capacity to influence the situation (Study 3), harming the victims’ self-esteem (Studies 1 and 2), or a combination of the two (Study 4). The primary contribution of the model is that it presents a motivational perspective on socio-emotional reconciliation processes. Although existing models of conflict resolution address the motivations of adversaries in conflict, these motivations are usually conceptualized in general and unspecific terms, such as the motivation for maximization of outcomes (<xref ref-type="bibr" rid="R35" id="244" class="deo:Reference">Rusbult &amp; Van Lange, 1996</xref>). In contrast, the present model outlines specific motivations and pinpoints how they are related to the impairment of psychological resources among parties in conflict. Furthermore, the model differentiates between the emotional motivations of victims and perpetrators, as opposed to prior studies that have focused on only one side of the conflict— usually the victim. In place of this one-sided focus, the current perspective focuses on the interaction between victims and perpetrators and how this may facilitate (or inhibit) reconciliation between them. Naturally, such a perspective is theoretically and empirically more complex. The main assertion of the model—that reconciliation requires a successful emotional “barter” between victims and perpetrators integrates intrapersonal processes with interpersonal processes in a manner that is charac- teristically absent from social psychology (<xref ref-type="bibr" rid="R40" id="245" class="deo:Reference">Semin, 1997</xref>). The needs-based model of reconciliation offers a general theoretical framework for understanding the findings of other studies in the field. Findings that the effectiveness of an apology increases when accompanied by an admission of guilt by the perpetrator (<xref ref-type="bibr" rid="R11" id="246" class="deo:Reference">Darby &amp; Schlenker, 1982</xref>) might be interpreted as reflecting the fact that an admission of guilt satisfies victims’ need for empowerment. Fatal quarrels instigated “over nothing,” which are the focus of Cohen, Nisbett, Bowdle, and Schwarz’s (1996) study on the Southern culture of honor, are not conflicts over the division of contested resources. In terms of our model, these are conflicts over the emotional resources of acceptance and empowerment. Similarly, the social needs for vengeance (discussed by <xref ref-type="bibr" rid="R18" id="247" class="deo:Reference">Frijda, 1994</xref>) and for forgiveness (<xref ref-type="bibr" rid="R13" id="248" class="deo:Reference">Enright et al., 1998</xref>) may be conceptualized as reflecting victims’ need to restore their sense of power and perpetrators’ need to restore their public moral image and sense of belonging to the community.</region>
+        <outsider class="DoCO:TextBox" type="header" id="242" page="15" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="243" page="15" column="1">130</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="250" page="15" column="2">The Type of Victimization Episodes Used in the Present Research and the Question of Culpability</h1>
+        <region class="DoCO:TextChunk" id="258" page="15" column="2">Because our model addresses the interaction between parties in conflict, it was important to be able to randomly assign participants to the role of perpetrator and victim in both laboratory experiments and the role-playing vignettes. Random assignment to the role of victim is relatively easy because of the passive nature of this social role. The induction of the perception that one is a perpetrator is more difficult. It requires that participants view themselves as having volitionally hurt another person who had done them no harm. Situations in which the victimization is done unintentionally (e.g., the perpetrator looked after the victim’s child and did not pay attention to the child’s drinking of a poisonous substance—a vignette used by Sch  ̈nbach, 1990) are inadequate for this purpose as they do not follow the conditions required for the attribution of blame, that is, that the perpetrator will be able to foresee the consequences of his conduct, have control over his behavior, and behave intentionally in a given way ( <xref ref-type="bibr" rid="R41" id="251" class="deo:Reference">Shaver, 1985</xref>). Situations in which a person hurts another person with no immediately available justification (e.g., a sadistic act) are also problematic as it would have been impossible to randomly place participants in an experimental setting in which they hurt another person for no apparent reason or justification; similarly, in the case of role-playing studies, it does not make sense that such situations would produce an appropriate level of identification. Thus, the induction of perpetration that holds moral responsibility is possible only if viewed by the average person as related to contextual demands such as job requirements or conflicting interests (such as when favoring self- interest involves hurting the partner and vice versa). Although at first glance this characteristic of the present research may seem to limit the generalizability of the findings and the model, closer scrutiny reveals that this is not the case. First, most daily real-life interactions between victims and perpetrators have characteristics that are similar to the ones in our research. In fact, when we asked people to report on real-life episodes in which they had caused harm to another person (i.e., see description of the study in the Discussion section of Study 1) they reported episodes in which there had been some justification to hurt the other person, such as preferring one’s own interests over the other’s interests, retaliation for previous harm done to them, doing an honest job of criticizing the other, unwillingness to have the extent of proximity desired by the victims (such as in breaking up with a romantic partner), et cetera. Although one could argue that such accounts represent selective reporting, research indicates that perpetrators tend to deny their culpability, even when their behavior is judged as blameworthy by others (Baumeister, 1996; <xref ref-type="bibr" rid="R25" id="252" class="deo:Reference">Mikula, 2002</xref>). The gap between victims and perpetrators in their perceptions of the latter’s culpability is consistent with current literature on justice, which suggests that people’s affective reactions (e.g., anger or satisfaction) to the outcome of a certain situation influences their judgments of its fairness rather than the other way around (in other words, justice judgments are emotionally, rather than cognitively, based; <xref ref-type="bibr" rid="R28" id="253" class="deo:Reference">Mullen &amp; Skitka, 2006</xref>). It makes sense that because victims and perpetrators experience different emotions following a victimization episode, their perceptions of it as unjust, and consequently, their perceptions of the perpetrator’s blamewor- thiness/culpability, will be different in a predictable/consistent<marker type="page" number="16"/><marker type="column" number="1"/><marker type="block"/> manner. For this reason, it is claimed that “evil is in the eyes of the beholder” (<xref ref-type="bibr" rid="R2" id="257" class="deo:Reference">Baumeister, 1996</xref>, p. 1). Second, this characteristic of our research does not affect the major claim of our model. It should be recalled that the model suggests that regardless of feelings of objective or subjective justifications and the associated feelings of guilt that one has for having harmed another person, perpetrators have a need to ameliorate the perception that others view their behavior as wrong and relatively immoral. This perception represents a threat to inclusion in one’s moral community that a message of acceptance is argued to ameliorate. Such perceptions of threat to inclusion in the moral community were successfully induced in our experiments as is evidenced by the decrease in public moral image suffered by participants who had been randomly assigned to the role of perpetrators.</region>
+        <outsider class="DoCO:TextBox" type="header" id="255" page="16" column="1">NEEDS-BASED MODEL OF RECONCILIATION</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="256" page="16" column="1">131</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="259" page="16" column="1">Limitations and Future Research Directions</h1>
+        <region class="DoCO:TextChunk" id="268" page="16" column="1">The present model suggests a number of issues that may be researched in the future. The first of these is that the dependent variable measured in Studies 2, 3, and 4 was a self-rated willingness to reconcile. Because the success of the reconciliation process is highly dependent upon the adversaries’ attitudes (e.g., their willingness to be involved in such a process, their perceptions of future relations) we believe this measure to be adequate for testing our model’s hypotheses. However, because we aim to apply our model to real-life conflicts, it remains for future research to determine the extent to which self-rated willingness to reconcile pre- dicts actual reconciliatory behavior. Second, our model and research focuses on situations in which there is a relative consensus regarding who the victim is. Yet, in many real-life situations in which such consensus does not exist, both parties may perceive themselves as victims, and there may even exist a degree of competition over who is the “real” victim ( <xref ref-type="bibr" rid="R29" id="260" class="deo:Reference">Nadler, 2002</xref>). Although we assume that our model also applies to such complex situations, it remains for future research to address this issue empirically. Third, applying the needs-based model of reconciliation to intergroup contexts might provide a broad framework to test variables, such as strength of ingroup identification, collective guilt (Doosje, Branscombe, Spears, &amp; <xref ref-type="bibr" rid="R12" id="261" class="deo:Reference">Manstead, 1998</xref>), and level of social categorization (<xref ref-type="bibr" rid="R49" id="262" class="deo:Reference">Wohl &amp; Branscombe, 2005</xref>), which have been found to influence the willingness of group members to reconcile. <xref ref-type="bibr" rid="R31" id="263" class="deo:Reference">Nadler and Liviatan (2006)</xref> provided partial support for the model’s applicability to the intergroup level in a study that tested the willingness of Jewish Israelis to reconcile with Pales- tinians. The researchers found that in predicting willingness to reconcile, Jewish Israeli subjects (who belong to the more powerful party in the conflict and are therefore likely to be viewed as the guilty oppressors) were more responsive to Palestinians’ expressions of empathy with Israelis (which can be viewed as a mani- festation of social acceptance) than to Palestinians’ acceptance of responsibility for hurting them (which can be viewed as a mani- festation of empowerment). However, further research is required in order to provide more comprehensive support for the model’s applicability at the intergroup level. Finally, on the practical level, the needs-based model of reconciliation can contribute to the advancement of emotionally intelli- gent justice (a term suggested by <xref ref-type="bibr" rid="R42" id="264" class="deo:Reference">Sherman, 2003</xref>) through the<marker type="column" number="2"/><marker type="block"/> development of restorative practices, that is, practices that restore relationships, connections among people, trust, and mutual understanding and thus make cooperative problem solving possible (<xref ref-type="bibr" rid="R48" id="266" class="deo:Reference">Wachtel &amp; McCold, 2001</xref>). These practices involve nurturing the expression of vulnerable emotions (<xref ref-type="bibr" rid="R6" id="267" class="deo:Reference">Braithwaite, 2006</xref>), and our model can cast light upon the nature of these emotions as well as on the psychological needs that lie beneath them. In conclusion, our focus on the emotional motivations underly- ing the reconciliation process comes on the heels of a relatively long period during which these motivations were neglected in favor of more instrumental concerns. However, understanding the factors that help to repair relationships between victims and perpetrators has practical meaning for the fields of conflict resolution and reconciliation.</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="269" confidence="possible" page="16" column="2">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="270" page="16" column="2">Akhtar, S. (2002). Forgiveness: Origins, dynamics, psychopathology, and technical relevance. Psychoanalytic Quarterly, 71, 175–212.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="271" confidence="possible" page="16" column="2">Baumeister, R. F. (1996). Evil: Inside human violence and cruelty. New York: Henry Holt.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="272" confidence="possible" page="16" column="2">Baumeister, R. F., Stillwell, A. M., &amp; Heatherton, T. F. (1994). Guilt: An interpersonal approach. Psychological Bulletin, 115, 243–267.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="273" confidence="possible" page="16" column="2">Baumeister, R. F., Stillwell, A. M., &amp; Wotman, S. R. (1990). Victim and perpetrator accounts of interpersonal conflict: Autobiographical narratives about anger. Journal of Personality and Social Psychology, 59, 994 –1005.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="274" confidence="possible" page="16" column="2">Bennis, W. G., &amp; Shepard, H. A. (1956). A theory of group development. Human Relations, 9, 415– 437.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="275" confidence="possible" page="16" column="2">Braithwaite, J. (2006). Doing justice intelligently in civil society. Journal of Social Issues, 62, 393– 409.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="276" confidence="possible" page="16" column="2">Brookings, J. B., &amp; Bolton, B. (2000). Confirmatory factor analysis of a measure of intrapersonal empowerment. Rehabilitation Psychology, 45, 292–298.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="277" confidence="possible" page="16" column="2">Buckley, K. E., Winkel, R. E., &amp; Leary, M. R. (2004). Reactions to acceptance and rejection: Effects of level and sequence of relational evaluation. Journal of Experimental Social Psychology, 40, 14 –28.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="278" confidence="possible" page="16" column="2">Carlsmith, J. M., &amp; Gross, A. E. (1969). Some effects of guilt on compli- ance. Journal of Personality and Social Psychology, 11, 232–239.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="279" confidence="possible" page="16" column="2">Cohen, D., Nisbett, R. E., Bowdle, B. F., &amp; Schwarz, N. (1996). Insult, aggression, and the Southern culture of honor: An “experimental eth- nography.” Journal of Personality and Social Psychology, 70, 945–960.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="280" confidence="possible" page="16" column="2">Darby, B. W., &amp; Schlenker, B. R. (1982). Children’s reactions to apologies. Journal of Personality and Social Psychology, 43, 742–753.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="281" confidence="possible" page="16" column="2">Doosje, B., Branscombe, N. R., Spears, R., &amp; Manstead, A. S. R. (1998). Guilty by association: When one’s group has a negative history. Journal of Personality and Social Psychology, 75, 872– 886.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="282" confidence="possible" page="16" column="2">Enright, R. D., Freedman, S., &amp; Rique, J. (1998). The psychology of interpersonal forgiveness. In R. D. Enright &amp; J. North (Eds.), Exploring forgiveness (pp. 46 – 62). Madison: University of Wisconsin Press.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="283" confidence="possible" page="16" column="2">Exline, J. J., &amp; Baumeister, R. F. (2000). Expressing forgiveness and repentance: Benefits and barriers. In M. E. McCullough, K. I. Parga- ment, &amp; C. E. Thoresen (Eds.), Forgiveness: Theory, research, and practice (pp. 133–155). New York: Guilford Press.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="284" confidence="possible" page="16" column="2">Foa, E. B., &amp; Foa, U. G. (1980). Resource theory: Interpersonal behavior as exchange. In K. J. Gergen, M. S. Greenberg, &amp; R. H. Willis (Eds.), Social exchange: Advances in theory and research (pp. 77–94). New York: Plenum Press.</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="285" confidence="possible" page="16" column="2">Foster, C. A., &amp; Rusbult, C. E. (1999). Injustice and power seeking. Personality &amp; Social Psychology Bulletin, 25, 834 – 849.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="286" confidence="possible" page="16" column="2">French, J. R. P., &amp; Raven, B. (1959). The bases of social power. In D. Cartwright (Ed.), Studies in social power (pp. 150 –167). Ann Arbor: University of Michigan.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="289" page="17" column="1">Frijda, N. H. (1994). The lex talionis: On vengeance. In S. H. M. Van Goozen, N. E. Van de Poll, &amp; J. A. Sergeant (Eds.), Emotions: Essays on emotion theory (pp. 263–289). Hillsdale, NJ: Erlbaum.</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="290" confidence="possible" page="17" column="1">Haney, C., Banks, C., &amp; Zimbardo, P. (1973). Interpersonal dynamics in a simulated prison. International Journal of Criminology and Penology, 1, 69 –97.</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="291" confidence="possible" page="17" column="1">Jones, E. (1998). Major developments in five decades of social psychology. In D. T. Gilbert, S. T., Fiske, &amp; G. Lindzey (Eds.), The handbook of social psychology, (4th ed., Vol. 1, pp. 3–57). New York: McGraw-Hill.</ref>
+          <ref rid="R21" class="deo:BibliographicReference" id="292" confidence="possible" page="17" column="1">Kenny, D. A., Kashy, D. A., &amp; Bolger, N. (1998). Data analysis in social psychology. In D. T. Gilbert, S. T. Fiske, &amp; G. Lindzey (Eds.), The handbook of social psychology (4th ed., Vol. 1, pp. 233–265). New York: McGraw-Hill.</ref>
+          <ref rid="R22" class="deo:BibliographicReference" id="293" confidence="possible" page="17" column="1">McCullough, M. E., Rachal, K. C., Sandage, S. J., Worthington, E. L., Brown, S. W., &amp; Hight, T. L. (1998). Interpersonal forgiving in close relationships: II. Theoretical elaboration and measurement. Journal of Personality and Social Psychology, 75, 1586 –1603.</ref>
+          <ref rid="R23" class="deo:BibliographicReference" id="294" confidence="possible" page="17" column="1">McCullough, M. E., Worthington, E. L., &amp; Rachal, K. C. (1997). Interpersonal forgiving in close relationships. Journal of Personality and Social Psychology, 73, 321–336.</ref>
+          <ref rid="R24" class="deo:BibliographicReference" id="295" confidence="possible" page="17" column="1">Menson, S. T., &amp; Hartmann, L. C. (2002). Generalizability of Menson’s empowerment scale: Replication and extension with Australian data. International Journal of Cross Cultural Management, 2, 137–153.</ref>
+          <ref rid="R25" class="deo:BibliographicReference" id="296" confidence="possible" page="17" column="1">Mikula, G. (2002). Perspective-related differences in interpretations of injustice in close relationships. In C. F. Graumann &amp; W. Kallmeyer (Eds.), Perspective and perspectivation in discourse. Amsterdam: John Benjamins.</ref>
+          <ref rid="R26" class="deo:BibliographicReference" id="297" confidence="possible" page="17" column="1">Milgram, S. (1974). Obedience to authority: An experimental view. New York: HarperCollins.</ref>
+          <ref rid="R27" class="deo:BibliographicReference" id="298" confidence="possible" page="17" column="1">Minow, M. (1998). Between vengeance and forgiveness: Facing history after genocide and mass violence. Boston: Beacon Press.</ref>
+          <ref rid="R28" class="deo:BibliographicReference" id="299" confidence="possible" page="17" column="1">Mullen, E., &amp; Skitka, L. J. (2006). Exploring the psychological underpin- nings of the moral mandate effect: Motivated reasoning, group differ- entiation, or anger? Journal of Personality and Social Psychology, 90, 629 – 643.</ref>
+          <ref rid="R29" class="deo:BibliographicReference" id="300" confidence="possible" page="17" column="1">Nadler, A. (2002). Post-resolution processes: Instrumental and socio- emotional routes to reconciliation. In G. Salomon &amp; B. Nevo (Eds.), Peace education: The concept, principles, and practices around the world. Mahwah, NJ: Erlbaum.</ref>
+          <ref rid="R30" class="deo:BibliographicReference" id="301" confidence="possible" page="17" column="1">Nadler, A., &amp; Liviatan, I. (2004). Intergroup reconciliation process in Israel: Theoretical analysis and empirical findings. In N. R. Branscombe &amp; B. Doosje (Eds.), Collective guilt: International perspectives (pp. 216 –235). New York: Cambridge University Press.</ref>
+          <ref rid="R31" class="deo:BibliographicReference" id="302" confidence="possible" page="17" column="1">Nadler, A., &amp; Liviatan, I. (2006). Intergroup reconciliation: Effects of adversary’s expressions of empathy, responsibility, and recipients’ trust. Personality &amp; Social Psychology Bulletin, 32, 459 – 470.</ref>
+          <ref rid="R32" class="deo:BibliographicReference" id="303" confidence="possible" page="17" column="1">Nadler, A., &amp; Shnabel, N. (in press). Intergroup reconciliation: The instrumental and socio-emotional paths and the need-based model of socio- emotional reconciliation. In A. Nadler, T. Malloy, &amp; J. D. Fisher (Eds.), Social psychology of intergroup reconciliation. New York: Oxford University Press. North, J. (1998). The “ideal” of forgiveness: A philosopher’s exploration. In R. D. Enright &amp; J. North (Eds.), Exploring forgiveness (pp. 15–34). Madison: University of Wisconsin Press.</ref>
+          <ref rid="R33" class="deo:BibliographicReference" id="304" confidence="possible" page="17" column="1">Pruitt, D. G. (1998). Social conflict. In D. T. Gilbert, S. T. Fiske, &amp; G. Lindzey (Eds.), The handbook of social psychology (4th ed., Vol. 2, pp. 470 –503). New York: McGraw-Hill.</ref>
+          <ref rid="R34" class="deo:BibliographicReference" id="305" confidence="possible" page="17" column="1">Rusbult, C. E. (1983). A longitudinal test of the investment model: The</ref>
+          <ref rid="R35" class="deo:BibliographicReference" id="306" page="17" column="2">development (and deterioration) of satisfaction and commitment in heterosexual involvements. Journal of Personality and Social Psychology, 45, 101–117. Rusbult, C. E., &amp; Van Lange, P. A. M. (1996). Interdependence processes. In E. T. Higgins &amp; A. W. Kruglanski (Eds.), Social psychology: Hand- book of basic principles (pp. 564 –596). New York: Guilford Press.</ref>
+          <ref rid="R36" class="deo:BibliographicReference" id="307" confidence="possible" page="17" column="2">Rusbult, C. E., Verette, J., Whitney, G. A., Slovik, L. F., &amp; Lipkus, I. (1991). Accommodation processes in close relationships: Theory and preliminary empirical evidence. Journal of Personality and Social Psychology, 60, 53–78.</ref>
+          <ref rid="R37" class="deo:BibliographicReference" id="308" confidence="possible" page="17" column="2">Sch  ̈nbach, P. (1990). Account episodes: The management or escalation of conflict. New York: Cambridge University Press.</ref>
+          <ref rid="R38" class="deo:BibliographicReference" id="309" confidence="possible" page="17" column="2">Scheff, T. J. (1994). Bloody revenge: Emotions, nationalism and war. Boulder, CO: Westview Press.</ref>
+          <ref rid="R39" class="deo:BibliographicReference" id="310" confidence="possible" page="17" column="2">Scobie, E. D., &amp; Scobie, G. E. W. (1998). Damaging events: The perceived need for forgiveness. Journal for the Theory of Social Behaviour, 28, 373– 401.</ref>
+          <ref rid="R40" class="deo:BibliographicReference" id="311" confidence="possible" page="17" column="2">Semin, G. R. (1997). The relevance of language for social psychology. In C. McGarty &amp; S. A. Haslam (Eds.), The message of social psychology: Perspectives on mind in society (pp. 291–304). Malden, MA: Blackwell.</ref>
+          <ref rid="R41" class="deo:BibliographicReference" id="312" confidence="possible" page="17" column="2">Shaver, K. G. (1985). The attribution of blame: Causality, responsibility and blameworthiness. New York: Springer.</ref>
+          <ref rid="R42" class="deo:BibliographicReference" id="313" confidence="possible" page="17" column="2">Sherman, L. W. (2003). Reason for emotion: Reinventing justice with theories, innovations, and research. Criminology, 41, 1–38.</ref>
+          <ref rid="R43" class="deo:BibliographicReference" id="314" confidence="possible" page="17" column="2">Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural equation models. In S. Leinhardt (Ed.), Sociological methodology (pp. 290 –312). Washington, DC: American Sociological Association.</ref>
+          <ref rid="R44" class="deo:BibliographicReference" id="315" confidence="possible" page="17" column="2">Staub, E., Pearlman, L. A., Gubin, A., &amp; Hagengimana, A. (2005). Heal- ing, reconciliation, forgiving and the prevention of violence after genocide or mass killing: An intervention and its experimental evaluation in Rwanda. Journal of Social and Clinical Psychology, 24, 297–334.</ref>
+          <ref rid="R45" class="deo:BibliographicReference" id="316" confidence="possible" page="17" column="2">Tavuchis, N. (1991). Mea culpa: A sociology of apology and reconciliation. Palo Alto, CA: Stanford University Press.</ref>
+          <ref rid="R46" class="deo:BibliographicReference" id="317" confidence="possible" page="17" column="2">Turner, J. C. (2005). Explaining the nature of power: A three-process theory. European Journal of Social Psychology, 35, 1–22.</ref>
+          <ref rid="R47" class="deo:BibliographicReference" id="318" confidence="possible" page="17" column="2">Vardi, Y. (2000). Psychological empowerment as a criterion for adjustment to a new job. Psychological Reports, 87, 1083–1093.</ref>
+          <ref rid="R48" class="deo:BibliographicReference" id="319" confidence="possible" page="17" column="2">Wachtel, T., &amp; McCold, P. (2001). Restorative justice in everyday life. In H. Strang &amp; J. Braithwaite (Eds.), Restorative justice and civil society. New York: Cambridge University Press.</ref>
+          <ref rid="R49" class="deo:BibliographicReference" id="320" confidence="possible" page="17" column="2">Wohl, M. J. A., &amp; Branscombe, N. R. (2005). Forgiveness and collective guilt assignment to historical perpetrator groups depend on level of social category inclusiveness. Journal of Personality and Social Psychology, 88, 288 –303.</ref>
+          <ref rid="R50" class="deo:BibliographicReference" id="321" confidence="possible" page="17" column="2">Yiannakis, A., &amp; Melnick, M. J. (2001). Contemporary issues in sociology of sport. Champaign, IL: Human Kinetics.</ref>
+          <ref rid="R51" class="deo:BibliographicReference" id="322" confidence="possible" page="17" column="2">Zechmeister, J. S., &amp; Romero, C. (2002). Victim and offender accounts of interpersonal conflict: Autobiographical narratives of forgiveness and unforgiveness. Journal of Personality and Social Psychology, 82, 675– 686.</ref>
+          <ref rid="R52" class="deo:BibliographicReference" id="323" confidence="possible" page="17" column="2">Zubek, J. M., Pruitt, D. G., Peirce, R. C., McGillicuddy, N. B., &amp; Syna, H. (1992). Disputant and mediator behaviors affecting short-term success in mediation. The Journal of Conflict Resolution, 36, 546 –572. Received September 6, 2006 Revision received June 11, 2007 Accepted June 11, 2007</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="header" id="287" page="17" column="1">SHNABEL AND NADLER</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="288" page="17" column="1">132</outsider>
+      </section>
+    </body>
+  </article>
+</pdfx>
