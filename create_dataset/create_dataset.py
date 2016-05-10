@@ -39,7 +39,7 @@ def main():
     #Remove duplicated entries
     duplicated = [50, 149]
     ds_complete = ds_complete.drop(duplicated)
-    train, test = train_test_split(ds_complete, train_size=0.8)
+   t rain, test = train_test_split(ds_complete, train_size=0.85)
 
     #Save clean dataset
     train.to_csv('train.csv', sep='\t')

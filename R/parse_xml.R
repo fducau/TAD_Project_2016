@@ -15,6 +15,8 @@ get_text_from_xml = function(x){
 }
 
 
+#For all the files in xml_replicated, get the text of the paper and save it to txt. 
+
 setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/xml_replicated/")
 xml_files = list.files(full.names=TRUE)
 
@@ -27,8 +29,85 @@ for (xml_file in xml_files){
 
 
 
-xrefs = xml_find_all(file, '//xref')
-xrefs[80]
+
+
+#Get the text of the body from the xml version of the paper
+#Receives a string with the location of the file
+
+get_mentioned_references_from_xml = function(x){
+  xml_file = read_xml(x)
+  xrefs = xml_find_all(xml_file, '//xref')
+  i=0
+  for (ref in xrefs){
+    att =  xml_attrs(ref)
+    ref_type = att['ref-type']
+    if (ref_type == "bibr"){
+      i = i+1
+    }
+  }
+  return(i)
+}
+
+
+index = gsub('.pdfx.xml', '', xml_files)
+index = gsub('./', '', index)
+index = unlist(lapply(index, as.numeric))
+
+
+setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/xml_replicated/")
+references_df = data.frame(Study.Num = index, file=xml_files, stringsAsFactors = FALSE)
+references_df$mentioned_ref = lapply(references_df$file, get_mentioned_references_from_xml)
+
+
+setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
+
+ds = read.csv('./train.csv', sep = '\t', stringsAsFactors = FALSE)
+xml_files
+
+references_df
+
+file1 = xml_files[1]
+x1 = read_xml(file1)
+xrefs = xml_find_all(x1, '//xref')
+
+xrefs[1]
+ref_type
+att
+
+i=0
+for (ref in xrefs){
+  att =  xml_attrs(ref)
+  cat(att)
+  ref_type = att['ref-type']
+  
+  if (ref_type == "bibr"){
+    i = i+1
+  }
+  cat(i)
+}
+
+
+
+
+
+
+
+
+xrefs = xml_find_all(x1, '//xref')
+length(xrefs)
+
+x = xrefs[1]
+att =  xml_attrs(x)
+att
+ref_type = att[[1]]['ref-type']
+
+if(ref_type == 'bibr'){
+  cat('bien')
+}
+
+xml_attr(xrefs[80])
+
+xml_type(xrefs[80])
 
 x1 = xrefs[1]
 x1at = xml_attrs(x1)
