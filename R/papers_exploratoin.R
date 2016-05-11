@@ -32,7 +32,7 @@ liwc_metrics$Study.Num = as.numeric(liwc_metrics$Study.Num)
 liwc1 = merge(ds, liwc_metrics, by='Study.Num')
 liwc1$replicate = as.factor(liwc1$replicate)
 liwc1 = subset( liwc1, select = -Filename )
-
+liwc1 = subset( liwc1, select = -title )
 
 #Save clean version of liwc metcis
 write.table(liwc_metrics, file='liwc.csv', sep=",", row.names = FALSE)
