@@ -1,0 +1,1709 @@
+Personality and Social Psychology Bulletin
+http://psp.sagepub.com
+
+Perceiving Intergroup Conflict: From Game Models to Mental Templates
+Nir Halevy, Lilach Sagiv, Sonia Roccas and Gary Bornstein
+Pers Soc Psychol Bull 2006; 32; 1674
+DOI: 10.1177/0146167206291947
+The online version of this article can be found at:
+http://psp.sagepub.com/cgi/content/abstract/32/12/1674
+
+Published by:
+http://www.sagepublications.com
+
+On behalf of:
+
+Society for Personality and Social Psychology, Inc.
+
+Additional services and information for Personality and Social Psychology Bulletin can be found at:
+Email Alerts: http://psp.sagepub.com/cgi/alerts
+Subscriptions: http://psp.sagepub.com/subscriptions
+Reprints: http://www.sagepub.com/journalsReprints.nav
+Permissions: http://www.sagepub.com/journalsPermissions.nav
+Citations http://psp.sagepub.com/cgi/content/refs/32/12/1674
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Perceiving Intergroup Conflict:
+From Game Models to Mental Templates
+Nir Halevy
+Lilach Sagiv
+Hebrew University of Jerusalem
+Sonia Roccas
+Open University
+Gary Bornstein
+Hebrew University of Jerusalem
+This article puts forward a parsimonious framework for studying
+subjective perceptions of real-life intergroup conflicts. Four studies
+were conducted to explore how individuals perceive the strategic
+properties of the Israeli-Palestinian conflict. Studies 1 and 2
+found theory-driven associations between people’s subjective perception of the conflict’s structure as a Chicken, Assurance, or
+Prisoner’s Dilemma game and their ingroup/outgroup perceptions, national identification, religiosity, political partisanship,
+voting behavior, and right-wing authoritarianism. Studies 3 and
+4 manipulated the saliency of the needs for cognitive closure and
+security, respectively, demonstrating that these needs affect people’s
+endorsement of the game models as descriptions of the conflict.
+
+Keywords: intergroup conflict; mixed-motive games; mental representation
+
+T
+
+hat subjective perceptions play a pivotal role in
+intergroup relations has been established repeatedly
+(Sherif, 1966; Sherif, Harvey, White, Hood, & Sherif,
+1961; Tajfel & Turner, 1979, 1986). However, little has
+been done to study how individuals perceive the pattern of outcome interdependence in intergroup conflicts. This article demonstrates that people hold
+different perceptions of the same real-life intergroup
+conflict, namely, the Israeli-Palestinian conflict; that
+these perceptions are adequately captured by a limited
+number of prototypic mixed-motive games; and that
+people’s perception of the underlying strategic properties of the conflict in terms of a particular game are predictably associated with other conflict-related beliefs,
+attitudes, and (reported) behaviors.
+
+THINKING ABOUT GROUP INTERDEPENDENCE
+
+Research on interdependent decision making has
+traditionally focused on the choices individuals and
+groups make within a given payoff structure. Researchers
+usually create a well-defined situation of social interdependence in the laboratory and study how individuals
+and groups act in this setting (e.g., Bornstein, 2003;
+Insko et al., 2001; Kelley et al., 2003; Kelley & Thibaut,
+1978; Schopler et al., 2001; Wit & Kerr, 2002). There is,
+however, ample evidence that suggests that in real-life settings people not only choose different courses of action
+within a given situation but also have different ways of
+construing or interpreting the situation (De Dreu &
+Carnevale, 2003; A. P. Fiske, 1992; Kelley, 1997; Kelley &
+Thibaut, 1978; Kiyonari, Tanida, & Yamagishi, 2000; Van
+Vugt, Meertens, & Van Lange, 1995; Weber, Kopelman, &
+Messick, 2004). Thus, unlike interdependent decision
+Authors’ Note: This research was supported by grants from the Israel
+Foundation Trustees (027/05), the Gilo Center for Citizenship,
+Democracy and Civic Education, and the Davis Institute for the Study
+of International Relations to Nir Halevy; a grant from the Recanati
+Fund of the School of Business Administration at the Hebrew
+University to Lilach Sagiv; and a grant from the Israel Science
+Foundation (535/05) to Gary Bornstein. We wish to thank the editor
+and two anonymous reviewers for their helpful comments. We also
+wish to thank Shahar Halevy for her assistance in data collection.
+Please address correspondence to The Hebrew University of Jerusalem,
+Department of Psychology, Mt. Scopus, Jerusalem, Israel, 91905;
+e-mail: nyh@mscc.huji.ac.il.
+PSPB, Vol. 32 No. 12, December 2006 1674-1689
+DOI: 10.1177/0146167206291947
+© 2006 by the Society for Personality and Social Psychology, Inc.
+
+1674
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+TABLE 1: The Chicken, Assurance, and Prisoner’s Dilemma Games
+Chicken
+Player II
+
+Player I
+
+C
+D
+
+C
+
+D
+
+3,3
+4,2
+
+2,4
+1,1
+Assurance
+Player II
+
+Player I
+
+C
+D
+
+C
+
+D
+
+4,4
+3,1
+
+1,3
+2,2
+Prisoner’s Dilemma
+Player II
+
+Player I
+
+C
+D
+
+C
+
+D
+
+3,3
+4,1
+
+1,4
+2,2
+
+NOTE: Entries in the table represent payoffs on an order scale, with
+higher figures denoting more desirable outcomes. In each cell, the
+left figure represents the payoff to the row player and the right figure
+represents the payoff to the column player.
+
+making in laboratory settings, in which the nature of the
+situation is assumed to be common knowledge, in reality
+the same objective1 situation can evoke different subjective interpretations.
+PERCEIVING THE ISRAELI-PALESTINIAN
+CONFLICT AS A MIXED-MOTIVE GAME
+
+The Israeli-Palestinian conflict is a violent, ongoing
+intergroup conflict that combines ethnic, national,
+political, and religious elements. This conflict constitutes the major cleavage dimension in Israeli politics
+and distinguishes the political left and right in Israel
+(Barnea & Schwartz, 1998; Shamir & Shamir, 2000).
+Although this conflict is at times highly destructive, we
+maintain that it is best modeled as a mixed-motive game.
+The literature on experimental games distinguishes fully
+cooperative games, in which the players’ interests completely coincide, from strictly competitive games, in
+which the players’ interests are utterly opposed. Situated
+in between these two extremes are mixed-motive games,
+in which the players’ preferences are neither identical
+nor completely contradictory.
+Fully cooperative games are clearly (and, needless to
+say, regrettably) not relevant for describing the IsraeliPalestinian game. Strictly competitive games are also of
+
+1675
+
+limited relevance. Although individuals sometimes perceive intergroup conflicts to be strictly competitive (as
+research on fixed-pie perceptions shows; e.g., De Dreu
+& Carnevale, 2003), “in everyday life the protagonists’
+interests are seldom strictly opposed” (Colman, 1999,
+p. 54). Even in a full-scale war, the most extreme manifestation of intergroup conflict, there is always a common
+interest, “even if only in the avoidance of mutual disaster”
+(Schelling, 1980, p. 83; see also Luce & Raiffa, 1957).
+Indeed, agreeing with Colman (1999) that “strictly
+competitive games certainly occur in everyday life, but
+mixed-motive games are undoubtedly more common”
+(p. 54), most researchers have employed the latter category of games to model intergroup conflicts (Axelrod,
+1984; Plous, 1985, 1987; Powell, 1989; Roy, 1994).
+The current investigation thus focuses on three prototypic mixed-motive games, namely, the Chicken,
+Assurance, and Prisoner’s Dilemma (PD) games, which
+we believe adequately capture both the reality and lay
+perceptions of the Israeli-Palestinian conflict. Table 1
+presents the structure of these three games.
+The games in Table 1 are 2 × 2 games where each
+player has to choose whether to cooperate (C) or to
+defect (D). The three games are similar in the sense that
+mutual cooperation (CC) yields better outcomes for
+both sides than mutual competition (DD), but when one
+side competes while the other side cooperates, the outcome for the unilateral competitor is higher than that
+for the unilateral cooperator. The three games are different in that the outcome resulting from mutual cooperation is highest in Assurance and lower in PD and
+Chicken, whereas the outcome resulting from mutual
+competition is lowest in Chicken and higher in PD and
+Assurance games.
+We now describe in more detail the strategic properties of each of these games in turn. The game of Chicken
+models conflicts that involve mutual threat (e.g., military
+confrontations or disputes between management and
+workers), where the failure of either group to yield leads
+to the DD outcome (e.g., war or strike), which is disastrous to both sides. The fundamental strategic considerations in the Chicken game can be described as follows. If
+one group fears that the other group will compete
+(choose D), its best response is to cooperate or yield
+(choose C). However, if a group assumes that the other
+group will choose not to compete (i.e., chicken out), its
+best response is to compete. These two asymmetric outcomes (DC and CD) are equilibrium points, meaning
+that no side has an incentive to deviate from either of
+them unilaterally. Thus, the group that convincingly commits itself to the competitive strategy (D) is bound to win,
+provided that the other group is rational. Of course, if
+both groups compete in an attempt to win the game, both
+are exposed to the risk of getting the mutually disastrous
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1676
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+DD outcome (i.e., a head-on collision; e.g., Rapoport &
+Chammah, 1966; Schelling, 1980).
+The strategic considerations in the Assurance game
+are virtually reversed. If one group fears that the other
+group might compete (choose D), its best response is
+also to compete. Competition is the safest (i.e., maximin) strategy, which protects the group from the possibility of losing the competition and guarantees a reward
+greater than that resulting from unilateral cooperation.
+Yet, if a group expects the outgroup to behave cooperatively (choose C), its best response is also to cooperate.
+The mutually cooperative (CC) outcome yields the highest payoff in this game for both sides—higher than the
+payoff for unilateral defection (e.g., Jervis, 1978; Skyrms,
+2004). Both the mutually competitive (DD) and the
+mutually cooperative (CC) outcomes are equilibrium
+points, and no group can benefit from unilaterally deviating from them. The game of Assurance thus models a
+relatively benign conflict where the temptation of each
+side to compete for defensive reasons is balanced by the
+strong preference of both sides for mutual cooperation.
+In the PD game, the optimal strategy for each group
+is to compete (choose D), regardless of whether the
+other group is expected to cooperate or compete. Thus,
+unlike the Assurance game, where the groups’ incentive
+to compete is clearly defensive (a rational group should
+compete only if it expects the outgroup to compete as
+well), or the Chicken game, where the groups’ incentive
+to compete is clearly offensive (a rational group should
+compete only if it expects the outgroup not to compete), competition in the PD game can be motivated by
+either defensive or offensive reasons. The DD outcome
+resulting from mutual competition is the only equilibrium of the (one-shot) PD game. However, it is collectively deficient; if both groups compete, each receives a
+payoff that is smaller than the payoff obtained if both
+groups cooperate. Consequently, both groups prefer
+mutual cooperation to mutual defection (e.g., Colman,
+1999; Poundstone, 1992; Rapoport & Chammah, 1965).
+
+GROUP INTERDEPENDENCE AND
+INTERGROUP PERCEPTIONS
+
+Intergroup Perceptions in Experimental Settings
+Experiments by Bornstein (1992; Bornstein, Mingelrin,
+& Rutte, 1996) demonstrated that the structural properties of these three games have profound effects on
+people’s beliefs about ingroup and outgroup members
+as well as on their expectations about the outcomes of
+the competition. These experiments involved competition between two groups and showed that when group
+members were allowed a short period of discussion to
+
+select a joint group strategy, most groups in the Chicken,
+Assurance, and PD games chose to compete against the
+outgroup. However, the rationale for choosing the competitive strategy (as coded from group discussions) and
+the beliefs of individual group members following discussion (as reflected in the postdecision questionnaire)
+differed systematically as a function of game type.2
+The choice of the competitive strategy in the
+Assurance game was based on distrust or fear of the
+opponent. Ingroup members expected the outgroup to
+compete and decided to protect themselves against losing the game by making the same choice. This “playing
+it safe” scenario was evident in the group discussions,
+which included risk-avoidance arguments (e.g., “If we
+compete we are assured of at least a tie”) and symmetric expectations for the ingroup and the outgroup
+(e.g., “They must be thinking exactly the same way”). It
+also was clear in the postdecision questionnaire, where
+the participants predicted that ingroup and outgroup
+members would be about equally likely to contribute,
+and consequently expected the game to be tied.
+In contrast, the decision to compete in the Chicken
+game was clearly motivated by greed. Group discussions
+contained risk-taking arguments (e.g., “If we compete,
+it’s either all or nothing”) and asymmetric ingroup/
+outgroup expectations. Specifically, participants expected
+the outgroup to be less likely to compete (or more
+likely to chicken out) and consequently assessed the
+ingroup’s chances of winning as much higher than the
+outgroup’s. In the PD game (Bornstein, 1992), the decision to compete was motivated by both defensive and
+offensive reasons. Group members assumed that the
+ingroup was somewhat more likely to compete than the
+outgroup and estimated their own group’s chances of
+winning the game as slightly higher.
+Experiments that allowed nonbinding communication (cheap talk) between the competing groups as well
+further establish the importance of the games’ payoff
+structure in determining intergroup beliefs and behaviors. Bornstein and Gilula (2003) found that betweengroup communication invariably led to the mutually
+cooperative outcome in the Assurance game while having absolutely no effect on cooperation in the Chicken
+game (again, as compared with the no-communication
+condition, Bornstein et al., 1996).
+These differential effects are again attributed to the
+structural differences between the two games. In the
+Assurance game, where the only rational reason to compete is fear of an irrational or competitive opponent (or
+fear of the opponent’s fear, and so on), communication
+was effectively used to reassure each group of the other
+group’s rationality (its intention to maximize absolute,
+rather then relative, payoffs), verify a common understanding of the game’s payoff structure, and enhance
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+trust through an explicit agreement of mutual cooperation (Majeski & Fricks, 1995). In the Chicken game,
+communication was utterly useless. Although promises
+to play cooperatively often were exchanged, none were
+kept, and the game was played as competitively, and as
+inefficiently, as in the no-communication experiment
+(Bornstein et al., 1996). Furthermore, between-group
+communication did little to change the biased ingroup/
+outgroup perceptions; group members still saw themselves as more determined than their rivals and were still
+confident about their chances to win the game.
+Another experiment that studied the effect of betweengroup communication in the PD game (Bornstein,
+1992) found it to be less effective in bringing about a
+peaceful resolution than in the Assurance game yet
+more effective in doing so than in the Chicken game.
+Moreover, between-group communication in the PD
+game, while significantly reducing the bias in ingroup/
+outgroup perceptions, did not eliminate it altogether.
+Thus, both the theoretical analysis of the games’ structure and the experimental results suggest that intergroup cooperation is more feasible in the Assurance
+and PD games than in the Chicken game.
+Intergroup Perceptions in Real-Life Contexts
+As argued above, perceptions of the strategic properties of real-life conflicts are subjective. Some people can
+perceive a given conflict as a game of Chicken, where winning is what matters most; others as a game of Assurance,
+where the crucial thing is not losing; and yet others as a
+PD game, where both winning and not losing are important (e.g., Plous, 1985, 1987). We assume that the same
+relations between game structure and intergroup perceptions observed in the laboratory would apply outside
+the laboratory as well. Accordingly, we hypothesize that
+the particular way in which individuals perceive or frame
+the structure of the Israeli-Palestinian conflict will be associated with their beliefs about the ingroup, the outgroup,
+and the expected outcomes of the intergroup conflict.
+In addition, people have a strong need for cognitive
+consistency (Abelson et al., 1968; Festinger, 1957),
+which serves as a mental “glue” that binds together different beliefs and attitudes into complex social and
+political syndromes (e.g., ethnocentrism, LeVine &
+Campbell, 1972; political conservatism, Jost, Glaser,
+Kruglanski, & Sulloway, 2003). We therefore expect
+people’s perception of the conflict to be associated with
+other conflict-related variables.
+Specific hypotheses. Our first hypothesis is that perceiving the Israeli-Palestinian conflict as a game of Chicken
+correlates positively with perceptions of ingroup superiority (i.e., high ingroup bias, S. T. Fiske, 2002; Hewstone,
+Rubin, & Willis, 2002), whereas perceiving it to be a
+
+1677
+
+game of Assurance correlates negatively with perceptions of ingroup superiority. We expect people who perceive the Israeli-Palestinian conflict as a PD game to
+report ingroup/outgroup perceptions located in
+between the two extremes reported by endorsers of the
+Chicken game and of the Assurance game.
+Intergroup conflict enhances ethnocentrism (Brewer,
+1999; LeVine & Campbell, 1972), which manifests itself
+in different ways in various intergroup settings. In a war
+between nations, ethnocentrism can be found in certain
+types of national identification (e.g., Kosterman &
+Feshbach, 1989; Mummendey, Klink, & Brown, 2001;
+Schatz & Staub, 1997). In rivalry between religious
+groups, ethnocentrism is reflected in the tendency of
+ingroup members to treat outgroup members with hostility and aggression (e.g., Allport, 1954; Beit-Hallahmi &
+Argyle, 1997; Fox, 2004; Struch & Schwartz, 1989; White
+& Langer, 1999). In political disputes, ethnocentrism
+may lead to strict adherence to political partisanship and
+ideology and rejection of alternative worldviews (e.g.,
+Chambers, Baron, & Inman, 2006; Cohen, 2003; Jost,
+Glaser, et al., 2003).
+We therefore hypothesize that perceiving the IsraeliPalestinian conflict as a game of Chicken, in which the
+only stable solution is the asymmetric outcome where
+one group dominates the other, will correlate positively
+with national identification, religiosity, and right-wing
+political partisanship (including both political orientation and actual voting behavior). Complementarily, we
+hypothesize that perceiving the conflict as a game of
+Assurance, in which both stable solutions involve equal
+outcomes for the ingroup and the outgroup, will correlate negatively with these ethnocentric attitudes. Finally,
+as with intergroup perceptions, we expect the associations between these variables and the endorsement of
+the PD game to be located somewhere in between.
+STUDY 1
+
+Study 1 was designed to explore the basic models of
+outcome interdependence that individuals use to represent the Israeli-Palestinian conflict in their minds
+and the relations between these subjective perceptions
+of the conflict and other conflict-related constructs.
+Finding meaningful and consistent associations between
+the two would indicate that prototypical mixed-motive
+games indeed capture common subjective perceptions
+of the conflict and that these subjective perceptions can
+be used to predict important social and political phenomena. Specifically, Study 1 examined associations
+between the endorsement of a particular game model
+and (a) perceptions of conflict of interests between the
+Israelis and the Palestinians, (b) evaluative ingroup bias,
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1678
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+(c) national identification, (d) religiosity, (e) political
+partisanship, and (f) voting behavior.
+Method
+Sample. Five hundred and six individuals, including
+both students and nonstudents (age range from 18 to
+64, M age = 27 years, 45% women), responded to this
+survey. All the respondents were Israeli citizens belonging to the Jewish majority group. Respondents were
+recruited through snowball sampling that started simultaneously at the campuses of eight institutions for
+higher education in Israel (six universities, one teachers’
+seminar, and one yeshiva—school for higher Jewish
+studies). A research assistant approached potential
+respondents on their way into a university library or a
+public library, asking them to respond to a survey concerning the Israeli-Palestinian conflict. Participation was
+completely voluntary and respondents were not rewarded
+or compensated in any way.
+MEASURES
+
+Endorsement of games. We constructed three different
+written descriptions of the Israeli-Palestinian conflict to
+fit the defining strategic properties of the Chicken,
+Assurance, and PD games, as described above. This
+method is consistent with the view (a) that perceptions
+of intergroup conflict are mentally represented as “stories,” (b) that there can be more than one such story,
+and (c) that these multiple stories can be hierarchically
+organized in individuals’ minds (Sternberg, 2003).
+Three expert judges (scholars who regularly use mixedmotive games in their own lines of research) were asked
+to read each of the scenarios and identify the game associated with each description. All three judges correctly
+identified the games behind the written descriptions.
+Respondents read three paragraph-long descriptions,
+each depicting the Israeli-Palestinian conflict as a different mixed-motive game (see the appendix). The order
+in which the three descriptions were presented was counterbalanced. Participants first read all the descriptions
+successively. Then they were instructed to read each
+description again (on a separate sheet) and respond to
+several questions. This method was used to ensure that
+participants read through all the alternative descriptions
+before responding. Participants were subsequently asked
+to rate on a scale ranging from 1 (not at all) to 7 (very
+much) the extent to which they thought each description
+accurately reflected the nature of the Israeli-Palestinian
+conflict. Specifically, they were asked to rate the extent to
+which they perceived each description to fit (a) the
+nature of the conflict, (b) Israelis’ view of the conflict,
+and (c) Palestinians’ view of the conflict. Cronbach’s
+alphas for these three items exceeded .75 for all three
+
+descriptions. The responses were then averaged to compute a single endorsement index for each game description. In addition to the rating measure, participants were
+asked to order the scenarios from the one with which
+they agreed the most to the one with which they agreed
+the least. The rationale behind the employment of two
+measures of game endorsement was the reasoning that
+individuals might differ in the extent to which they use
+mixed-motive games to represent real-life intergroup
+conflicts in their mind. Hence, including both a rating
+measure and a ranking measure to assess endorsement
+of games allowed us to assess the extent to which individuals possessed a consistent, consolidated perception
+of this conflict in terms of a particular game.3
+Perceived conflict of interests. To validate our scenarios, we
+assessed individuals’ perceptions of the level of conflict of
+interests between the Israelis and the Palestinians. We
+expected that individuals who see the conflict as a game
+of Chicken would perceive the interests of the two sides as
+highly conflicting and irreconcilable and that individuals
+who perceive the conflict as a game of Assurance would
+see the interests of the two sides as least conflicting.
+Perceived conflict of interests was assessed using five pairs
+of items, each measuring the subjective belief that each of
+the competing sides would achieve its goals. The first
+statement in each pair referred to the expected success
+of the Israelis and the second referred to that of
+the Palestinians (e.g., “The chances that the Israelis/
+Palestinians will achieve most of their goals in the conflict
+are . . . ”). The respondents’ task was to estimate each
+side’s probability of success (between 0% to 100%). For
+each individual, we averaged the five probability estimates
+for the Israelis and the five for the Palestinians to create
+mean expected success scores for the Israelis and the
+Palestinians, respectively. A negative correlation between
+these two scores reflects the perception that one group’s
+success in achieving its goals must be at the expense of
+the other group and thus indicates a perception of conflicting interests. A positive correlation between these two
+expectation scores indicates a perception of commonality
+of interests, reflecting a belief that profits for one group
+may involve gains for the other group too.
+Evaluative ingroup bias. Participants rated both
+Israelis (ingroup members) and Palestinians (outgroup
+members) on three traits (morality, trustworthiness,
+and violence) on a scale ranging from 1 (not at all) to
+7 (very much). We computed a difference score for each
+participant by subtracting the rating of the Palestinians
+from that of the Israelis (after reverse-coding the violence item) and averaged the three difference scores to
+create a single ingroup bias index for each participant.
+Higher scores on this index indicate greater evaluative
+ingroup bias. Cronbach’s alpha for the scale was .82.
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+Ethnocentrism. We used a 16-item scale to measure
+national identification. This scale had been validated
+in previous research (e.g., Roccas, Klar, & Liviatan, in
+press). Participants indicated their agreement or disagreement with each statement (e.g., “Being Israeli is
+an important part of my identity”; “It is important to me
+to contribute to my country”) on a scale ranging from
+1 (completely disagree) to 7 (completely agree). Cronbach’s
+alpha for this scale was .92.
+We used a single item validated in pretests to measure self-reported religiosity. Respondents indicated
+their religiosity on a scale ranging from 0 (not at all) to
+7 (very much). Political partisanship was measured on
+two scales ranging from 1 (not at all similar) to 6 (very
+similar). Participants were asked to indicate the extent
+to which their political attitudes normally resembled
+those of the hawkish, right-wing side of the political
+map and those of the dovish, left-wing side of the political spectrum. We computed a single index of rightwing political orientation by subtracting the response
+on the left-wing item from the response on the rightwing item. Higher scores on this index indicate a more
+hawkish political orientation. Finally, respondents indicated which political party they had voted for in the
+preceding general elections, which took place about 6
+months prior to the administration of the survey.
+Results and Discussion
+Endorsement of games. Two measures (rating and ranking) were used to assess the extent to which each individual perceived the Israeli-Palestinian conflict as a
+game of Chicken, a game of Assurance, and a PD game.
+For each respondent, we compared the responses on
+the two measures. Respondents were classified as consistent if they rated a particular game highest on the rating scales and ranked the same game as the most fitting
+description of the conflict on the ranking measure.
+Respondents were classified as inconsistent if they rated
+one game as most fitting but ranked a different game as
+the best description.
+Of 506 respondents, 335 (66%) were classified as consistent (hereafter labeled the CONS group) because they
+provided consistent responses to the rating and ranking
+measures. In this group, 67% of the participants perceived the Israeli-Palestinian conflict as a game of
+Assurance, 19% as a game of Chicken, and 14% as a PD
+game. The other 171 participants (hereafter labeled
+the NCONS group) were inconsistent in their responses,
+favoring one game in the rating scale and another in
+the ranking measure.4 We tested our hypotheses separately for each of these two groups.
+Results for the consistent majority. A MANOVA revealed
+that the order in which the different game descriptions
+
+TABLE 2:
+
+1679
+
+Means and Standard Deviations of the Research Variables
+as a Function of Game Endorsement (upper and lower
+lines in each row are for the CONS and NCONS groups,
+respectively).
+Conflict Perceived as a Game of
+
+Identification with
+one’s nation
+Evaluative ingroup bias
+Religiosity
+Right-wing (hawkish)
+Political orientation
+Voting for right-wing
+Political partiesa
+Voting for left-wing
+Political partiesa
+
+Chicken
+
+PD
+
+Assurance
+
+5.41 (.91)
+
+4.99 (.90)
+
+4.56 (1.11)
+
+5.18 (.93)
+4.02 (1.41)
+3.41 (1.28)
+3.94 (2.35)
+2.96 (2.44)
+2.47 (2.42)
+1.81 (2.40)
+75%
+79%
+4%
+5%
+
+4.99 (1.03)
+2.73 (1.67)
+2.66 (1.81)
+2.53 (2.10)
+2.28 (2.13)
+.73 (2.98)
+.53 (2.92)
+50%
+39%
+25%
+29%
+
+4.53 (.91)
+2.01 (1.57)
+1.75 (1.27)
+1.54 (1.90)
+1.69 (1.76)
+–1.61 (2.79)
+–1.29 (2.76)
+18%
+20%
+58%
+64%
+
+NOTE: The differences between means for Chicken and Assurance
+are significant (all ps < .001). The differences between Chicken and
+Prisoner’s Dilemma (PD) and between Assurance and PD are significant (all ps < .05).
+a. Indicates a valid percentage. Individuals who did not vote in the
+preceding elections are omitted (valid ns = 274 and 123 for the consistent [CONS] and inconsistent [NCONS] groups, respectively).
+
+were presented to respondents did not significantly
+affect game endorsement (p > .10 for all three games).
+Table 2 presents the means and standard deviations
+of the research variables separately for the CONS and
+NCONS groups. As expected, within the CONS group,
+the relation between the interests of the Israelis and
+those of the Palestinians was seen as negative by respondents who endorsed the game of Chicken (r = –.55,
+p < .001) and as positive by respondents who endorsed
+the game of Assurance (r = .46, p < .001). Also in accord
+with our expectations, respondents who endorsed the
+PD game perceived the conflict of interests between the
+Israelis and Palestinians to be in between these two
+extremes (r = .03, ns). These three correlations differed
+significantly from each other (Fischer’s Z ranged from
+2.78 to 7.77, all ps < .005).
+Table 3 presents the correlations between the
+research variables for these two groups. In accordance
+with our hypotheses, evaluative ingroup bias, national
+identification, religiosity, and political hawkishness all
+correlated positively with endorsement of the Chicken
+game and negatively with endorsement of the Assurance
+game. The associations with endorsement of the PD
+game were consistently between these two extremes.
+Finally, as hypothesized, endorsement of a particular
+game to describe the Israeli-Palestinian conflict also was
+associated with the self-reported vote in the last general
+elections. Specifically, those who endorsed the Chicken
+game as a description of the conflict voted primarily for
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1680
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+TABLE 3: Pearson Correlation Coefficients Among Research Variables for the CONS (n = 335, above the diagonal) and NCONS (n = 171,
+below the diagonal) Groups
+1
+1. Conflict perceived as a Chicken game
+2. Conflict perceived as a PD game
+3. Conflict perceived as an Assurance game
+4. Identification with one’s nation
+5. Evaluative ingroup bias
+6. Right-wing political orientation
+7. Religiosity
+
+.17*
+.00
+.08
+.21*
+.18*
+–.02
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+.23**
+
+–.37**
+–.10
+
+.37**
+.20*
+–.23**
+
+.45**
+.12*
+–.36**
+.65**
+
+.47**
+.18*
+–.49**
+.56**
+.65**
+
+.34**
+.02
+–.42**
+.44**
+.49**
+.58**
+
+.51**
+.01
+–.08
+–.08
+–.04
+
+–.14
+–.24*
+–.27*
+–.22*
+
+.63**
+.47**
+.42**
+
+.57**
+.37**
+
+.56**
+
+NOTE: PD = Prisoner’s Dilemma; CONS = consistent group; NCONS = inconsistent group.
+*p < .05. **p < .001.
+
+nationalist right-wing political parties, whereas those
+who endorsed the Assurance game voted primarily for
+left-wing parties. Endorsing the PD game was associated
+with voting for more moderate parties located near the
+center of the political spectrum.
+We subsequently carried out a more fine-grained
+analysis of our ranking data to further test our hypotheses. We expected to find a different pattern of responses
+for respondents who rank-ordered the games differently.
+Specifically, for all four variables—identification with
+one’s nation, evaluative ingroup bias, religiosity, and
+right-wing political orientation—we expected to find
+the following order of means, from lowest to highest:
+(1) Assurance-PD-Chicken, (2) Assurance-Chicken-PD,
+(3) PD-Assurance-Chicken, (4) PD-Chicken-Assurance,
+(5) Chicken-Assurance-PD, (6) Chicken-PD-Assurance.
+To test this hypothesis, we computed four Spearman correlation coefficients between the expected and the
+observed order of means for each of the four variables.
+Consistent with our hypothesis, the Spearman correlation coefficients were .94 (p = .005) for identification
+with the nation and 1.00 (indicating a perfect match) for
+evaluative ingroup bias, religiosity, and a right-wing political orientation.
+Age correlated negatively (although very weakly)
+with endorsement of the Chicken and PD games
+(r = –.10, p = .057; r = –.11, p = .049, respectively)
+and insignificantly with endorsement of the Assurance
+game (p > .50). Level of education did not significantly
+affect the endorsement of either the Chicken game
+(p > .30) or the Assurance game (p > .70). The mean
+endorsement of the PD game was higher for respondents with 12 or fewer years of formal education and
+lower for respondents with university degrees (4.17 vs.
+3.49, respectively), t(271) = –2.74, p = .007. Finally, men
+endorsed the Chicken game more strongly than did
+women (Ms = 3.71 vs. 3.30, respectively), t(332) = 2.37,
+p = .019, whereas women endorsed the Assurance game
+more strongly than did men (Ms = 5.30 vs. 4.72, respectively), t(332) = –3.69, p = .000. There were no gender
+
+effects for endorsement of the PD game (Ms = 3.69 for
+men and 3.50 for women, p = .361).
+Results for the inconsistent minority. A MANOVA revealed
+that the order in which the different game descriptions
+were presented to respondents did not significantly
+affect game endorsement in this group either (ps > .15
+for all three games). As can be seen in Tables 2 and 3, the
+pattern of means and associations between the research
+variables in the NCONS group was generally the same as
+in the CONS group. Nevertheless, as expected, the correlations between the endorsement of a particular game
+(using the rating measure) and other constructs were
+considerably weaker in the NCONS group.
+Study 1 demonstrated that the Chicken, Assurance,
+and PD games capture the basic ways in which individuals think about a real-life intergroup conflict. It also
+found that individuals use different games to represent
+the same real-life intergroup conflict and that these
+representations are significantly associated with conflictrelated beliefs, attitudes, and behaviors. This suggests
+that the systematic relations between the nature of
+group interdependence and intergroup perceptions
+previously found in laboratory experiments (Bornstein,
+1992; Bornstein et al., 1996; Bornstein & Gilula, 2003)
+also can be extended to real-life intergroup conflicts.
+STUDY 2
+
+Study 2 focused on the association between the
+endorsement of a particular game and the belief that
+certain relations ought to exist between the ingroup
+and the outgroup. Specifically, Study 2 examined the
+associations between endorsement of the Chicken and
+Assurance games as valid descriptions of the IsraeliPalestinian conflict and right-wing authoritarianism.
+Right-wing authoritarianism entails a perception
+of constant social threat from either inside or outside
+the group. According to Altemeyer (1998), right-wing
+authoritarians hold the view of “the world as a dangerous
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+place on the brink of self-destruction from evil and violence” (p. 52). Indeed, research shows that the perception of social threat, as opposed to personal threat, is
+strongly associated with authoritarianism (Duckitt,
+Wagner, du Plessis, & Birum, 2002; Feldman & Stenner,
+1997). Because outgroups are often considered a potential source of threat, right-wing authoritarianism, as
+a sociopolitical worldview, often is associated with ethnocentrism, prejudice, discrimination, and intolerance
+(Adorno, Frenkel-Brunswik, Levinson, & Sanford, 1950;
+Altemeyer, 1981, 1988, 1998; Duckitt & Fisher, 2003;
+Eckhardt, 1991; Feldman, 2003; Jost, Glaser, et al., 2003).
+Seeing the outgroup as a threatening enemy rather
+than a potential collaborator predisposes individuals
+with a high score on right-wing authoritarianism to
+endorse the Chicken game as a description of intergroup
+conflicts in general and the Israeli-Palestinian conflict in
+particular. Consistent with the worldview of right-wing
+authoritarianism, the Chicken game portrays intergroup
+conflict as a dangerous game, where winning is crucial
+and mutual disaster is a real possibility. Also consistent
+with their perception of the conflict as a Chicken game
+is the tendency of right-wing authoritarians to favor
+a forceful reaction to outgroup threat and to believe in
+the superiority of the ingroup over the outgroup. We
+thus hypothesize that right-wing authoritarianism correlates positively with endorsement of the Chicken game
+and negatively with endorsement of the Assurance game
+to describe the Israeli-Palestinian conflict.
+Method
+One hundred and ninety-four students (M age = 24,
+SD = 2, 57% women) responded to this survey. Students
+were approached in class by a research assistant and
+were offered the chance to participate in a lottery
+in which two prizes of 100NIS each (approximately
+US$20) would be given out.
+Respondents completed a 10-item version of the rightwing authoritarianism scale (McFarland, 2005). Pretest
+results (N = 90) showed that this short measure of rightwing authoritarianism correlates strongly (.87, p < .001)
+with Altemeyer’s 30-item scale. Respondents subsequently
+completed the measure of game endorsement used in
+Study 1. Based on the findings of Study 1, which showed
+that the Chicken and Assurance games are situated at the
+two extreme poles of intergroup perception, Study 2 used
+only these two games, omitting the PD game.
+Results and Discussion
+In accord with our hypothesis, right-wing authoritarianism correlated positively with endorsement of the
+Chicken game (r = .44, p < .001) and negatively with
+endorsement of the Assurance game (r = –.39, p < .001)
+
+1681
+
+as accounts of the Israeli-Palestinian conflict. These
+results extend those of Study 1 by showing that endorsement of these game models is associated not only with
+views of the ingroup and the outgroup but also with a
+social-political worldview that addresses the relations that
+ought to exist between the ingroup and the outgroup.
+Right-wing authoritarianism, in particular, has important
+implications for intergroup relations and might therefore affect the prospects of conflict resolution.
+Studies 1 and 2 used surveys to investigate how individuals utilize abstract game models to describe their
+subjective views of a real-life intergroup conflict.
+Studies 3 and 4 employed experimental designs to
+study the role of individual needs in motivating
+people’s perception of intergroup conflict. Consistent
+with the motivated social cognition approach (e.g., Jost,
+Blount, Pfeffer, & Hunyady, 2003; Jost, Glaser, et al.,
+2003; Kruglanski, 1996), we maintain that individuals’
+endorsement of a simple game to describe a complex
+intergroup conflict might be aimed, at least in part, at
+satisfying certain individual needs (see also Bar-Tal,
+Kruglanski, & Klar, 1989).
+STUDY 3
+
+Schematic perceptions of a real-life intergroup conflict are first and foremost information structures,
+which follow the same epistemic processes as all other
+beliefs (Bar-Tal et al., 1989, p. 237). Study 3 investigates
+the extent to which such perceptions are indeed sensitive to an experimental manipulation known to affect
+epistemic processes. Specifically, Study 3 focuses on the
+effect of an experimentally induced need for cognitive
+closure on endorsement of game models to describe
+the Israeli-Palestinian conflict.
+Certain informational states are considered rewarding (e.g., absolute confidence in one’s knowledge, simplified cognitive structures; Van Hiel, Pandelaere, &
+Duriez, 2004). Trying to attain these desired states often
+affects the nature of the epistemic processes that individuals employ, as well as the results of these processes.
+Specifically, epistemic needs affect the duration of the
+quest for knowledge and the mental flexibility exercised
+in this quest (Kruglanski, 1989; Kruglanski & Webster,
+1996). According to Lay Epistemic Theory (Kruglanski,
+1989), individuals dislike uncertainty and ambiguity.
+This tendency often leads people to adopt firm beliefs
+and prefer simple information structures.
+Study 3 was designed to examine whether temporarily increasing people’s need for cognitive closure affects
+their endorsement of the various game models as
+descriptions of an intergroup conflict. Research suggests that “individuals high in need for cognitive
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1682
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+closure may tend to construe conflicts in a one-sided,
+black-and-white fashion. This suggests that a high need
+for cognitive closure should be associated with a more
+aggressive approach toward intergroup conflict” (Golec
+& Federico, 2004, p. 750). Thus, one plausible hypothesis is that temporarily raising people’s need for closure
+will lead to greater endorsement of the Chicken game
+and lower endorsement of the Assurance game to
+describe the Israeli-Palestinian conflict. Golec and
+Federico (2004) further suggest that a strong need for
+cognitive closure might “produce increased reliance on
+salient beliefs about how the conflict should be dealt
+with” (p. 570). Thus, a second plausible hypothesis is
+that temporarily raising people’s need for cognitive closure may lead to increased endorsement of the Chicken
+or of the Assurance game, depending on the perception one held to begin with.
+We maintain, however, that although the Chicken
+and Assurance games have different strategic properties, the two games are similar in the sense that both
+enable individuals to replace a complex real-life situation of interdependence with a simplified abstract
+structure in their mind. The Chicken and Assurance
+are both 2 × 2 mixed-motive games and are thus equally
+simple (or complex). We therefore assume that the two
+games are equally suited for satisfying the epistemic
+need for a simplified mental representation of the
+intergroup conflict. Consequently, we tested the
+hypothesis that increasing people’s need for cognitive
+closure would lead them to indiscriminately endorse
+either game as an account of the Israeli-Palestinian conflict. Of importance, Study 3 was designed to allow falsification of all three competing hypotheses (i.e.,
+increased aggressiveness, increased reliance on preexisting beliefs, and undiscriminating endorsement of
+both games).
+To manipulate the saliency of epistemic needs, we
+varied the level of cognitive load (CL). Previous
+research has shown that increasing CL renders information processing more effortful and costly so that
+individuals are quicker to form judgments and show
+greater preference for well-structured information
+(e.g., Bar-Tal et al., 1989; Landau et al., 2004). Thus, we
+predict that participants in the high CL condition will
+endorse the Chicken and Assurance games indiscriminately, regardless of whether they are right-wing or leftwing supporters, whereas participants in the low CL
+condition (the control group) would perceive the conflict as either a game of Chicken or as a game of
+Assurance, depending on their political worldview.
+That is, consistent with the findings of Study 1, when
+CL is low, right-wing supporters should prefer the
+Chicken game over the Assurance game, whereas leftwing supporters should show the reverse pattern.
+
+Method
+One hundred and eighteen students (M age = 24,
+SD = 3, 42% women) participated. Participants were
+recruited through ads on campus offering a monetary
+reward (approximately US$3) for participation.
+Participants were randomly assigned to the low CL or
+high CL condition. We used a standard paradigm of a
+digit-span memory task to manipulate cognitive load.
+Participants in the low cognitive load condition had to
+memorize (and later recall) a three-digit number during
+information processing (i.e., while responding to the
+same measure of game endorsement used in Study 2),
+whereas participants in the high cognitive load condition
+were given a 10-digit number to memorize and recall.
+We assessed the endorsement of game models and
+political partisanship (right-wing/left-wing) using the
+same methods employed in Studies 1 and 2. We computed a difference score for each individual by subtracting the response on the left-wing scale from that
+on the right-wing scale. Participants were classified as
+right-wing supporters if their difference score was positive and as left-wing supporters if it was negative.
+Results and Discussion
+In accord with our hypothesis, participants in the
+low CL condition differed significantly in the endorsement of the two game models as a function of their
+worldview (political partisanship), namely, left-wing
+supporters were more likely than right-wing supporters
+to endorse the Assurance game, whereas right-wing
+supporters were more likely than left-wing supporters
+to endorse the Chicken game. The participants in the
+high CL condition were equally likely to endorse either
+game regardless of their worldview. These results are
+depicted in Figure 1.
+Specifically, when cognitive load was low, the mean
+endorsement score for the Assurance game as a
+description of the Israeli-Palestinian conflict was 5.00
+for left-wing and 3.69 for right-wing supporters, t(49) =
+3.19, p < .005. The mean endorsement of the Chicken
+game in this condition was 3.40 for left-wing and 4.73
+right-wing supporters, t(49) = –3.12, p < .005. When
+cognitive load was high, the mean endorsement of the
+Assurance game was 5.00 and 4.55 for left-wing and
+right-wing supporters, respectively, t(52) = 1.21, p > .20,
+whereas the mean endorsement of the Chicken game
+was 4.10 and 4.61 for left-wing and right-wing supporters, respectively, t(53) = –1.02, p > .30.
+The results of Study 3 indicate that a strong need for
+cognitive closure leads to undiscriminating endorsement of both game models as plausible accounts of the
+conflict. The study did not find support for the notion
+that the need for cognitive closure increases support
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+
+1683
+
+Method
+
+Endorsement Score
+
+5
+
+4.5
+
+4
+
+3.5
+
+3
+Right Wing
+
+Left Wing
+
+Low CL
+Chicken
+
+Right Wing
+
+Left Wing
+
+High CL
+Assurance
+
+Figure 1
+
+Endorsement of game models by political partisanship
+under conditions of low and high cognitive load.
+NOTE: CL = cognitive load.
+
+for a competitive, black-and-white (“us or them”) view
+of the conflict or that it increases reliance on preexisting schematic perceptions of the conflict.
+STUDY 4
+
+Study 4 was designed to examine the effect of security
+needs on endorsement of the Chicken and Assurance
+games as plausible accounts of the Israeli-Palestinian
+conflict. In contrast to epistemic needs, rendering security needs salient should facilitate a differential endorsement of the games, leading individuals to choose one
+game over the other as the more accurate account of
+this conflict.
+Fear and greed are the two prime motivators for
+competing in intergroup conflict (e.g., Insko et al.,
+1993; Insko & Schopler, 1987; Insko, Schopler, Hoyle,
+Dardis, & Graetz, 1990). Analyses of social motives
+in experimental settings (e.g., Bornstein et al., 1996;
+Bornstein & Gilula, 2003; Kelley et al., 2003) suggest
+that the game of Assurance makes fear and the need for
+security more salient than the game of Chicken, where
+greed is the prime motivator. In addition, the game of
+Assurance provides a benign, reassuring, stable solution
+to the conflict situation, which the threatening game of
+Chicken does not. Study 4 thus tested the hypothesis
+that rendering security needs salient would increase
+support for the fear-associated Assurance game but
+would not affect endorsement of the greed-associated
+Chicken game.
+
+One hundred and thirty-two students participated
+(M age = 24, SD = 3, 61% women). Participants were
+recruited through ads on campus offering a monetary
+reward (approximately U.S.$4) for participation. We
+manipulated the saliency of security needs using a mortality salience manipulation derived from research
+in the Terror Management paradigm (e.g., Cozzolino,
+Staples, Meyers, & Samboceti, 2004; Greenberg,
+Solomon, & Pyszczynski, 1997). Participants were randomly assigned to the mortality salience (MS) condition
+or a control condition. Participants in the MS condition
+read a scenario depicting death by fire in an apartment
+building and were asked to imagine themselves in this
+situation. Participants in the control condition read
+a scenario depicting a harmless visit to a similar apartment building and were asked to imagine themselves in
+that situation (Cozzolino et al., 2004). Then, participants in both conditions responded to an open-ended
+question asking them to describe their thoughts and
+emotions in detail. Following the experimental manipulation, individuals received the same measures of
+game endorsement and political partisanship used in
+Studies 1 through 3.
+Results and Discussion
+Manipulation check. Each phrase in the responses to
+the open-ended question was coded as indicating negative, positive, or neutral emotions, reflections, and physical reactions. Examples of negative responses were
+fear, frustration, stress, anxiety, helplessness, and stating a “difficulty in breathing.” Examples of positive
+responses were calm, happy, satisfied, relaxed, fun, and
+pleasant. Examples of neutral responses were curious,
+indifferent, strange, and describing the story as “unrealistic.” For each participant, we computed a difference
+score by subtracting the number of positive responses
+from the number of negative responses. Higher scores
+on this measure indicate a more negative reaction.
+Participants in the MS condition reported significantly
+more negative reactions than did participants in the
+control condition (M = 1.96, SD = 1.93; M = –1.58, SD =
+1.55, respectively), t(130) = 11.58, p = .000.
+In accord with our hypothesis, the mean endorsement of the Assurance game as an accurate account of
+the Israeli-Palestinian conflict was significantly higher
+in the MS condition than in the control condition
+(M endorsement = 5.12 vs. 4.51, respectively), t(130) =
+2.23, p < .05. As expected, the MS manipulation did not
+significantly affect the endorsement of the greedassociated Chicken game (M endorsement = 3.69 vs.
+3.86, in the MS and control conditions, respectively),
+p > .50. The results are presented in Figure 2.
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1684
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+5.5
+
+Endorsement Score
+
+5
+
+4.5
+
+4
+
+3.5
+
+3
+Control
+Chicken
+Figure 2
+
+Mortality Salience
+Assurance
+
+Endorsement of game models under conditions of mortality salience and control.
+
+Analyzing the results separately for right-wing and
+left-wing supporters indicates that although both
+groups were more likely to endorse the Assurance game
+in the MS condition than in the control condition, the
+effect was statistically significant only for right-wing supporters. The mean endorsement scores for the rightwing participants were 4.67 and 3.62 in the MS and
+control conditions, respectively, t(54) = 2.34, p < .05.
+For left-wing supporters, these scores were 5.70 and
+5.24, respectively, t(58) = 1.58, p < .15. The smaller
+effect size among left-wing supporters probably reflects
+a ceiling effect because these participants tended to
+endorse the Assurance game more strongly to begin
+with. Still, Study 4 lends further support to the view that
+people’s perceptions of intergroup conflict are motivated, at least in part, by the saliency of individual
+needs. Of importance, Study 4 used a manipulation of
+incidental (rather than integral) threat caused by an
+exogenous source and not by the stimulus under judgment (i.e., we did not use outgroup threat or threat
+caused by the intergroup conflict itself as our manipulation). Identifying the outgroup as the source of threat
+might plausibly lead to a different pattern of results
+(see Study 2 for a discussion of the associations between
+perceived outgroup threat and game endorsement).
+GENERAL DISCUSSION
+
+Surveys administered to both students and nonstudents in Israel were used to examine the extent to which
+subjective views of the strategic properties of the
+
+Israeli-Palestinian conflict can be captured by three prototypic mixed-motive games and whether these views are
+associated with other conflict-related psychological constructs. Studies 1 and 2 found that perceiving the conflict
+in terms of a particular game was predictably associated
+with beliefs and attitudes regarding the ingroup and the
+outgroup as well as with more general belief-systems,
+worldviews, and behaviors that affect the relations
+between the conflicting groups. Studies 3 and 4 provided
+initial support for the notion that perceiving the conflict
+as a simple mixed-motive game is motivationally functional. Specifically, Study 3 showed that rendering epistemic needs salient facilitates the endorsement of either
+the Chicken or the Assurance game. These two games,
+being similar in simplicity, seem to be equally suitable for
+satisfying people’s need to replace a complex real-life
+conflict with a simple mental structure. Study 4 showed
+that increasing the saliency of security needs increases
+people’s tendency to endorse the Assurance game as an
+accurate account of the conflict.
+The current research builds on Realistic Conflict
+Theory (Campbell, 1972; Coser, 1956; Sherif, 1966), in
+presupposing that the (real or perceived) interdependence between the groups is crucial and that different
+patterns of interdependence lead to different cognitions and behaviors. However, although realistic conflict theory (as well as research on conflict schemas,
+e.g., Bar-Tal et al., 1989; Golec & Federico, 2004) makes
+only a crude distinction between competitive and cooperative intergroup relations, we employed a more finegrained distinction between different games, each
+containing a qualitatively different mixture of competitive and cooperative elements.
+The finding that people use different games to
+describe the same real-life conflict also is consistent
+with the Social Identity approach (e.g., Tajfel & Turner,
+1979, 1986; for reviews, see Brown, 2000; Turner, 1999),
+which emphasizes the role of subjective views in shaping intergroup relations. We agree with the Social
+Identity approach that intergroup conflict is, to some
+degree, in the eyes of the beholder. Moreover, consistent with the assertions of the Social Identity approach,
+the present study demonstrates that subjective perceptions of a real-life conflict are meaningfully associated
+with group identification.
+The results of this research also are consistent with
+interdependence theory as applied to interpersonal,
+mainly dyadic, relations. Kelley and Thibaut (1978),
+and more recently Kelley et al. (2003), theorized that
+individuals may mentally transform the structure of a
+given payoff matrix and act on the new effective matrix
+when making their decisions. Kiyonari et al. (2000)
+argued that individuals often transform the Prisoner’s
+Dilemma game into an Assurance game and behave
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+
+1685
+
+accordingly. We add to these findings by showing that
+individuals subjectively transform the structure of a
+real-life intergroup conflict in a manner consistent with
+their preexisting beliefs and worldviews.
+Our findings also relate to the literature on social
+value orientations. This literature shows that people’s
+perceptions and behavior in both laboratory and reallife social situations is meaningfully associated with the
+value they attach to their own outcomes as compared
+with the outcomes of others with whom they are interdependent (Joireman, Van Lange, Kuhlman, Van Vugt,
+& Shelley, 1997; Liebrand, Wilke, Vogel, & Wolters,
+1986; Van Lange, 1999, 2004; Van Vugt et al., 1995). The
+findings of the current research indicate that people differ in their perceptions of the pattern of outcome interdependence. Future research could examine whether
+social value orientations affect these perceptions. Thus,
+future research on social value orientations could focus
+not only on the way people perceive interdependence
+situations in laboratory settings (provided to participants in the form of payoff matrices) but also investigate
+individuals’ perceptions of the structural properties of
+real-life social interactions (e.g., Joireman et al., 1997).
+Research on the “Might versus Morality” effect is particularly relevant in this respect. Liebrand, Jansen,
+Rijken, and Suhre (1986) found that whereas individuals with prosocial motives interpreted interdependence
+decision making in terms of morality, individuals with
+proself motives interpreted the same task in terms of
+power relations. Van Lange and Kuhlman (1994)
+manipulated the perceived honesty and perceived intelligence of partners, showing that social value orientations moderate the effects of this information on
+participants’ expectations regarding partners’ cooperation as well their own cooperation. Finally, De Dreu and
+Boles (1998) showed that social motives are associated
+with negotiators’ information processing in that prosocial individuals choose and recall more cooperative
+than competitive heuristics when preparing for negotiation, whereas competitors display the reverse pattern.
+Based on these studies, it is plausible to assume that
+social value orientations would be related to individual
+differences in the endorsement of game models to
+describe real-life intergroup conflicts as well.
+
+& McCusker, 1997; Liberman, Samuels, & Ross, 2004;
+Weber et al., 2004).
+An alternative method would be using 2 × 2 matrices
+to describe the games (see, e.g., Joireman et al., 1997;
+Kelley, 1979, pp. 85-91). Such a method provides
+abstract, context-free descriptions of the games and is
+thus less contaminated by a specific social context.
+However, such a method might be less natural for participants as a means for reporting their perceptions and
+preferences. Lay cognition about social situations is
+probably not organized as outcome matrices (Joireman
+et al., 1997, p. 443) but rather has story-like qualities
+(Sternberg, 2003). Future research could compare the
+two approaches.
+For the sake of simplicity, two important issues have
+been largely ignored in the article. First, the descriptions
+of the conflict that were provided to participants portrayed a game that is played once, in which decisions are
+made simultaneously with no communication between
+the players. In real life intergroup conflicts, the game is
+typically an ongoing one, moves are rarely simultaneous,
+formal and informal communication is regularly
+exchanged between the sides, and each side constantly
+observes the other in an attempt to assess its intentions
+and capabilities. Intergroup conflicts in general, and the
+Israeli-Palestinian conflict in particular, are complex
+dynamic games rather than simple matrix games.
+Nevertheless, we theorize (as does the theory of interdependence, e.g., Kelley et al., 2003) that the static properties of games can provide valuable insights into people’s
+behavior and cognition in dynamic games as well.
+Second, groups, certainly nations, are not unitary
+players. To execute a collective group strategy, the
+group has to induce its individual members to contribute the necessary effort (of time, money, and willingness to risk injury and death). Moving from group
+decision to group action is not trivial. This is so because
+individual contribution, while being potentially very
+costly, can hardly affect the outcome of a large-scale
+conflict, and the payoffs associated with the outcome of
+the conflict are often available to all group members
+regardless of whether they contributed (these payoffs,
+in other words, are public goods, Bornstein, 2003;
+Rapoport & Bornstein, 1987).
+
+Methodological Issues and Research Limitations
+
+Relevance for Other Types of Intergroup Conflict
+
+In the current research, we measured perceptions of
+outcomes interdependence (i.e., endorsement of games)
+using verbal descriptions of games. This approach
+unavoidably involves making choices about the phrasing
+or framing of strategies and outcomes. These framing
+effects can potentially change the way the situation is perceived (e.g., Allison, Beggan, & Midgley, 1996; De Dreu
+
+What is key to our research is the assumption that a
+limited number of abstract interdependence patterns
+can capture both the objective social reality of intergroup conflicts and the subjective mental representation
+of this reality (e.g., Anderson, 1991; A. P. Fiske, 1992;
+Kelley, 1997). Kelley (1997) suggested that the ability to
+think about social interdependence in an abstract way
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1686
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+is what enables individuals to develop cognitive, emotional, and behavioral strategies to cope with various
+interdependence situations “that are diverse in their
+details but similar in their essential features” (p. 152).
+The Chicken, Assurance, and PD games may have figural prominence in the stimulus field, which according
+to Kelley (1997), gives them prototypic (or “deep structure”; Chomsky, 1980) status in people’s minds.
+We suggest the concept of conflict templates to distinguish between the recurring fundamental patterns
+or structural regularities used by people to represent
+intergroup conflicts in their mind and the very same
+games used by scholars to model the reality of such conflicts or to reproduce it in the laboratory. Clearly, as
+shown by the present study, people may use different
+mental templates to grasp the same real conflict, and
+we assume that different conflicts may be perceived
+using the same template.
+Thus, although the Israeli-Palestinian conflict (similar to any other real-life conflict) has many unique features, the knowledge provided by the current research
+may perhaps be used for understanding other intergroup conflicts as well. Preliminary research has already
+shown that people differentially endorse the Chicken
+and Assurance games to describe religious and organizational conflicts. For example, Halevy, Bornstein,
+Sagiv, and Roccas (2004) showed that in the conflict
+between different religious factions within Judaism
+(orthodox vs. reformed Jews in Israel), social distance
+(e.g., Struch & Schwartz, 1989) correlated positively
+with endorsement of the Chicken game and negatively
+with the endorsement of the Assurance game.
+Moreover, as shown by another study, people can
+effectively use these games not only to describe personally relevant conflicts but also to reflect on conflicts that
+do not involve their own group. Halevy, Bornstein,
+Sagiv, and Roccas (2005) investigated how people
+attribute different conflict templates to different
+leaders. International relations students read verbal
+descriptions of an abstract (context-free) intergroup
+conflict, portrayed once as a game of Chicken and a
+second time as a game of Assurance. Participants were
+told that these were in fact paragraphs taken from
+speeches by political leaders delivered during a time of
+conflict. The participants’ task was to identify the leader
+most likely to have given each speech from a list of 12
+20th-century leaders. The leader judged as most likely
+to have given the Chicken speech was Winston
+Churchill, who led Britain in fighting an uncompromising battle during World War II (with Martin Luther
+King Jr., Gandhi, and Mandela judged as the least
+likely). The leader judged most likely to have given the
+Assurance speech was Jimmy Carter, who won the
+Nobel Peace Prize in 2002 for his endeavors to find
+
+peaceful solutions to international conflicts (with
+Mussolini, Hitler, and Stalin judged as least likely).
+Implications for Conflict Management
+and Conflict Resolution
+This research shows that perceiving a conflict in
+terms of a particular game model is associated with
+social and political worldviews. Individuals’ need for
+cognitive consistency makes it difficult to change one
+component (e.g., perceptions of ingroup superiority)
+without affecting the others (e.g., perceptions of interdependence). Although this state of affairs seemingly
+constitutes an obstacle for improving intergroup relations, it also holds a promise: If one can change the subjective perception of the conflict’s structure, perhaps
+changes in other components (e.g., ingroup/outgroup
+perceptions) might follow. Similarly, if one changes
+ingroup/outgroup perceptions, one also might change
+the subjective interpretation of the conflict’s structure.
+As our research shows, such perceptions are malleable
+to some extent: Both cognitive (Study 3) and motivational (Study 4) experimental manipulations can, at
+least temporarily, affect perceptions of group interdependence. Specifically, leading individuals to renounce
+the Chicken conflict template in favor of the Assurance
+conflict template might increase their propensity to
+pursue peace.
+
+APPENDIX
+The Israeli-Palestinian Conflict Described in Terms of
+Chicken, Assurance, and Prisoner’s Dilemma Games
+CHICKEN
+
+In the Israeli-Palestinian conflict, if the Israelis don’t make
+territorial concessions and the Palestinians don’t end their violent struggle, both sides to the conflict could end up in a headon collision that would inflict great damage on both. Such a
+risk of a disastrous outcome can be prevented only if one of the
+sides admits defeat and allows the other side complete victory.
+If one side is perceived as more determined and committed to
+win at all costs, it can win the conflict by causing the other side
+to surrender, provided that it is rational. The Israeli-Palestinian
+conflict thus has three possible outcomes: complete victory for
+the Israelis, complete victory for the Palestinians, and a headon collision that will end in disastrous outcomes for both.
+
+Assurance
+In the Israeli-Palestinian conflict, both sides would be
+better off if the Israelis make territorial concessions and the
+Palestinians end their violent struggle. The benefits for each
+side separately and for both of them together, in this case,
+would be as great as possible. Once such a cooperative state is
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+reached, it is likely to be sustained by both sides because competition would be self-defeating. However, fear that the other
+side will act irrationally prevents the Israelis and the
+Palestinians from reaching such a mutually beneficial state.
+Specifically, the Israelis fear that the Palestinians might irrationally choose to continue the violent struggle. Likewise, the
+Palestinians fear that the Israelis would irrationally choose
+not to make territorial concessions.
+PRISONER’S DILEMMA
+
+In the Israeli-Palestinian conflict, if the Palestinians end
+the violent struggle, then there is no reason for the Israelis to
+make territorial concessions, and if the Palestinians continue
+the violent struggle, then there is even less reason for the
+Israelis to reward them with territorial concessions. From the
+Palestinians’ point of view, if the Israelis continue to hold
+onto the territories, they should continue their violent struggle, and if the Israelis make territorial concessions because of
+the violent struggle, then there is even more reason for the
+Palestinians to continue the violent struggle. Thus, regardless
+of what the Palestinians do, the Israelis should not make territorial concessions, and regardless of what the Israelis do, the
+Palestinians should continue their violent struggle. In this
+conflict, however, if the Israelis don’t make territorial concessions and the Palestinians don’t end the violent struggle, both
+will lose a great deal. Contrarily, if the Israelis make territorial
+concessions and the Palestinians end the violent struggle,
+both stand to profit a great deal.
+NOTES
+1. We acknowledge that different individuals experience the
+Israeli-Palestinian conflict (similar to any other real-life conflict) differently. Differential exposure to media, informational gaps, each
+person’s unique background in terms of military service, exposure to
+terrorist attacks, and many other factors clearly make a difference.
+Accordingly, throughout the article, when we write “the same situation” all we mean to say is that this research consistently refers to different views of the one intractable conflict commonly referred to as
+“the Israeli-Palestinian Conflict.”
+2. It should be stressed that intergroup competitions in these
+experiments were not operationalized as two-person games but rather
+as team games where each group member decides privately whether
+to contribute to the collective group effort. Team games, unlike twoperson games, allow for conflicts of interests within the groups as well
+(Bornstein, 2003). However, if one ignores these internal conflicts,
+team games are reduced to two-person games.
+3. We do not contend that all individuals use game models similarly in perceiving structural relations between groups. Rather, individuals may differ in their tendency to utilize structures of outcome
+interdependence to describe real-life intergroup conflicts or even in
+their tendency to perceive real-life intergroup conflicts in such terms.
+Accordingly, we expect to find meaningful and consistent associations
+between the endorsement of games and other conflict-related constructs only for those individuals who show a consistent, consolidated
+perception of the Israeli-Palestinian conflict in terms of a particular
+mixed-motive game.
+4. The fact that about one third of the respondents provided
+inconsistent responses to the two measures of game endorsement
+might reflect individual differences in the tendency to use game
+models to describe real-life intergroup conflicts, a desire of some
+respondents to balance their responses not to appear too competitive
+
+1687
+
+or too cooperative, or lack of fully consolidated attitudes and perceptions regarding the strategic nature of this conflict. We tried to
+minimize misunderstanding of the instructions by having one of the
+authors present throughout the data collection, training research
+assistants properly, running pretests and various versions of the questionnaire, and so on. However, some inconsistent responses might
+reflect limitations of our survey. As Table 3 shows, the interrelations
+between research variables other than game endorsement nevertheless formed the expected pattern in both the consistent (CONS) and
+the inconsistent (NCONS) groups. This provides some reassurance
+that the inconsistent endorsements of the games, as well as the
+weaker associations of game endorsement with these variables in the
+NCONS group, were not caused by lack of attention or carelessness
+in responding because these also would have affected the interrelations between other variables.
+REFERENCES
+Abelson, R. P., Aronson, E., McGuire, W. J., Newcomb, T. M.,
+Rosenberg, M. J., & Tannenbaum, P. H. (1968). Theories of cognitive
+consistency: A sourcebook. Chicago: Rand McNally.
+Adorno, T. W., Frenkel-Brunswik, E., Levinson, D. J., & Sanford, R. N.
+(1950). The authoritarian personality. New York: Harper.
+Allison, S. T., Beggan, J. K., & Midgley, E. H. (1996). The quest for
+“similar instances” and “simultaneous possibilities”: Metaphors in
+social dilemma research. Journal of Personality and Social Psychology,
+71, 479-497.
+Allport, G. W. (1954). The nature of prejudice. New York: Addison-Wesley.
+Altemeyer, B. (1981). Right-wing authoritarianism. Winnipeg, Canada:
+University of Manitoba Press.
+Altemeyer, B. (1988). Enemies of freedom. San Francisco: Jossey-Bass.
+Altemeyer, B. (1998). The other “authoritarian personality.” In
+M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 30,
+pp. 47-92). New York: Academic Press.
+Anderson, J. R. (1991). The adaptive nature of human categorization.
+Psychological Review, 98, 409-429.
+Axelrod, R. (1984). The evolution of cooperation. New York: Basic Books.
+Barnea, M. F., & Schwartz, S. H. (1998). Values and voting. Political
+Psychology, 19, 17-40.
+Bar-Tal, D., Krugalnski, A. W., & Klar, Y. (1989). Conflict termination: An
+epistemological analysis of international cases. Political Psychology, 10,
+233-255.
+Beit-Hallahmi, B., & Argyle, M. (1997). The psychology of religious behavior, belief & experience. London: Routledge.
+Bornstein, G. (1992). The free rider problem in intergroup conflicts
+over step-level and continuous public goods. Journal of Personality
+and Social Psychology, 62, 597-606.
+Bornstein, G. (2003). Intergroup conflict: Individual, group and collective interests. Personality and Social Psychology Review, 7, 129-145.
+Bornstein, G., & Gilula, Z. (2003). The effect of between group communication on conflict resolution in the assurance and chicken
+team games. Journal of Conflict Resolution, 47, 326-339.
+Bornstein, G., Mingelrin, D., & Rutte, C. (1996) The effects of withingroup communication on group decision and individual choice in
+the assurance and chicken team games. Journal of Conflict Resolution,
+40, 486-501.
+Brewer, M. B. (1999). The psychology of prejudice: Ingroup love or
+outgroup hate? Journal of Social Issues, 55, 429-435.
+Brown, R. (2000). Social identity theory: Past achievements, current
+problems and future challenges. European Journal of Social
+Psychology, 30, 745-778.
+Campbell, D. T. (1972) On the genetics of altruism and the counterhedonic components in human culture. Journal of Social Issues, 3,
+21-37.
+Chambers, J. R., Baron, R. S., & Inman, M. L. (2006). Misperception
+in intergroup conflict: Disagreeing about what we disagree about.
+Psychological Science, 17, 38-45.
+Chomsky, N. (1980). On binding. Linguistic Inquiry, 11, 1-46.
+Cohen, G. L. (2003). Party over policy: The dominating of group
+impact on political beliefs. Journal of Personality and Social Psychology,
+85, 808-822.
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+1688
+
+PERSONALITY AND SOCIAL PSYCHOLOGY BULLETIN
+
+Colman, A. M. (1999). Game theory and its applications (2nd ed.). New
+York: Routledge.
+Coser, L. A. (1956). The functions of social conflict. New York: Free Press.
+Cozzolino, P. J., Staples, A. D., Meyers, L. S., & Samboceti, J. (2004).
+Greed, death and values: From terror management to transcendence management theory. Personality and Social Psychology Bulletin,
+30, 278-292.
+De Dreu, C. K. W., & Boles, T. L. (1998). Share and share alike or winner take all? The influence of social value orientation upon choice
+and recall of negotiation heuristics. Organizational Behavior and
+Human Decision Processes, 76, 253-276.
+De Dreu, C. K. W., & Carnevale, P. J. (2003). Motivational bases of
+information processing and strategy in conflict and negotiation.
+In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol.
+35, pp. 235-291). New York: Academic Press.
+De Dreu, C. K. W., & McCusker, C. (1997). Gain-loss frames and
+cooperation in two-person social dilemmas: A transformational
+analysis. Journal of Personality and Social Psychology, 72, 1093-1106.
+Duckitt, J., & Fisher, K. (2003). The impact of social threat on worldview and ideological attitudes. Political Psychology, 24, 199-222.
+Duckitt, J., Wagner, C., du Plessis, I., & Birum, I. (2002). The psychological bases of ideology and prejudice: Testing a dual model
+process. Journal of Personality and Social Psychology, 83, 75-93.
+Eckhardt, W. (1991). Authoritarianism. Political Psychology, 12, 97-124.
+Feldman, S. (2003). Enforcing social conformity: A theory of authoritarianism. Political Psychology, 24, 41-74.
+Feldman, S., & Stenner, K. (1997). Perceived threat and authoritarianism. Political Psychology, 18, 741-770.
+Festinger, L. (1957). A theory of cognitive dissonance. Stanford, CA:
+Stanford University Press.
+Fiske, A. P. (1992). The four elementary forms of sociality: Framework for
+a unified theory of social relations. Psychological Review, 99, 689-723.
+Fiske, S. T. (2002). What we know now about bias and intergroup conflict, the problem of the century. Current Directions in Psychological
+Science, 11, 123-128.
+Fox, J. (2004). Religion and state failure: An examination of the
+extent and magnitude of religious conflict from 1950 to 1996.
+International Political Science Review, 25, 55-76.
+Golec, A., & Federico, C. M. (2004). Understanding responses to
+political conflict: Interactive effects of the need for closure and
+salient conflict schemas. Journal of Personality and Social Psychology,
+87, 750-762.
+Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). Terror management theory of self-esteem and cultural worldviews: Empirical
+assessments and conceptual refinements. In M. P. Zanna (Ed.),
+Advances in experimental social psychology (Vol. 29, pp. 61-139). New
+York: Academic Press.
+Halevy N., Bornstein, G., Sagiv, L., & Roccas, S. (2004, August). A tale
+of two groups: The many faces of (the same) intergroup conflict.
+Presented at the 28th International Congress of Psychology,
+Beijing, China.
+Halevy, N., Bornstein, G., Sagiv, L., & Roccas, S. (2005, July). Conflict
+templates. Presented at the 8th Jena Workshop on Intergroup
+Relations, Jena, Germany.
+Hewstone, M., Rubin, M., & Willis, H. (2002). Intergroup bias.
+Annual Review of Psychology, 53, 575-604.
+Insko, C. A., & Schopler, J. (1987). Categorization, competition, and
+collectivity. In C. Hendrick (Ed.), Group processes (Vol. 8, pp. 213251). Newbury Park, CA: Sage.
+Insko, C. A., Schopler, J., Drigotas, S. M., Graetz, K. A., Kennedy,
+K., Cox, J., et al. (1993). The role of communication in intergroupinterindividual discontinuity. Journal of Conflict Resolution, 37,
+108-138.
+Insko, C. A., Schopler, J., Gaertner, L., Wildschut, T., Kozar, R., Pinter,
+B., et al. (2001). Interindividual-intergroup discontinuity reduction through the anticipation of future interaction. Journal of
+Personality and Social Psychology, 80, 95-111.
+Insko, C. A., Schopler, J., Hoyle, R, Dardis, G., & Graetz, K. A. (1990).
+Individual-group discontinuity as a function of fear and greed.
+Journal of Personality and Social Psychology, 58, 68-79.
+Jervis, R. (1978). Cooperation under the security dilemma. World Politics,
+30, 167-186.
+
+Joireman, J. A., Van Lange, P. A. M., Kuhlman, D. M., Van Vugt, M.,
+& Shelley, G. P. (1997). An interdependence analysis of commuting decisions. European Journal of Social Psychology, 27, 441-463.
+Jost, J. T., Blount, S., Pfeffer, J., & Hunyady, G. (2003). Fair market
+ideology: Its cognitive-motivational underpinnings. Research in
+Organizational Behavior, 25, 53-91.
+Jost, J. T., Glaser, J., Kruglanski, A. W., & Sulloway, F. J. (2003).
+Political conservatism as motivated social cognition. Psychological
+Bulletin, 129, 339-375.
+Kelley, H. H. (1979). Personal relationships: Their structures and processes.
+Hillsdale, NJ: Lawrence Erlbaum.
+Kelley, H. H. (1997). The “stimulus field” for interpersonal phenomena: The source of language and thought about interpersonal
+events. Personality and Social Psychology Review, 1, 140-169.
+Kelley, H. H., Holmes, J. G., Kerr, N. L., Reis, H. T., Rusbult, C. E., &
+Van Lange, P. A. M. (2003). An atlas of interpersonal situations. New
+York: Cambridge University Press.
+Kelley, H. H., & Thibaut, J. W. (1978). Interpersonal relations: A theory of
+interdependence. New York: John Wiley.
+Kiyonari, T., Tanida, S., & Yamagishi, T. (2000). Social exchange and
+reciprocity: Confusion or a heuristic? Evolution and Human
+Behavior, 21, 411-427.
+Kosterman, R., & Feshbach, S. (1989). Towards a measure of patriotic
+and nationalistic attitudes. Political Psychology, 10, 257-274.
+Kruglanski, A. W. (1989). Lay epistemics and human knowledge: Cognitive
+and motivational basis. New York: Plenum.
+Kruglanski, A. W. (1996). Motivated social cognition: Principles of the
+interface In E. T. Higgins & A. W. Kruglanski (Eds.), Social psychology: Handbook of basic principles (pp. 493-522). New York: Guilford.
+Kruglanski, A. W., & Webster, D. M. (1996). Motivated closing of the
+mind: “Seizing” and “freezing”. Psychological Review, 103, 263-283.
+Landau, M. J., Johns, M., Greenberg, J., Pyszczynski, T., Martens, A.,
+Goldenberg, J. L., et al. (2004). A function of form: Terror management and structuring the social world. Journal of Personality and
+Social Psychology, 87, 190-210.
+LeVine, R. A., & Campbell, D. T. (1972). Ethnocentrism: Theories of conflict, ethnic attitudes and group behavior. New York: John Wiley.
+Liberman, V., Samuels, S. M., & Ross, L. (2004). The name of the
+game: Predictive power of reputations versus situational labels in
+determining Prisoner’s Dilemma game moves. Personality and
+Social Psychology Bulletin, 30, 1175-1185.
+Liebrand, W. B. G., Jansen, R.W.T.L., Rijken, V. M., & Suhre, C. J. M.
+(1986). Might over morality: Social values and the perception of
+other players in experimental games. Journal of Experimental Social
+Psychology, 22, 203-215.
+Liebrand, W. B. G., Wilke, H. A. M., Vogel, R., & Wolters, F. J. M.
+(1986). Value orientation and conformity: A study using three types
+of social dilemma games. Journal of Conflict Resolution, 30, 77-97.
+Luce, R. D., & Raiffa, H. (1957). Games and decisions: Introduction and
+critical survey. New York: John Wiley.
+Majeski, S., & Fricks, S. (1995). Conflict and cooperation in international relations. Journal of Conflict Resolution, 39, 622-646.
+McFarland, S. G. (2005). On the eve of war: Authoritarianism, social
+dominance and American students’ attitudes toward attacking
+Iraq. Personality and Social Psychology Bulletin, 31, 360-367.
+Mummendey, A., Klink, A., & Brown, R. (2001). Nationalism and
+patriotism: National identification and outgroup rejection. British
+Journal of Social Psychology, 40, 159-172.
+Plous, S. (1985). Perceptual illusions and military realities: The
+nuclear arms race. Journal of Conflict Resolution, 29, 363-389.
+Plous, S. (1987). Perceptual illusions and military realities: Results
+from a computer-simulated arms race. Journal of Conflict Resolution,
+31, 5-33.
+Poundstone, W. (1992). Prisoner’s Dilemma. New York: Anchor Books.
+Powell, R. (1989). Nuclear deterrence and the strategy of limited
+retaliation. American Political Science Review, 83, 503-519.
+Rapoport, A., & Bornstein, G. (1987). Intergroup competition for the
+provision of binary public goods. Psychological Review, 94, 291-299.
+Rapoport, A., & Chammah, A. M. (1965). Prisoner’s Dilemma: A study
+in conflict and cooperation. Ann Arbor: University of Michigan Press.
+Rapoport, A., & Chammah, A. M. (1966). The game of chicken.
+American Behavioral Scientist, 10, 10-28.
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+Halevy et al. / PERCEIVING INTERGROUP CONFLICT
+Roccas, S., Klar, Y., & Liviatan, I. (in press). The paradox of groupbased guilt: Modes of national identification, conflict vehemence,
+and reactions to the ingroup’s moral violations. Journal of Personality
+and Social Psychology.
+Roy, D. (1994). North Korea and the “madman” theory. Security
+Dialogue, 25, 307-316.
+Schatz, R. T., & Staub, E. (1997). Manifestations of blind and constructive patriotism: Personality correlates and individual-group
+relations. In D. Bar-Tal & E. Staub (Eds.), Patriotism in the lives of
+individuals and nations. New York: Nelson-Hall.
+Schelling, T. C. (1980). The strategy of conflict (2nd ed.). Cambridge,
+MA: Harvard University Press.
+Schopler, J., Insko, C. A., Wieselquist, J., Pemberton, M., Witcher, B.,
+Kozar, R., et al. (2001). When groups are more competitive than
+individuals: The domain of the discontinuity effect. Journal of
+Personality and Social Psychology, 80, 632-644.
+Shamir, J., & Shamir, M. (2000). The anatomy of public opinion. Ann
+Arbor: University of Michigan Press.
+Sherif, M. (1966). In common predicament: Social psychology of intergroup
+conflict and cooperation. Boston: Houghton-Mifflin.
+Sherif, M., Harvey, L. J., White, B. J., Hood, W. R., & Sherif, C. W.
+(1961). The Robber’s Cave Experiment: Intergroup conflict and cooperation. Boston: Houghton-Mifflin.
+Skyrms, B. (2004). The stag hunt and the evolution of social structure. New
+York: Cambridge University Press.
+Sternberg, R. J. (2003). A duplex theory of hate: Development and
+application to terrorism, massacres and genocide. Review of General
+Psychology, 7, 299-328.
+Struch, N., & Schwartz, S. H. (1989). Intergroup aggression: Its predictors and distinctness from ingroup bias. Journal of Personality
+and Social Psychology, 56, 364-373.
+Tajfel, H., & Turner, J. (1979). An integrative theory of inter-group
+conflict. In W. G. Austin & S. Worchel (Eds.), The social psychology
+of intergroup relations (pp. 33-47). Monterey, CA: Brooks/Cole.
+Tajfel, H., & Turner, J. (1986). The social identity theory of intergroup behavior. In S. Worchel & W. G. Austin (Eds.), Psychology of
+intergroup relations (pp. 7-24). Chicago: Nelson-Hall.
+
+1689
+
+Turner, J. C. (1999). Some current issues in research on social identity and self-categorization theories. In N. Ellemers, R. Spears, &
+B. Doosje (Eds.), Social identity: Context, commitment, content
+(pp. 6-34). Oxford, UK: Blackwell.
+Van Hiel, A., Pandelaere, M., & Duriez, B. (2004). The impact of
+need for closure and conservative beliefs and racism: Differential
+mediation by authoritarian submission and authoritarian dominance. Personality and Social Psychology Bulletin, 30, 824-837.
+Van Lange, P. A. M. (1999). The pursuit of joint outcomes and equality in outcomes: An integrative model of social value orientation.
+Journal of Personality and Social Psychology, 77, 337-349.
+Van Lange, P. A. M. (2004). From generosity to aggression:
+Five interpersonal orientations relevant to social dilemmas. In
+R. Suleiman, D. V. Budescu, I. Fischer, & D. M. Messick (Eds.),
+Contemporary psychological research on social dilemmas (pp. 3-23). New
+York: Cambridge University Press.
+Van Lange, P. A. M., & Kuhlman, D. M. (1994). Social value orientations and impressions of partner’s honesty and intelligence: A test
+of the might versus morality effect. Journal of Personality and Social
+Psychology, 67, 126-141.
+Van Vugt, M., Meertens, R. M., & Van Lange, P. A. M. (1995). Car versus public transportation? The role of social value orientations in
+a real-life social dilemma. Journal of Applied Social Psychology, 25,
+258-278.
+Weber, J. M., Kopelman, S., & Messick, D. M. (2004). A conceptual
+review of decision making in social dilemmas: Applying a logic of
+appropriateness. Personality and Social Psychology Review, 8, 281-304.
+White, J. B., & Langer, E. J. (1999). Horizontal hostility: Relations
+between similar minority groups. Journal of Social Issues, 55,
+537-559.
+Wit, A. P., & Kerr, N. L. (2002). “Me versus just us versus us all” categorization and cooperation in nested social dilemmas. Journal of
+Personality and Social Psychology, 83, 616-637.
+Received March 20, 2006
+Revision accepted June 5, 2006
+
+Downloaded from http://psp.sagepub.com at Bessemerstrasse 3 on April 14, 2009
+
+

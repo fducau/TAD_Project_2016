@@ -1,0 +1,1923 @@
+Journal of Cross-Cultural Psychology
+http://jcc.sagepub.com
+
+Behavioral Manifestations of Modesty
+Sylvia Xiaohua Chen, Michael Harris Bond, Bacon Chan, Donghui Tang and Emma E. Buchtel
+Journal of Cross-Cultural Psychology 2009; 40; 603 originally published online Feb 6, 2009;
+DOI: 10.1177/0022022108330992
+The online version of this article can be found at:
+http://jcc.sagepub.com/cgi/content/abstract/40/4/603
+
+Published by:
+http://www.sagepublications.com
+
+On behalf of:
+
+International Association for Cross-Cultural Psychology
+
+Additional services and information for Journal of Cross-Cultural Psychology can be found at:
+Email Alerts: http://jcc.sagepub.com/cgi/alerts
+Subscriptions: http://jcc.sagepub.com/subscriptions
+Reprints: http://www.sagepub.com/journalsReprints.nav
+Permissions: http://www.sagepub.com/journalsPermissions.nav
+Citations http://jcc.sagepub.com/cgi/content/refs/40/4/603
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Behavioral Manifestations
+of Modesty
+
+Journal of Cross-Cultural
+Psychology
+Volume 40 Number 4
+July 2009 603-626
+© 2009 The Author(s)
+10.1177/0022022108330992
+http://jccp.sagepub.com
+
+Sylvia Xiaohua Chen
+The Hong Kong Polytechnic University
+
+Michael Harris Bond
+Bacon Chan
+The Chinese University of Hong Kong
+
+Donghui Tang
+Beijing Normal University
+
+Emma E. Buchtel
+University of British Columbia
+
+Three studies examined the social manifestations of modesty in Chinese and Canadian cultures,
+conceptualizing and operationalizing it as a self-presentation tactic with communal functions.
+In Study 1, the authors developed a self-report Modest Behavior Scale (MBS) to tap the
+behavioral aspects of modesty and identified three factors: self-effacement, other-enhancement,
+and avoidance of attention-seeking. The authors validated the scale by establishing its
+nomological network with trait modesty, individuation, independent and interdependent selfconstruals, traditionality, and modernity, in both Hong Kong and Shanghai, which are culturally
+different regions of China. In Study 2, the MBS was supplemented with additional items, and
+a different set of predictors, including values, was used to predict the three factors in both Hong
+Kong and Beijing, China. In Study 3, we administered the MBS in Vancouver, Canada, adding
+emic items generated from this Canadian sample and using values and other variables as
+predictors. Gender differences are discussed in terms of the role played by modest selfpresentations in promoting intragroup harmony in different cultural settings.
+Keywords:   modesty; modest behavior; individuation; traditionality and modernity;
+independent and interdependent self-construals
+
+T
+
+he construct of modesty has been conceptualized by psycholinguists, personality psychologists, and social psychologists from various perspectives, and operationalized in
+different ways accordingly. Psycholinguists study modesty as a politeness phenomenon,
+especially in response to compliments (e.g., Gao & Ting-Toomey, 1998; Spencer-Oatey &
+
+Authors’ Note: We would like to express our appreciation to Darius K. S. Chan, Fanny M. Cheung, Paul Taylor,
+Steven J. Heine, and Rita W. M. Law for their help in improving this article, and to Wai Chan for his advice on
+the statistical analyses. Thanks also go to the Editor of this journal and the two reviewers for their constructive
+comments on earlier versions of the manuscript. This project was supported in part by Mainland Collaborative
+Research Grant of the Chinese University of Hong Kong and the Internal Competitive Research Grant
+(G-YG87) of the Hong Kong Polytechnic University. Address correspondence concerning this article to: Sylvia
+Chen, Department of Applied Social Sciences, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong
+Kong S.A.R., China; e-mail: ssxhchen@polyu.edu.hk.
+603
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+604    Journal of Cross-Cultural Psychology
+
+Ng, 2000). In framing his politeness principle, Leech (1983) described the modesty maxim
+as minimizing praise of oneself or maximizing dispraise of oneself in verbal expressions.
+Extending Leech’s politeness principle, Gu (1990) developed a politeness principle for
+Chinese culture, consisting of four maxims: self-denigration, address, tact, and generosity.
+In addition to self-effacement, which is a focus of Leech’s (1983) modesty maxim, Gu (1990)
+added enhancing others to the self-denigration maxim. Thus, modesty within the politeness
+framework focuses mostly on self-denigration, so as to show respect toward interlocutors
+and promote the positive face of conversation partners by minimizing self-praise.
+To assess modesty as a politeness tactic, linguists have designed conversational situations
+in which compliments are initiated, and then recipients’ responses are elicited (Chen, 1993;
+Spencer-Oatey &Ng, 2000). The content of these responses was analyzed and categorized
+based on the politeness principle so as to identify the rules and maxims characterizing
+polite modesty. Patterns of linguistic features can also be compared across cultural groups
+to discover similarities and differences in the strategies used. The contrast can then be
+linked to respective social values of the cultures, especially the composition of self-concept
+(Chen, 1993). As revealed by the above procedures, however, such measures are limited in
+nature, because they only focus on the verbal content of social interactions, so that only
+conversational features of politeness strategies can be detected.
+From the perspective of personality psychologists, modesty is construed as a personality
+disposition (e.g., Costa & McCrae, 1992), a trait that is consistent across time and situations. In the five-factor model of personality as assessed by the NEO Personality Inventory
+(NEO PI; Costa & McCrae, 1985), the Agreeableness factor is defined by six facets, including modesty. The Modesty facet denotes humble and self-effacing traits, but not necessarily
+a lack of self-confidence or self-esteem. A closer examination of the eight items constituting the modesty facet, however, shows that these personality statements depict personal
+thoughts, feelings, and actions, indicating how an individual feels about himself/herself
+compared with others, for example, having a high opinion of oneself. Yet, research on false
+modesty has documented discrepancies between people’s private evaluations and their
+public behaviors (e.g., Baumeister & Ilko, 1995; Gould, Brounstein, & Sigall, 1977).
+People may downplay their achievements and express gratitude in public to avoid others’
+jealousy and resentment (Exline & Lobel, 1999), or understate their abilities to reduce
+performance pressure and to lower the evaluation baseline being applied (Gibson & Sachau,
+2000). Therefore, we suggest that modesty should be examined as a constellation of social
+behaviors as well as a personality trait.
+When managing their impressions on others, people employ a variety of self-presentational
+strategies to create favorable images (Baumeister, 1982; Leary, Robertson, Barnes, &
+Miller, 1986; Schlenker & Leary, 1982; Wosinska, Dabul, Whetstone-Dion, & Cialdini,
+1996). The motivation for these strategies is to achieve positive outcomes, or at least avoid
+negative consequences in social interactions (Heine, Takata, & Lehman, 2000; Schlenker,
+1975; Schneider, 1969; Wosinska et al., 1996). Social psychologists view modesty as one
+tactic of impression management, with Cialdini and DeNicholas (1989) defining modesty
+as “the under-representation of one’s positive traits, contributions, expectations, or accomplishments” (p. 626). One approach to studying modesty, for example, relates to earlier
+work on ingratiation, in which presenting one’s personal attributes indirectly was found to
+be more effective than expressing them directly (Wosinska et al., 1996).
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    605
+
+Previous studies on impression management have shown that self-enhancement strategies (e.g., exaggerating the degree of one’s success or attributing one’s success to internal
+factors, such as abilities or effort) may not contribute to an enhanced reputation for competence, but instead damage interpersonal relationships (Carlson & Shovar, 1983; Forsyth,
+Berger, & Mitchell, 1981; Jones & Wortman, 1973; Powers & Zuroff, 1988; Sadalla,
+Kenrick, & Vershure, 1987). These findings are consistent with the propositions of Colvin,
+Block, and Funder (1995) and of Paulhus (1998), pointing out the social disadvantage of
+using self-enhancement tactics, at least across the communal (Bakan, 1966) dimension of
+one’s reputation. As a result, people refrain from uttering self-aggrandizing descriptions in
+public, unless these are normatively prescribed (Cialdini & DeNicholas, 1989).
+Self-effacing tactics characterizing modest performances have even been found to be
+more effective in organizational settings (e.g., Cialdini & DeNicholas, 1989; Wosinska
+et al., 1996). By understating one’s positive qualities or contributions or by attributing one’s
+success to external factors, such as luck or others’ assistance (Weiner, 1979; Zuckerman,
+1979), one is more likely to reduce the social risk of offending one’s coworkers and generate affiliative responses from these others. Consistent with this reasoning, research findings
+have shown that people who respond modestly to their performances are better liked than
+those who respond boastfully in Chinese culture (Bond, Leung, & Wan, 1982). Similar
+results have been found in Western culture, with modest teachers being more likable than
+boastful teachers (Tetlock, 1980).
+
+Modesty in Cultural Contexts
+Cultural theories have suggested that self-enhancement varies across cultures, with higher
+levels in individualistic cultures and lower levels in collectivistic cultures (e.g., Kurman,
+2001b, 2002, 2003; Kurman & Sriram, 1997, 2002; Kurman, Yoshihara-Tanaka, & Elkoshi,
+2003). According to Heine, Lehman, Markus, and Kitayama (1999), self-enhancement,
+although common in Western cultures, is not universal; rather, a self-critical, self-effacing
+orientation is more prevalent in the East. In contrast, Sedikides, Gaertner, and Toguchi
+(2003) have maintained that self-enhancement was mediated by attribute importance, with a
+universal motive to self-enhance on personally important dimensions, whereas collectivist
+attributes were perceived as more important by individuals with interdependent self-views.
+A growing body of studies has indicated that in collectivistic cultures, a modesty bias or
+an other-enhancement focus is more characteristic (e.g., Shikanai, 1978; Wada, 1988).
+These results indicate that having to perform in social contexts and cultural norms associated with performance in these contexts account for modest self-presentations. A selfrestraining or other-enhancing orientation guides appropriate responses in a collectivist
+cultural setting (Markus & Kitayama, 1991). Accordingly, through a series of cross-cultural
+studies, Kurman (2001a,b, 2003) compared explanations for cultural differences in selfenhancement level and concluded that culturally derived, normative restrictions on selfpresentation explained lower self-enhancement in collectivistic cultures, because modesty,
+rather than group relatedness or unique self-identity, mediated the relations between culture
+and the tendency to self-enhance.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+606    Journal of Cross-Cultural Psychology
+
+Based on the above review, we conceptualize modesty as a self-presentation tactic and
+examine manifestations of modest behavior in differing cultural contexts. We suggest that
+modest behavior does not necessarily arise from low self-regard, but instead reflects cultural norms and examine this position in three studies: In Study 1, we developed a selfreport Modest Behavior Scale (MBS) to tap the behavioral manifestations of the underlying
+disposition across various social contexts. The structure of modest behavior and its nomological network were examined in two Chinese cultural settings (Hong Kong and Shanghai)
+to validate the designed scale. In Study 2, we supplemented the MBS with additional items
+and further validated it in another two Chinese settings (Hong Kong and Beijing). A set of
+predictors including self-construals and values were included in addition to trait modesty.
+In Study 3, we administered the MBS to a Canadian sample, adding modest behavior items
+generated by this sample. Using the same set of predictors as in Study 2, we confirmed the
+construct validity of the MBS and generalized its nomological network from Eastern to
+Western cultures.
+
+Study 1
+As the measurement of modesty is somewhat fragmentary and unsystematic, we sought to
+supplement the trait measure of modesty by developing an assessment scale for behavioral
+aspects of modesty. The first study was conducted in Chinese societies, where modesty has
+been emphasized as a traditional virtue. To validate this measure, several relevant constructs
+were used to establish its nomological network.
+A seemingly opposing construct to modesty, individuation, taps a different behavioral
+style and represents one’s willingness to differentiate oneself from others publicly (Kwan,
+Bond, Boucher, Maslach, & Gan, 2002; Maslach, 1974). Individuation emphasizes the need to
+present the self as unique and independent. Given their focus on distinctive and independent
+actions, individuating behaviors may be hypothesized as the polar opposite of modest behaviors. Similarly, we predicted that a modest behavioral style would be positively correlated
+with an interdependent self-construal, but negatively with an independent self-construal;
+independent self-construals guide the expression of individual desires, preferences, or
+abilities, whereas the interdependent worldview works at integrating the self within relationships (e.g. Markus & Kitayama, 1991; Kurman & Sriram, 2002). Finally, two closely
+related concepts, modernity and traditionality, were extracted from Yang’s (1996) analysis
+of Chinese culture. The decrease of Chinese traditionality and increase of modernity have
+resulted from societal modernization characterized by a rise in individuation. As the traditionality concept captures a social orientation and modernity focuses on individual-oriented
+needs, we hypothesized that modesty would be positively related to traditionality, but
+negatively related to modernity.
+The first study was conducted in two cultural contexts, Hong Kong and Shanghai, both
+Chinese settings but characterized by two different sociopolitical systems. We chose these sites
+to control for some potential confounds, as they share the same written language system and
+similar customs, yet differ in their degree of modernity and openness to the West. Therefore,
+this study started from a Chinese perspective to examine behavioral aspects of modesty.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    607
+
+Method
+Participants
+A total of 392 university students participated in Study 1 on a voluntary basis. Of these,
+188 (86 males and 102 females) were from the Chinese University of Hong Kong, and 204
+(117 males and 87 females) from Jiaotong University of Shanghai, China. Their mean age
+was 19.56 (SD = 1.27) in Hong Kong and 19.81 (SD = 1.50) in Shanghai.
+Instruments
+Participants in Hong Kong and Shanghai completed the following questionnaires in traditional and simplified Chinese characters, respectively. The equivalence of meaning on all items
+was ensured through consultations with bilinguals from Hong Kong and Mainland China.
+Modest Behavior Scale (MBS). This instrument asks respondents to report on the whole
+range of their self-restraining behaviors. Potential items were extracted from a literature
+search, content review, and consultations with cultural informants. They included different
+aspects of modesty (e.g., self-humbling behaviors, other-enhancing comments) and various
+responses to compliments and criticism. Thirty-two items were developed to tap different
+behavioral aspects of modesty (e.g., “I admit my own faults and apologize when someone
+criticizes me”). Responses were anchored on a 5-point Likert scale ranging from 1 (strongly
+disagree) to 5 (strongly agree). Some items were formulated in the reverse direction to
+reduce problems associated with an acquiescent response set.
+Modesty Subscale of the Revised NEO Personality Inventory (NEO PI-R). Eight items
+assessing the modesty facet under the Agreeableness factor were selected from the NEO
+PI-R (Costa & McCrae, 1992), a well-validated measure of personality traits. Each item
+was measured on a 5-point scale ranging from 1 (strongly disagree) to 5 (strongly agree).
+A sample item is, “I feel that I am no better than others, no matter what their condition.” In
+the present study, the reliability coefficient for this scale was .67.
+Self-Construal Scale. Designed by Gudykunst et al. (1996), this scale assesses independent and interdependent views of the self. Following a derived-etic analysis across 5 cultural
+groups, Gudykunst et al. identified 14 items measuring independence in culturally equivalent ways (e.g., “I try not to depend on others”) and 15 items likewise identifying interdependence (e.g., “I consult with others before making important decisions”). Responses for
+both subscales were indicated on a 7-point scale from 1 (strongly disagree) to 7 (strongly
+agree). In this study, the reliability coefficients for independence and interdependence were
+.81 and .82, respectively.
+The Individuation Scale. The Individuation Scale was developed by Maslach (1974) to
+assess the willingness to differentiate oneself publicly. It is a 12-item, 5-point scale ranging
+from 1 (not at all willing to do this) to 5 (very much willing to do this). All 12 items focus
+in the respondent’s tendency to behave in individuating ways. A sample item is, “Speak up
+about your ideas even though you are uncertain of whether you are correct.” The Cronbach’s
+alpha for this scale was .84 in this study.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+608    Journal of Cross-Cultural Psychology
+
+Multidimensional Scale of Chinese Individual Traditionality (MS-CIT) and Modernity
+(MS-CIM). Two scales were developed by Yang, Yu, and Yeh (1991) to measure the traditional and modern psychological characteristics during the process of societal modernization. There are five subscales in MSCIT (Submission to Authority, Filial Piety and Ancestral
+Worship, Passivity and Conservativeness, Fatalism and Protectionism, and Male Dominance),
+and five in MSCIM, including Equalitarianism and Open-Mindedness, Social Isolation and
+Self-Reliance, Optimism and Assertiveness, Affective Hedonism, and Sex Equality. Each
+subscale is assessed by eight items, resulting in a total of 40 items in MSCIT and MSCIM,
+respectively. Six-point Likert scales were used ranging from 1 (very strongly disagree) to
+6 (very strongly agree).
+The General Self-Efficacy Scale. A 10-item General Self-Efficacy Scale (Schwarzer &
+Jerusalem, 1995) was used to tap one’s perceived competence. Responses were made on a
+4-point scale ranging from 1 (strongly disagree) to 4 (strongly agree). A sample item is, “I
+can always manage to solve difficult problems if I try hard enough.” The alpha was .89 in
+this study.
+Procedure
+The questionnaire sets were administered to the participants to complete privately. They
+also reported demographic information, including age, gender, year, and major of study.
+Instructions were given at the beginning of sessions, and confidentiality was ensured to
+encourage honest responses.
+
+Results
+The Modest Behavior Scale
+The 32 items for the MBS were administered and evaluated. Some items were dropped
+later because they pertained more to self-evaluation than to behavioral style. Another two
+items were deleted due to their weak, negative item-total correlations. As a result, 22 items
+were retained. Then, exploratory factor analysis (EFA) was conducted on the 22 items after
+combining the two cultural samples, given their comparable number of participants and
+gender. Cattell’s scree test showed that 3 to 4 factors were possible. Varimax rotation was
+used to compare the three- and four-factor solutions. As the four-factor solution yielded
+some loadings greater than .3 on two or more factors, and the three-factor structure was
+more interpretable and chosen as the final solution.
+Ten items loaded highest on the first factor (eigenvalue = 2.83), accounting for 12.89%
+of the total variance. The items loading on this factor tapped restraint in pursuing self-interest, and could be termed self-effacement. The second factor was composed of six items
+(eigenvalue = 1.72), accounting for 7.8% of the variance. This factor encompassed items
+involving the expression of concern for others and their elevation of others, and so was
+labeled other-enhancement. Six items loaded on the third factor (eigenvalue = 1.54),
+accounting for 7.01% of the matrix variance. Items loading on this factor pertained to
+avoiding self-promotion and self-aggrandizement in public, so it was thus named avoidance of attention-seeking. Even though none of the items showed a negative item-whole
+correlation, the alphas for the three factors were .60, .54, and .38, respectively, suggesting
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    609
+
+a need to improve the MBS. Factor scores were computed for subsequent analyses based
+on equal weighting of the constituent items.
+Descriptive statistics including means and standard deviations of the measures under
+study are presented in Table 1. Each scale was examined for internal consistency in both
+cultural samples. Item 7 from the Modernity scale showed a negative item-total correlation
+and was thus excluded from further analyses. Pearson correlation coefficients were computed for each factor of the MBS and other variables (see also Table 1). These three factors
+had moderate positive correlations with trait modesty, r(391) = .46, .22, .28, respectively,
+p < .001, providing construct validity for the MBS.
+Predicting Modest Behavior
+Three sets of hierarchical regression analyses were conducted to predict behavioral manifestations of modesty, with its three factors as criterion variables (see Table 2). Demographic
+variables, including age, gender, and cultural group were entered into Block 1 to control for
+their effects. Self-efficacy was entered into Block 2 to examine whether modesty reflected
+weak self-efficacy, and trait modesty and individuation into Block 3 to test their predictive
+power. Finally, Block 4 contained a set of predictors to test for their additional contributions:
+independent and interdependent self-construals, traditionality, and modernity.
+Results of the regression analysis for the self-effacement factor showed that the sample
+multiple correlation coefficient was .55, indicating that the regression model accounted for
+approximately 29.7% of the total variance, R2 = .30, F(10, 382) = 16.11, p < .001. Among
+the demographics, the effect of gender was significant, p < .05, with females being more
+self-effacing than males. Trait modesty showed strong explanatory power, p < .001.
+Consistent with our hypotheses, this criterion variable was positively related to interdependence and negatively to independence, p < .01. Traditionality emerged as a significant
+contributor, but in a negative direction, p < .001. In other words, more traditional individuals were less self-effacing.
+In predicting other-enhancement, the sample multiple correlation coefficient was .53,
+indicating that the regression model explained 27.6% of the variance, R2 = .28, F(10, 382)
+= 14.54, p < .001. The effect of cultural group was significant, p < .05, with the Hong Kong
+Chinese less likely to enhance others than their Shanghai counterparts. Self-efficacy and
+trait modesty were also significantly and positively related to other-enhancement, both p <
+.01. Among other predictors, only interdependence contributed significant variance above
+and beyond trait modesty, p < .001.
+The sample multiple correlation coefficient was .44 for the regression predicting avoidance of attention-seeking, and 18.9% of its variance was explained by the predictors, R2 =
+.19, F(10, 382) = 8.91, p < .001. None of the demographic variables reached significance,
+p > .05. Trait modesty was still a significant contributor, p < .001, and as expected, traditionality was positively related to avoidance of attention-seeking, p < .001.
+
+Study 2
+In Study 1, we developed the MBS and used personality traits and cultural orientations
+to predict its three factors. However, the items were generated from a “top-down” process,
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+610   
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+.67	 .46***	 .22***	
+.89	 –.21***	 .16**	
+.84	 –.18***	 .07	
+.81	 –.14**	
+.25***	
+.82	 .13**	
+.42***	
+.89	 –.21***	 –.16**	
+.89	 .01	
+.21***	
+–	
+–	
+–	
+–		
+–	
+–	
+–	
+–	
+–	
+–	
+–	
+
+3.18	
+2.65	
+2.96	
+5.02	
+5.04	
+2.63	
+4.43	
+–	
+–	
+–	
+–	
+
+*p < .05. **p < .01. ***p < .001.
+
+0.52	
+0.54	
+0.62	
+0.72	
+0.68	
+0.57	
+0.53	
+–	
+–	
+–	
+–	
+
+.60	
+–	
+–	
+.54	 .24***	
+– 	
+.38	 –.04	
+–.09	
+
+2	
+
+3.18	 0.43	
+3.78	 0.47	
+2.75	 0.45	
+
+1	
+
+  1. Self-effacement	
+  2. Other-enhancement	
+  3. Avoidance of 	
+    attention-seeking
+  4. Trait modesty	
+  5. Self-efficacy	
+  6. Individuation	
+  7. Independence	
+  8. Interdependence	
+  9. Traditionality	
+10. Modernity	
+11. Openness to change	
+12. Self-enhancement	
+13. Self-transcendence	
+14. Conservation	
+
+SD	 Alpha	
+
+M	
+
+Study 1	
+
+Measure	
+
+	
+
+.28***	
+–.22***	
+–.22***	
+–.17***	
+–.12**	
+.26***	
+–.23***	
+–	
+–	
+–	
+–	
+
+–	
+–	
+–	
+
+3	
+
+3.11	
+2.58	
+3.04	
+5.05	
+5.09	
+–	
+–	
+3.85	
+3.72	
+4.50	
+3.92	
+
+0.50	
+0.47	
+0.61	
+0.60	
+0.58	
+–	
+–	
+0.95	
+0.94	
+0.71	
+0.79	
+
+.70	
+.85	
+.84	
+.75	
+.77	
+–	
+–	
+.75	
+.80	
+.78	
+.76	
+
+.76	
+.79	
+.72	
+
+SD	 Alpha	
+
+2.94	 0.65	
+3.68	 0.44	
+3.50	 0.43	
+
+M	
+–	
+–	
+.31***	
+
+2	
+–	
+–	
+–	
+
+3	
+
+.48***	 .07	
+.35***	
+–.24***	 .12**	
+–.13**	
+–.39***	 .15**	
+–.17***	
+–.17***	 .06	
+–0.03	
+.07	
+.37***	
+.16**	
+–	
+–	
+–	
+–	
+–	
+–	
+–.05	
+.03	
+–.19***	
+–.06	
+–.02	
+–.34***	
+.08	
+.22***	
+.13**	
+.11	
+.24***	
+.10*	
+
+–	
+–.11*	
+.25***	
+
+1	
+
+Study 2	
+
+3.48	
+3.02	
+3.02	
+5.38	
+5.16	
+–	
+–	
+5.75	
+5.47	
+6.27	
+5.40	
+
+0.62	
+0.40	
+0.72	
+0.58	
+0.64	
+–	
+–	
+1.30	
+1.29	
+1.16	
+1.31	
+
+.80	
+.83	
+.87	
+.77	
+.82	
+–	
+–	
+.84	
+.87	
+.86	
+.85	
+
+.73	
+.78	
+.80	
+
+SD	 Alpha	
+
+3.06	 0.57	
+3.88	 0.42	
+3.45	 0.51	
+
+M	
+
+2	
+
+.41***	
+–.28***	
+–.18*	
+.02	
+.21**	
+–	
+–	
+–.05	
+–.02	
+.15*	
+.19**	
+
+.25***	
+.22**	
+.20**	
+.25***	
+.39***	
+–	
+–	
+.25***	
+.08	
+.43***	
+.36***	
+
+–	
+–	
+.14*		
+–	
+.29***	 .33***	
+
+1	
+
+Study 3
+
+Table 1
+Means, Standard Deviations, Reliability Coefficients, and Correlations with Modest Behavior in Studies 1 to 3
+
+.63***
+–.18**
+–.24***
+–.06
+.20**
+–
+–
+–.19**
+–.30***
+.16*
+.15*
+
+–
+–
+–
+
+3
+
+    611
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Block 	
+1 β	
+
+Block 	
+2 β	
+
+Block 	
+3 β	
+
+Self-Effacement	
+
+*p < .05. **p < .01. ***p < .001.
+
+Age	
+.12*	
+.13**	
+.09*	
+Gender 	
+–.02	
+–.04	
+–.06	
+(0 = Male, 1 = Female)
+Culture 	
+–.16**	 –.10	
+–.07	
+   (0 = Hong Kong,
+   1 = Shanghai)
+Self-efficacy		
+–.19***	
+.01	
+Trait modesty			
+.44***	
+.27***
+–.04	
+Individuation			
+Independence				
+Interdependence				
+Traditionality				
+.21***
+Modernity				
+R2	
+.04	
+.07	
+.23	
+df	
+3/389	
+1/97	
+3/193	
+F change	
+4.95**	 12.47***	 40.84***	
+
+	
+Variable	
+
+	
+
+.06	
+
+–.05	
+
+.01	
+
+.08	
+.04	
+
+.27***	
+.35***	
+
+.04	
+
+.05	
+.02	
+
+Block 	
+3 β	
+
+.02				
+.30	
+.01	
+.03	
+.13	
+5/191	
+3/389	 1/97	
+3/193	
+9.09***	
+1.68	 8.01**	 22.13***	
+
+–.09			
+.07	
+–.19**				
+.14**				
+–.21***				
+
+.01		
+.15**	
+.39***			
+
+.08	
+.03	
+
+Block 	 Block 	
+1 β	
+2 β	
+
+.07	
+–.10*	
+
+Block 	
+4 β	
+
+Other-Enhancement	
+
+–.06	
+
+.04	
+–.06	
+
+Block 	
+1 β	
+
+.02	
+
+.05	
+–.08	
+
+Block 	
+2 β	
+
+–.11	
+.21***	
+
+.04	
+
+.02	
+–.09	
+
+Block 	
+3 β	
+
+.04				
+.28	
+.08	
+.24	
+.34	
+5/191	
+3/389	 1/97	
+3/193	
+18.91***	
+0.82	 21.05***	 12.34***	
+
+.03			
+–.13*	
+.04				
+.35***				
+–.07				
+
+.17**		
+–.24***	
+.27***			
+
+.11*	
+
+.07	
+–.02	
+
+Block 	
+4 β	
+
+–.08
+.44
+5/191
+8.83
+
+–.08
+.01
+–.10
+
+–.05
+.27***
+
+.02
+
+.02
+–.05
+
+Block 	
+4β
+
+Avoidance of Attention-Seeking
+
+Table 2
+Hierarchical Regression Analysis for Variables Predicting the Three Factors of Modest Behavior in Study 1 (N = 393)
+
+612    Journal of Cross-Cultural Psychology
+
+and the reliability coefficients of the newly constructed scale were low. To improve the
+validity and reliability of the scale, and to expand its nomological network, we conducted
+Study 2 in Hong Kong and Beijing, another cosmopolitan city in China, identifying a different set of predictors for validation purposes.
+As personality constructs alone have not emerged to be strong predictors of social
+behavior (e.g., Fishbein & Ajzen, 1975; Mischel, 1968), Study 2 seeks to add values as
+predictors. Values are “desirable goals, varying in importance, that serve as guiding principles in people’s lives” (Schwartz, 1994, p. 88). The 10 motivationally distinct types of
+individual values are postulated to form a quasi-circumplex structure in which adjacent
+values are more related and opposing ones more complementary (Schwartz, 1992). They
+are grouped on two basic bipolar dimensions, each containing two higher-order value types,
+with the 10 value types subordinate to them. One opposing dimension consists of Openness
+to Change (Self-Direction and Stimulation) versus Conservation (Conformity, Tradition,
+and Security). The other includes Self-Transcendence (Universalism and Benevolence)
+versus Self-Enhancement (Achievement and Power), whereas Hedonism belongs to both
+Openness to Change and to Self-Enhancement.
+This value structure has been well-validated in samples from more than 60 countries and
+found to be associated with many behavioral, attitude, and personality variables (e.g.,
+Schwartz & Bardi, 2001; Schwartz & Boehnke, 2004). In this study, we use the four
+higher-order types in our regression models to reduce the number of predictors and simplify interpretation. Of the four dimensions, Self-Enhancement is especially relevant to the
+behavioral aspects of modesty, as a strong desire for achievement and power should be
+negatively related to the avoidance of attention-seeking. As a traditional virtue, the modest
+behavioral style, especially the factor of other-enhancement, was hypothesized to associate
+positively with Conservation, which encompasses traditional, conservative values.
+
+Method
+Participants
+A total of 405 college students participated in the second study, with 206 (106 males and
+100 females) from the Chinese University of Hong Kong, and 199 (106 males and 93
+females) from Beijing Normal University, China. The mean age was 20.68 (SD = 1.39) for
+Hong Kong and 20.52 (SD = 2.16) for Beijing. All were invited to take part in this study on
+a voluntary basis.
+Measures
+Similar to Study 1, participants in Hong Kong and Beijing completed the following instruments in traditional and simplified Chinese characters, respectively. Three scales were
+adopted from Study 1: the Individuation Scale (Maslach, 1974), the General Self-Efficacy
+Scale (Schwarzer & Jerusalem, 1995), and the Self-Construal Scale (Gudykunst et al.,
+1996).
+Revised Modest Behavior Scale. A pilot study was conducted to gather additional items
+tapping modest behavior. Nine participants (two males, seven females), aged from 18 to 46,
+were asked to list behavioral items instantiating modest behavior. As a result, 17 new items
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    613
+
+were generated, and we administered a total of 30 items, including 13 items selected from
+Study 1 that best represented the construct; a sample new item is, “Attribute success to luck
+rather than one’s own ability in front of others.” Responses were anchored on a 5-point
+Likert scale ranging from 1 (strongly disagree) to 5 (strongly agree).
+The Schwartz Value Survey (SVS). The 57-item version of the SVS (Schwartz, 1992;
+Schwartz & Boehnke, 2004) was used to measure how important each value was to participants. Each item was followed by a short explanatory phrase in parentheses, for example, “equality (equal opportunity for all).” Participants were asked to rate the importance of
+each item as a guiding principle in their lives on a 9-point scale, ranging from –1 (opposed
+to my principles), through 0 (not important), 3 (important), 6 (very important), to 7 (of
+supreme importance).
+Procedure
+The procedure for Study 2 was the same as that used in Study 1.
+
+Results
+Revised Modest Behavior Scale
+Exploratory factor analysis was performed on the 30 items of the revised MBS. The
+scree test indicated a three-factor solution. Similar to the factor structure for modest behavior in Study 1, six items loaded on self-effacement (eigenvalue = 2.16), accounting for
+7.20% of the total variance. Twelve items loaded on other-enhancement (eigenvalue =
+4.86), accounting for 16.19% of the variance. Eleven items loaded on avoidance of attention-seeking (eigenvalue = 3.59), accounting for 11.96% of the variance. The reliability
+coefficients for the three factors were .76, .79, and .72, respectively, which were greatly
+improved compared with the alphas of Study 1. Factor scores were computed for subsequent analyses based on an equal weighting of the constituent items from each factor.
+Descriptive statistics including means, standard deviations, reliability coefficients and correlation coefficients of the variables with modest behavior are presented in Table 1. Trait modesty
+had moderate positive correlations with self-effacement and avoidance of attention-seeking,
+r(405) = .48, .35, respectively, p < .001, but not with other-enhancement, p < .05.
+Predicting Modest Behavior
+Three sets of hierarchical regression analyses were conducted to predict the three factors
+of the MBS (see Table 3). As in Study 1, demographic variables, including age, gender, and
+cultural group were entered into Block 1 and self-efficacy into Block 2. Block 3 contained
+trait modesty and individuation. In contrast to Study 1, Block 4 included another set of
+predictors: independent and interdependent self-construals and the four value factors.
+Results of the first regression analysis, predicting self-effacement, showed that the sample multiple correlation coefficient was .57, so the model explained 32.7% of the total
+variance, R2 = .33, F(12, 392) = 15.88, p < .001. Among the demographics, the effect of
+cultural group was significant, p < .01, with Hong Kong Chinese being more self-effacing
+than their Beijing counterparts. The criterion was positively related to trait modesty, but
+negatively to individuation, p < .001.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+614   
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Block 	 Block 	
+1 β	
+2 β	
+
+Block	
+3 β	
+
+Block 	
+4 β	
+
+Self-Effacement	
+
+*p < .05. **p < .01. ***p < .001.
+
+–.02
+.29***
+–.08
+.12*
+.07
+.00
+–.29***
+.09
+.06
+.25
+3/98
+.08***
+
+–.12*
+
+–.02
+–.07
+
+Block 	
+5β
+
+Avoidance of Attention-Seeking
+
+Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	
+5 β	
+1 β	
+2 β	
+3 β	
+4 β	
+5 β	
+1 β	
+2 β	
+3 β	
+4 β	
+
+Other-Enhancement	
+
+Age	
+.00	
+–.02	
+–.03	
+–.03	
+–.03	
+.06	
+.06	
+.06	
+.06	
+.05	
+–.01	 –.02	
+–.04	
+–.03	
+Gender (0 = Male, 	
+.01	
+–.03	
+–.01	
+–.01	
+–.01	
+–.07	 –.05	
+–.05	
+–.09	
+–.09	
+–.03	 –.06	
+–.05	
+–.07	
+   1 = Female)
+Culture (0 = Beijing, 	 .31***	 .28***	 .20***	 .20***	 .20***	 –.05	 –.04	
+–.04	
+–.07	
+–.06	
+–.07	 –.10	 –.16**	 –.17***	
+   1 = Hong Kong)
+Self-efficacy		
+–.21***	 .04	
+.04	
+.04		
+.11*	 .14*	
+.07	
+.07		
+–.16**	 .03	
+–.02	
+Trait modesty			
+.38***	 .37***	 .36***			
+.21***	 .10	
+.07			
+.38***	 .36***	
+Individuation			
+–.22***	 –.22***	 –.24***			
+.18**	 .13*	
+.12*			
+–.05	
+–.08	
+Independence				
+.00	
+–.01				
+–.01	
+–.01				
+.09	
+–.01	
+–.03				
+.35***	 .32***				
+.11*	
+Interdependence				
+Openness to change					
+–.03					
+.07					
+Self-enhancement					
+.03					
+–.09					
+Self-transcendence					
+.11					
+–.01					
+Conservation					
+.01					
+.18**					
+R2	
+.09	
+.13	
+.32	
+.32	
+.33	
+.01	
+.02	
+.07	
+.18	
+.20	
+.01	
+.03	
+.15	
+.17	
+df	
+3/401	
+1/100	
+3/199	
+2/99	
+3/98	 3/401	 1/100	 3/199	
+2/99	
+3/98	 3/401	 1/100	 3/199	
+2/99	
+F change	
+13.72***	 18.31***	 53.07***	 0.03	
+1.70	 1.31	 4.76*	 9.23***	 26.34***	 3.34*	 0.94	 9.45**	 29.05***	 4.57*	
+
+	
+Variable	
+
+	
+
+Table 3
+Hierarchical Regression Analysis for Variables Predicting the Three Factors of Modest Behavior in Study 2 (N = 405)
+
+Chen et al. / Modest Behavior Across Cultures    615
+
+In predicting other-enhancement, the sample multiple correlation coefficient was .45,
+indicating that the regression model accounted for 20.2% of the variance, R2 = .25, F(12,
+392) = 8.26, p < .001. The effects of demographics were not significant, p > .05. Trait modesty did not reach significance, p > .05. Among other predictors, individuation, interdependence, and the value factor of Conservation made significant contributions, p < .05.
+Predicting avoidance of attention-seeking, the sample multiple correlation coefficient
+was .50, with 25.2% of the variance being explained by the predictors, R2 = .25, F (12, 392) =
+11.01, p < .001. The effect of cultural group was significant, with Hong Kong Chinese less
+likely to avoid engaging in attention-seeking behaviors than their Beijing counterparts, p <
+.05. The criterion was positively related to trait modesty and independence, but negatively
+to the value factor of Self-Enhancement, p < .05.
+
+Study 3
+In Studies 1 and 2, we developed and revised the MBS to acceptable levels of reliability
+and identified various predictors of its three dimensions in different Chinese cultural
+groups, encompassing personality, cultural orientations, and values. The question remained
+whether the MBS is applicable to non-Chinese contexts and whether it would show a
+similar factor structure in a Western culture. Therefore, we conducted Study 3 with
+Canadian respondents in Vancouver, Canada, using the same set of predictors as in Study
+2 to examine the nomological network for the MBS in that different cultural setting. To
+avoid an “imposed etic” analysis of behavior (Berry, 1969, 1989), we adopted a “derivedetic” approach by conducting a pilot study to generate “emic” items representing a modest
+behavioral style from Canadians. Incorporating these items into our revised MBS, we
+attempted to develop an integrated measure across Eastern and Western cultures.
+
+Method
+Participants
+A total of 204 undergraduate students (52 males and 152 females) from the University
+of British Columbia participated in the third study. Their mean age was 20.48 (SD = 3.65).
+All of them were born in Canada. They were invited to take part in this study on a voluntary
+basis.
+Measures
+Similar to Study 2, participants completed the following instruments in English. The
+equivalence of meaning on all items was ensured through consultations with bilinguals in
+Hong Kong and Canada.
+A culturally integrated Modest Behavior Scale. A pilot study was conducted to gather
+items for behavioral aspects of modesty from Canadians. Eight participants (four males,
+four females), aged from 18 to 25 and all born in Canada, were asked to list behavioral
+items showing modesty. As a result, 9 new items were generated, so that 39 items including
+the 30 items from Study 2 were administered in Study 3. A sample new item is, “Encourage
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+616    Journal of Cross-Cultural Psychology
+
+someone else to take the lead.” Responses were anchored on a 5-point Likert scale ranging
+from 1 (strongly disagree) to 5 (strongly agree).
+Other scales were used as in Study 2 including the Individuation Scale (Maslach, 1974),
+the Self-Construal Scale (Gudykunst et al., 1996), the General Self-Efficacy Scale
+(Schwarzer & Jerusalem, 1995), and the Schwartz Value Survey (Schwartz, 1992).
+Procedure
+This study followed the same procedure outlined in Studies 1 and 2.
+
+Results
+Integrated Modest Behavior Scale
+Exploratory factor analysis was performed on the 39 items of the integrated MBS. The scree
+test again showed that three to four factors were possible. Varimax rotation was used to compare
+the three- and four-factor solutions. Given that the three-factor structure was more interpretable
+and consistent with our previous conceptualizations, it was chosen as the final model.
+Similar to the factor structure of the MBS in Study 2, eight items loaded on self-effacement
+(eigenvalue = 2.74), accounting for 7.0% of the total matrix variance. Fifteen items loaded
+on other-enhancement (eigenvalue = 5.99), accounting for 15.4% of the variance. Fourteen
+items loaded on avoidance of attention-seeking (eigenvalue = 3.38), accounting for 8.7% of
+the variance. Item content and their psychometric properties for the previous and final MBS
+are shown in Table 4. The alphas were .73, .78, and .80, respectively, which were also satisfactory, as in Study 2. Factor scores were computed for subsequent analyses based on
+equal weighting of each factor’s constituent items.
+Descriptive statistics including means, standard deviations, reliability coefficients, and
+correlation coefficients of the variables with the MBS are presented in Table 1. Trait modesty had modest to strong positive correlations with the three factors of the MBS, r(204) =
+.41, .25 and .63, respectively, p < .001.
+Predicting Modest Behavior
+Three sets of hierarchical regression analyses were conducted to predict the three factors
+of the MBS using the same set of predictors as in Study 2 (see Table 5). Results of the first
+regression analysis showed that the sample multiple correlation coefficient was .48 and the
+model explained 23.4% of the total variance in self-effacement, R2 = .23, F(11, 192) = 5.34,
+p < .001. None of the demographics reached significance, p > .05. The criterion was positively related to trait modesty and independence, but negatively to self-efficacy, p < .01.
+In predicting other-enhancement, the sample multiple correlation coefficient was .63,
+indicating that the regression model accounted for 39.8% of the variance, R2 = .40, F(11,
+192) = 11.55, p < .001. Again, none of the demographics reached significance, p > .05. The
+effects of trait modesty, self-efficacy, and interdependence were significant, p < .05. Among
+the value factors, Openness to Change, Self-Enhancement, and Conservation made significant contributions, p < .05.
+The sample multiple correlation coefficient was .70 for the third regression, so that 49.4%
+of the variance in avoidance of attention-seeking was explained by the predictors, R2 = .49,
+F(11, 192) = 17.03, p < .001. Demographics were not significant, p > .05. The criterion was
+positively related to trait modesty and the value factor of Conservation, but negatively to
+individuation and the value factor of Self-Enhancement, p < .05.
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+   617
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+1	
+2	
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16	
+17	
+18	
+19	
+20	
+21	
+22	
+23	
+24	
+25	
+
+Study 2	
+
+Study 3
+
+(continued)
+
+.46
+
+.26
+
+.45
+
+.55
+.34
+
+.50
+
+.53
+
+.61
+
+.65
+.61
+
+Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor
+1	
+2	
+3	
+1	
+2	
+3	
+1	
+2	
+3
+
+Study 1	
+
+Usually praise other people					
+.40			
+.53	
+Not praise one’s own strengths				
+.56			
+.63		
+Often shift the conversation to talk about myself (R)	
+.56					
+.53			
+Wear clothes that draw people’s attention (R)	
+.44					
+.49			
+In front of others, attribute success to luck rather than my own ability 				
+.61			
+.53		
+Avoid causing inconvenience to others		
+.57				
+.30	
+.50		
+Lead people around me to acknowledge my superiority (R)	
+.50					
+.50			
+Politely ask others to correct me when I express my own opinions		
+.52			
+.60		
+.47		
+Avoid showing off in front of peers						
+.47			
+Actively avoid asserting my privileges			
+.44			
+.44	
+.51		
+Not praise myself in an attention-getting way 						
+.55			
+Thank the person who criticizes me			
+.51		
+.71			
+.26	
+Admit my mistakes and apologize when criticized					
+.65			
+.51	
+Treat everyone equally regardless of status.		
+.54			
+.53			
+.51	
+Emphasize others’ contributions when I am praised					
+.42			
+.65	
+Ask more questions and listen to others’ opinions attentively					
+.67			
+.52	
+Avoid saying too much about myself						
+.57			
+Assert my needs when in conflict with others (R)	
+.42					
+.33			
+Admit and correct my mistakes after doing something wrong					
+.56			
+.55	
+Showing off my expensive accessories (R)	
+.63					
+.54			
+Deny my own strengths in front of others			
+.57	
+.79			
+.65		
+Try to defend myself when I am criticized (R)	
+.45					
+.30			
+Sincerely accept others’ suggestions 					
+.64			
+.41	
+Say thank you when praised					
+.38			
+.34	
+Speak out less; listen to others’ opinions more				
+.44					
+
+		
+	
+Item	
+
+	
+
+Table 4
+Factor loadings of the Items for the Modest Behavior Scale (Factor 1 = Self-Effacement,
+Factor 2 = Other-Enhancement, and Factor 3 = Avoidance of Attention-Seeking)
+
+618   
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Study 2	
+
+Study 3
+
+.48
+
+.35
+
+.46
+
+.66
+
+Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor 	 Factor
+1	
+2	
+3	
+1	
+2	
+3	
+1	
+2	
+3
+
+Study 1	
+
+Not show off				
+.55					
+Accept differences with others					
+.38			
+.34	
+Find and appreciate others’ strengths					
+.50			
+.07b	
+Post awards where people can see (R)	
+0.61					
+.57			
+Deny my strengths when praised				
+.77			
+.60		
+Wear revealing clothing (R)									
+Follow tasks and demands								
+.37	
+Fulfill duties to friends and family								
+.58	
+Finish workload on time and in an adequate manner								
+.44	
+Give credit to others								
+.61	
+Say polite words and phrases to my companions								
+.54	
+Tell others about my accomplishments (R)									
+Encourage someone else to take the lead							
+.19b		
+Talk myself down to downplay my talent							
+.57		
+
+Note: (R) indicates that the item was reverse scored
+b. This item was excluded due to low factor loading.
+
+26	
+27	
+28	
+29	
+30	
+31	
+32	
+33	
+34	
+35	
+36	
+37	
+38	
+39	
+
+		
+	
+Item	
+
+	
+
+Table 4  (continued)
+
+   619
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Block 	 Block 	
+1 β	
+2 β	
+
+Block 	
+3 β	
+
+Block 	
+4 β	
+
+Self-Effacement	
+
+*p < .05. **p < .01. ***p < .001.
+
+Age	
+.01	
+.03	
+.01	
+.03	
+Gender (0 = Male, 	
+.01	
+–.03	
+–.05	
+–.04	
+   1 = Female)
+Self-efficacy		
+–.29***	 –.14	
+–.21*	
+Trait Modesty			
+.35***	 .32***	
+Individuation			
+–.04	
+–.04	
+Independence				
+.16*	
+Interdependence				
+.08	
+Openness to Change					
+Self-enhancement					
+Self-transcendence					
+Conservation					
+R2	
+.00	
+.08	
+.19	
+.22	
+df	
+2/201	
+3/200	
+5/198	
+1/28	
+F change	
+0.02	 17.40***	 12.90***	 3.82*	
+
+	
+Variable	
+
+	
+
+.04	
+.03	
+
+.03	
+.06	
+
+.02	
+.05	
+
+.06	
+.06	
+
+.07	
+.03	
+
+.13	
+.05	
+
+.14*	
+.03	
+
+.10	
+–.03	
+
+.10	
+–.02	
+
+.09
+–.02
+
+–.22**		
+.22**	 .29***	 .23**	 .22**		
+–.19**	 .12	
+.11	
+.10
+.34***			
+.39***	 .29***	 .20**			
+.64***	 .63***	 .54***
+.01			
+.15*	
+.15*	
+.12			
+–.16*	 –.16*	 –.15*
+.16*				
+.12	
+.10				
+.03	
+.09
+.05				
+.32***	 .20**				
+.03	
+–.02
+–.17					
+.21*					
+.05
+.13					
+–.30**					
+–.37***
+–.05
+.03					
+.09					
+.08					
+.29**					
+.30**
+.23	
+.00	
+.05	
+.19	
+.31	
+.40	
+.02	
+.05	
+.43	
+.43	
+.49
+11/192	 2/201	 3/200	 5/198	
+1/28	 11/192	 2/201	 3/200	 5/198	
+1/28	 11/192
+1.10	
+0.28	 10.22**	17.04***	 17.00***	 7.01***	 1.90	 7.31**	 65.73***	 0.35	 5.77***
+
+.04	
+–.05	
+
+Block 	
+5β
+
+Avoidance of Attention-Seeking
+
+Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	 Block 	
+5 β	
+1 β	
+2 β	
+3 β	
+4 β	
+5 β	
+1 β	
+2 β	
+3 β	
+4 β	
+
+Other-Enhancement	
+
+Table 5
+Hierarchical Regression Analysis for Variables Predicting the Three Factors of Modest Behavior in Study 3 (N = 204)
+
+620    Journal of Cross-Cultural Psychology
+
+General Discussion
+The present study sought to measure modesty by developing an instrument to tap its
+behavioral manifestations. The results of factor analysis across the three studies suggest
+that modesty encompasses three behavioral components: self-effacement, other-enhancement,
+and avoidance of attention-seeking. All three factors were positively related to the trait
+measure of modesty in Mainland China, Hong Kong, and Canada, so that their moderate
+correlations with the three components of the MBS supported its construct validity.
+Furthermore, the nomological networks surrounding them revealed the breadth of the construct and signified the need to examine these aspects of modest enactments separately. In
+hierarchical regressions, the three factors were shown to relate to several personality and
+social variables above and beyond the predictive power provided by a trait measure of
+modesty. Prediction of modest behavioral self-reports demonstrated independent contributions from other measures of personality and values, indicating that they constitute a complex social psychological phenomenon.
+
+Deconstructing Modesty
+The first two factors of the MBS have provided empirical evidence to support previous
+conceptions of politeness (Gu, 1990) and self-effacement (Bond, Kwan, & Li, 2000). Gu
+(1990) considered that the modesty notion underlying politeness maxims comprised two
+clauses or submaxims: denigrating oneself and elevating others. Bond et al. (2000) decomposed the sense of superiority/inferiority (i.e., rater-derived enhancement) into two components, self-regard and regard for others. These interrelated concepts not only focus on
+self-regard and self-interest, but also concentrate on concern for others and orientation
+toward others. They parallel the first two factors identified by the MBS: self-effacement
+and other-enhancement.
+We also further derived a third factor from these respondent-derived judgments of modesty: avoidance of attention-seeking. This component delineates behavioral tendencies of
+personal restraint in public. It captures how the underlying personality disposition expresses
+itself in social contexts, reflecting the self in careful, reserved relation to others. Together
+they resemble the three aspects of the self proposed by Triandis (1989), namely, the private
+self, the collective self, and the public self. The interplay of these three components of the
+self provides the basis for a rich and complex social drama.
+
+Modesty and Self-Efficacy
+It is intriguing to find that other-enhancement was positively correlated with self-efficacy,
+whereas the other two factors were negatively correlated with self-efficacy in all three studies.
+However, it is also notable that after controlling for trait modesty, only in Canada was the
+self-effacement factor negatively related to self-efficacy; for other studies, the other two factors
+were unrelated to self-efficacy after controlling for trait modesty. Though strong interpretations of
+this cultural difference are limited, we suggest that only in some cultures will self-restraining
+behavior go beyond an expression of modesty to reflect low self-regard. Self-efficacy denotes
+one’s sense of competence and mastery over the environment (Bandura, 1977, 1992; Chen,
+Chan, Bond, & Stewart, 2006; Zhang & Schwarzer, 1995). Self-effacement and avoidance of
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    621
+
+attention-seeking are self-humbling tactics, which might seem to be contrary to self-perceived
+competence and mastery. Conversely, actions to enhance others, such as ingratiation, could
+derive from the belief that consequences of events are controlled by oneself as well as by the
+surrounding environment. Hence individuals make conscious efforts to maintain interpersonal
+harmony and achieve desirable outcomes. In fact, Bond and colleagues (1982) found that
+self-effacing individuals were better liked, though seen as less competent than self-enhancing
+ones. Tetlock (1980) found that modest teachers were perceived to be more likable, competent, and self-confident than boastful teachers. These mixed findings in perceived competence
+across cultures echo the call to differentiate this rich, multifaceted construct. We submit that
+modesty does not represent low self-regard, but serves as an effective self-presentational tactic by competent social actors, used to maintain a viable persona across various cultural-situational contexts.
+
+Other-Enhancement and Interdependence
+As other-enhancement represents regard for others and the elevation of others, it is not
+surprising that an interdependent self-construal emerged as a significant predictor above
+and beyond trait modesty in both Chinese and Canadian cultures. Other-enhancement does
+not originate from a negative evaluation of one’s competence. Rather, it arises in part from
+one’s awareness of interdependence, a sensitivity to one’s relationships with others, and a
+concern with maintaining harmony and achieving integration in social interactions. An
+interdependent view of the self gears one’s behavior toward emphasizing group membership and identity, focusing on in-group goals rather than personal goals (Markus &
+Kitayama, 1991). Other-enhancing behavior, as guided by interdependence, addresses the
+concern for others’ feelings, respect for others’ needs, and being tactful and non-offensive.
+
+Individuation as the Opposite Pole
+Regression findings revealed that individuation accounted for significant variance in
+avoidance of attention-seeking in Studies 2 and 3. Indeed, avoidance of attention-seeking
+is a state of de-individuation, the opposite pole of individuation on the continuum of selfpresentation. Individuation can establish a sense of identity and individuality (Maslach,
+1974; Maslach, Stapp, & Santee, 1985). Behaviors that distinguish oneself from others get
+attention because of their uniqueness and distinctiveness, but this public attention is what
+modest and humble people try to avoid. Contrarily, modest people restrain themselves in
+public settings. They may wear ordinary clothing and bland colors, use minimal and standard accessories, and agree with rather than criticize others. Thus, the negative relations
+between individuation and modest behavior represent the opposing enactments of independent and interdependent self-views.
+Individuating and modest behavior may serve different social functions, earlier identified
+by Bales (1950) as task and maintenance, and these two behavioral profiles will probably
+drive different reputations. Individuating behavior is more leadership-oriented, and those
+high in individuation are rated as extraverted by others (Kwan et al., 2002). Modest behavior
+is integration-oriented, and those showing modest behavior may be perceived as helpful,
+agreeable, and pro-social (Bond et al., 2000). Individuating behavior is agentic, modest
+behavior is communal.
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+622    Journal of Cross-Cultural Psychology
+
+Values as Predictors
+The regression findings partially confirmed our hypotheses concerning the value dimensions, indicating that self-enhancement motivations suppressed modest behavior, especially
+on avoidance of attention-seeking in Study 3. A self-promoting presentation contradicts the
+motive to avoid others’ attention in public. Given that the value factor of Conservation
+represents a traditional mindset (Chen, Bond, & Tang, 2007), Conservation was related to
+other-enhancement in Studies 2 and 3, consistent with our hypothesis.
+Since modesty has long been regarded as a traditional virtue (Gabrenya & Hwang, 1996;
+Yang, 1996), it is understandable that traditionality was related to other-enhancement, but
+intriguing to find it related negatively to Self-Effacement. In other words, less traditional
+individuals were more likely to use self-restraining tactics. A plausible explanation is that
+participants in Study 1 are students from prestigious universities in two modern cities of
+China. Living and studying in such competitive social surroundings make them feel intimidated, and they therefore have a stronger need to use modest self-presentation strategies,
+such as self-effacement, to maintain interpersonal harmony and avoid social disapproval.
+
+Gender Differences in the MBS
+In our first study, the finding that females were higher than males in self-effacement is
+consistent with cultural norms about gender roles. In achievement settings, females tend to
+be more modest than males by taking less credit for success, but more responsibility for
+failure (Berg, Stephan, & Dodson, 1981; Feather & Simon, 1973; Levine, Gillman, & Reis,
+1982; Pasquella, Mednick, & Murray, 1981). Wosinska et al. (1996) found that when the
+self-presenters were women, highly modest responses were preferred to moderate ones; in
+contrast, moderate modest responses by males were favored. Dabul, Wosinska, Cialdini,
+Mandal, and Dion (1997) replicated this U.S. study in Poland and obtained similar
+results.
+Surprisingly, male participants in Study 2 showed more other-enhancement than females.
+As females are stereotyped as more nurturing and caring for others, the modesty norm
+seems more congruent with the femininity of the communal dimension, rather than the
+masculinity of the agentic dimension. Again, dispositions and social behaviors may be different. Possibly, males take the initiative to elevate others for the purpose of managing
+others’ impressions in a collectivist society. This could be explained by the societal expectations of the male gender role being more assertive and open, whereas that of the female
+being more humble and restrained (Bond et al., 2000; Wosinska et al., 1996).
+
+Future Research
+According to Tangney (2000), a psychological construct can be assessed by two distinct
+approaches: the dispositional and the situational. The modesty measures in the literature
+represent these two levels of interest: The dispositional approach adopted by personality
+researchers assesses individual differences as stable, enduring characteristics with personality inventories; the situational approach adopted by social psychologists manipulates and
+measures social factors (e.g., the relative status or the relational intimacy of the interactants), thereby discovering how individuals’ modest behavioral responses are elicited.
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    623
+
+Further studies may identify additional predictors of the MBS, such as self-monitoring and
+self-consciousness, to enrich our understanding of the construct.
+Constructing the MBS was an attempt to go beyond the conceptualization of personality
+style and assess modesty in its contextual enactments. Past research often uses psychological constructs and scales developed from Western cultures and applies them to Eastern
+contexts to test for their generalizability. It is worthwhile to explore psychological constructs of Eastern origin, such as modesty, filial piety, and harmony, in Western contexts to
+examine their generalizability and role in different cultural systems. Future research can
+make more attempts to apply these salient constructs from Eastern cultural settings to
+Western cultural settings, what Bond (1999) earlier referred to metaphorically as Marco
+Polo returning to the West with noodles.
+When discussing the assessment of humility, a construct closely related to modesty,
+Tangney (2000) contended that virtually no empirical research had established a widely
+recognized and well-validated measure of humility, due to the very nature of self-report in
+capturing the diversity of humility components. From this perspective, a limitation of the
+present study is our use of a self-report measure to operationalize modest behavior. We
+concur that more work should be done to assess actual behavior and compare different
+methods for validating the construct. One approach is to obtain peer ratings of a given target’s modest behavior and examine the relations between self and peer ratings. We expect
+that the three different components of modest behavior will be differentially sensitive to
+self-other differences and that the self-other correlations across these three components will
+be moderated by aspects of the target’s personality, including values and social beliefs.
+
+References
+Bakan, D. (1966). The duality of human existence. Chicago: Rand McNally.
+Bales, R. F. (1950). Interaction process analysis. Chicago: University of Chicago Press, 1976.
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavioral change. Psychological Review, 84,
+191-215.
+Bandura, A. (1992). Exercise of personal agency through the self-efficacy mechanism. In R. Schwarzer (Ed.),
+Self-efficacy: Thought control of action (pp. 3-38). Washington, DC: Hemisphere.
+Baumeister, R. F. (1982). A self-presentational view of social phenomena. Psychological Bulletin, 91, 3-26.
+Baumeister, R. F., & Ilko, S. A. (1995). Shallow gratitude: Public and private acknowledgement of external help
+in accounts of success. Basic and Applied Social Psychology, 16, 191-209.
+Berry, J. W. (1969). On cross-cultural comparability. International Journal of Psychology, 4, 119-128.
+Berry, J. W. (1989). Imposed etics–emics–derived etics: The operationalisation of a compelling idea.
+International Journal of Psychology, 24, 721-735.
+Berg, J. H., Stephan, W. G., & Dodson, M. (1981). Attributional modesty in women. Psychology of Women
+Quarterly, 5, 711-727.
+Bond, M. H. (1999). The psychology of the Chinese people: A Marco Polo returns to Italy. Psychologia
+Italiana, 17, 29-33.
+Bond, M. H., Kwan, V. S. Y., & Li, C. (2000). Decomposing a sense of superiority: The differential social
+impact of self-regard and regard for others. Journal of Research in Personality, 34, 537-553.
+Bond, M. H., Leung, K., & Wan, K., C. (1982). The social impact of self-effacing attributions: The Chinese
+case. The Journal of Social Psychology, 118, 157-166.
+Carlson, D. E., & Shovar, N. (1983). Effects of performance attributions on others’ perceptions of the attributor.
+Journal of Personality and Social Psychology, 44, 515-525.
+Chen, R. (1993). Responding to compliments: A contrastive study of politeness strategies between American
+English and Chinese speakers. Journal of Pragmatics, 20, 49-75.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+624    Journal of Cross-Cultural Psychology
+
+Chen, S. X., Bond, M. H., & Tang, D. (2007). Decomposing filial piety into filial attitudes and filial enactments.
+Asian Journal of Social Psychology, 10, 213-223.
+Chen, S. X., Chan, W., Bond, M. H., & Stewart, S. M. (2006). The effects of self-efficacy and relationship
+harmony on depression across cultures: Applying level-oriented and structure-oriented analyses. Journal of
+Cross-Cultural Psychology, 37, 643-658.
+Cialdini, R. B., & De Nicholas, M. E. (1989). Self-presentation by association. Journal of Personality and Social
+Psychology, 57, 626-631.
+Colvin, C. R., Block, J., & Funder, D. C. (1995). Overly positive self-evaluations and personality: Negative
+implications for mental health. Journal of Personality and Social Psychology, 68, 1152-1162.
+Costa, P. T., Jr., & McCrae, R. R. (1985). The NEO Personality Inventory manual. Odessa, FL: Psychological
+Assessment Resources.
+Costa, P. T., Jr., & McCrae, R. R. (1992). Revised NEO Personality Inventory (NEO PI-R) and NEO Five-Factor
+Inventory (NEO-FFI) Professional Manual. Odessa, FL: Psychological Assessment Resources.
+Dabul, A. J., Wosinska, W., Ciadini, R. B., Mandal, E., & Dion, R. W. (1997). Self-presentational modesty across
+cultures: The effects of gender and social context in the workplace. Polish Psychological Bulletin, 28,
+295-306.
+Exline, J. J., & Lobel, M. (1999). The perils of outperformance: Sensitivity about being the target of a threatening upward comparison. Psychological Bulletin, 125, 307-337.
+Feather, N. T., & Simon, J. G. (1973). Fear of success and causal attributions for outcome. Journal of Personality,
+41, 525-542.
+Fishbein, M., & Ajzen, I. (1975). Belief, attitude, intention, and behavior: An introduction to theory and research.
+Reading, MA: Addison-Wesley.
+Forsyth, D. R., Berger, R. E., & Mitchell, T. (1981). The effects of self-serving vs. other-serving claims of
+responsibility on attraction and attribution in groups. Social Psychology Quarterly, 44, 59-64.
+Gabrenya, Jr., W. K., & Hwang, K.-K. (1996). Chinese social interaction: Harmony and hierarchy on the good
+earth. In M. H. Bond (Ed.), The handbook of Chinese psychology (pp. 309-321). Hong Kong, China: Oxford
+University Press.
+Gao, G., & Ting-Toomey, S. (1998). Communicating effectively with the Chinese. London: Sage.
+Gibson, B., & Sachau, D. (2000). Sandbagging as a self-presentational strategy: Claiming to be less than you
+are. Personality and Social Psychology Bulletin, 26, 56-70.
+Gould, R., Brounstein, P. J., & Sigall, H. (1977). Attributing ability to an opponent: Public aggrandizement and
+private denigration. Sociometry, 40, 254-261.
+Gu, Y. (1990). Politeness phenomena in modern Chinese. Journal of Pragmatics, 14, 237-257.
+Gudykunst, W. B., Matsumoto, Y., Ting-Toomey, S., Nishida, T., Kim, K., & Heyman, S. (1996). The influence
+of cultural individualism-collectivism, self-construals, and individual values on communication styles
+across cultures. Human Communication Research, 22, 510-543.
+Heine, S. J., Lehman, D. R., Markus, H. R., & Kitayama, S. (1999). Is there a universal need for positive self-regard?
+Psychological Review, 106, 766-794.
+Heine, S. J., Takata, T., & Lehman, D. R. (2000). Beyond self-presentation: Evidence for self-criticism among
+Japanese. Personality and Social Psychology Bulletin, 26, 71-78.
+Jones, E. E., & Wortman, C. (1973). Ingratiation: An attributional approach. New York: General Learning
+Press.
+Kurman, J. (2001a). Is self-enhancement related to modesty or to individualism-collectivism? A test with four
+Israeli groups. Asian Journal of Social Psychology, 4, 225-237.
+Kurman, J. (2001b). Self-enhancement: Is it restricted to individualistic cultures? Personality and Social
+Psychology Bulletin, 27, 1705-1716.
+Kurman, J. (2002). Measured cross-cultural differences in self-enhancement and the sensitivity of the self-enhancement measure to modesty response. Cross-Cultural Research, 36, 73-95.
+Kurman, J. (2003). Why is self-enhancement low in certain collectivist cultures: An investigation of two competing explanations. Journal of Cross-Cultural Psychology, 34, 496-510.
+Kurman, J., & Sriram, N. (1997). Self-enhancement, generality level of self-evaluation and affectivity in Israel
+and Singapore. Journal of Cross-Cultural Psychology, 28, 421-441.
+Kurman, J., & Sriram, N. (2002). Interrelationships among vertical and horizontal collectivism, modesty, and
+self-enhancement. Journal of Cross-Cultural Psychology, 33, 71-86.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+Chen et al. / Modest Behavior Across Cultures    625
+
+Kurman, J., Yoshihara-Tanaka, C., & Elkoshi, T. (2003). Is self-enhancement negatively related to constructive
+self-criticism? Journal of Cross-Cultural Psychology, 34, 24-37.
+Kwan, V. S. Y., Bond, M. H., Boucher, H. C., Maslach, C., & Gan, Y. (2002). The construct of individuation: More
+complex in collectivist than in individualist cultures. Personality and Social Psychology Bulletin, 28, 300-310.
+Leary, M. R., Robertson, R. B., Barnes, B. D., & Miller, R. S. (1986). Self-presentations of small group leaders:
+Effects of role requirements and leadership orientation. Journal of Personality and Social Psychology, 51,
+742-748.
+Leech, G. (1983). Principles of pragmatics. New York: Longman.
+Levine, R., Gillman, M. J., & Reis, H. (1982). Individual differences for sex differences in achievement attributions? Sex Roles, 8, 455-466.
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation.
+Psychological Review, 98, 224-253.
+Maslach, C. (1974). Social and personal bases of individuation. Journal of Personality and Social Psychology,
+29, 411-425.
+Maslach, C., Stapp, J., & Santee, R. T. (1985). Individuation: Conceptual analysis and assessment. Journal of
+Personality and Social Psychology, 49, 729-738.
+Mischel, W. (1968). Personality and assessment. New York: Wiley.
+Pasquella, M. H., Mednick, M. T., & Murray, S. R. (1981). Causal attributions for achievement outcomes: Sex-role
+identity, sex and outcome comparisons. Psychology of Women Quarterly, 5, 586-589.
+Paulhus, D. L. (1998). Interpersonal and intrapsychic adaptiveness of trait self-enhancement: A mixed blessing?
+Journal of Personality and Social Psychology, 74, 1197-1208.
+Powers, T. A., & Zuroff, D. C. (1988). Interpersonal consequences of overt self-criticism: A comparison with
+neutral and self-enhancing presentations of self. Journal of Personality and Social Psychology, 54, 10541062.
+Sadalla, E. K., Kenrick, D. T., & Vershure, B. (1987). Dominance and heterosexual attraction. Journal of
+Personality and Social Psychology, 52, 730-738.
+Schlenker, B. R. (1975). Self-presentation: Managing the impression of consistency when reality interferes with
+self-enhancement. Journal of Personality and Social Psychology, 32, 1030-1037.
+Schlenker, B. R., & Leary, M. R. (1982). Audiences’ reactions to self-enhancing, self-denigrating, and accurate
+self-presentations. Journal of Experimental Social Psychology, 18, 89-104.
+Schneider, D. J. (1969). Tactical self-presentation after success and failure. Journal of Personality and Social
+Psychology, 13, 262-268.
+Schwartz, S. H. (1992). The universal content and structure of values: Theoretical advances and empirical tests
+in 20 countries. In M. P. Zanna (Ed.), Advances in experimental social psychology (Vol. 25, pp. 1-65). New
+York: Academic.
+Schwartz, S. H. (1994). Cultural dimensions of values: Toward an understanding of national differences.
+In U. Kim, H. C. Triandis, C. Kagitcibasi, S. C. Choi, & G. Yoon (Eds.), Individualism and collectivism:
+Theory, method, and applications (pp. 85-121). Thousand Oaks, CA: Sage.
+Schwartz, S. H., & Bardi, A. (2001). Value hierarchies across cultures: Taking a similarities perspective. Journal
+of Cross-Cultural Psychology, 32, 268-290.
+Schwartz, S. H., & Boehnke, K. (2004). Evaluating the structure of human values with confirmatory factor
+analysis. Journal of Research in Personality, 38, 230-255.
+Schwarzer, R., & Jerusalem, M. (1995). Generalized Self-Efficacy scale. In J. Weinman, S. Wright,
+& M. Johnston (Eds.), Measures in health psychology: A user’s portfolio. Causal and control beliefs
+(pp. 35-37). Windsor, England: NFER-NELSON.
+Sedikides, C., Gaertner, L., & Toguchi, Y. (2003). Pancultural self-enhancement. Journal of Personality and
+Social Psychology, 84, 60-79.
+Shikanai, K. (1978). Effects of self-esteem on attribution of success-failure. Japanese Journal of Experimental
+Social Psychology, 18, 47-55.
+Spencer-Oatey, H., & Ng, P. (2000). Reconsidering Chinese modesty: Hong Kong and mainland Chinese evaluative
+judgments of compliment responses. Journal of Asian Pacific Communication, 11, 181-201.
+Tangney, J. P. (2000). Humility: Theoretical perspectives, empirical findings and directions for future research.
+Journal of Social and Clinical Psychology, 19, 70-82.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+626    Journal of Cross-Cultural Psychology
+
+Tetlock, P. E. (1980). Explaining teacher explanations of pupil performance: A self-presentation interpretation.
+Social Psychology Quarterly, 43, 283-290.
+Triandis, H. C. (1989). Self and social behavior in differing cultural contexts. Psychological Review, 96, 269-289.
+Wada, M. (1988). Information seeking in self-evaluation of ability [Abstract]. Proceedings of Japanese
+Psychological Association Meeting, 52, 222.
+Weiner, B. (1979). A theory of motivation for some classroom experiences. Journal of Educational Psychology,
+71, 3-25.
+Wosinska, W., & Dabul, A. J., Whetstone-Dion, R., & Cialdini. (1996). Self-presentational responses to success
+in the organization: The costs and benefits of modesty. Basic and Applied Social Psychology, 18, 229-242.
+Yang, K. S. (1996). The psychological transformation of the Chinese people as a result of societal modernization. In M. H. Bond (Ed.), The handbook of Chinese psychology (pp. 479-498). Hong Kong, China: Oxford
+University Press.
+Yang, K. S., Yu, A. B., & Yeh, K. H. (1991). Zhongguoren de geren chuantongxing yu xiandaixing: Gainian yu
+celiang [Chinese individual traditionality and modernity: Conceptualization and measurement]. In K. S.
+Yang & K. K. Hwang (Eds.), The mind and behavior of the Chinese: Selected papers of the 1989 Taipei
+conference (pp. 241-306). Taipei, Taiwan: Laureate Publishing Co.
+Zhang, J. X., & Schwarzer, R. (1995). Measuring optimistic self-beliefs: A Chinese adaptation of the general
+self-efficacy scale. Psychologia, 38, 174-181.
+Zuckerman, M. (1979). Attribution of success and failure revisited, or: The motivational bias is alive and well
+in attribution theory. Journal of Personality, 47, 245-287.
+Sylvia Xiaohua Chen is an assistant professor in the Department of Applied Social Sciences at the Hong Kong
+Polytechnic University. She has a PhD in psychology from the Chinese University of Hong Kong and an MA
+in counseling psychology from Santa Clara University, U.S.A. Her research interests include the social psychology of bilingualism and biculturalism, personality and social behaviors in cultural contexts, cross-cultural
+research methodology, and sociocultural influences on illness behaviors and help-seeking patterns.
+Michael Harris Bond has been practicing social psychology for the last three-plus decades at the Chinese
+University of Hong Kong, where he now is Research Professor of Psychology. He is fascinated by culture, having been socialized into an English-Canadian variant, followed by an American graduate education in exotic
+California, and an extended intercultural immersion as a Research Associate from 1971 to 1974 at Kwansei
+Gakuin University in Japan. Throughout much of this cultural awareness-raising, he has been a member of the
+Baha’i Faith. This religious practice has further extended his contact with representatives of other cultural
+realities, sharpened his appreciation of pervasive societal influences on human social performance, and opened
+his sensibilities to Islamic art, literature, and philosophy. He is the author of Beyond the Chinese Face (Oxford,
+1991) and co-author of Understanding Social Psychology Across Cultures (Sage, 2006).
+Bacon Chan, BSSc, was an undergraduate student at The Chinese University of Hong Kong. He assisted the
+first author in data collection and statistical analysis of the Canadian sample. His research interest focuses on
+social axioms and individualism-collectivism.
+Donghui Tang received her master’s degree in education from Beijing Normal University. She is currently an
+associate professor at Beijing Normal University. Her main research and publications are in the areas of health
+promotion and health psychology.
+Emma E. Buchtel is currently pursuing her PhD at the University of British Columbia, Canada. Her research
+interests include cultural-moral relativism and the effect of culture on values about reasoning, helping behavior,
+and use of personality trait information.
+For reprints and permissions queries, please visit SAGE’s Web site at http://www.sagepub.com/journals
+Permissions.nav.
+
+Downloaded from http://jcc.sagepub.com at CITY UNIV OF HONG KONG on June 15, 2009
+
+All in-text references underlined in blue are linked to publications on ResearchGate, letting you access and read them immedia
+
+

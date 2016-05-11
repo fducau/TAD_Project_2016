@@ -1,0 +1,924 @@
+Journal of Experimental Psychology:
+Learning, Memory, and Cognition
+2004, Vol. 30, No. 2, 343–353
+
+Copyright 2004 by the American Psychological Association, Inc.
+0278-7393/04/$12.00 DOI: 10.1037/0278-7393.30.2.343
+
+How Positive Affect Modulates Cognitive Control: Reduced Perseveration
+at the Cost of Increased Distractibility
+Gesine Dreisbach and Thomas Goschke
+Dresden University of Technology
+A fundamental problem that organisms face in a changing environment is how to regulate dynamically
+the balance between stable maintenance and flexible switching of goals and cognitive sets. The authors
+show that positive affect plays an important role in the regulation of this stability–flexibility balance. In
+a cognitive set-switching paradigm, the induction of mild increases in positive affect, as compared with
+neutral or negative affect, promoted cognitive flexibility and reduced perseveration, but also incurred a
+cost in terms of increased distractibility. Rather than influencing set switching in an unspecific way,
+positive affect thus exerted opposite effects on perseveration and distractibility. Results are consistent
+with neuropsychological models according to which effects of positive affect on cognitive control are
+mediated by increased dopamine levels in frontal brain areas.
+
+exhibit perseverative behavior and reduced cognitive flexibility in
+tasks that require switching between different categorization rules,
+such as the Wisconsin Card Sorting Test (WCST; Milner, 1963;
+Nelson, 1976). On the other hand, prefrontal patients suffer from
+increased distractibility and stimulus-driven behavior. For instance, some patients show “utilization behavior,” that is, they
+appear to be unable to suppress well-practiced habits in response to
+common objects, even if they do not intend to perform the respective actions (Lhermitte, 1983; Shallice, Burgess, Schon & Baxter,
+1989).
+Although cognitive control processes mediating stable maintenance and flexible switching of goals and cognitive sets have
+recently become a major focus of research in both experimental
+psychology and cognitive neuroscience (for overviews, see
+Goschke, 2000, 2003; Miller & Cohen, 2001; Monsell & Driver,
+2000), still very little is known about how the balance between
+maintenance and switching is dynamically achieved. In this article,
+we argue that affective states play an important role in the modulation of this stability–flexibility balance.
+It is well documented that positive affect influences a broad
+range of cognitive processes (for a review, see Ashby, Isen, &
+Turken, 1999): It has been shown that positive affect enhances
+cognitive flexibility (Isen & Daubman, 1984; Isen, Niedenthal, &
+Cantor, 1992), increases verbal fluency in a creative uses test
+(Phillips, Bull, Adams, & Fraser, 2002), promotes the production
+of unusual associations (Isen, Johnson, Mertz, & Robinson, 1985),
+reduces functional fixedness in problem solving (Green & Noice,
+1988; Isen, Daubman, & Nowicki, 1987), increases a preference
+for heuristic over analytic decision-making strategies (Isen &
+Means, 1983), as well as facilitates implicit judgments of semantic
+coherence and promotes activation of remote associates in memory
+(Bolte, Goschke, & Kuhl, 2003). Although these studies indicate
+that positive affect increases cognitive flexibility in a variety of
+creative problem-solving, fluency, and decision-making tasks,
+only few studies have investigated directly the influence of positive affect on cognitive control processes. To date, these studies
+have yielded mixed results. Whereas some researchers found that
+
+Intelligent organisms pursuing goal-directed behavior in a constantly changing environment face two fundamental challenges: to
+maintain current goals over time in the face of distraction on the
+one hand, and to flexibly switch between goals and update working
+memory in response to significant changes on the other (Goschke,
+1996, 2000, 2003; cf. Mayr & Keele, 2000; O’Reilly, Braver, &
+Cohen, 1999). Stable maintenance and flexible switching impose
+antagonistic constraints on cognitive control processes: Without
+the ability to protect goals from interfering stimuli and prepotent,
+but inadequate, responses, an organism would suffer from distractibility and impulsivity; without the ability to flexibly reconfigure
+cognitive sets and response dispositions, an organism would be
+unable to adapt to changing circumstances and thus would suffer
+from perseveration and behavioral rigidity. Adaptive action control
+thus requires a dynamic, context-dependent balance between maintaining and switching intentions. Whereas inhibition of distracting
+information or inadequate responses reduces interference and promotes behavioral stability, it likely incurs a cost when flexible
+switching of goals or the detection of significant, but taskirrelevant, stimuli is required. Conversely, although increased sensitivity for irrelevant information or alternative response options
+promotes cognitive and behavioral flexibility, it may incur a cost
+in the form of increased distractibility and impulsivity. The detrimental consequences of the dysregulation of this balance are
+evident in the cognitive impairments of neurological patients with
+lesions of the prefrontal cortex (PFC; Luria, 1973; Shallice, 1988;
+Stuss & Benson, 1986; Stuss & Levine, 2002). These patients often
+
+Gesine Dreisbach and Thomas Goschke, Psychology Department,
+Dresden University of Technology, Dresden, Germany.
+We thank Ulrich Mayr, Leigh Nystrom, Mike Rinck, and an anonymous
+reviewer for helpful comments on an earlier version of this article and
+Steffi Agsten for running the experiments.
+Correspondence concerning this article should be addressed to Gesine
+Dreisbach, Institut für Allgemeine Psychologie, Biopsychologie und
+Methodenlehre, Dresden University of Technology, 01062 Dresden, Germany. E-mail: dreisbach@psychologie.tu-dresden.de
+
+343
+
+344
+
+DREISBACH AND GOSCHKE
+
+participants in a positive mood showed impaired performance on
+tasks requiring executive control, such as the Tower of London
+task (Oaksford, Morris, Grainger, Williams, & Mark, 1996) or a
+version of the Stroop test, in which participants had to switch
+between color naming and word reading (Phillips et al., 2002),
+others found that mild increases in positive affect induced by
+positive emotional words strongly attenuated interference in the
+Stroop task (Kuhl & Kazén, 1999). Moreover, Gray (2001) found
+that emotional states either impaired or improved performance in
+a working memory task depending on whether the task involved
+spatial or verbal information.
+Recently, Ashby and his colleagues (Ashby et al., 1999; Ashby,
+Valentin, & Turken, 2002) presented an elaborate neuropsychological model suggesting that some of the effects of positive affect
+may be mediated by increased brain dopamine (DA) levels in
+frontal cortical areas, notably the anterior cingulate cortex, as a
+result of which the ability to overcome dominant responses is
+enhanced and cognitive flexibility is increased. Consistent with the
+proposed link between positive affect and DA, unexpected reward
+or signals of reward that usually elicit positive affect in humans
+cause DA release from brain stem sites in animals (Schultz, 1992,
+2000). Moreover, DA agonists (e.g., cocaine, amphetamines) that
+enhance dopaminergic activity also produce elevated affect
+(Beatty, 1995), whereas DA antagonists produce flattened affect
+(Hyman & Nestler, 1993). The idea that DA selectively modulates
+cognitive control processes is in line with other theories that
+address the relationship between DA, PFC, and cognitive control
+(Braver, Barch, & Cohen, 1999; Braver & Cohen, 2000; Cohen,
+Braver, & Brown, 2002). In particular, it is proposed that phasic
+increases of DA in PFC, elicited by reward-predicting stimuli,
+serve as a gating signal, triggering the updating of working memory and facilitating a switch of cognitive set. In conclusion, DA
+appears to be involved in the dynamic regulation of the abovementioned stability–flexibility paradox.
+Even though the relation between positive affect, DA levels in
+different brain areas, and cognitive control processes is complex
+and only partially understood, behavioral studies and neurobiological models suggest that moderate increases in positive affect,
+which are presumably associated with mild DA increases in frontal
+brain areas, enhance cognitive flexibility. However, DA apparently
+does not enhance the switching of cognitive sets in general, as
+revealed by a neuropsychological study by Owen et al. (1993).
+These authors compared the performance of frontal lobe patients
+and Parkinson’s disease patients in a modified version of the
+WCST, and reported the following dissociation: Frontal lobe patients were specifically impaired in switching away from a formerly relevant task dimension (perseveration condition) but
+showed less problems in switching to a formerly irrelevant task
+dimension; Parkinson patients were impaired in both conditions.
+However, and most notably with respect to our own study, Parkinson patients medicated with L-dopa, a preproduct of DA able to
+pass the blood– brain barrier, were impaired only when switching
+to a formerly irrelevant task but no longer showed perseverative
+behavior. This result supports the idea that increased brain DA
+levels lead to higher cognitive flexibility and hence reduced
+perseveration.
+In conclusion, there is evidence that (a) positive affect, presumably associated with increased brain DA, enhances cognitive flex-
+
+ibility and that (b) moderate increases in DA levels selectively
+attenuate perseverative behavior. It should be noted, however, that
+the role of DA in cognitive control is complex and only partly
+understood, especially in light of the fact that there are multiple
+DA pathways projecting to different cortical and subcortical brain
+regions, which appear to serve different or even antagonistic
+functions (Roberts et al., 1994). Moreover, it is not unlikely that
+the effects of positive affect and DA levels on cognitive control are
+very different for phasic and tonic changes of affective states or
+DA levels (Cohen et al., 2002). It is therefore of crucial importance
+to obtain further behavioral evidence on specific effects of positive
+affect on different aspects of cognitive control, which may then set
+constraints for theories of the underlying neurobiological mechanisms. We consider it as particularly important to go beyond the
+demonstration of main effects of affect and to develop tasks that
+allow one to differentiate specific influences of positive affect on
+different aspects of cognitive control.
+The purpose of our study was therefore to investigate differential effects of positive affect on complementary cognitive control
+functions. To our knowledge, we are the first to address the
+question of how positive affect modulates the balance between
+maintenance and switching of cognitive sets. On the basis of our
+general assumption that maintenance and flexibility constitute
+antagonistic requirements for cognitive control operations, we
+derived the prediction that moderate increases of positive affect
+reduce perseverative behavior and facilitate set switching, but that
+this increased flexibility also incurs a cost in the form of increased
+distractibility.
+To induce positive affect, we used pictures from the International Affective Picture System (IAPS; Lang, Bradley & Cuthbert,
+1998), which have been shown to elicit affective responses, although these responses need not necessarily be accompanied by
+enduring changes of conscious mood. For instance, in recent
+neuroimaging studies, brief presentation of affective pictures or
+words produced increased activation in a network of brain regions
+involved in emotional processing. In particular, positive, but not
+negative, stimuli elicited activity in striatal brain regions involved
+in reward processing and positive affect, including the caudate,
+putamen, globus pallidus, and nucleus accumbens (Hamann &
+Mao, 2002). Several studies showed that increased activation in
+emotion-related brain regions is elicited even when emotional
+stimuli are presented subliminally, below the threshold of consciousness (Kubota et al., 2000; Morris, Oehman, & Dolan, 1998;
+Whalen et al., 1998). In the light of these findings, brief presentation of emotional pictures appears to be well suited to investigation of the consequences of mild affective responses on cognitive control processes.
+To investigate whether and how moderate increases in positive
+affect modulate the balance between cognitive flexibility and
+stability, we developed a task that allowed us to dissociate benefits
+and costs of increased cognitive flexibility. First, participants were
+trained to respond to target stimuli appearing in a prespecified
+color while ignoring distracter stimuli in a different color. Then
+participants were transferred to one of two switching conditions
+(Figure 1). In one condition, they had to respond to stimuli in a
+new color while distracters appeared in the previous target color.
+In this condition, increased flexibility should facilitate the disengagement from the formerly relevant task, presumably supported
+
+AFFECT AND COGNITIVE CONTROL
+
+Figure 1. Examples for Trials 39 – 41 in both switch conditions. Different
+colors are represented by black, white, and gray stimuli, gray being the
+target color before the switch. In the learned irrelevance condition the
+former distracter color (here white) becomes the target color, and the new
+color (here black) becomes the distracter color after the switch, whereas in
+the perseveration condition the former target color (here gray) becomes the
+distracter color and the new color (black) becomes the target color. In
+Experiment 1, each imperative stimulus was preceded by a fixation cross
+(250 ms); in Experiment 2, each was preceded by a positive or neutral
+affect picture (250 ms) derived from the International Affective Picture
+System (Lang et al., 1998).
+
+by a bias toward novel stimuli, thereby leading to decreased switch
+costs. In the second condition, participants had to respond to
+stimuli in the previously to-be-ignored color while distracters
+appeared in a new color. In this condition, increased flexibility
+should again bias participants’ attention toward novel stimuli,
+which, in this case, should produce increased switch costs. In
+addition to capture by novel stimuli, switch cost in this condition
+could also reflect persisting suppression of the previous distracter.
+It is therefore important to consider whether the presumed increase
+of the switch cost under positive affect might alternatively be
+explained by enhanced distracter suppression. As we will argue in
+the discussion of Experiment 2, our paradigm allows us to distinguish empirically between these two possibilities.
+In Experiment 1, we investigated whether, in the absence of any
+particular affect induction, individuals exhibit both perseveration
+(i.e., increased reaction time [RT] after the switch when they had
+to ignore previously task-relevant stimuli) and learned irrelevance
+(i.e., increased RT after the switch when they responded to previously to-be-ignored stimuli and had to ignore novel distracters). In
+Experiment 2, we presented positive or neutral affective pictures
+prior to the imperative stimulus on each trial of the set-switching
+task. In Experiment 3, we investigated whether effects of positive
+pictures may not be due to their specific emotional valence, but
+rather reflect their greater arousal potential. We therefore replicated Experiment 2 with a set of negative pictures, which matched
+the arousal potential of the positive pictures.
+
+Experiment 1
+Method
+Participants. In Experiment 1, 18 undergraduates (7 female, mean
+age ⫽ 25, SD ⫽ 2.78, range ⫽ 21–30) from the Dresden University of
+
+345
+
+Technology participated for partial fulfillment of course credit or €4 (U.S.
+$5.08). Participants signed informed consent and were debriefed after the
+session.
+Materials and procedure. On each trial, two stimuli, either two digits
+(2, 3, 4, 5, 6, 7, 8, and 9) or two letters (A, E, O, U, K, M, R, and S), were
+presented simultaneously, one above the other, in different colors (digits
+could appear in the colors olive, purple, or gray, whereas letters could
+appear in red, blue, or yellow). Participants were instructed to respond to
+the stimulus appearing in a prespecified color (e.g., red) and to ignore the
+other stimulus, which always appeared in a constant different color (e.g.,
+blue). The location (above– below) of the target was determined at random.
+In a given block of trials, participants performed either a letter categorization task, which required them to indicate whether the target letter was
+a consonant or a vowel, or a digit categorization task, which required them
+to indicate whether a target digit was odd or even. Participants had to press
+a left key if the stimulus was a consonant or even number, and a right key
+if the stimulus was a vowel or odd number. Feedback was given only for
+errors, in which case the intertrial interval was extended to 2,000 ms.
+Targets and distracters were either response compatible (i.e., both mapped
+to the same response key) or response incompatible (i.e., both mapped to
+different response keys). Stimulus presentation was completely randomized with two constraints: (a) Target and distracter were never identical,
+resulting in 25% more incompatible than compatible trials, and (b) the first
+stimulus after the switch was always incompatible.
+Each block consisted of 60 trials. Each trial started with a fixation cross
+(250 ms) followed by a blank screen (250 ms). Then the imperative
+stimulus appeared and remained on the screen until a response was given.
+The next trial started after 1,000 ms (blank screen). After 40 trials, an
+instructional cue (2,000 ms) indicated a switch of the target color. Participants had been informed of this rule change (without specifying the
+particular color change) at the beginning of the experiment. In the learned
+irrelevance condition, participants had to switch to the formerly ignored
+color while distracters appeared in a new color that had not appeared
+before. In the perseveration condition participants had to switch to a new
+color that had not appeared before while distracters appeared in the
+formerly relevant color (see Figure 1). For instance, if in the training phase
+the target color was red and the distracter color was blue, in the learned
+irrelevance condition the target color was switched to blue and the distracter color to yellow, whereas in the perseveration condition the target
+color was switched to yellow and the distracter color to red. The task (letter
+vs. digit categorization) was not switched within a block.
+Each participant performed three perseveration and three learned irrelevance blocks, each comprising 60 trials. Tasks (letter vs. digit categorization) and switching conditions (perseveration vs. learned irrelevance)
+changed every block. The order of conditions was counterbalanced. Assignment of colors to stimuli (relevant, irrelevant, new) remained constant
+for a given participant but was counterbalanced across participants. Participants were asked to answer as quickly as possible while avoiding errors.
+Prior to the first two experimental blocks, participants performed 20
+practice trials with only a single stimulus appearing in different colors.
+Design. A 2 (switch condition: perseveration vs. learned irrelevance) ⫻ 2 (interval: before vs. after switch) ⫻ 2 (response compatibility:
+compatible vs. incompatible) within-subjects design was used. Response
+latencies and error rates served as dependent measures.
+
+Results
+RT data. Incorrect responses (mean error rate ⫽ 4.15) and RTs
+exceeding 2,000 ms (0.27% of correct responses) were excluded
+from the analyses. For each of the six experimental blocks, means
+of the remaining RTs and errors were computed for consecutive
+intervals of five trials, separately for response-compatible and
+response-incompatible trials. The critical comparison is between
+
+346
+
+DREISBACH AND GOSCHKE
+
+the two intervals immediately before the target color switch (Trials
+36 – 40) and immediately after the switch (Trials 41– 46). (Analyses with larger intervals of 10 trials did not substantially alter the
+results; to rule out the possibility that switch cost occurred only as
+a result of a sudden increase on the first trial after the switch, an
+analysis excluding Trial 41 was run, which also did not change the
+general data pattern). Data were collapsed over the three blocks of
+each switch condition.
+Figure 2 shows mean RTs as a function of switch condition,
+interval (before and after the switch), and response compatibility.
+In both switch conditions, mean RT reliably increased after the
+switch, especially so on incongruent trials. This pattern was substantiated in a 2 (interval) ⫻ 2 (switch condition) ⫻ 2 (compatibility) analysis of variance (ANOVA), which yielded highly reliable main effects of interval, F(1, 17) ⫽ 17.84, MSE ⫽ 9,006.74,
+p ⬍ .01; compatibility, F(1, 17) ⫽ 15.21, MSE ⫽ 5,997.73, p ⬍
+.01; as well as a significant interaction of interval and compatibility, F(1, 17) ⫽ 13.52, MSE ⫽ 2,879.17, p ⬍ .01. Planned comparisons showed that RTs increased significantly after the switch
+in the incompatible perseveration condition, F(1, 17) ⫽ 19.22,
+MSE ⫽ 3,363.59, p ⬍ .01; in the incompatible learned irrelevance
+condition, F(1, 17) ⫽ 13.67, MSE ⫽ 8,653.2, p ⬍ .01; and in the
+compatible learned irrelevance condition, F(1, 17) ⫽ 5.64, MSE ⫽
+4,005.74, p ⬍ .05. Only in the compatible perseveration condition
+did the RT increase after the switch not prove reliable ( p ⬎ .40).
+To make sure that no other transitions between blocks of five
+consecutive trials differed significantly, post hoc comparisons
+(Newman–Keuls) were computed for all 11 transitions separately
+
+for each compatibility and shift condition. Apart from the critical
+transition between Blocks 8 and 9, only 2 transitions at the beginning of the block proved reliable, due to a sudden drop in RT as a
+result of practice.
+Error rates. As expected, error rates were very low and did
+not interact with any task condition. The overall error rate was
+4.15%, and the error rate in the critical trials (36 – 45) was 3.25%.
+
+Discussion
+The results of Experiment 1 clearly show that in both the
+perseveration and the learned irrelevance condition, the color
+switch incurred a reliable RT cost. The finding that this switch cost
+was reliably larger on response-incompatible than on responsecompatible trials indicates that this effect does not simply reflect
+an unspecific slowing after the switch of the task-relevant stimulus
+category. Rather, the switch cost can be attributed to the specific
+requirements in the two switching conditions. In the perseveration
+condition, the switch cost presumably reflects the fact that stimuli
+that were targets before the switch, but served as distracters after
+the switch, still captured attention, thereby producing a response
+conflict on incompatible trials. This interpretation fits with previous task-switching studies showing that switch costs are increased
+when a previously task-relevant stimulus feature activates a response that is incompatible with the response required by the
+current task (Goschke, 2000). In the learned irrelevance condition,
+the switch cost can be attributed to either of two underlying, not
+mutually incompatible processes. First, there may have been persisting inhibition of previously ignored distracters that became
+
+Figure 2. Mean reaction times (RTs) as a function of switch condition (perseveration vs. learned irrelevance),
+interval (before and after the switch), and response-compatibility in Experiment 1. Error bars represent 95%
+within-participant confidence intervals based on the corresponding before–after comparison (Loftus & Masson,
+1994).
+
+AFFECT AND COGNITIVE CONTROL
+
+targets after the switch. This possibility is consistent with previous
+task-switching studies showing persisting inhibition of taskirrelevant stimulus dimensions in situations in which taskirrelevant stimulus attributes elicit a response conflict (Goschke,
+2000). Alternatively, the RT increase after the switch of the
+relevant stimulus category may reflect increased susceptibility
+toward interference from novel distracters, which had a color that
+had not appeared before the switch. If novel stimuli attract attention, this should increase the probability that the task-irrelevant
+distracters gain partial access to the selection of a response, which
+should produce interference on response-incompatible trials. However, so far, we cannot decide whether novelty capture or enhanced
+distracter suppression is the cause of the switch cost in the learned
+irrelevance condition (we return to this issue in the General
+Discussion).
+Although it is well documented that switching from one task to
+another is associated with RT costs (e.g., Allport, Styles, & Hsieh,
+1994; De Jong, 2000; Mayr & Keele, 2000; Meiran, Chorev, &
+Sapir, 2000; Rogers & Monsell, 1995; Sohn & Carlson, 2000),
+Experiment 1 extends this finding in showing that switch costs also
+arise when only the perceptual selection criterion (color, in this
+case) changes but the task remains the same. Moreover, our results
+show that switch costs can result from different underlying processes (persisting activation of a previously relevant task dimension, persisting inhibition of a previously irrelevant task dimension, or an increased tendency to direct attention to novel stimuli;
+Dreisbach, Haider, & Kluwe, 2002; Goschke, 2000; Hübner,
+Dreisbach, Haider, & Kluwe, 2003; Mayr & Keele, 2000). On the
+basis of these findings, we can now address the question of how
+positive affect modulates the balance between maintenance versus
+flexible switching of cognitive sets.
+
+Experiment 2
+The purpose of Experiment 2 was to test the specific hypothesis
+that positive affect reduces perseverative behavior. Our specific
+prediction, derived from the neuropsychological theory of positive
+affect (Ashby et al., 1999) and theories of the role of DA in
+cognitive control (Braver & Cohen, 2000; Cohen et al., 2002), was
+that positive affect would reduce perseveration, thereby attenuating the switch cost in the perseveration condition, but at the same
+time would lead to increased distractibility, hence impairing performance in the learned irrelevance condition.
+
+Method
+Participants. Thirty-two undergraduates (24 female) from the Dresden
+University of Technology, aged 19 –29 (M ⫽ 22.02, SD ⫽ 2.40), participated for partial fulfillment of course credit or a small amount of money
+(€ 4). Participants signed informed consent and were debriefed after the
+session. Half of the participants were assigned to the positive affect group;
+the other half, to the neutral affect group.
+Materials and procedure. Except for two changes, tasks, material, and
+procedure were the same as in Experiment 1: The fixation cross before the
+imperative stimulus was replaced on each trial by a picture from the IAPS
+(Lang et al., 1998). We selected 10 positive and 10 neutral pictures. The
+mean (⫾ SE) valence ratings from IAPS norms for the positive picture set
+
+347
+
+were pleasant ⫽ 7.68 (1.52) and arousal ⫽ 4.71 (2.38), and for the neutral
+affect (control) group were pleasant ⫽ 4.90 (0.95) and arousal ⫽ 2.56
+(1.85). As we noted in the introduction, there is consistent evidence that
+brief presentation of positive pictures from the IAPS produces affective
+responses as indexed by increased activity in brain regions involved in
+reward processing and the generation of positive affect (e.g., Hamann &
+Mao, 2002). Participants were informed that we were interested in how
+pictures influence simple vigilance tasks and were told that no questions
+would be asked about the pictures at the end of the experiment. In addition,
+to control for possible mood differences between experimental groups,
+participants in Experiment 2 rated their mood at the beginning and the end
+of the experiment on three 7-point rating scales (excited–not excited,
+awake–tired, happy–sad).
+It is important to note that we did not expect the positive pictures to
+necessarily elicit enduring changes in subjective conscious mood; rather,
+we were interested in mild effects of positive affective stimuli on task
+performance. Consistent with the empirical evidence on the effects of
+affective pictures, we assumed that the brief presentation of positive
+pictures would serve as quick reward signal that biased cognitive control
+processes toward a more flexible, but also more distractible, behavior.
+Design. A 2 (affect: positive vs. neutral) ⫻ 2 (switch condition:
+perseveration vs. learned irrelevance) ⫻ 2 (interval: before vs. after
+switch) ⫻ 2 (compatibility: compatible vs. incompatible) design was used.
+Affect was a between-subjects variable, and the others were manipulated
+within subjects. Response latencies and error rates served as dependent
+measures.
+
+Results
+Mood ratings. Mood ratings before the experimental task did
+not differ between the two experimental groups. As expected,
+subjective mood did not change over the time course of the
+experiment.
+RT data. The data analytic strategy followed that of Experiment 1. In the positive and neutral affect group, 0.34% and 0.15%
+correct responses, respectively, exceeded 2,000 ms and were therefore excluded from the analysis. As can be seen in Figure 3,
+positive affect clearly reduced the switch cost in the perseveration
+condition, whereas in the learned irrelevance condition the switch
+cost for incompatible stimuli was even larger in the positive as
+compared with the neutral affect group. This impression was
+substantiated by a 2 (affect) ⫻ 2 (switch condition) ⫻ 2 (compatibility) ⫻ 2 (interval) ANOVA with affect as a between-subjects
+variable. This analysis yielded significant three-way interactions of
+affect, interval, and switch condition, F(1, 30) ⫽ 4.92, MSE ⫽
+8,512.24, p ⬍ .05; affect, compatibility, and switch condition, F(1,
+30) ⫽ 4.98, MSE ⫽ 5,437.87, p ⬍ .05; as well as a highly
+significant four-way interaction of affect, compatibility, interval,
+and switch condition, F(1, 30) ⫽ 11.34, MSE ⫽ 3,990.06, p ⬍ .01.
+Planned comparisons revealed a significant RT increase for the
+neutral affect group on incompatible trials, F(1, 30) ⫽ 17.98,
+MSE ⫽ 5,630.7, p ⬍ .01, but not on compatible trials in the
+perseveration condition ( p ⫽ .09; see Figure 3). Most important,
+the same comparisons were far from significant in the positive
+affect group (both ps ⬎ .30). In contrast, in the learned irrelevance
+condition the reverse pattern of results was obtained. The positive
+affect group showed a highly reliable RT increase on incompatible
+trials, F(1, 30) ⫽ 28.88, MSE ⫽ 9,975.4, p ⬍ .01, which slightly
+
+348
+
+DREISBACH AND GOSCHKE
+
+Figure 3. Mean reaction times (RTs) as a function of affect group (positive vs. negative), interval (before and
+after the switch), and compatibility in the perseveration and learned irrelevance condition in Experiment 2. Error
+bars represent 95% within-participant confidence intervals based on the corresponding before-after comparison
+(Loftus & Masson, 1994).
+
+failed significance for compatible trials (F ⫽ 3.37, MSE ⫽
+5,823.81, p ⫽ .07). In the neutral affect group, both before–after
+comparisons proved reliable, F(1, 30) ⫽ 7.79, MSE ⫽ 5,823.81,
+p ⬍ .01 (compatible), and F(1, 30) ⫽ 4.01, MSE ⫽ 9,975.45, p ⫽
+.054 (incompatible). It is important that the RT increase in the
+
+learned irrelevance condition was reliably larger for the positive
+than for the neutral affect group, as reflected in a significant
+interaction of interval and affect, F(1, 30) ⫽ 5.67, MSE ⫽
+9975.45, p ⬍ .03. It should be noted that although participants in
+the positive affect group already showed somewhat larger RTs
+
+AFFECT AND COGNITIVE CONTROL
+
+than participants before the switch, the main effect of affect was
+far from reliable ( p ⬎ .50).1
+Error rates. Error rates were again very low and did not
+interact with any task condition. Overall error rates were 2.18% for
+the positive affect group and 3.59% for the neutral affect group; in
+the critical trials of each experimental block (35– 40 and 41– 45),
+error rates were 1.40% and 3.40%, respectively.
+
+Discussion
+The most important result of Experiment 2 was that positive
+affect did not simply exert an unspecific effect on performance but
+had opposite effects on the two switching conditions. Whereas
+positive affect almost completely eliminated the switch cost in the
+perseveration condition, it reliably increased the switch cost on
+response-incompatible trials in the learned irrelevance condition.
+This pattern of results is fully compatible with our hypothesis that
+mild increases in positive affect promote more flexible, but also
+more distractible, behavior. However, before further discussing
+these results, we have to address an alternative interpretation of
+this result in terms of unspecific arousal. Because positive and
+neutral pictures differed not only in their emotional valence, but
+also in their arousal potential, one might suspect that the obtained
+pattern of results may not reflect specific effects of positive affect,
+but rather may reflect increases in unspecific arousal. As there are
+no neutral pictures that match the arousal potential of positive
+pictures, in Experiment 3 we presented negative emotional pictures
+that did not differ in their arousal potential from the positive
+pictures used in Experiment 2.
+
+Experiment 3
+Experiment 3 was an exact replication of Experiment 2, with the
+only modification being that negative, instead of positive, pictures
+were presented.
+
+Method
+Participants. Seventeen undergraduates (16 female) from the Dresden
+University of Technology, aged 18 –29 (M age ⫽ 20.76, SD ⫽ 3.3),
+participated for partial fulfillment of course credit. The participants signed
+informed consent and were debriefed after the session.
+Materials and procedure. Tasks, materials, and procedures were the
+same as in Experiment 2, with the exception that negative affective pictures
+were presented on each trial. The mean (⫾ SE) valence ratings from IAPS
+norms for the 10 negative pictures were pleasant ⫽ 2.89 (1.66) and
+arousal ⫽ 5.25 (2.23).
+
+Results
+RT data. The data analytic strategy followed that of the previous experiments. Responses that exceeded 2,000 ms were excluded from the analysis (0.09% of the trials). Figure 4 depicts
+mean RT as a function of switch condition, compatibility, and
+interval. As can be seen, the results are comparable to those of the
+neutral affect group in Experiment 2: RTs increased after the color
+switch in both the perseveration and the learned irrelevance condition. A 2 (switch condition) ⫻ 2 (compatibility) ⫻ 2 (interval)
+ANOVA yielded significant main effects of compatibility, F(1,
+
+349
+
+16) ⫽ 29.75, MSE ⫽ 2,154.62, p ⬍ .01, and interval, F(1, 16) ⫽
+17.01, MSE ⫽ 7,897.00, p ⬍ .01, as well as a significant interaction of compatibility and interval, F(1, 16) ⫽ 5.77, MSE ⫽
+1,767.30, p ⬍ .05, whereas the main effect of switch condition was
+far from statistical significance ( p ⬎ .80), as were the remaining
+interactions (all ps ⬎ .10). RTs increased significantly after the
+switch on incompatible trials in the perseveration condition, F(1,
+16) ⫽ 20.08, MSE ⫽ 3,955.25, p ⬍ .01, and on compatible and
+incompatible trials in the learned irrelevance condition, F(1, 16) ⫽
+4.74, MSE ⫽ 3,790.26, p ⬍ .05, and F(1, 16) ⫽ 8.12, MSE ⫽
+4,692.77, p ⬍ .02, respectively. The same planned comparison in
+the compatible perseveration condition slightly failed to reach
+statistical significance ( p ⫽ .06).
+Error rates. Again, error rates were very low and did not
+interact with any task condition. The overall error rate was 2.82%,
+and the average error rate in the critical trials (36 – 45) was 3.08%.
+
+Discussion
+The results of Experiment 3 closely resemble those of the
+neutral affect group in Experiment 2. In particular, in both the
+perseveration and the learned irrelevance condition, the switch of
+the task-relevant stimulus category incurred a reliable switch cost
+of a magnitude comparable to that of the neutral affect group of
+Experiment 2. This clearly rules out that the observed pattern of
+reduced switch cost in the perseveration condition along with
+increased switch cost in the learned irrelevance condition under
+positive affect in Experiment 2 was due to the higher unspecific
+arousal potential of positive, compared with neutral, pictures.
+Taken together, the two experiments provide convincing evidence
+that the modulation of cognitive flexibility versus distractibility by
+the brief presentation of positive pictures reflects specific effects
+of emotional valence.
+
+General Discussion
+In this article, we have addressed the question of how the
+balance between stable maintenance and flexible switching of
+cognitive sets is modulated by positive affect. The most important
+finding of our experiments is that increases in positive affect,
+elicited by brief presentation of emotional stimuli, exert a strong
+1
+
+As in Experiment 1 post hoc tests (Newman–Keuls) were run for all 11
+transitions between successive blocks, separately for each compatibility
+and switch condition. In the neutral affect group, the critical transition 8 to
+9 was followed by a significant drop of RTs in the immediately following
+transition from block 9 to block 10 on incompatible trials in the perseveration condition. Furthermore, the transitions from block 1 to 2 proved
+reliable for both incompatible switch conditions, reflecting a sudden drop
+in RT as a result of initial practice. All other transitions were far from
+statistical significance (all ps ⬎ .16). In the positive affect group the
+sudden RT increase in the critical transition 8 to 9 in the incompatible
+learned irrelevance condition was followed by a significant drop of RT
+from block 9 to 10. Again a significant RT decrease was found between
+block 1 and 2 in both incompatible switch conditions. Two more transitions
+(block 4 to 5 for incompatible trials in the perseveration condition, and
+block 5 to 6 for incompatible trials in the learned irrelevance condition)
+slightly failed statistical significance (both ps ⫽ .06); all other transitions
+were far from reliable ( p ⬎ .37).
+
+350
+
+DREISBACH AND GOSCHKE
+
+Figure 4. Mean reaction times (RTs) as a function of switch condition (perseveration vs. learned irrelevance),
+interval (before and after the switch), and response-compatibility in Experiment 3. Error bars represent 95%
+within-participant confidence intervals based on the corresponding before–after comparison (Loftus & Masson,
+1994).
+
+effect on this balance. In particular, we obtained opposite effects in
+the perseveration and the learned irrelevance condition under positive affect: Whereas the presentation of positive emotional pictures during a set-switching task virtually eliminated perseveration
+of a previously activated cognitive set, when participants had to
+switch to a new task dimension and formerly task-relevant stimuli
+served as distracters, positive affect even increased the switch cost
+in the learned irrelevance condition, in which participants switched
+to a previously task-irrelevant stimulus category and had to ignore
+novel distracters. These increased switch costs (especially on incompatible trials) in the positive affect group may reflect greater
+interference from novel distracters, which attract attention and thus
+may lead to the activation of incompatible responses. In the light
+of these considerations, the disordinal interaction obtained in Experiment 2 can be explained in a straightforward manner by the
+assumption that positive affect biases attention toward novel stimuli. This should facilitate a switch to a new stimulus category and
+thus reduce perseveration, but at the same time increase distractibility, when novel stimuli serve as distracters.
+As we noted in the introduction, there is an alternative account
+of the switch cost in the learned irrelevance condition that is based
+on the assumption that at least part of the switch cost is due to
+persisting suppression of the previous distracter. One might therefore suspect that the increased switch cost under positive affect in
+the learned irrelevance condition does not reflect novelty capture,
+but, instead, enhanced distracter suppression. This possibility
+would be in line with recent findings of reduced Stroop interference under positive affect as reported by Kuhl and Kazén (1999).
+It is important that novelty capture and distracter suppression make
+different predictions in the present paradigm. If positive affect had
+enhanced distracter suppression, this should have occurred not
+
+only before the switch (thereby making it more difficult to switch
+to the former distracter), but also after the switch (thereby causing
+less interference from the new distracter). Hence, under positive
+affect the (increased) disadvantage of having to switch to the
+strongly inhibited former distracter should be equalized by the
+(increased) advantage of the enhanced distracter suppression on
+postswitch trials.2 However, contrary to this prediction, our data
+clearly show that positive affect did increase switch cost in the
+learned irrelevance condition. By the same logic, the distracter
+suppression and novelty capture hypotheses make different predictions for the interaction of positive affect and compatibility
+before the switch. If positive affect increases distracter suppression, we should expect a reduced compatibility effect compared
+with the neutral condition; by contrast, if positive affect increases
+novelty capture, we should expect no (affect dependent) difference
+in the compatibility effect before the switch because target and
+distracter are equally novel. Again, our data are perfectly consistent with the novelty capture hypothesis but contain no support for
+enhanced distracter suppression under positive affect: The respective interaction of affect and compatibility for before-switch trials
+was far from reliable, F(1, 30) ⫽ 0.90, MSE ⫽ 4,838.74, p ⬎ .30,
+whereas the corresponding Affect ⫻ Compatibility interaction for
+after-switch trials was highly significant, F(1, 30) ⫽ 8.04, MSE ⫽
+6,195.77, p ⬍ .01. On the basis of an effect size of f 2 ⫽ .22 for
+after-switch trials, the estimated power for the before-switch trials
+2
+This argument, of course, only holds if we assume that the effects of
+enhanced distracter suppression before and after the switch are offsetting.
+Even though we do not know whether this is what actually happens, it at
+least would be the most parsimonious account.
+
+AFFECT AND COGNITIVE CONTROL
+
+is .95 (Faul & Erdfelder, 1992). Hence it cannot be argued that the
+null effect in the before-switch trials was due to a lack of statistical
+power. In conclusion, the interpretation of the data pattern in terms
+of novelty capture provides a parsimonious account, as it can hold
+for both the perseveration and the learned irrelevance condition.
+An additional control condition in which both distracter and
+target are presented in a new color on postswitch trials might
+further help to disentangle the alternative interpretations of enhanced distracter suppression and novelty capture. Under the novelty capture hypothesis, both distracter and target should attract
+attention under positive affect, canceling each other out. The
+enhanced distracter suppression on the other side would predict
+smaller switch costs under positive affect than in the perseveration
+condition.3 However, even though we do think that the differentiation between novelty capture and enhanced distracter suppression is of major theoretical interest, we do not consider this to be
+the main point in this study. What we want to show (and think is
+supported by our data) is that positive affect has selective influences on processes of cognitive control.
+Taken together, the data presented here provide strong support
+for the idea that positive affect plays an important role in the
+modulation of cognitive control, and are consistent with the interpretation that positive affect enhances cognitive flexibility but also
+incurs a complementary cost in the form of increased distractibility. In important ways, the present findings go beyond those of
+previous studies in showing that positive affect neither simply
+improves performance on tasks requiring cognitive flexibility (e.g.,
+Ashby et al., 1999; Bolte et al., 2003; Green & Noice, 1988; Isen
+& Daubman, 1984; Isen et al., 1987, 1992; Kuhl & Kazén, 1999;
+Phillips et al., 2002), nor leads to unspecific impairments on tasks
+requiring executive functions (e.g., Oaksford et al., 1996). Rather,
+positive affect appears to exert differential effects on complementary control processes (cf. Gray, 2001). This fact may account for
+a seeming discrepancy between our findings and the recent study
+by Phillips et al. (2002), who found that a positive mood impaired
+performance in a switching condition of the Stroop test. Switching
+between the color naming and word reading tasks in a Stroop task
+does not allow one to disentangle the contribution of perseveration
+of a previously relevant task and of interference from novel distracters to the switch cost.
+On a more general theoretical level, the research reported in this
+article is consistent with the assumption that stable maintenance
+and flexible switching impose antagonistic constraints on cognitive control processes (Goschke, 1996, 2003). Within this framework, action control is conceived of as an optimization problem,
+which requires a dynamic, context-sensitive balance between antagonistic constraints. We assume that the balance between maintenance and switching of cognitive sets depends critically on
+global system parameters, for example the activation threshold that
+must be exceeded by new information to gain access to working
+memory. When this threshold is low, the contents of working
+memory will be updated rapidly and frequently, which should
+enhance cognitive flexibility and background monitoring of potentially relevant stimuli outside the current task focus, but also
+increase distractibility. Conversely, a high activation threshold
+supports efficient shielding of the current goal against distraction,
+but may also lead to perseverative behavior and reduced sensitivity
+for potentially significant information outside the current focus of
+
+351
+
+attention. Whereas such parameter settings may depend on strategic decisions based on a cognitive evaluation of the demands of a
+particular task or situation, our findings suggest that, in addition,
+affective states play an important role in the regulation of such
+global parameters (cf. Dörner, 2002; Kuhl, 2000).
+With respect to possible neurobiological mechanisms underlying the modulating effects of positive affect on the stability–
+flexibility balance, our results are consistent with recent neuropsychological and computational theories relating positive affect to
+moderate increases in DA levels in the prefrontal cortex. One
+particular hypothesis that addresses the role of phasic increases in
+DA has recently been suggested by Braver and Cohen (2000;
+Braver et al., 1999; Cohen et al., 2002). According to these
+authors, phasic increases in prefrontal DA levels elicited by
+reward-predicting stimuli serve as a gating signal that transiently
+enhances afferent input to working memory, thereby allowing new
+information to gain access to working memory and promoting a
+switch or updating of the current cognitive set. Assuming that the
+brief presentation of positive affective pictures served as reward
+signals in our participants, our results would fit nicely with this
+hypothesis.
+An alternative hypothesis on the role of positive affect and DA
+in cognitive control has been proposed by Ashby et al. (1999,
+2002). According to these authors, positive affect leads to the
+release of DA from the ventral tegmental area into the PFC and
+anterior cingulate cortex. The DA projection into PFC is assumed
+to facilitate working memory, whereas increased cognitive flexibility and facilitation of set-switching is attributed to the DA
+projection into the anterior cingulate.
+Whereas both of these neurobiological models are consistent
+with our finding of improved cognitive flexibility, the relation
+between DA and positive affect in the regulation of cognitive
+control clearly requires further research. Apart from the fact that
+the role of phasic and tonic changes in affective states and DA
+levels is not yet sufficiently understood, there is evidence that
+different DA pathways serve different, or even antagonistic, functions (Robbins & Everitt, 1996). For instance, whereas phasic
+increases in DA levels appear to facilitate the updating of working
+memory and the switching of cognitive set (Braver & Cohen,
+2000), tonic increases of prefrontal DA levels appear to improve
+maintenance of information in working memory (Cohen et al.,
+2002; Durstewitz, Kelc, & Güntürkün, 1999).
+One obvious question concerns the adaptive function of the
+observed affective modulation of the stability–flexibility balance.
+Why should the cognitive system exhibit increased flexibility and
+a bias toward novelty in response to positive affective stimuli? One
+plausible, albeit speculative, possibility is that positive affect
+serves as an appraisal signal indicating the absence of danger or
+obstacles in the pursuit of current goals, thereby promoting less
+focused, explorative modes of thought and behavior. For instance,
+Fiedler (2001) has suggested that positive affect encourages exploration and creativity, whereas negative affect and aversive
+situations encourage avoidance of mistakes and thus promote a
+more focused or analytic mode of processing. Fiedler (2001)
+3
+We would like to thank Ulrich Mayr for the suggestion of this control
+condition.
+
+DREISBACH AND GOSCHKE
+
+352
+
+further assumes that positive affect modulates the balance between
+an accommodative processing style, which conserves input information, and an assimilative style, which transforms input information in the light of existing knowledge. Despite differences in
+terminology, this assumption fits nicely with the present idea that
+positive affect modulates the balance between cognitive flexibility
+and stability.
+In summary, adaptive action requires a dynamic, contextdependent balance between maintenance and switching of goals,
+cognitive sets, and behavioral dispositions. Our results show that
+affective processes play an important role in regulating this balance. Even moderate phasic increases in positive affect induced by
+brief presentations of affective pictures had dramatic effects on the
+ability to disengage from a previously task-relevant stimulus category and to switch to a new category.
+
+References
+Allport, D. A., Styles, E. A., & Hsieh, S. (1994). Shifting intentional set:
+Exploring the dynamic control of tasks. In C. Umilta & M. Moscovitch
+(Eds.), Attention and Performance XV (pp. 421– 452). Cambridge, MA:
+MIT Press.
+Ashby, F. G., Isen, A. M, & Turken, U. (1999). A neuropsychological
+theory of positive affect and its influence on cognition. Psychological
+Review, 106, 529 –550.
+Ashby, F. G., Valentin, V. V., & Turken, A. U. (2002). The effects of
+positive affect and arousal on working memory and executive attention:
+Neurobiology and computational models. In S. Moore & M. Oaksford
+(Eds.), Emotional Cognition: From Brain to Behaviour. Amsterdam:
+John Benjamins.
+Beatty, J. (1995). Principles of behavioral neuroscience. Dubuque, IA:
+Brown & Benchmark
+Bolte, A., Goschke, T., & Kuhl, J. (2003). Emotion and intuition: Effects
+of positive and negative mood on implicit judgments of semantic coherence. Psychological Science, 14, 416 – 421.
+Braver, T. S., Barch, D. M., & Cohen, J. D. (1999). Cognition and control
+in schizophrenia: a computational model of dopamine and prefrontal
+function. Biological Psychiatry, 46, 312–328.
+Braver, T. S., & Cohen, J. D. (2000). On the control of control. The role
+of dopamine in regulating prefrontal function and working memory. In
+S. Monsell & J. Driver (Eds.), Control of cognitive processes: Attention
+and Performance XVIII. Cambridge, MA: MIT Press.
+Cohen, J. D., Braver, T. S., & Brown, J. W. (2002). Computational
+perspectives on dopamine function in prefrontal cortex. Current Opinion
+in Neurobiology, 12, 223–229.
+De Jong, R. (2000). An intention-activation account of residual switch cost.
+In S. Monsell & J. Driver (Eds.), Control of cognitive processes:
+Attention and performance XVIII (pp. 357–376). Cambridge, MA: MIT
+Press.
+Dörner, D. (2002). Die Mechanik des Seelenwagens. Eine neuronale Theorie der Handlungsregulation. Bern: Huber.
+Dreisbach, G., Haider, H., & Kluwe, R. H. (2002). Preparatory processes
+in the task-switching paradigm: Evidence from the use of probability
+cues. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 28, 468 – 483.
+Durstewitz, D., Kelc, M., & Güntürkün, O. (1999). A neurocomputational
+theory of the dopaminergic modulation of working memory functions.
+Journal of Neuroscience, 19, 2807–2822.
+Faul, F., & Erdfelder, E. (1992). GPOWER: A priori, post-hoc, and
+compromise power analyses for MS-DOS [Computer program]. Bonn,
+FRG: Bonn University, Dept. of Psychology.
+Fiedler, K. (2001). Affective states trigger processes of assimilation and
+
+accommodation. In L. L. Martin & G. L. Clore (Eds.), Theories of mood
+and cognition: A user’s guidebook (pp. 85–98). Mahwah, NJ: Lawrence
+Erlbaum Associates.
+Goschke, T. (1996). Wille und Kognition. Zur funktionalen Architektur der
+intentionalen Handlungssteuerung. In J. Kuhl & H. Heckhausen (Hrsg.),
+Enzyklopädie der Psychologie Serie IV, Band 4: Motivation, Volition
+und Handeln (S. 583– 663). Göttingen: Hogrefe.
+Goschke, T. (2000). Intentional reconfiguration and involuntary persistence in task set switching. In S. Mosell & J. Driver (Eds.), Attention and
+Performance XVIII: Control of cognitive processes in attention, memory
+and language (pp. 331–335). Cambridge, MA: MIT Press.
+Goschke, T. (2003). Voluntary action and cognitive control from a cognitive neuroscience perspective. In S. Maasen, W. Prinz, & G. Roth (Eds.),
+Voluntary action. An issue at the interface of nature and culture (pp.
+49 – 85). Oxford: Oxford University Press.
+Gray, J. R. (2001). Emotional modulation of cognitive control: Approachwithdrawal states double-dissociate spatial from verbal two-back task
+performance. Journal of Experimental Psychology: General, 130, 436 –
+452.
+Greene, T. R. & Noice, H. (1988). Influence of positive affect upon
+creative thinking and problem solving in children. Psychological Reports, 63, 895– 898.
+Hamann, S., & Mao, H. (2002). Positive and negative emotional verbal
+stimuli elicit activity in the left amygdala. Neuroreport: For Rapid
+Communication of Neuroscience Research, 13, 15–19.
+Hübner, M., Dreisbach, G., Haider, H., & Kluwe, R. H. (2003). Backward
+inhibition as a means of sequential task-set control. Evidence for reduction of task competition. Journal of Experimental Psychology: Learning,
+Memory, and Cognition.
+Hyman, S. E., & Nestler, E. J. (1993). The molecular foundations of
+psychiatry. Washington, DC: American Psychiatric Press.
+Isen, A. M., & Daubman, K. A. (1984). The influence of affect on
+categorization. Journal of Personality and Social Psychology, 47, 1206 –
+1217.
+Isen, A. M., Daubman, K. A., & Nowicki, G. P. (1987). Positive affect
+facilitates creative problem solving. Journal of Personality and Social
+Psychology, 52, 1122–1131.
+Isen, A. M., Johnson, M. M. S., Mertz, E., & Robinson, G. F. (1985). The
+influence of positive affect on the unusualness of word associations.
+Journal of Personality and Social Psychology, 48, 1413–1426
+Isen, A. M., & Means, B. (1983). The influence of positive affect on
+decision-making strategy. Social Cognition, 2, 18 –31.
+Isen, A. M., Niedenthal, P., & Cantor, N. (1992). The influence of positive
+affect on social categorization. Motivation and Emotion, 16, 65–78.
+Kubota, Y., Sato, W., Murai, T., Toichi, M., Ikeda, A., & Sengoku, A.
+(2000). Emotional cognition without awareness after unilateral temporal
+lobectomy in humans. Journal of Neuroscience, 20, RC97.
+Kuhl, J. (2000). A functional-design approach to motivation and selfregulation: The dynamics of personality systems interactions. In M.
+Boekaerts, P. R. Pintrich & M. Zeidner (Eds.), Handbook of selfregulation (pp. 111–169). San Diego: Academic Press.
+Kuhl, J., & Kazén, M. (1999). Volitional facilitation of difficult intentions:
+Joint activation of intention memory and positive affect removes Stroop
+interference. Journal of Experimental Psychology: General, 128, 382–
+399.
+Lang, P. J., Bradley, M. M., & Cuthbert, B. N. (1998) International
+Affective Picture System (IAPS): Technical Manual and Affective Ratings (Univ. of Florida Center for Research in Psychophysiology, Gainesville, FL).
+Lhermitte, F. (1983). ‘Utilization behaviour’ and its relation to lesions of
+the frontal lobes. Brain, 106, 237–255.
+Loftus, G. R., & Masson, M. E. J. (1994). Using confidence intervals in
+within-subject designs. Psychonomic Bulletin & Review, 1, 476 – 490.
+
+AFFECT AND COGNITIVE CONTROL
+Luria, A. R. (1973). The working brain. London: Penguin Books.
+Mayr, U., & Keele, S. (2000). Changing internal constraints on action: The
+role of backward inhibition. Journal of Experimental Psychology: General, 1, 4 –26.
+Meiran, N., Chorev, Z., & Sapir, A. (2000). Component processes in task
+switching. Cognitive Psychology, 41, 211–253.
+Miller E. K., & Cohen, J. D. (2001). An integrative theory of prefrontal
+cortex function. Annual Review of Neuroscience, 24, 167–202.
+Milner, B. (1963). Effects of different brain lesions on card-sorting. Archives of Neurology, 9, 90 –100.
+Monsell, S., & Driver, J. (Eds.) (2000). Attention and Performance XVIII:
+Control of Cognitive Processes. Cambridge, MA: MIT Press.
+Morris, J. S., Oehman, A., & Dolan, R. J. (1998). Conscious and unconscious emotional learning in the human amygdala. Nature, 393, 467–
+470.
+Nelson, H. E. (1976). A modified card sorting task sensitive to frontal lobe
+defects. Neuropsychologia, 12, 313–324.
+Oaksford, M., Morris, F., Grainger, B., Williams, J. & Mark, G. (1996).
+Mood, reasoning, and central executive processes. Journal of Experimental Psychology: Learning, Memory, & Cognition, 22, 476 – 492.
+O’Reilly, R. C., Braver, T. S., & Cohen, J. D. (1999). A biologically-based
+computational model of working memory. In A. Miyake & P. Shah
+(Eds.), Models of Working Memory: Executive Control (pp. 375– 411).
+New York: Cambridge University Press.
+Owen, A. M., Roberts, A. C., Hodges, J. R., Summers, B. A., Polkey, C. E.,
+& Robbins, T. W. (1993). Contrasting mechanisms of impaired attentional set-shifting in patients with frontal lobe damage or Parkinson’s
+disease. Brain, 116, 1159 –1175.
+Phillips, L. H., Bull, R., Adams, E., & Fraser, L. (2002). Positive mood and
+executive functions: Evidence from Stroop and fluency tasks. Emotion,
+2, 12–22.
+Robbins, T. W., & Everitt, B. J. (1996). Neurobehavioral mechanisms of
+reward and motivation. Current Opinion in Neurobiology, 6, 228 –236.
+
+353
+
+Roberts, A. C., De Salvia, M. A., Wilkinson, L. S., Collins, P., Muir, J. L.,
+Everitt, B. J., & Robbins, T. L. (1994). 6-Hydroxydopamine lesions of
+the prefrontal cortex in monkeys enhance performance on an analog of
+the Wisconsin Card Sort Test: Possible interactions with subcortical
+dopamine. Journal of Neuroscience, 14, 2531–2544.
+Rogers, R. D., & Monsell, S. (1995). The cost of a predictable switch
+between simple cognitive tasks. Journal of Experimental Psychology:
+General, 124, 207–231.
+Schultz, W. (1992). Activity of dopamine neurons in the behaving primate.
+Seminars in Neuroscience, 4, 129 –138.
+Schultz, W. (2000). Multiple rewards signals in the brain. Nature Reviews
+Neuroscience, 1, 199 –207.
+Shallice, T. (1988). From neuropsychology to mental structure. Cambridge, England: Cambridge University Press.
+Shallice, T., Burgess, P. W., Schon, F., & Baxter, D. M. (1989). The
+origins of utilization behaviour. Brain, 112, 1587–1598.
+Sohn, M. H., & Carlson, R. A. (2000). Effects of repetition and foreknowledge in task-set reconfiguration. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 26, 1445–1460.
+Stuss, D. T., & Benson, D. F. (1986). The frontal lobes. New York: Raven
+Press.
+Stuss, D. T., & Levine, B. (2002). Adult clinical neuropsychology: Lessons
+from studies of the frontal lobes. Annual Review of Psychology, 53,
+401– 433.
+Whalen, P. J., Rauch, S. L., Etcoff, N. L., McInerney, S. C., Lee, M. B., &
+Jenike, M. A. (1998). Masked presentations of emotional facial expressions modulate amygdala activity without explicit knowledge. Journal
+of Neuroscience, 18, 411– 418.
+
+Received March 13, 2003
+Revision received September 23, 2003
+Accepted September 25, 2003 䡲
+
+

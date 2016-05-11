@@ -1,0 +1,1418 @@
+Journal of Experimental Psychology:
+Learning, Memory, and Cognition
+2007, Vol. 33, No. 2, 263–273
+
+Copyright 2007 by the American Psychological Association
+0278-7393/07/$12.00 DOI: 10.1037/0278-7393.33.2.263
+
+Adaptive Memory: Survival Processing Enhances Retention
+James S. Nairne, Sarah R. Thompson, and Josefa N. S. Pandeirada
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Purdue University
+The authors investigated the idea that memory systems might have evolved to help us remember
+fitness-relevant information—specifically, information relevant to survival. In 4 incidental learning
+experiments, people were asked to rate common nouns for their survival relevance (e.g., in securing food,
+water, or protection from predators); in control conditions, the same words were rated for pleasantness,
+relevance to moving to a foreign land, or personal relevance. In surprise retention tests, participants
+consistently showed the best memory when words were rated for survival; the survival advantage held
+across recall, recognition, and for both within-subject and between-subjects designs. These findings
+suggest that memory systems are “tuned” to remember information that is processed for fitness, perhaps
+as a result of survival advantages accrued in the past.
+Keywords: memory, evolution, recall, survival, adaptation
+
+detect cheaters (Cosmides, 1989), prospective mating partners
+(Schmitt, 2005), or predators (Barrett, 2005). One of the defining
+characteristics of these hypothesized modules is domain specificity—that is, each module has been sculpted by nature to accomplish some specific end. Nature usually steers away from domaingeneral solutions (e.g., cognitive processes that are insensitive to
+content) because the adaptive problems that drive selection are
+usually quite specific (see Tooby & Cosmides, 1992).
+Unfortunately, it is notoriously difficult to identify adaptations,
+and scholars continue to argue about the proper defining characteristics (see Andrews, Gangestad, & Matthews, 2002). Moreover,
+a psychological process can be highly adaptive and related to an
+important adaptive problem faced by our ancestors but, in fact,
+may have evolved for some other function. So-called exaptations
+evolved for one use but are co-opted to perform additional adaptive ends (Gould & Vrba, 1982). The proximate mechanisms that
+allow us to read and write could not have evolved for those ends,
+although reading and writing achieve many adaptive results. Attempting to identify and catalogue adaptations is a dangerous
+business and fraught with difficulties, even though we may be
+reasonably certain that cognitive adaptations do exist.
+It does seem likely that our memory systems evolved to help us
+remember certain kinds of information better than others. From a
+fitness perspective, not all stimuli are created equal; in most
+instances, it is more important for an organism to remember the
+appearance of a predator or the location of food than to remember
+some other random occurrence. Studies have shown that people
+and other animals do find it easier to associate certain kinds of
+stimuli, such as snakes or spiders, to fear-inducing stimuli, such as
+shock (see Öhman & Mineka, 2001). If nature “tuned” our memory systems to process and remember fitness-relevant information—that is, information that could help us find needed nourishment, protect ourselves from predators, or secure a mate—then,
+perhaps, our ancestors would have been more likely to survive and
+pass along their genetic record.
+The present experiments were designed to explore this idea,
+although we do not firmly commit ourselves to an adaptationist
+program (Gould & Lewontin, 1979). Rather, our experiments were
+
+Why did our memory systems evolve? Do the functional properties of memory mirror selection pressures from our ancestral
+past? Memory researchers rarely address such questions, choosing
+to focus instead on the proximate mechanisms that guide mnemonic phenomena (Bruce, 1985; Glenberg, 1997; Nairne, 2005).
+Most scholars acknowledge that memory is adaptive, but the role
+that particular adaptive problems may have played in shaping or
+tuning mnemonic processes remains largely, although not completely, unexplored.
+Anderson and Schooler (1991, 2000) suggested that certain
+mnemonic characteristics, such as the general form of the retention
+function, mimic the way events tend to occur and recur in the
+environment. Our memory systems, as a consequence, may be
+optimally designed to reflect statistical structure in the environment—we forget an item with time because that item is less likely
+to occur again and be needed in the same way. Kareev (2000) has
+argued that fundamental capacity limits in immediate or working
+memory—the ubiquitous seven (plus or minus two)—maximize
+our ability to detect causality by forcing us to focus on small
+samples of information. Silverman and Eals (1992) have suggested
+that women may be better equipped than men to remember the
+locations of objects set in fixed domains because of how labor was
+divided during early environments of adaptation.
+Evolutionary psychologists assign tremendous importance to
+ancestral environments, arguing that our brains contain numerous
+adaptations, realized in the form of processing modules, that are
+dedicated to helping us solve specific problems that arose in our
+ancestral past (Tooby & Cosmides, 2005, 1992). For example, we
+may possess specialized processing machinery for helping us
+
+James S. Nairne, Sarah R. Thompson, and Josefa N. S. Pandeirada,
+Department of Psychological Sciences, Purdue University.
+Josefa N. S. Pandeirada was supported by Portuguese Foundation for
+Science and Technology Fellowship SFRH/BPD/21534/2005. We thank
+David Ceo for many helpful comments during the course of this research.
+Correspondence concerning this article should be addressed to James S.
+Nairne, Department of Psychological Sciences, Purdue University, West
+Lafayette, IN 47907. E-mail: nairne@psych.purdue.edu
+263
+
+NAIRNE, THOMPSON, AND PANDEIRADA
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+264
+
+functionally motivated and directed at a simple empirical question:
+What are the mnemonic consequences of processing information
+in terms of its ultimate survival value? Over the years, psychologists have identified a host of processing strategies that effectively
+enhance retention (e.g., imaginal or semantic processing), but little
+consideration has been given to their ultimate functional value
+(although see Paivio, 2007). Why should a memory system show
+special sensitivity to the formation of a visual image? Researchers
+address possible proximate mechanisms—imagery induces multiple mnemonic codes or simply more elaboration— but leave the
+functional questions unaddressed (see Nairne, 2005). In the current
+case, our research was motivated by an a priori prediction (based
+on an evolutionary analysis) that retention should show sensitivity
+to the fitness content of information.
+It is possible to address this question empirically in several
+ways. One could attempt to identify stimuli that seem inherently
+related to fitness (e.g., foodstuffs or predators) and assess their
+mnemonic value relative to control stimuli that have been equated
+on other relevant dimensions. An alternative approach, the one
+adopted here, is to assess how well stimuli are remembered when
+they are processed (or not) in terms of their fitness value—in this
+case, their relevance to a survival scenario. This second approach
+follows closely in the tradition of levels of processing research
+wherein one seeks to explore how the quality of processing affects
+retention (e.g., Craik & Tulving, 1975). Our intuition was that
+examining survival processing, rather than the inherent characteristics of stimuli, would be a more productive route because the
+survival value of a stimulus may well depend on the particular
+context in which that stimulus is processed. To the extent that an
+item is processed in terms of its survival relevance, we expected it
+to be remembered well, much like the accessing of meaning aids
+retention relative to shallow forms of processing. Adopting a
+processing approach also enabled us to assess retention differences
+using exactly the same set of to-be-remembered stimuli across
+conditions.
+In four incidental learning experiments, participants were asked
+to make judgments about the relevance of words to a survival
+scenario; they were then given a surprise retention test for the rated
+words and performance was compared with a variety of control
+tasks. It is well known that semantic processing yields significantly
+better retention than structural or surface processing, at least when
+standard explicit tests such as recall or recognition are used. Given
+that a survival analysis presumably requires meaningful processing
+(i.e., it is a deep processing task), we were careful to compare
+performance with other established semantic or deep processing
+tasks. Our expectation was that processing for survival would be a
+particularly effective mnemonic strategy.
+
+Experiment 1
+In Experiment 1, participants were asked to rate 30 unrelated
+words in one of three conditions. In the survival condition, words
+were rated as relevant or irrelevant to a survival scenario. Each
+participant was asked to imagine that he or she was stranded in the
+grasslands of a foreign land, without basic survival materials; the
+task was to rate how relevant each word might be to finding steady
+supplies of food and water and protection from predators. In the
+first control condition (moving), participants were asked to imagine they were planning to move to a new home in a foreign land;
+
+their task was to rate the relevance of each word to locating and
+purchasing a home and transporting their belongings. We assumed
+that this task would induce meaningful processing as well as tap
+into an established schema that was highly self-relevant but not
+particularly survival relevant. In the final condition (pleasantness),
+we used a standard deep processing control: Participants were
+asked simply to rate the pleasantness of each presented word. After
+completing the rating task and after a short distraction period (digit
+recall), participants were given a surprise free-recall test for the
+rated words.
+
+Method
+Participants and apparatus. One hundred and fifty Purdue
+undergraduates participated in exchange for partial credit in an
+introductory psychology course. Participants were tested individually in sessions lasting approximately 30 min. Stimuli were
+presented and controlled by personal computers.
+Materials and design. Stimulus materials were drawn from the
+updated Battig and Montague norms (Van Overschelde, Rawson,
+& Dunlosky, 2004) and consisted of 30 typical members drawn
+from 30 unique categories (for a complete listing of all the materials, see the Appendix). A simple between-subjects design was
+used: All participants were asked to rate the same words, presented
+in the same random ordering, in one of the three rating scenarios
+(n ⫽ 50 in each group). The rating task was followed immediately
+by a short digit-recall task prior to a final unexpected free-recall
+task. Except for the rating scenario, all aspects of the design,
+including timing, were held constant across participants.
+Procedure. On arrival in the laboratory, participants were randomly assigned to one of three rating scenarios with the following
+instructions:
+Survival. In this task, we would like you to imagine that you
+are stranded in the grasslands of a foreign land, without any basic
+survival materials. Over the next few months, you’ll need to find
+steady supplies of food and water and protect yourself from
+predators. We are going to show you a list of words, and we would
+like you to rate how relevant each of these words would be for you
+in this survival situation. Some of the words may be relevant and
+others may not—it’s up to you to decide.
+Moving. In this task, we would like you to imagine that you
+are planning to move to a new home in a foreign land. Over the
+next few months, you’ll need to locate and purchase a new home
+and transport your belongings. We are going to show you a list of
+words, and we would like you to rate how relevant each of these
+words would be for you in accomplishing this task. Some of the
+words may be relevant and others may not—it’s up to you to
+decide.
+Pleasantness. In this task, we are going to show you a list of
+words, and we would like you to rate the pleasantness of each
+word. Some of the words may be pleasant and others may not—it’s
+up to you to decide.
+Stimuli were presented individually (centered on the screen) for
+5 s each, and participants were asked to rate the words on a 5-point
+scale, with 1 indicating totally irrelevant (or unpleasant) and 5
+signifying extremely relevant (or pleasant). The rating responses
+were displayed just below the presented stimulus, and participants
+responded by clicking on their value of choice. Everyone was
+cautioned to respond within the 5-s presentation window, and no
+
+SURVIVAL PROCESSING ENHANCES RETENTION
+
+mention was made of a later retention test. A short practice session
+containing five to-be-rated words preceded the actual rating task.
+After the last word was rated, instructions appeared for the
+digit-recall task. For this task, seven digits ranging between zero
+and nine were presented sequentially for 1 s each, and participants
+were required to recall the digits in order by typing responses into
+a text box. The digit-recall task proceeded for approximately 2
+min. Recall instructions then appeared. Participants were instructed to write down the earlier rated words, in any order, on a
+response sheet. The final recall phase proceeded for 10 min.
+
+The significance level for all of the statistical comparisons was
+set at p ⬍ .05. Participants had little difficulty providing the
+relevant ratings for the individual stimuli within the allotted time.
+Ratings were provided for over 99% of the presented words, and
+the number of unrated words (no response within 5 s) did not differ
+significantly across the groups. Because of the small number of
+unrated trials and to avoid item selection problems, we left the
+retention data described below unconditionalized.
+The data of main interest are shown in the left panel of Figure
+1, which presents average proportion correct recall for the three
+rating conditions. An overall analysis of variance (ANOVA) on
+these data revealed a significant effect of condition, F(2, 147) ⫽
+6.89, MSE ⫽ .014, ␩2p ⫽ .09. Consistent with the evolutionary–
+functional hypothesis, survival-based processing yielded the best
+subsequent retention. A Tukey honestly significant difference test
+confirmed that the survival group performed significantly better
+than both the moving and the pleasantness groups; the latter two
+did not differ significantly.
+It is also of interest to ask whether words rated as highly
+relevant to survival were remembered better than words rated as
+less relevant. To the extent that memory is sensitive to fitness
+content, one might expect such an outcome. Indeed, participants
+were more likely to recall items given a high survival relevance
+rating—in fact, retention increased monotonically with average
+rating, F(4, 180) ⫽ 9.94, MSE ⫽ .053, ␩2p ⫽ .18, with recall
+averaging .47 for items given a relevance rating of 1 and averaging
+.72 for items given a rating of 5. However, because rating is a
+quasi-experimental variable, this pattern needs to be interpreted
+with some caution. There are item-selection concerns (highly rated
+
+0.70
+
+5
+
+Free Recall
+
+items could differ from other items along any number of uncontrolled dimensions), and, as noted below, the advantage of the
+relevant words could be interpreted as a kind of congruity effect.
+The middle panel of Figure 1 shows the average ratings given by
+participants in each of the three groups. The rating data are
+important because the overall survival advantage, as well as any
+rating effects seen within a group, could be mediated by a congruity effect (Schulman, 1974). Levels-of-processing research has
+shown that people remember stimuli given “yes” responses to
+orienting questions better than stimuli given “no” responses, presumably because stimuli given “yes” responses fit more snugly
+into the retrieval structure engendered by the orienting task (e.g.,
+Craik & Tulving, 1975; Moscovitch & Craik, 1976). If the average
+relevance ratings for the survival group exceeded those for, say,
+the moving group (i.e., our pool of words was considered more
+relevant to survival than to moving), then the survival advantage
+could be attributed to more congruous query-target encodings.
+However, as the data in Figure 1 clearly show, average ratings
+were highest for the pleasantness condition and did not differ
+between the survival and moving conditions. An ANOVA revealed
+a significant effect of group, F(2, 147) ⫽ 34.95, MSE ⫽ .151, ␩2p
+⫽ .32; post hoc tests revealed no difference between survival and
+moving and both were significantly below the pleasantness condition.
+It is also possible that survival decisions are more difficult or
+effortful than moving or pleasantness decisions. Although effort is
+typically a poor determinant of retention, relative to the quality of
+the processing, relevant data are shown in the panel on the right
+side of Figure 1. Average response times for the ratings are shown
+for each group. An ANOVA again showed a significant effect of
+group, F(2, 147) ⫽ 6.73, MSE ⫽ 121,305.7, ␩2p ⫽ .08. Response
+times for survival ratings were the slowest numerically but did not
+differ statistically from response times in the moving condition.
+Pleasantness ratings were fastest and differed significantly from
+survival. When indexed by response times, effortful processing
+fails to explain the patterns found in the retention data.
+We also examined extralist intrusions in recall. Intrusions are
+potentially interesting because they can be used as one index of
+schematic or categorical processing. If people are relying on an
+established retrieval structure to generate recall candidates, such as
+members of a category or a well-defined schema, then one might
+
+3000
+
+Rating
+
+Response Time
+
+Response Time (ms)
+
+0.65
+4
+0.60
+
+Rating
+
+Proportion Correct
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Results and Discussion
+
+265
+
+0.55
+
+3
+
+0.50
+2
+
+2500
+
+2000
+
+0.45
+1
+
+0.40
+
+Survival
+
+Moving Pleasantness
+
+1500
+
+Survival
+
+Moving Pleasantness
+
+Survival
+
+Moving Pleasantness
+
+Figure 1. Average proportion correct recall, average rating, and average response time sorted by condition for
+Experiment 1 (error bars indicate 95% confidence interval).
+
+NAIRNE, THOMPSON, AND PANDEIRADA
+
+expect to see relatively more intrusions or false recalls (Reyna &
+Brainerd, 1995; Roediger & McDermott, 1995). A survival advantage could have occurred because people are using some kind of
+survival schema to encode or retrieve information effectively. The
+relevant data are shown in Figure 2. An ANOVA revealed a
+significant effect of group, F(2, 147) ⫽ 4.88, MSE ⫽ 1.49, ␩2p ⫽
+.06; a Tukey honestly significant difference test confirmed that
+more intrusions occurred in the survival and moving groups than in
+the pleasantness condition, but the former did not differ significantly from each other. Consequently, survival processing may
+have led to schematic processing (more so than in the pleasantness
+condition), but the intrusion data suggest comparable amounts of
+schematic processing occurred in the survival and moving conditions.
+The results of Experiment 1 show a clear mnemonic advantage
+for survival processing, despite the fact that all three rating conditions presumably induced a deep level of processing. From an
+evolutionary perspective, of course, it is reasonable to propose that
+our memory systems might be tuned or biased to remember information that is relevant to survival. In the present case, we did not
+examine the mnemonic value of fitness-relevance per se, but we
+instead examined active survival processing; to-be-recalled information remained the same across the groups. Thinking about
+words in terms of their ultimate survival value enhanced retention
+relative to a standard deep processing control (pleasantness) and to
+a processing task that presumably enabled the use of an established
+schema (moving). Our remaining experiments were designed to
+replicate and extend this basic finding.
+
+Experiment 2
+Experiment 2 was designed to replicate the first experiment
+using a within-subject design. Extending the phenomenon in such
+a way has several benefits. Besides replication, some mnemonic
+phenomena, such as the generation effect and the word-frequency
+effect, depend on whether a within-subject or between-subjects
+design is used (e.g., DeLosh & McDaniel, 1996; Nairne, Riegler,
+& Serra, 1991). In addition, within-subject designs help to control
+for participant-level effects, such as an unequal distribution of
+participant characteristics across groups. Within-subject designs
+
+1.6
+
+Average Intrusions
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+266
+
+also enable one to measure the size and consistency of an effect
+(e.g., a retention advantage for survival over moving) across individual participants.
+In separate blocks of trials, participants were asked to rate the
+relevance of unrelated words to a survival and moving scenario;
+the rating task was followed by an unexpected free-recall test.
+Moving seemed a more appropriate control than pleasantness
+given that the intrusion data from Experiment 1 suggested that
+schema-based processing may occur in both the moving and survival conditions.
+
+Method
+Participants and apparatus. Thirty-eight Purdue undergraduates participated in exchange for partial credit in an introductory
+psychology course. Participants were tested individually in sessions lasting approximately 30 min. Stimuli were presented and
+controlled by personal computers.
+Materials and design. Participants rated 32 target words in
+four blocks of 8 words apiece. The 30 words from Experiment
+1 were used again, along with 2 additional words sharing the
+same general characteristics; as in Experiment 1, all participants received the same stimuli presented in the same random
+order. The design was within-subject; participants rated 16
+words using the survival scenario (S) and 16 words using the
+moving scenario (M). Rating condition was blocked in trials of
+8 words in the form SMSM or MSMS. Half of the participants
+received each version, ensuring that each word was rated under
+both scenarios.
+Procedure. All procedural details from Experiment 1 were
+replicated in Experiment 2, including timing and rating instructions. At the beginning of the session, participants received general
+instructions informing them that they would be required to rate
+words according to particular scenarios. At the beginning of each
+block, either the survival or moving instructions appeared; a short
+practice session, containing three words, was included at the
+beginning of the first and second blocks to ensure that everyone
+understood the two rating scenarios. Following the fourth block,
+participants completed 2 min of digit recall and then received the
+surprise free-recall instructions. Participants were allowed 10 min
+to recall the words in any order.
+
+Results and Discussion
+
+1.2
+
+0.8
+
+0.4
+
+0.0
+
+Survival
+
+Moving Pleasantness
+
+Figure 2. Average number of intrusion responses sorted by condition in
+Experiment 1 (error bars indicate 95% confidence interval).
+
+Once again, participants had little trouble rating words within
+the allotted time; rating omissions occurred on fewer than 2% of
+the trials, and no significant differences were found between the
+two rating scenarios.
+The final free-recall data are shown on the left side of Figure 3.
+As in Experiment 1, there was a significant recall advantage for
+words rated under the survival scenario, F(1, 37) ⫽ 16.34, MSE ⫽
+.01, ␩2p ⫽ .31. Because a within-subject design was used (as noted
+earlier), we could assess survival–moving recall differences for
+each participant: Out of 38 people, 27 recalled more words rated
+for survival than moving, 6 recalled more moving words, and there
+were 5 with tied scores. The middle and right panels of Figure 3
+show the average relevance ratings and response times for the two
+rating scenarios. Replicating Experiment 1, there were no significant differences between the two conditions in average relevance
+
+SURVIVAL PROCESSING ENHANCES RETENTION
+0.70
+
+5
+
+Free recall
+
+3000
+
+Rating
+
+267
+Response Time
+
+Response Time (ms)
+
+4
+0.60
+Rating
+
+Proportion Correct
+
+0.65
+
+0.55
+
+3
+
+0.50
+2
+
+2500
+
+2000
+
+0.45
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+0.40
+
+Survival
+
+Moving
+
+1
+
+Survival
+
+Moving
+
+1500
+
+Survival
+
+Moving
+
+Figure 3. Average proportion correct recall, average rating, and average response time sorted by condition for
+Experiment 2 (error bars indicate 95% confidence interval).
+
+ratings, F(1, 37) ⫽ 3.22, MSE ⫽ .155, ␩2p ⫽ .08, or response times,
+F(1, 37) ⬍ 1.00, ␩2p ⬍ .02.
+Experiment 2 replicated the survival retention advantage of
+Experiment 1 using a within-subject design. Again, in a withinsubject design, the participant acts as his or her own control, so
+condition differences are not easily attributable to individual or
+group characteristics. Instead, it appears as if processing for
+survival yields a genuine retention advantage, at least compared
+with moving and pleasantness control conditions.
+
+Experiment 3
+Having established a survival advantage in the first two experiments using free recall, Experiment 3 examined the effect in
+recognition memory. Once again, we used a within-subject design,
+which was modeled after Experiment 2 except that retention was
+assessed with a recognition test. Although there is no reason to
+anticipate that the enhancing effects of survival processing should
+be restricted to recall, dissociations between recall and recognition
+are relatively common in the memory literature (e.g., Balota &
+Neely, 1980).
+
+Method
+Participants and apparatus. Forty Purdue undergraduates participated for partial course credit. People were tested in individual
+sessions; stimuli were presented and controlled by personal computers.
+Materials and design. A pool of 128 words was selected from
+the Clark and Paivio (2004) norms. The words were divided into
+four groups of 32, matched for imagery, familiarity, and frequency. Two of the groups served as to-be-rated target words
+(survival and moving); the remaining 64 words were used as
+distractors in the recognition test. Across participants, the word
+groups were rotated through the various conditions, serving as
+survival, moving, and distractor items. The design was modeled
+after Experiment 2, except that participants rated 32 words using
+the survival scenario (S) and 32 words using the moving scenario
+(M). Rating condition was blocked in trials of 16 words in the form
+SMSM or MSMS. The self-paced recognition test followed 10 min
+of digit recall.
+
+Procedure. The general procedure from Experiment 2 was
+used again in Experiment 3, except for the recognition test. For this
+test, participants made recognition judgments for 128 words by
+clicking on buttons labeled “old” or “new,” which were displayed
+in the center of the computer screen just below the individually
+presented test word. Distractor and target words were randomly
+ordered; all participants received the same recognition test. Participants were given as much time as needed to make a recognition
+decision.
+
+Results and Discussion
+Rating responses were supplied over 99% of the time, and no
+significant difference was found in the number of rated words
+between the survival and moving conditions.
+The left panel of Figure 4 shows the mean proportion of
+target items given an “old” response for the survival and moving conditions; the average false alarm rate was .15. Performance was quite high, with hit rates exceeding 90% in both
+conditions, despite the relative increase in the number of target
+stimuli and length of the digit recall task. However, the survival
+advantage remained intact, F(1, 39) ⫽ 8.04, MSE ⫽ .002, ␩2p ⫽
+.17, and, as in Experiment 2, it was consistent across participants. Out of the 40 participants, 26 recognized more survival
+words than moving words correctly, 7 showed the opposite
+pattern, and there were 7 with tied scores. In an effort to obtain
+a bit more sensitivity, we also separated the participants into
+high and low performers; that is, we did a median split based on
+the overall recognition score. There was a highly significant
+survival advantage for both the high and low performing participants, but, unfortunately, performance for the low performers was still quite high: survival ⫽ .92, moving ⫽ .87.
+The middle and right panels of Figure 4 show the average
+relevance ratings and the rating response times for the survival
+and moving conditions. Unlike in Experiments 1 and 2, average
+relevance ratings were significantly higher in the survival condition, F(1, 39) ⫽ 33.41, MSE ⫽ .096, ␩2p ⫽ .46, thus, the
+retention advantage might be attributable to a congruity effect
+in this instance. To check on this possibility, we conditionalized
+the recognition data on the various rating responses; specifically, we examined survival-moving differences for words
+
+NAIRNE, THOMPSON, AND PANDEIRADA
+5
+
+Recognition
+
+0.95
+
+0.90
+
+3
+
+2
+
+0.85
+
+0.80
+
+1
+
+Survival
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+3000
+
+Rating
+
+4
+
+Rating
+
+Proportion Correct
+
+1.00
+
+Response Time (ms)
+
+268
+
+Moving
+
+Response Time
+
+2500
+
+2000
+
+1500
+
+Survival
+
+Moving
+
+Survival
+
+Moving
+
+Figure 4. Proportion hits, average rating, and average response time sorted by condition for Experiment 3
+(error bars indicate 95% confidence interval).
+
+given each of the five possible rating responses.1 Those data are
+shown in Table 1; an ANOVA revealed a significant main effect
+of condition, F(1, 33) ⫽ 4.88, MSE ⫽ .017, ␩2p ⫽ .13, no main
+effect for rating, F(3.2, 105.8) ⫽ 1.44, MSE ⫽ .014, ␩2p ⫽ .04,
+and no significant interaction, F(3.2, 104.2) ⬍ 1, ␩2p ⫽ .02.
+Thus, when rating response is equated across conditions, controlling for the congruency problem, the survival advantage
+remains. It is interesting that there was no main effect of rating
+in this instance. Words rated as highly relevant to survival were
+not better recognized than words rated as irrelevant, although,
+as noted earlier, this particular comparison is confounded by
+item-selection concerns (among other things). Finally, there
+was no significant difference in rating response time between
+the two conditions, F(1, 39) ⬍ 1, ␩2p ⬍ .01.
+Experiment 3 confirms that the survival advantage remains
+when recognition is used as the retention measure. Numerically,
+the size of the survival advantage was somewhat smaller than in
+the previous two experiments but was consistent across participants. Performance was near ceiling in the recognition test for both
+the survival and moving conditions, so we are unable to draw
+conclusions about the extent to which the advantage interacts with
+the nature of the retention test. But the overall results are certainly
+consistent with the evolutionary–functional reasoning outlined in
+the introduction: Processing items in terms of their ultimate survival value enhances later retention.
+
+Experiment 4
+As noted throughout, it is reasonable to assume that processing
+words in terms of their survival relevance is a form of deep or
+Table 1
+Proportion Hits Sorted by Condition and Rating for
+Experiment 3
+Survival
+
+Moving
+
+Rating
+
+n
+
+M
+
+SD
+
+n
+
+M
+
+SD
+
+1
+2
+3
+4
+5
+
+38
+39
+39
+40
+40
+
+.93
+.95
+.95
+.97
+.94
+
+.10
+.15
+.10
+.06
+.10
+
+40
+39
+40
+39
+39
+
+.93
+.90
+.92
+.92
+.90
+
+.10
+.19
+.10
+.16
+.16
+
+meaningful processing. As a consequence, we were careful to
+compare survival processing with control conditions that also
+required meaningful processing and, in the case of the moving
+scenario, schematic processing as well. In Experiment 4, we compared survival processing with yet another control condition, one
+that is widely considered to be among the most effective of
+encoding techniques: self-reference (see Symons & Johnson, 1997,
+for a meta-analytic review).
+The self-reference effect refers to the enhancement in retention
+that is found when people relate to-be-remembered information to
+themselves (e.g., “does the word describe you?”). Some researchers have claimed that the self acts as a kind of superordinate
+schema that substantially facilitates encoding and/or subsequent
+retrieval (e.g., Rogers, Kuiper, & Kirker, 1977). Challis, Velichkovsky, and Craik (1996) compared self-reference with a variety
+of orienting tasks and found that it yielded the best retention in
+virtually every case; for example, participants recalled significantly more words following self-referent encoding than after
+making a living or nonliving judgment about words. Rating for
+survival relevance could be conceptualized as a kind of selfreferent processing, because participants are asked to rate the
+relevance of words to personal survival, although a similar kind of
+self-referent processing presumably occurs in the moving control
+condition as well. Still, given that the self-reference effect is such
+a powerful mnemonic phenomenon, we thought that self-referent
+processing would be an appropriate metric for assessing the mnemonic power of survival processing.
+There are a number of accepted ways to induce self-referential
+processing. When nontrait words are used as stimuli, as in the
+present experiments, one common method is to ask participants to
+retrieve an autobiographical memory related to the presented word
+(e.g., Klein, Loftus, & Burton, 1989); in their meta-analysis of the
+self-reference literature, Symons and Johnson (1997) found that
+autobiographical self-referent tasks are among the most effective
+means for demonstrating the self-reference effect. Experiment 4
+1
+
+Conditionalizing the data in this way raises some concerns. For example, it is not clear whether a rating of 1 in the survival condition means the
+same thing as a rating of 1 in the moving condition. Moreover, because this
+is a quasi-experimental variable, different numbers of observations contributed to each cell. In addition, it was necessary to restrict the analysis to
+the 34 participants who made each of the relevant rating responses.
+
+SURVIVAL PROCESSING ENHANCES RETENTION
+
+once again used a within-subject design: In separate blocks, participants were asked to rate words for their survival relevance and,
+in the self-reference condition, how easily each word brought to
+mind an important personal experience.
+
+Participants and apparatus. Fifty Purdue undergraduates participated for partial course credit. Stimuli were presented and
+controlled using the equipment from the earlier experiments.
+Materials and design. Participants rated 32 target words in
+four blocks of 8 words apiece. The words were drawn from the
+pool used in Experiment 3; as in the earlier experiments, all
+participants received the same stimuli presented in the same random order. The design matched Experiment 2: Participants rated
+16 words using the survival scenario (S) and 16 words using the
+autobiographical self-reference criterion (A). Rating condition was
+once again blocked in trials of 8 words in the form SASA or
+ASAS. Half of the participants received each version, ensuring that
+each word was rated under both scenarios.
+Procedure. All aspects of the procedure matched Experiment
+2 except for the self-referent instructions. For this condition,
+participants were asked to rate “how easily the word brings to
+mind an important personal experience.” For both the survival and
+self-reference conditions, ratings ranged from 1 to 5. Two minutes
+of digit recall followed the rating task; free recall of the rated
+words proceeded for 10 min.
+
+Results and Discussion
+Participants were able to provide ratings within the 5-s presentation window on over 99% of the trials, and no significant
+differences were found between the survival and self-reference
+conditions.
+The recall data are shown on the left side of Figure 5; once
+again, a significant survival advantage was present, F(1, 49) ⫽
+29.88, MSE ⫽ .021, ␩2p ⫽ .38. For the individual participants, 33
+recalled more survival-rated words, 11 recalled more selfreferential words, and there were 6 with tied scores. The average
+relevance ratings are shown in the middle panel of Figure 5. An
+ANOVA on these data revealed a significant effect of condition,
+F(1, 49) ⫽ 8.97, MSE ⫽ .199, ␩2p ⫽ .16, but, in this case, the
+
+0.70
+
+5
+
+Free Recall
+
+average ratings were higher for self-reference than for survival;
+consequently, the survival advantage cannot be attributed to a
+simple effect of query-target congruity. Finally, the response time
+data, shown in the right-hand panel of Figure 5, revealed a significant effect of condition, F(1, 49) ⫽ 8.51, MSE ⫽ 70851.84, ␩2p ⫽
+.15; survival ratings took significantly longer to complete than
+self-reference ratings.
+Processing information in relation to the self is usually considered to be an extremely effective mnemonic strategy, especially
+when compared with the simple processing of meaning (Symons &
+Johnson, 1997). In Experiment 4, however, survival processing led
+to an approximately 16% recall advantage over a self-reference
+condition. One might argue that our survival task requires selfreferential processing, but clearly that aspect of the task cannot
+explain its mnemonic advantage in these experiments. Survival
+processing led to better retention than a standard self-reference
+control (the current experiment) or a moving condition which,
+presumably, also required a form of self-referential processing (see
+Experiments 1–3). In the following discussion, we speculate about
+the possible proximate mechanisms that mediate the survival advantage.
+
+General Discussion
+The preceding experiments were motivated from a purely functional perspective: Why did our memory systems evolve, and what
+specific problems might they be designed to solve? Although the
+identification of an evolutionary lineage is extremely difficult,
+especially for cognitive adaptations, one can use an evolutionary
+framework to generate testable hypotheses about cognitive design
+and function (Klein, Cosmides, Tooby, & Chance, 2002). In the
+present case, our working assumption was that memory functioning is content dependent; that is, our memory systems may be
+tuned or biased to help us remember information in a survival
+context. From a fitness perspective, of course, it is more important
+to remember stimuli related to survival or to other fitness-relevant
+information such as finding a mate than to remember random
+occurrences in the environment. With this in mind, we expected
+survival processing to be a particularly effective mnemonic technique.
+Across four experiments, processing information in terms of its
+survival value led to enhanced retention relative to several deep
+
+3000
+
+Rating
+
+Response Time
+
+Response Time (ms)
+
+0.65
+4
+0.60
+Rating
+
+Proportion Correct
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Method
+
+269
+
+0.55
+
+3
+
+0.50
+2
+
+2500
+
+2000
+
+0.45
+0.40
+
+1
+Survival
+
+Self-reference
+
+Survival
+
+Self-reference
+
+1500
+
+Survival
+
+Self-reference
+
+Figure 5. Average proportion correct recall, average rating, and average response time sorted by condition for
+Experiment 4 (error bars indicate 95% confidence interval).
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+270
+
+NAIRNE, THOMPSON, AND PANDEIRADA
+
+processing control conditions: specifically, rating items for pleasantness, relevance to a moving scenario, or ease of generating an
+autobiographical experience (self-reference). We were able to rule
+out several simple explanations for the advantage, such as level of
+effort or cue-target congruency, and the effect remained robust for
+both recall and recognition and across between-subjects and
+within-subject designs. Moreover, the effect was extremely consistent across participants. Collapsing across control conditions,
+approximately 78% of participants who showed a difference in
+retention between survival and one of the control conditions
+showed a survival advantage.
+Of course, we have not compared survival processing with all
+possible control conditions and it is certainly possible, even likely,
+that other control conditions can be found that will mitigate the
+survival advantage. Memory is sensitive to a host of variables, and
+it is generally inappropriate to claim that one kind of processing is
+inherently “better” than another unless other factors, such as the
+encoding-retrieval match, are adequately controlled (Tulving,
+1983). In the present instance, everything remained constant across
+processing conditions, including the to-be-remembered stimuli, so
+we can reasonably conclude that survival processing enhanced
+retention, relative to some established deep processing controls, in
+this context.
+It is also worth noting that our experiments explored the mnemonic value of survival processing rather than the fitness-relevant
+content of information per se. Thus, we did not directly compare
+the retention of words that are naturally related to survival (e.g.,
+predator words, foodstuffs) with unrelated words matched on all
+other relevant dimensions. It was our intuition, however, that
+survival processing might be key because item meaning is often
+context dependent. Thus, the survival value of an item depends
+very much on the context in which that item is encountered. For
+example, a pencil is not inherently related to survival, although it
+might be in a context in which it could be used as a weapon or as
+a device for writing a note that secured freedom or food. The
+notion that our memory systems are sensitive primarily to the
+quality of item processing, of course, has been central to memory
+theory for decades (e.g., Craik & Lockhart, 1972).
+
+Possible Proximate Mechanisms
+We have focused our discussion thus far on an ultimate or
+functional analysis of the survival advantage; we proposed that a
+selection advantage might exist if our memory systems are tuned
+to remember fitness-relevant information or, more pertinently,
+information that is processed in terms of its survival value. But
+what are the proximate mechanisms that underlie the observed
+effect? One possibility is that survival processing taps into a
+special cognitive adaptation, a kind of memory “module” that is
+specialized for remembering and processing survival-relevant information. As noted earlier, some evolutionary psychologists
+claim that our minds are filled with such adaptations, each designed by nature to accomplish some specific end (Tooby &
+Cosmides, 1992, 2005).
+Evolutionary psychologists are apt to be unhappy with this
+proposal, however, because the notion of a survival module seems
+too general. Nature, or at least the process of natural selection,
+would not develop or “design” an adaptation for survival per se;
+instead, specific modules or mechanisms are likely to develop for
+
+processing particular foods, predators, and the like. The effects
+reported here, to the extent that they reflect the action of cognitive
+adaptations, may result instead from the action of multiple modules working in concert— each activated to one degree or another
+by the survival processing task. Of course, there is nothing in the
+present data that would enable us to identify those mechanisms or
+even establish that the survival advantage is mediated by a
+survival-based cognitive adaptation. Future work will need to fine
+tune our survival scenario to determine more precisely the various
+fitness-relevant components that may be influencing performance.
+It is also possible that the survival advantage accrues from
+proximate mechanisms that evolved or developed for reasons
+unrelated to survival. Most memory researchers explain mnemonic
+phenomena by appealing to a toolkit of processes, such as rehearsal, elaboration, distinctive processing, and so forth. One
+might argue that survival processing leads to effective elaboration
+or distinctive processing, wherein participants draw multiple connections between the rated word and other information in memory.
+To explain the self-reference effect, for example, researchers have
+suggested that the self is “a well-developed and often-used construct in memory that promotes both elaboration and organization
+of encoded information” (Symons & Johnson, 1997, p. 372). One
+might argue that survival is a rich, easy to access, retrieval structure—something like a superordinate schema—that makes it easier
+to encode and retrieve information. Once again, the present experiments do not allow us to discriminate among these possibilities,
+although the intrusion data from Experiment 1 suggest that survival may induce some form of schematic processing (although not
+more so than moving).
+One rather uninteresting possibility, suggested during the review
+process, is that the survival advantage may have been caused by
+exposure to media programs depicting or simulating survival scenarios. Survival is a frequent theme in media shows (e.g., movies
+and television), and in 2006, two very highly viewed television
+shows dealt specifically with survival scenarios: one, a “reality”
+show in which contestants live for several weeks in an isolated
+environment without basic survival materials (Survivor), and the
+other, a drama show depicting how the survivors of a plane crash
+survive in an unknown land (Lost). If watched regularly by our
+participants, then it is conceivable that these programs made the
+survival rating task more engaging and/or provided a welldeveloped schema for encoding.
+To check on this possibility, we tested an additional 62 participants in the design used for Experiment 2 but queried their
+television viewing habits at the end of the session. Participants
+were asked whether they watched survival-related programs (e.g.,
+Survivor, Lost) and, if so, how often (never, sometimes, frequently,
+always). Out of 62 participants, only 5 reported watching one or
+more of these programs frequently (n ⫽ 4) or always (n ⫽ 1); the
+remaining 57 participants reported never (n ⫽ 15) or sometimes
+(n ⫽ 42). Moreover, it is important to note that the survival
+advantage in recall remained significant (despite the small n value)
+for participants who reported never watching these shows (survival ⫽ .54, moving ⫽ .47), F(1, 14) ⫽ 3.22, MSE ⫽ .012, ␩2p ⫽
+.19. We also asked the participants whether they had thought about
+or used one of these programs during the encoding or recall tasks.
+Again, the survival advantage remained robust and statistically
+significant for those participants who reported never using a program at any point during the experiment (n ⫽ 37; survival ⫽.53,
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+SURVIVAL PROCESSING ENHANCES RETENTION
+
+moving ⫽ .45), F(1, 36) ⫽ 5.75, MSE ⫽ .016, ␩2p ⫽ .14. Participants are clearly aware of these programs, but it is unlikely that
+media exposure per se is responsible for the survival advantages
+seen in these experiments.
+Finally, it is conceivable that survival processing simply leads to
+more arousal or emotional processing of the rated words. It is well
+established that emotional arousal can enhance subsequent retention, although the retention patterns are sometimes complex (Levine & Pizarro, 2004; McGaugh, 2003). Increased arousal might
+serve as a general proximate mechanism, something that improves
+retention regardless of the specific context. It is certainly likely
+that many survival situations induce emotional arousal, thereby
+increasing the chances that fitness-relevant information will be
+remembered. At the same time, our survival encoding task is
+relatively innocuous; certainly, rating whether a word such as book
+or juice might help you in a survival context is vastly different
+from the emotionally provocative stimuli that are commonplace in
+emotion and memory research.
+If emotional arousal is mediating the survival advantage in our
+context, then one might expect the advantage to depend on the
+emotionality rating of the stimuli. For example, the survival advantage might be larger for words rated high for emotionality
+because there is more emotional “room” for an arousal effect to
+take hold. We did not specifically manipulate emotionality, but we
+were able to obtain emotionality ratings for many of the stimuli
+used in our experiments (Rubin & Friendly, 1986), particularly for
+Experiments 3 and 4. In Experiment 4, for example, there was a
+strong and reliable correlation between emotionality rating and
+overall recall, r(32) ⫽ .350, but not between emotionality and the
+survival advantage (defined as the difference between recall of a
+given word when it was processed for survival vs. when it was
+processed for self-reference), r(32) ⫽ ⫺.013; a similar null effect
+was found in Experiment 3 between emotionality and the survival
+advantage in recognition, r(127) ⫽ .034. We also looked at the
+correlations between emotionality and ratings. It is interesting that
+in Experiment 4, there was a strong positive correlation between
+emotionality and the self-reference rating, r(32) ⫽ .513, indicating
+that emotional words are more likely to generate autobiographical
+experiences; however, there was a significant negative correlation
+between emotionality and survival rating, r(32) ⫽ ⫺.199. These
+are not perfect tests of the arousal hypothesis, of course, but they
+suggest that factors other than emotional arousal may mediate the
+survival advantage.
+
+Conclusions
+One common complaint about evolutionary psychologists is
+their tendency to create “just so” stories—that is, fanciful explanations for phenomena that seem apt from an evolutionary perspective but lack adequate empirical grounding. As the preceding
+experiments demonstrate, however, it is possible to use
+evolutionary–functional reasoning to generate a priori hypotheses
+about behavior that can then be tested empirically in the laboratory. The present experiments were motivated entirely from a
+functional perspective by asking questions about why our memory
+systems might have evolved.
+As one of us has argued elsewhere (Nairne, 2005), there are
+compelling reasons to believe that memory is functionally designed (see also Anderson & Schooler, 1991; Glenberg, 1997;
+
+271
+
+Klein et al., 2002). Our memory systems did not develop in a
+vacuum; rather, our ability to remember and reconstruct the past
+evolved to help us solve problems, particularly problems related to
+survival. It is not surprising as a result that survival-based processing leads to enhanced retention, regardless of the particular
+proximate mechanisms that might be involved.
+
+References
+Anderson, J. R., & Schooler, L. J. (1991). Reflections of the environment
+in memory. Psychological Science, 2, 396 – 408.
+Anderson, J. R., & Schooler, L. J. (2000). The adaptive nature of memory.
+In E. Tulving & F. I. M. Craik (Eds.), The Oxford handbook of memory
+(pp. 557–570). New York: Oxford University Press.
+Andrews, P. W., Gangestad, S. W., & Matthews, D. (2002). Adaptationism—How to carry out an exaptationist program. Behavioral and Brain
+Sciences, 25, 489 –553.
+Balota, D. A., & Neely, J. H. (1980). Test-expectancy and word-frequency
+effects in recall and recognition. Journal of Experimental Psychology:
+Human Learning and Memory, 6, 576 –587.
+Barrett, H. C. (2005). Adaptations to predators and prey. In D. Buss (Ed.),
+The handbook of evolutionary psychology (pp. 200 –223). Hoboken, NJ:
+Wiley.
+Bruce, D. (1985). The how and why of ecological memory. Journal of
+Experimental Psychology: General, 114, 78 –90.
+Challis, B. H., Velichkovsky, B. M., & Craik, F. I. M. (1996). Levels-ofprocessing effects on a variety of memory tasks: New findings and
+theoretical implications. Consciousness and Cognition, 5, 142–164.
+Clark, J. M., & Paivio, A. (2004). Extensions of the Paivio, Yuille, and
+Madigan (1968) norms. Behavior Research Methods, Instruments, &
+Computers, 36, 371–383.
+Cosmides, L. (1989). The logic of social exchange: Has natural selection
+shaped how humans reason? Studies with the Wason selection task.
+Cognition, 31, 187–276.
+Craik, F. I. M., & Lockhart, R. S. (1972). Levels of processing: A
+framework for memory research. Journal of Verbal Learning and Verbal
+Behavior, 11, 671– 684.
+Craik, F. I. M., & Tulving, E. (1975). Depth of processing and the retention
+of words in episodic memory. Journal of Experimental Psychology:
+General, 104, 268 –294.
+DeLosh, E. L., & McDaniel, M. A. (1996). The role of order information
+in free recall: Application to the word-frequency effect. Journal of
+Experimental Psychology: Learning, Memory, and Cognition, 22, 1136 –
+1146.
+Glenberg, A. M. (1997). What is memory for? Behavioral and Brain
+Sciences, 20, 1–55.
+Gould, S. J., & Lewontin, R. C. (1979). The spandrels of San Marco and
+the Panglossian paradigm: A critique of the adaptationist programme.
+Proceedings of the Royal Society of London: Series B, 205, 581–598.
+Gould, S. J., & Vrba, E. S. (1982). Exaptation: A missing term in the
+science of form. Paleobiology, 8, 4 –15.
+Kareev, Y. (2000). Seven (indeed, plus or minus two) and the detection of
+correlations. Psychological Review, 107, 397– 402.
+Klein, S. B., Cosmides, L., Tooby, J., & Chance, S. (2002). Decisions and
+the evolution of memory: Multiple systems, multiple functions. Psychological Review, 109, 306 –329.
+Klein, S. B., Loftus, J., & Burton, H. (1989). Two self-reference effects:
+The importance of distinguishing between self-descriptiveness judgments and autobiographical retrieval in self-referent encoding. Journal
+of Personality and Social Psychology, 56, 853– 865.
+Levine, L. J., & Pizarro, D. A. (2004). Emotion and memory research: A
+grumpy overview. Social Cognition, 22, 530 –554.
+McGaugh, J. L. (2003). Memory and emotion: The making of lasting
+memories. New York: Columbia University Press.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+272
+
+NAIRNE, THOMPSON, AND PANDEIRADA
+
+Moscovitch, M., & Craik, F. I. M. (1976). Depth of processing, retrieval
+cues, and uniqueness of encoding as factors in recall. Journal of Verbal
+Learning and Verbal Behavior, 15, 447– 458.
+Nairne, J. S. (2005). The functionalist agenda in memory research. In A. F.
+Healy (Ed.), Experimental psychology and its applications (pp. 115–
+126). Washington, DC: American Psychological Association.
+Nairne, J. S., Riegler, G. L., & Serra, M. (1991). Dissociative effects of
+generation on item and order information. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 17, 702–709.
+Öhman, A., & Mineka, S. (2001). Fears, phobia, and preparedness: Toward an
+evolved module of fear and fear learning. Psychological Review, 108, 483–522.
+Paivio, A. (2007). Mind and its evolution: A dual coding theoretical
+approach. Mahwah, NJ: Erlbaum.
+Reyna, V. F., & Brainerd, C. J. (1995). Fuzzy-trace theory: An interim
+synthesis. Learning and Individual Differences, 7, 1–75.
+Roediger, H. L., III, & McDermott, K. B. (1995). Creating false memories:
+Remembering words not presented in lists. Journal of Experimental
+Psychology: Learning, Memory, and Cognition, 21, 803– 814.
+Rogers, T. B., Kuiper, N. A., & Kirker, W. S. (1977). Self-reference and
+the encoding of personal information. Journal of Personality and Social
+Psychology, 35, 677– 688.
+Rubin, D. C., & Friendly, M. (1986). Predicting which words get recalled:
+Measures of free recall, availability, goodness, emotionality, and pronunciability for 925 nouns. Memory & Cognition, 14, 79 –94.
+
+Schmitt, D. P. (2005). Fundamentals of human mating strategies. In D.
+Buss (Ed.), The handbook of evolutionary psychology (pp. 258 –291).
+Hoboken, NJ: Wiley.
+Schulman, A. I. (1974). Memory for words recently classified. Memory &
+Cognition, 2, 47–52.
+Silverman, I., & Eals, M. (1992). Sex differences in spatial abilities:
+Evolutionary theory and data. In J. H. Barkow, L. Cosmides, & J. Tooby
+(Eds.), The adapted mind: Evolutionary theory and the generation of
+culture (pp. 531–549). New York: Oxford Press.
+Symons, C. S., & Johnson, B. T. (1997). The self-reference effect in
+memory: A meta-analysis. Psychological Bulletin, 121, 371–394.
+Tooby, J., & Cosmides, L. (1992). The psychological foundations of
+culture. In J. H. Barkow, L. Cosmides, & J. Tooby (Eds.), The adapted
+mind: Evolutionary theory and the generation of culture (pp. 19 –136).
+New York: Oxford University Press.
+Tooby, J., & Cosmides, L. (2005). Conceptual foundations of evolutionary
+psychology. In D. Buss (Ed.), The handbook of evolutionary psychology
+(pp. 5– 67). Hoboken, NJ: Wiley.
+Tulving, E. (1983). Elements of episodic memory. New York: Oxford
+University Press.
+Van Overschelde, J. P., Rawson, K. A., & Dunlosky, J. (2004). Category
+norms: An updated and expanded version of the Battig and Montague
+(1969) norms. Journal of Memory and Language, 50, 289 –335.
+
+SURVIVAL PROCESSING ENHANCES RETENTION
+
+273
+
+Appendix
+Stimuli for Experiments 1– 4
+Experiments 1 & 2
+truck
+diesel
+mountain
+pepper
+book
+carbon
+
+juice
+shoes
+finger
+aunt
+chair
+catfish
+
+silver
+orange
+whiskey
+flute
+snow
+
+door
+broccoli
+bear
+cathedral
+screwdriver
+
+car
+sword
+apartment
+soccer
+emerald
+
+silk
+teacher
+pan
+sock
+eagle
+
+boy
+snake
+husband
+clothing
+workers
+sea
+master
+army
+cottage
+board
+son
+dinner
+woods
+blood
+fire
+forest
+formation
+child
+cattle
+village
+alcohol
+
+soil
+prairie
+queen
+bath
+needle
+gentleman
+camp
+weapon
+dust
+metal
+landscape
+bed
+grass
+settlement
+butter
+rock
+children
+drink
+cat
+fruit
+sugar
+
+disease
+snow
+landscape
+madame
+storm
+
+ocean
+valley
+blood
+bed
+dinner
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+
+Experiment 3
+stone
+madame
+bowl
+liver
+lime
+girl
+mountain
+victim
+lemon
+bird
+baby
+iron
+fox
+bear
+snow
+house
+veteran
+ladies
+wife
+fabric
+sheep
+friend
+
+vapour
+storm
+soldier
+salt
+cabin
+insect
+shore
+flood
+colony
+lord
+artist
+meadow
+tree
+bread
+jungle
+summit
+garden
+client
+doctor
+physician
+tobacco
+tool
+
+python
+mother
+monk
+man
+leader
+speaker
+king
+lumber
+horse
+fiber
+water
+ocean
+string
+woman
+disease
+liquor
+people
+builder
+cane
+lake
+lion
+
+home
+rod
+fur
+corn
+troops
+person
+chair
+chief
+river
+cotton
+dirt
+valley
+dogs
+family
+parents
+shoes
+musician
+potato
+meat
+coast
+stem
+Experiment 4
+
+clothing
+settlement
+jungle
+woman
+queen
+corn
+
+iron
+python
+family
+boy
+husband
+man
+
+home
+meadow
+liver
+vapour
+son
+
+salt
+parents
+stone
+soil
+bath
+
+Received August 3, 2006
+Revision received December 5, 2006
+Accepted December 15, 2006 䡲
+
+

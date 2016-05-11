@@ -1,0 +1,1737 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/7951213
+
+Children's	Implicit	Learning	of	Graphotactic	and
+Morphological	Regularities
+Article		in		Child	Development	·	March	2005
+Impact	Factor:	4.72	·	DOI:	10.1111/j.1467-8624.2005.00848_a.x	·	Source:	PubMed
+
+CITATIONS
+
+READS
+
+93
+
+69
+
+3	authors,	including:
+Sébastien	Pacton
+
+Fayol	Michel
+
+Université	René	Descartes	-	Paris	5
+
+Université	Blaise	Pascal	-	Clermont-Ferrand	II
+
+39	PUBLICATIONS			872	CITATIONS			
+
+229	PUBLICATIONS			4,196	CITATIONS			
+
+SEE	PROFILE
+
+All	in-text	references	underlined	in	blue	are	linked	to	publications	on	ResearchGate,
+letting	you	access	and	read	them	immediately.
+
+SEE	PROFILE
+
+Available	from:	Fayol	Michel
+Retrieved	on:	10	May	2016
+
+Child Development, March/April 2005, Volume 76, Number 2, Pages 324 – 339
+
+Children’s Implicit Learning of Graphotactic and Morphological Regularities
+Sébastien Pacton
+
+Michel Fayol
+
+Université Paris V (Paris) and Centre National de la
+Recherche Scientifique (CNRS)
+
+Université Blaise Pascal (Clermont-Ferrand)
+and CNRS
+
+Pierre Perruchet
+Université de Bourgogne (Dijon) and CNRS
+
+In French, the transcription of the same sound can be guided by both probabilistic graphotactic constraints (e.g.,
+/et/ is more often transcribed ette after -v than after -f) and morphological constraints (e.g., /et/ is always
+transcribed ette when used as a diminutive suffix). Three experiments showed that pseudo-word spellings of
+8-to 11-year-old children and adults were influenced by both types of constraints. The influence of graphotactic
+regularities persisted when reliance on morphological rules was possible, without any falling off as a function of
+age. This suggests that rules are not abstracted, even after massive amounts of exposure to a rule-based material.
+These results can be accounted for by a statistical model of implicit learning.
+
+Implicit learning occurs when somebody acquires
+new information without intending to do so. It is
+conceived as a fundamental process involved in
+domains as diverse as knowledge about the physical
+world, acquisition of social skills, first- and secondlanguage learning, and reading and writing. However, implicit learning has mainly been investigated
+in laboratory settings through a wide variety of experimental situations involving complex and arbitrary stimulus domains (e.g., artificial grammar
+learning, sequence learning, dynamic system control,
+acquisition of invariant characteristics; for reviews,
+see Berry & Dienes, 1993; Cleeremans, Destrebecqz,
+& Boyer, 1998; Reber, 1993). Only recently, a few researchers have addressed connections between implicit learning experiments in the laboratory and in
+real-life contexts, such as the acquisition of musical
+structures (e.g., Tillmann, Bharucha, & Bigand, 2000),
+first and second languages (e.g., Gomez & Gerken,
+2000; Michas & Berry, 1994), and written language
+(e.g., Pacton, Perruchet, Fayol, & Cleeremans, 2001).
+For instance, Pacton et al. (2001) showed that
+adapting paradigms typically used in laboratory
+This work was supported by grants from the Centre National de
+la Recherche Scientifique (CNRS, UMR 8605, UMR 6024, UMR
+5022), the University Paris V, the University Blaise Pascal, and the
+University of Bourgogne. We thank the anonymous reviewers,
+Michael Tyler, and Caroline Lawson for their helpful suggestions
+on previous versions of this article.
+Correspondence concerning this article should be addressed to
+Sébastien Pacton, Institut de Psychologie, Laboratoire Cognition et
+Développement (UMR 8605, CNRS-Paris V), 71 Avenue Edouard
+Vaillant, 92774 Boulogne-Billancourt Cedex, France. Electronic
+mail may be sent to pacton@psycho.univ-paris5.fr.
+
+implicit learning experiments allows a better understanding of the nature of children’s orthographic
+knowledge.
+In this article, we take into account results issued
+from the implicit learning literature to plan experiments designed to assess whether children rely on
+untaught morphological rules. We begin by reviewing how the issue of rule abstraction has been dealt
+within laboratory studies on implicit learning. Then,
+we review the few studies on written language acquisition that address this issue. Finally, we discuss
+the characteristics of French orthography that are
+exploited in our experiments.
+
+The Abstraction Issue in the Implicit Learning of
+Artificial Grammars
+Most studies designed to address the issue of rule
+abstraction in implicit learning settings used Reber’s
+(1967, 1993) artificial grammar learning (AGL) paradigm. In this paradigm, participants are asked to
+memorize strings (unknown to them) generated
+from a finite-state grammar that defines legal letters
+and permissible transitions between them. After
+training, participants are informed that this set of
+stimuli is rule governed. They are then asked to
+indicate whether a new set of strings obeys or
+violates the rules. Participants typically get about
+65% to 75% of these classifications correct. They are
+generally unable to articulate rules used to generate
+the material.
+r 2005 by the Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2005/7602-0002
+
+Children’s Implicit Learning
+
+Reber (1967) has suggested that participants abstract the grammar rules during the study phase,
+when they are exposed to sample of letter strings
+generated from the grammar. During the test phase,
+participants are assumed to use the acquired rulebased knowledge to judge the grammaticality of
+new items. However, alternative explanations
+have been subsequently proposed. In particular, it
+has been suggested that participants could judge
+grammaticality by making use of the relative frequency of particular fragments that were presented
+in the study phase (e.g., Perruchet, 1994; Redington
+& Chater, 1996). Because this account relies heavily
+on the distributional and statistical aspects of the
+materials, we hereafter refer to the statistical account
+to refer to the alternative to rule-based account.
+Another variant of the AGL studies does not seem
+easily open to the statistical account yet. In this
+variant, the surface form of the materials is changed
+between training and test. For example, the training
+string MXVVM and VXMTM might become HJKKH
+and KJHLH, respectively. The new strings follow the
+same underlying rules as the training string, but they
+are instantiated with a novel set of stimuli (e.g.,
+other letters, sequences of tones). In these transfer
+situations, participants continue to perform at
+above-chance levels. However, level of performance
+with unfamiliar strings is lower than with familiar
+strings (the so-called transfer-decrement phenomenon; e.g., Altmann, Dienes, & Goode, 1995; Dienes &
+Altmann, 1997; Gomez, 1997; Redington & Chater,
+2002; Shanks, Johnstone, & Staggs, 1997; Whittlesea
+& Wright, 1997).
+The possibility of transfer to new materials has
+initially been seen as evidence for the claim that
+participants in AGL studies acquire rule-based
+knowledge during the training phase (Knowlton &
+Squire, 1996; Reber, 1993). According to these studies, transfer to new materials rules out the theories of
+AGL in which participants acquire knowledge of
+whole instances, or fragments of the training materials, because these approaches would represent the
+input in terms of its surface form.
+However, even here, these results could be explained in terms of statistical learning. To do so, one
+has to reconsider the opposition between rule-based
+and statistical learning interpretations. In traditional
+conceptions, the notion of rule involves surfaceindependent features, and the notion of statistical
+mechanisms involves surface-dependent features.
+However, as claimed by Redington and Chater
+(2002), ‘‘surface-independence and rule-based
+knowledge are orthogonal concepts’’ (p. 124). In
+particular, statistical processes can apply to features
+
+325
+
+that are abstracted away from their sensory content.
+Now, statistical principles acting on simple abstract
+or relational primitives, such as those that can be
+provided by low-level perceptual processes, can account for the available data evidencing transfer
+(Perruchet & Vinter, 2002a, 2002b). In favor of this
+account there is more empirical evidence that the
+presence of simple repetitions or alternations in the
+study strings is necessary to obtain transfer effects
+(e.g., Gomez, Gerken, & Schvaneveldt, 2000; Tunney
+& Altmann, 1999). Thus, transfer could occur because some perceptually salient features used for
+statistical analyses are sufficiently abstract to be directly relevant to new materials and not because an
+unconscious processor abstracts deep underlying
+rules from a set of items of which only the surface
+features would be initially encoded.
+Although both rule-based and distributional
+approaches can account for transfer effects, the
+transfer-decrement phenomenon is problematic for
+rule-based approaches because the use of genuine
+rule-based knowledge is supposed to be similar for
+familiar and unfamiliar items (e.g., Anderson, 1993;
+Manza & Reber, 1997; Smith, Langston, & Nisbett,
+1992; Whittlesea & Dorken, 1997). For instance,
+Manza and Reber (1997), two advocates of rulebased knowledge, acknowledge that ‘‘a system that
+represented knowledge in [this] pure abstract form
+would result in transfer judgment accuracy being
+equal to control judgment accuracy which, of course,
+was not what we typically found’’ (p. 102). According to Manza and Reber, the transfer decrement
+would correspond to a point in training at which the
+rule-abstraction process is not yet fully completed.
+This interpretation works well in lab studies in
+which training is necessarily restricted.
+However, the results reported by Pacton et al.
+(2001) suggest that the transfer-decrement in lab
+studies cannot be explained by insufficient practice
+preventing the full development of abstract rulebased knowledge. They explored whether and to
+what extent transfer to novel forms occurs in the
+context of an out-of-the-lab learning situation that
+extended over years. They investigated whether
+children learn an untaught rule specifying that in
+French, consonants can only be doubled in medial
+position. Children were presented with pairs of
+pseudo-words such that one pseudo-word in each
+pair included a double consonant in legal position
+whereas the other included a double consonant in
+illegal position. Children were asked to select the
+invented word in each pair that looked most like a
+French word. As early as first grade, children judged
+nullor (a pseudo-word with a doublet in a legitimate,
+
+326
+
+Pacton, Fayol, and Perruchet
+
+word-medial position) as more word-like than nnulor
+(with a doublet in a prohibited word-initial position).
+This effect further transferred to consonants that do
+not allow doubling in French. For example, although
+k and x are never doubled in the language, children
+found that pseudo-words such as koxxir were more
+word-like than pseudo-words such as kkoxir. However, the effect for these letters remained substantially lower than for frequently doubled letters, and
+the magnitude of this transfer-decrement remained
+unchanged from Grades 1 to 6. Such a pattern of
+results, also observed with a completion task, indicated that even after as long as 5 years of exposure to
+print, children’s orthographic knowledge did not
+correspond to a general rule such as ‘‘consonants can
+only be doubled in medial position in French.’’
+The question is now whether this conclusion generalizes to morphological rules, which involve semantic features.
+Do Children Use Morphology in Their Spellings?
+Morphemes designate linguistic units that have a
+meaning or a syntactic function and that cannot be
+subdivided in this way. For example, the word undesirable comprises three morphemes: the stem to
+desire, the prefix un, and the suffix able. In many
+written languages, knowledge of the relationships
+between morphemes and script often helps in
+choosing a particular spelling pattern when there are
+two or more plausible spelling forms for the same
+sound. For example, the English two-morpheme
+word helped is formed by the stem help followed by
+the inflectional morpheme -ed. Knowing that the final [t] of helped is a morpheme marking the past tense
+leads to spell [t] -ed rather than -t. In a longitudinal
+study, Nunes, Bryant, and Bindman (1997a) showed
+that children initially spelled past regular verbs
+phonetically (e.g., stept for stepped; see also Beers
+& Beers, 1992; Treiman, 1993), then used the written
+form -ed even for grammatically inappropriate words
+(e.g., sofed for soft), then used -ed for all verbs (e.g.,
+keped for kept), and, finally, used -ed only for regular
+verbs (see Totereau, Barrouillet, & Fayol, 1998, for a
+similar sequence concerning the acquisition of the
+nominal and verbal plurals in written French).
+However, it is difficult to determine whether the
+evolution from spellings that are massively alphabetic (e.g., stept) to spellings that take morphology
+into account (e.g., stepped) reflects children’s growing
+morphological knowledge or, simply, rote learning of
+specific word spelling over time. To disentangle between these alternatives, Bryant, Nunes, and Snaith
+(2000; see also Nunes, Bryant, & Bindman, 1997b)
+
+assessed children’s use of morphology with pseudoword spelling tasks. They investigated whether 8- to
+11-year-old children learned an untaught rule of
+spelling according to which English verbs whose
+stems sound the same in the present and past forms
+are given the -ed spelling (e.g., cleared, peeled) whereas
+verbs whose stems sound different in the present
+and past have phonetically spelled endings (e.g.,
+heard, slept). Children were asked to spell regular
+past pseudo-verbs, whose stems sound the same in
+the present and past (e.g., /krel/ – /kreld/), and irregular past pseudo-verbs, whose stems sound different in the present and past (e.g., [/prel/ – /prold/])
+that were embedded in sentences such as ‘‘My
+friend always prells at bedtime. We usually prell in
+the morning, but last week we /prold/ in the afternoon.’’ In the two studies, children spelled regular
+past pseudo-verbs with an -ed ending more often
+than they did the irregular verbs and, conversely,
+spelled the endings of the irregular past pseudoverbs phonetically more often than they did the
+regular verbs. Nunes et al. (1997b) further assessed
+whether children came to master the use of morphological spelling patterns through reliance on a
+rule or through analogies to real words by using irregular pseudo-verbs whose present and past tense
+were either analogous or nonanalogous to those of
+any real irregular verbs. The pattern held for nonanalogous pseudo-verbs but the performances were
+lower than with analogous pseudo-verbsFa result
+similar to Pacton et al. (2001) with regard to children’s knowledge about double letters and to the
+transfer-decrement observed in AGL studies.
+Even more recently, Kemp and Bryant (2003) explored whether children and adults rely on the
+morphological spelling rule that regular plural endings in English must be spelled as -s whether they are
+pronounced with a final /s/ (e.g., cats) or a final /z/
+(e.g., dogs), even though nonplural /z/ endings can
+be spelled -z, -zz, -ze, or -se. Because the plural form
+of nouns ending in a consonant is always spelled
+with -s, words such as pads could be correctly spelled
+because children have learned that bs and ds are legal
+endings in English whereas bz and dz are not (Cassar
+& Treiman, 1997; Pacton et al., 2001) rather than because they use the plural morphological rule. However, reliance on graphotactic regularities, rather
+than on the plural morphological rule, does not
+work when the sound /z/ is preceded by a long
+vowel because in this case /z/ can be spelled with
+-s (plurals) or -ze or -se (nonplurals). Thus, reliance
+on the plural morphological rule allows people to
+spell all plural nouns correctly, but reliance on
+graphotactic regularities leads to correct spellings for
+
+Children’s Implicit Learning
+
+nouns whose final /z/ is preceded by a consonant
+but not for nouns whose final /z/ is preceded by a
+long vowel. Kemp and Bryant reported that children
+in Grades 1 to 3 were far more likely to use the
+correct-s for a plural word when the /z/ ending was
+immediately preceded by a consonant (e.g., fibs) than
+when it was preceded by a long vowel (e.g., fleas).
+Similar results were obtained with a task involving
+pseudo-words with children and adults, indicating
+that the pattern observed with words could not be
+attributed to differences in the rote learning of
+spellings. Kemp and Bryant concluded that children
+‘‘rely on their sensitivity to the frequency with which
+certain letters co-occur, rather than on their knowledge of a morphology-based rule, when spelling
+plural and non-plural words and pseudowords’’
+(p. 72).
+The Present Study
+French is a good candidate to sort out rule-based
+and statistical interpretations of implicit learning.
+The transcription of the same sound can be constrained by both graphotactic regularities (i.e., the
+probability of succession of the graphemes; Jaffré &
+Fayol, 1997) that are probabilistic and morphological
+regularities that can be described with an (untaught)
+abstract rule. This allowed us to explore the combined influence of two types of regularities that
+are usually independently explored. Investigating
+whether the graphotactic regularities continue to
+influence spellers’ performances when reliance on a
+morphological rule is possible constitutes a privileged way to explore whether rules are abstracted
+after massive amounts of exposure to rule-based
+material.
+In French, the phoneme /o/ can be spelled as o
+(e.g., piano), au (e.g., tuyau, hose), eau (e.g., manteau,
+coat), ot (e.g., escargot, snail), aut (e.g., défaut, default),
+among other spellings. Similarly, the sound /et/ can
+be spelled ète (e.g., planète, planet), aite (e.g., défaite,
+defeat), ette (e.g., assiette, plate), or ête (e.g., conquête,
+conquest). The distribution of the transcriptions of
+/o/ and /et/ varies as a function of the preceding
+consonants (Brulex: Content, Mousty, & Radeau,
+1990). For example, /et/ is rarely spelled ette after -b
+and -t but is frequently after -l. Those graphotactic
+regularities are probabilistic and idiosyncratic insofar as there is no single high-level rule that could
+provide a concise definition for which letters can
+precede a given transcription of /et/ or /o/. On the
+other hand, /o/ is always transcribed eau and /et/ is
+always transcribed ette when they correspond to diminutive suffixes (Catach, 1986).1 For instance,
+
+327
+
+éléphanteau (baby elephant) and renardeau (fox cub) are
+two-morpheme words based on the stems éléphant
+(elephant) and renard (fox) followed by the masculine
+diminutive suffix -eau. Likewise, vachette (young cow)
+and fillette (little girl) are two-morpheme words
+based on the stems vache (cow) and fille (girl) followed
+by the feminine diminutive suffix -ette. These simple
+and productive rules, which are relevant to a large
+sample of words, are untaught.
+To investigate the influence of the graphotactic
+and morphological regularities, we compared the
+spelling of the same pseudo-words in two conditions: one involving only graphotactic constraints (G
+condition) and the other involving morphological
+and graphotactic constraints (GM condition). In the
+G condition, children were asked to spell pseudowords such as /sorivet/ and /soritet/, which only
+differed by the consonants that preceded /et/. We
+hypothesized that if children were sensitive to
+graphotactic regularities, they should use ette more
+often for /sorivet/ than for /soritet/ because ette is
+frequent after /v/ but rare after /t/. In the GM
+condition, children were asked to spell the same
+pseudo-words embedded within sentences such as
+‘‘a little /soriv/ is a /sorivet/’’ or ‘‘a little /sorit/ is a
+/soritet/.’’ Our hypothesis was that if the derivational morphology does influence children’s spellings, ette should be used more often in the GM
+condition than in the G condition.
+A rule-based model of implicit learning appears
+especially relevant to account for the acquisition of
+the morphological rules. Such a model predicts that
+rule-abstraction processes are elicited when people
+are faced with rule-governed material. However, this
+model does not exclude the possibility that people
+learn statistical regularities when these regularities
+cannot be described by a rule (e.g., Manza & Reber,
+1997). On the other hand, a statistical model of implicit learning is especially relevant to account for an
+increasing sensitivity to graphotactic regularities.
+However, such a model is able to account for a sensitivity to morphological regularities because statistical analyses do not only operate on low-level,
+surface features (e.g., Perruchet & Vinter, 2002a,
+2002b; Redington & Chater, 2002). Thus, when words
+such as a ‘‘fillette’’ (a little girl) or a ‘‘maisonnette’’
+(a little house) are encountered, the feature of diminutiveness may become associated with the feature ‘‘ends in ette,’’ and this association can be
+strengthened through repetitions as with any other
+association.
+Although children’s increasing sensitivity to graphotactic and morphological regularities can be
+explained within a rule-based and within a statistical
+
+328
+
+Pacton, Fayol, and Perruchet
+
+model of implicit learning, the two models lead to
+diverging predictions in our experimental situation.
+The crucial point concerns the impact of the
+graphotactic constraints in the GM condition. According to a rule-based account, people are initially
+sensitive to the idiosyncratic properties of the material, and then rule knowledge evolves from this
+sensitivity (Manza & Reber, 1997). Because of a
+gradual abstraction of the morphological rules, the
+impact of the graphotactic constraints in the GM
+condition should progressively decrease. On the
+other hand, according to a statistical account, children would become increasingly sensitive to both
+graphotactic and morphological regularities. However, children are not assumed to abstract the rules
+implicitly even in the morphological domain in
+which such extraction is possible. Therefore, morphological constraints should not evolve as the
+all-or-none effect that is typical of rule-directed
+phenomena.
+To sum, a rule-based account predicts an impact
+of the graphotactic constraints in the G condition but
+not in the GM condition after an extensive exposure
+to written language. A statistical account predicts an
+impact of the graphotactic constraints in both the G
+and the GM conditions even after prolonged exposure to print.
+Study 1
+Method
+Participants. Participants included 40 (18 females,
+22 males) second-grade children (M age 5 8 years 3
+months, SD 5 3.4 months), 40 (20 females, 20 males)
+third-grade children (M age 5 9 years 3 months,
+SD 5 4.6 months), and 40 (23 females, 17 males) fifth-
+
+grade children (M age 5 11 years 1 month, SD 5 4.4
+months). Children were recruited from two French
+primary schools located in an area of average socioeconomic status in Dijon. The 120 children met the
+following criteria: (a) parental permission, (b) French
+as native language, and (c) no language problems
+according to their teachers. In this study and all other
+experiments reported here, the majority of the participants were white.
+Stimuli. To construct the pseudo-words, we calculated the distributions of the written forms eau and
+ette in the final position of words as a function of the
+preceding consonant using a French computerized
+database Brulex (Content et al., 1990). Table 1 shows
+the stimuli used in Study 1.
+Six pairs of pseudo-words were elaborated to test
+the impact of graphotactic and morphological constraints on the transcription of /o/. The two pseudowords of each pair differed only with regard to their
+final consonants. One pseudo-word ended with one
+of the three consonants /r/, /t/, and /v/ after which
+/o/ is frequently transcribed eau in French (e.g.,
+/klar/ or /vitar/). The other pseudo-word ended
+with one of the three consonants /k/, /f/, and /g/
+after which /o/ is never transcribed eau in French
+(e.g., /klaf/ or /vitaf/). A diminutive corresponding
+to each of these 12 pseudo-words was elaborated by
+adding /o/ after the final consonant of those pseudo-words. For example, the diminutive of /vitaro/
+was composed of the stem /vitar/ followed by the
+diminutive suffix /o/. Each of the six final endings
+/ko/, /fo/, /go/, /ro/, /to/, and /vo/ occurred at
+the end of one bisyllabic consonant-consonant-vowel-consonant-vowel (CCVCV) pseudo-word (e.g.,
+/klaro/ or/ klafo/) and at the end of one trisyllabic
+CVCVC pseudo-word (e.g., /vitaro/ or /vitafo/).
+
+Table 1
+Stimuli Used in Experiments 1, 2, and 3
+EAU frequent
+/brev/ – /brevo/
+/pilav/ – /pilavo/
+(940)
+/plit/ – /plito/
+/pymit/ – /pymito/
+(286)
+/klar/ – /klaro/
+/vitar/ – /vitaro/
+(209)
+
+EAU never
+
+ETTE frequent
+
+ETTE rare
+
+/brek/ – /breko/
+/pilak/ – /pilako/
+(0)
+
+/kryf/ – /kryfet/
+/kalaf/ – /kalafet/
+(1)
+
+/plig/ – /pligo/
+/pymig/ – /pymigo/
+(0)
+
+/kryl/ – /krylet/
+/kalal/ – /kalalet/
+(140)
+R
+R
+/gla / – /gla et/
+R
+R
+/turi / – /turi et/
+(36)
+
+/klaf/ – /klafo/
+/vitaf/ – /vitafo/
+(0)
+
+/trav/ – /travet/
+/soriv/ – /sorivet/
+(16)
+
+/trat/ – /tratet/
+/sorit/ – /soritet/
+(1)
+
+/glab/ – /glabet/
+/tyrib/ – /tyribet/
+(1)
+
+Note. Presented here are pseudo-words composed of a stem without diminutive suffix (e.g., /brev/) and their related pseudo-words
+composed of a stem followed by a diminutive suffix (e.g., /brevo/). The cumulated frequencies (per million) of words in which the sounds
+/o/ and /et/ of the /consonant 1o/ and /consonant 1et/ endings are transcribed respectively eau and ette are indicated in parentheses.
+
+Children’s Implicit Learning
+
+Hereafter, pseudo-words in which /o/ followed a
+consonant after which /o/ is frequently transcribed
+eau in French are labeled EAU frequent. Those in
+which /o/ followed a consonant after which /o/
+is never transcribed eau in French are labeled
+EAU never.
+Six pairs of pseudo-words were elaborated to test
+the impact of graphotactic and morphological constraints on the transcription of /et/. The two pseudowords of each pair differed only with regard to their
+final consonants. One pseudo-word
+ended with one
+R
+of the three consonants / /, /l/, and /v/ after
+which ette is frequent in French (e.g., /trav/ or
+/soriv/). The other pseudo-word ended with one of
+the three consonants /b/, /f/, and /t/ after which
+ette is infrequent in French (e.g., /trat/ or/ sorit/). A
+diminutive corresponding to each of these 12 pseudo-words was elaborated by adding /et/ after the
+final consonant of those pseudo-words. For example,
+the diminutive /sorivet/ was composed from the
+stem /soriv/ followed by the suffix
+R /et/. Each of the
+six final endings /bet/, /fet/, / et/, /let/, /tet/,
+and /vet/ occurred at the end of one bisyllabic
+CCVCVC pseudo-word (e.g., /travet/ or /tratet/)
+and at the end of one trisyllabic CVCVCV pseudoword (e.g., /sorivet/ or /soritet/). Hereafter, pseudo-words in which /et/ followed a consonant after
+which /et/ is frequently transcribed ette in French
+are labeled ETTE frequent. Those in which /et/ followed a consonant after which /et/ is rarely transcribed ette in French are labeled ETTE rare.
+Two lists were made. The first list included the 12
+pseudo-words ending with /o/ preceded by the
+masculine indefinite article un (e.g., un /vitaro/) and
+the 12 pseudo-words ending with /et/ preceded by
+the feminine indefinite article une (e.g., une /sorivet/)
+put in a random order. In the second list, each of the
+24 pseudo-words of the first list was embedded
+within a sentence such as ‘‘un petit /vitar/ est un
+/vitaro/’’ (‘‘a little /vitar/ is a /vitaro/’’) or ‘‘une
+petite /soriv/ est une /sorivet/’’ (‘‘a little /soriv/ is
+a /sorivet/’’), which provided information about the
+morphological structure of the pseudo-word (i.e., a
+stem followed by the diminutive suffix /o/ or /et/).
+The 24 items of both lists were audiotaped using a
+tape recorder.
+Procedure. The experiment included two sessions
+separated by a 1-week interval. Children were told
+that the experimenter had made up new words that
+no one had ever seen or heard and that their task
+consisted in writing these ‘‘new words.’’ In the two
+conditions (G condition and GM condition), children
+had to spell the pseudo-word preceded by the indefinite article un or une, but although the first list
+
+329
+
+was called out in the G condition, the second list was
+provided in the GM condition. For example, participants were asked to write ‘‘a /vitaro/’’ in the two
+conditions but heard ‘‘a /vitaro/’’ in the G condition
+and ‘‘a little /vitar/ is a /vitaro/’’ in the GM condition. For each grade level, half of the participants
+undertook the G condition in the first session and the
+GM condition in the second session (G – GM groups).
+The other half performed the experiment in the reverse order, that is, the GM condition in the first
+session and the G condition in the second session
+(GM – G groups).
+Note that the GM condition after the G condition
+seems more appropriate than the G condition after
+the GM condition to assess the influence of morphological information on children’s spelling. Indeed, the question concerns the potential impact of
+providing participants with morphological information (which is the case for the G – GM group)
+rather than depriving them of this information
+(which is the case in the GM – G group). However, a
+potential problem with the G then GM order is that
+children’s spelling could be influenced by graphotactic constraints in the GM condition because they
+could try to spell the pseudo-words as they had
+written them in the previous G condition, whereas
+this effect would not be observed if the GM condition
+has been conducted first. Although asking some
+children to perform the sole GM condition would
+have been enough, the children of the GM – G group
+performed the G condition after the GM condition so
+that the order of the G and GM conditions was
+completely counterbalanced in Study 1.
+Results
+Because the material has been elaborated to assess
+the impact of the graphotactic and morphological
+constraints on the use of eau (to transcribe /o/) and
+ette (to transcribe /et/), we focused on children’s use
+of those spellings. However, it is interesting to note
+that as early as second grade, /o/ and /et/ were
+transcribed with a wide range of written forms. For
+example, 35 second-grade children transcribed /o/
+in at least three different ways and 5 second-grade
+children used only two different ways. Phonologically incorrect transcriptions of [consonant1/o/]
+and [consonant1/et/] endings (e.g., vitavo or vitaveau for /vitafo/) as well as phonologically plausible
+spellings of /fo/ and /fet/ endings in which /f/ was
+spelled ph instead of f were left out. This excludes
+3.0% of the spelling of pseudo-words ending in /o/
+and 4.1% of the spelling of pseudo-words ending
+in /et/.
+
+330
+
+Pacton, Fayol, and Perruchet
+
+We first report the results for the pseudo-words
+ending in /o/, then those for the pseudo-words ending in /et/. For each type of pseudo-words, analyses
+of variance (ANOVAs) were conducted to determine
+when and how the graphotactic and morphological
+constraints influenced children’s spelling, and how
+the integration of these two constraints evolves
+across grades. The proportion of /o/ transcribed eau
+and the proportion of /et/ transcribed ette were
+separately submitted to a 3 (grade: second, third,
+and fifth)  2 (order: G – GM vs. GM – G)  2 (morphological constraints: G condition vs. GM condition)  2 (graphotactic constraints: EAU never vs.
+EAU frequent; ETTE rare vs. ETTE frequent) ANOVA with repeated measures on the last two variables
+for analyses taking participants as a random variable
+(i.e., F1). For analyses on items (i.e., F2), the proportion of eau and the proportion of ette were separately submitted to a 2 (graphotactic constraints)  2
+(morphological constraints)  3 (grade)  2 (order)
+ANOVA with repeated measures on the last two
+variables. Table 2 gives the proportion of /o/ transcribed eau and the proportion of /et/ transcribed
+ette as a function of graphotactic constraints, morphological constraints, and grades for the G – GM
+group and GM – G group.
+Pseudo-words ending in /o/. The main effect of
+grade was marginally significant by participants,
+F1(2, 114) 5 2.8, p 5 .057, and was significant by
+items, F2(2, 20) 5 16.6, po.001. Planned comparisons
+indicated that eau was more often used in fifth grade
+than in second and third grades, F1(1, 114) 5 5.8,
+p 5 0.2; F2(1, 10) 5 19.9, p 5 .001. There was a main
+effect of the graphotactic constraints, with EAU frequent pseudo-words more often spelled with eau
+than EAU never pseudo-words (32.8% vs. 15.4%),
+F1(1, 114) 5 89.0, po.001; F2(1, 10) 5 36.1, po.001.
+The main effect of morphological constraints was
+also significant, revealing a greater use of eau in the
+GM condition than in the G condition, F1(1,
+114) 5 17.6, po.001; F2(1, 10) 5 67.9, po.001.
+The morphological constraints by grade interaction, F1(2, 114) 5 8.4, po.001; F2(2, 20) 5 44, po.001,
+reflected that more use of eau in the GM condition
+than in the G condition increased with grades (averaged on the order: 0.6% in second grade, 3.8% in
+third grade, and 16.3% in fifth grade). The second
+interaction resulted from the fact that eau was more
+frequently used in the GM condition than in the
+G condition in the two groups, but the difference
+between the G and GM conditions was more pronounced for the G – GM group (29.7% vs. 19.5%),
+F1(1, 57) 5 14.3, po.001; F2(1, 10) 5 58.4, po.001,
+than for the GM – G group (25.5% vs. 21.9%),
+
+Table 2
+Mean Percentages of /o/ Transcribed eau (Top Panel) and of /et/ Transcribed ette (Bottom Panel) as a Function of Morphological Constraints
+(G Condition vs. GM Condition), Graphotactic Constraints (EAU Never
+vs. EAU Frequent; ETTE Rare vs. ETTE Frequent), Grade Level, and
+Order (G – GM Group vs. GM – G Group): Study 1
+
+G condition
+
+Order
+G – GM
+
+Grade
+2
+3
+5
+
+GM – G
+
+2
+3
+5
+
+G – GM
+
+2
+3
+5
+
+GM – G
+
+2
+3
+5
+
+GM condition
+
+EAU
+never
+
+EAU
+frequent
+
+EAU
+never
+
+EAU
+frequent
+
+13.3
+(14.9)
+7.5
+(15.7)
+13.3
+(19.2)
+16.7
+(14.3)
+10.8
+(15.6)
+12.9
+(24.4)
+
+27.5
+(27.7)
+22.5
+(31.7)
+32.5
+(35.7)
+26.7
+(17.4)
+31.7
+(35.0)
+32.6
+(36.8)
+
+11.7
+(15.4)
+12.5
+(22.9)
+34.3
+(26.6)
+16.7
+(15.3)
+15.0
+(24.7)
+20.3
+(26.7)
+
+31.7
+(29.1)
+29.2
+(31.5)
+58.7
+(39.0)
+31.7
+(20.2)
+30.8
+(30.2)
+43.4
+(42.0)
+
+ETTE
+rare
+37.5
+(30.0)
+35.2
+(32.5)
+55.5
+(36.3)
+40.0
+(20.5)
+34.2
+(28.3)
+58.0
+(34.7)
+
+ETTE
+frequent
+74.2
+(28.9)
+55.8
+(42.0)
+87.5
+(20.1)
+65.0
+(29.6)
+70.8
+(23.5)
+88.2
+(23.7)
+
+ETTE
+rare
+45.8
+(31.0)
+39.3
+(34.2)
+65.3
+(36.8)
+55.8
+(28.8)
+49.2
+(29.4)
+72.7
+(31.4)
+
+ETTE
+frequent
+81.7
+(23.5)
+67.5
+(39.2)
+95.7
+(7.7)
+70.8
+(27.0)
+75.0
+(18.3)
+97.2
+(7.0)
+
+Note. Standard deviations are in parentheses. G 5 only graphotactic constraints; GM 5 graphotactic and morpological constraints.
+
+F1(1, 57) 5 3.6, p 5 .06; F2(1, 10) 5 7.1, p 5 .02. We
+examined the morphological constraints effect at
+each grade level separately for the G – GM and GM –
+G groups. Indeed, although the order of the G and
+GM conditions was counterbalanced in this study,
+the main interest with regard to the use of morphological information concerned the performance of
+the G – GM group. For the G – GM group, significant
+effects of the derivational morphology were observed in third grade (15.8%), F1(1, 19) 5 5.6, p 5 .03;
+F2(1, 10) 5 7.8, p 5 .01, and in fifth grade (123.3%),
+F1(1, 19) 5 14.9, p 5 .001; F2(1, 10) 5 83.5, po.001. For
+the GM – G group, eau was used significantly more
+often in the GM than in the G condition only in fifth
+
+Children’s Implicit Learning
+
+grade (18.8%), F1(1, 19) 5 4.2, p 5 .05; F2(1, 10) 5 16.9,
+p 5 .002.
+We now address the question of the integration of
+the graphotactic and morphological constraints,
+which is central to our study because it is on this
+aspect that ruled-based and statistical accounts of
+implicit learning lead to diverging predictions. Neither the Graphotactic Constraints  Morphological
+Constraints interaction nor the Graphotactic Constraints  Morphological Constraints  Grade interaction were significant, Fso1. This means that the
+impact of the graphotactic constraints did not differ
+significantly according to whether pseudo-words
+were spelled in the G condition or in the GM condition and that this effect was stable across grades.
+ANOVAs conducted for the sole GM condition confirmed that the use of eau varied according to
+graphotactic regularities in this condition for the G –
+GM group, F1(1, 57) 5 37.2, po.001; F2(1, 10) 5 15.5,
+p 5 .003, and for the GM – G group, F1(1, 57) 5 45.7,
+po.001; F2(1, 10) 5 32.8, po.001, in a stable way
+across grades (no Grade  Graphotactic Constraints
+interaction for the two groups, Fso1).
+Pseudo-words ending in /et/. There was a main effect of grade, F1(2, 114) 5 11.8, po.001; F2(2,
+20) 5 52.3, po.001, with more ette in fifth grade
+than in second and third grades, F1(1, 114) 5 22.5,
+po.001; F2(1, 10) 5 87.3, po.001, Fso1. There was a
+main effect of the graphotactic constraints, with
+ETTE frequent pseudo-words more often spelled
+with ette than were ETTE rare pseudo-words (77.4%
+vs. 49.1%), F1(1, 114) 5 145.2, po.001; F2(1,
+10) 5 39.1, po.001. Children’s spellings were also
+influenced by morphological constraints, with /et/
+more often spelled ette in the GM condition than in
+the G condition (68.0% vs. 58.5%), F1(1, 114) 5 32.3,
+po.001; F2(1, 10) 5 30.3, po.001. This effect was
+significant in the three grades (7.9% in second grade,
+8.0% in third grade, and 9.0% in fifth grade, all
+Fs45.5, pso.04).
+The Order  Graphotactic Constraints  Morphological Constraints interaction was significant by
+participants only, F1(1, 114) 5 4.8, p 5 .03; F2(1,
+10) 5 3.3, p 5 .1. This interaction reflected the fact
+that the magnitude of the graphotactic constraints
+effect in the GM condition was higher for the G – GM
+group (31.4%) than for the GM – G group (21.7%),
+whereas the magnitude of the graphotactic constraints effect in the G condition did not differ between the G – GM group (29.8%) and the GM – G
+group (30.6%). Beyond this difference, the important
+result was the existence of a significant graphotactic
+constraints effect in the GM condition for the G – GM
+group, F1(1, 57) 5 37.2, po.001; F2(1, 10) 5 15.5,
+
+331
+
+p 5 .003, and for the GM – G group, F1(1, 57) 5 66.8,
+po.001; F2(1, 10) 5 50, po.001. Furthermore, this
+effect was stable across grades in the two groups (no
+Grade  Graphotactic Constraints interactions in the
+GM condition for the two groups, Fso1).
+Discussion
+From the third grade onward, eau was used more
+often in the GM condition than in the G condition, at
+least for the G – GM group. As early as second grade,
+in the G – GM and GM – G groups, ette was used
+more often in the GM condition than in the G condition. We reasoned that greater use of eau and ette in
+the GM condition than in the G condition would
+reveal the impact of morphology on children’s
+spelling, and this is the result we obtained. However,
+as the crucial comparison was between the writing of
+the same pseudo-words in isolation and within a
+sentence, one may argue that the difference observed
+between the G and GM conditions reflects some influence of the sentence independent of the specific
+information provided by the diminutive suffix. For
+instance, the sentence emphasizes the possibility of
+decomposing the pseudo-words into parts. This may
+prompt children to isolate the suffix and to deal with
+it as an individual chunk. This could modify its
+spelling irrespective of whether the morphological
+information about diminutiveness has been influential. This hypothesis was explored in Study 2. Study
+2 showed that this alternative failed to account for
+the higher use of eau and ette in the GM condition
+than in the G condition in Study 1.
+Children’s transcriptions of /o/ and /et/ further
+varied according to their preceding consonants in
+both the G and the GM conditions. This result extends previous studies in which the impact of the
+graphotactic regularities was explored as a separate
+issue (e.g., Cassar & Treiman, 1997; Nation, 1997;
+Pacton, Fayol, & Perruchet, 1999; Treiman, 1993) by
+showing that sensitivity to orthographic frequency
+patterns still influences children’s spelling when
+they can rely on a simple, morphology-based rule.
+The size of the graphotactic constraints effect in the
+GM condition was stable across grades in the two
+groups. Thus, the existence of a graphotactic constraints effect in the GM condition for the G – GM
+group could not be explained by children’s tendency
+to spell the pseudo-words as they did in the former
+G condition. Because a rule-governed behavior
+should no longer be influenced by whether the material is more or less familiar (e.g., Anderson, 1993;
+Manza & Reber, 1997; Whittlesea & Dorken, 1997),
+the impact of the graphotactic constraints in the GM
+
+332
+
+Pacton, Fayol, and Perruchet
+
+condition indicates that children did not rely on
+morphological rules such as ‘‘if /et/ corresponds to a
+diminutive suffix, then /et/ is spelled ette’’ even after 5 years of exposure to print. It could nevertheless
+be argued that the oldest group in Study 1 consisted
+of fifth graders, and that 5 years of exposure to print
+could be insufficient to pick up a general rule. The
+aim of Study 3 was to assess whether the spelling of
+pseudo-words by French adults was influenced by
+graphotactic regularities when the context provided
+them with clear cues for relying on morphological
+rules specifying how to spell the diminutive suffixes
+/o/ and /et/.
+Study 2
+In Study 1, eau and ette, the correct transcriptions of
+/o/ and /et/ when they correspond to diminutive
+suffixes, were more often used in the GM condition
+than in the G condition. Because pseudo-words were
+dictated in isolation in the G condition and embedded within a sentence triggering the individualization of the suffix in the GM condition, the departure
+between the two conditions could result from this
+difference rather than from the information provided
+about diminutiveness by the suffix. Study 2 explores
+whether such an alternative explanation can account
+for the results that we interpreted as evidence for the
+impact of morphology on children’s spelling in
+Study 1. After a G condition similar to the one used
+in Study 1, in which participants heard ‘‘a /vitaro/’’
+or ‘‘a /sorivet/,’’ participants heard sentences such
+as ‘‘a tall /vitar/ is a /vitaro/’’ or ‘‘a tall /soriv/ is a
+/sorivet/.’’ Thus, in this situation, the stem was also
+presented in isolation (/vitar /, /soriv/) and within
+a pseudo-word (/vitaro/, /sorivet/) and the information provided by the sentence also concerned the
+height. If the higher use of eau and ette in the GM
+condition than in the G condition in Study 1 only
+resulted from embedding pseudo-words within a
+sentence triggering the individualization of /o/ and
+/et/, the use of eau and ette should also increase from
+the isolation condition to the sentence condition in
+Study 2. By contrast, if the higher use of eau and ette
+in the GM condition than in the G condition in Study
+1 reflects the impact of the morphological information about diminutiveness on children’s spelling, eau
+and ette should not be used differently in the isolation and sentence conditions in Study 2.
+Method
+Participants. We tested 20 (13 females, 7 males)
+third-grade children (M age 5 9 years 1 month,
+SD 5 3.9 months) and 20 (10 females, 10 males) fifth-
+
+grade children (M age 5 10 years 9 months, SD 5 4.2
+months). Children were recruited from a French
+primary school located in an area of average socioeconomic status in Dijon. The 40 children met the
+following criteria: (a) parental permission, (b) French
+as native language, and (c) no language problems
+according to their teachers.
+Stimuli. The pseudo-words used in Study 1 were
+used again in Study 2. The first list was identical to
+the one used in Study 1, with the 12 pseudo-words
+ending with /o/ preceded by the masculine indefinite article un (e.g., un /vitaro/) and the 12 pseudowords ending with /et/ preceded by the feminine
+indefinite article une (e.g., une /kalalet/) put in a
+random order. In the second list, each of the 24
+pseudo-words was embedded within a sentence such
+as ‘‘un grand /vitar/ est un /vitaro/’’ (‘‘a tall /vitar/
+is a /vitaro/’’) or ‘‘une grande /soriv/ est une /sorivet/’’ (‘‘a tall /kalal/ is a /sorivet/’’). The 24 items
+of both lists were audiotaped using a tape recorder.
+Procedure. The experiment included two sessions
+separated by a 1-week interval. Children were told
+that the experimenter had made up new words that
+no one had ever seen or heard before and that their
+task consisted in writing these ‘‘new words.’’ Children had to spell the same pseudo-words preceded
+by the indefinite article un or une in the two conditions but, whereas the first list was called out in the
+first isolation condition, the second list was provided
+in the sentence condition.
+Results
+Leaving out phonologically incorrect transcriptions of [consonant1/o/] and [consonant1/et/]
+endings (e.g., vitavo /vitafo/) excludes 0.5% of the
+spelling of pseudo-words ending in /o/ and 2.1% of
+the spelling of pseudo-words ending in /et/. The
+proportion of /o/ transcribed eau and the proportion
+of /et/ transcribed ette were separately submitted to
+a 2 (grade: third vs. fifth)  2 (graphotactic constraints: EAU never vs. EAU frequent; ETTE rare vs.
+ETTE frequent)  2 (condition: isolation vs. sentence) ANOVA with repeated measures on the last
+two variables for analyses taking participants as a
+random factor (i.e., F1). For analyses on items (i.e.,
+F2), the proportion of /o/ transcribed eau and the
+proportion of /et/ transcribed ette were separately
+submitted to a 2 (graphotactic constraints)  2 (condition)  2 (grade) ANOVA with repeated measures
+on the last two variables. Table 3 gives the proportion
+of /o/ transcribed eau and the proportion of /et/
+transcribed ette according to graphotactic constraints
+in the isolation and sentence conditions.
+
+Children’s Implicit Learning
+Table 3
+Mean Percentages of /o/ Transcribed eau (Top Panel) and of /et/ Transcribed ette (Bottom Panel) as a Function of Conditions (Isolation vs.
+Sentence), Graphotactic Constraints (EAU Never vs. EAU Frequent;
+ETTE Frequent vs.ETTE Rare), and Grade Level: Study 2
+Isolation condition
+
+Grade
+3
+5
+
+3
+5
+
+Sentence condition
+
+EAU
+never
+
+EAU
+frequent
+
+EAU
+never
+
+EAU
+frequent
+
+11.7
+(12.2)
+12.0
+(17.4)
+
+30.8
+(21.8)
+33.0
+(27.9)
+
+9.2
+(10.1)
+15.0
+(15.7)
+
+35.0
+(22.9)
+36.0
+(24.1)
+
+ETTE
+rare
+41.7
+(34.0)
+59.5
+(35.3)
+
+ETTE
+frequent
+65.8
+(35.2)
+91.0
+(18.3)
+
+ETTE
+rare
+36.7
+(32.7)
+61.0
+(36.4)
+
+ETTE
+frequent
+67.5
+(28.9)
+88.0
+(24.8)
+
+Note. Standard deviations are in parentheses.
+
+With regard to pseudo-words ending in /o/, as in
+Study 1, /o/ was more often spelled eau for EAU
+frequent pseudo-words (33.7%) than for EAU never
+pseudo-words (12.0%), F1(1, 38) 5 55.4, po.001; F2(1,
+10) 5 45.7, po.001. However, contrary to Study 1, the
+proportion of eau did not differ significantly according to whether pseudo-words were written in
+isolation (21.8%) or embedded within sentences
+(23.8%), Fso1. Neither the grade level effect nor the
+four interactions were significant, Fso1.
+With regard to pseudo-words ending in /et/,
+fifth-grade children used ette more often than did
+third-grade children (78.1% vs. 49.7%), F1(1, 38) 5
+6.6, p 5 .014; F2(1, 10) 5 31.6, po.001. As in Study 1,
+/et/ was more often spelled ette for ETTE frequent
+pseudo-words (78.1%) than for ETTE rare pseudowords (49.7%), F1(1, 19) 5 52.0, po.001; F2(1, 10) 5
+49.5, po.001. However, contrary to Study 1, the proportion of ette did not differ significantly according
+to whether pseudo-words were written in isolation
+(64.5%) or embedded within sentences (63.3%), Fso1.
+The four interactions were not significant, Fso1.
+Discussion
+Study 2 confirmed the influence of graphotactic
+regularities on children’s transcription of /o/ and
+/et/ found in Study 1. The major result of Study 2,
+however, was that eau and ette were not used differently according to whether pseudo-words were
+dictated in isolation or within sentences. This lack of
+difference between the isolation and sentence con-
+
+333
+
+ditions in Study 2 shows that the increasing use of
+eau and ette from the G condition to the GM condition in Study 1 could not be attributed to a byproduct of embedding pseudo-words within sentences but, on the contrary, did reflect the influence
+of derivational morphology on children’s spelling.
+Study 3
+In Study 1, children’s spellings were influenced by
+morphological information and by graphotactic
+regularities when no morphological rule could be
+applied (G condition) but also in conditions triggering the application of the morphological rule (GM
+condition). The impact of the graphotactic constraints in the GM condition, which remained stable
+across grades, indicated that children did not systematically rely on morphological rules such as ‘‘if
+/et/ corresponds to a diminutive suffix, then /et/ is
+spelled ette’’ after 5 years of exposure to print. Because 5 years of exposure to print may not be enough
+to pick up the morphological rules exploited in the
+present study, Study 3 explored whether graphotactic constraints still influenced adults’ spellings in the
+GM condition.
+Method
+Participants. Participants were 60 (52 females, 8
+males) students from a 1st-year psychology course
+(M age 5 19 years 1 month, range 5 17 years 11
+months to 23 years 6 months). All participants were
+French native speakers.
+Stimuli. The stimuli used in Study 3 were exactly
+the same as those used in Study 1.
+Procedure. The same procedure was used in
+Studies 1 and 3, except that although the same participants practiced the G and GM conditions in Study
+1, participants were assigned either to the G condition (30 participants) or to the GM condition (30
+participants) in Study 3. In Study 1, a within-subject
+design was used to ensure that the difference between the G and GM conditions reflected the influence of morphology on children’s spellings rather
+than participant groups. A between-subject design
+was used in Study 3, which was primarily aimed at
+assessing whether there was still an impact of
+graphotactic regularities in conditions triggering the
+application of the morphological rule (GM condition) in an adult population.
+Results and Discussion
+Table 4 shows the mean percentages of /o/ transcribed eau and of /et/ transcribed ette as a function
+
+334
+
+Pacton, Fayol, and Perruchet
+
+Table 4
+Mean Percentages of /o/ Transcribed eau and of /et/ Transcribed ette as a
+Function of Morphological Constraints (G Condition vs. GM Condition), Graphotactic Constraints (EAU Never vs. EAU Frequent and
+ETTE Rare vs. ETTE Frequent): Study 3
+/o/ pseudo-words
+
+Condition
+G
+GM
+
+/et/ pseudo-words
+
+EAU
+never
+
+EAU
+frequent
+
+ETTE
+rare
+
+ETTE
+frequent
+
+16.7
+(18.6)
+31.1
+(22.2)
+
+50.6
+(16.7)
+62.8
+(34.7)
+
+51,7
+(32.0)
+69.4
+(29.1)
+
+75.6
+(22.6)
+88.9
+(17.1)
+
+ogy. An interesting characteristic of the French
+written language is that graphotactic constraints
+(that are probabilistic) and morphological constraints (that are describable by an abstract, general
+rule) can be used to guide the transcription of the
+same sound. This allowed us (a) to explore the joint
+influence on children’s spelling of two types of information (morphology and graphotactic regularities) that are usually explored independently and (b)
+to assess whether spelling was driven by rules or
+statistical processes. If rules are actually involved,
+graphotactic regularities should lose their influence
+on spelling when this latter can be determined by
+morphological rules.
+
+Note. Standard deviations are in parentheses. G 5 only graphotactic constraints; GM 5 graphotactic and morpological constraints.
+
+Sensitivity to Graphotactic Regularities
+of graphotactic constraints, morphological constraints, and condition. There were main effects of
+the morphological constraints, with greater use of
+eau in the GM condition (47%) than in the G condition (33.7%), F1(1, 58) 5 6.1, p 5 .016; F2(1, 10) 5 17.0,
+p 5 .002, and likewise more use of ette in the GM
+condition (79.1%) than in the G condition (63.7%),
+F1(1, 58) 5 6.9, p 5 .01; F2(1, 10) 5 20.1, p 5 .001.
+There were also main effects of the graphotactic
+regularities for pseudo-words ending with /o/
+(56.7% vs. 23.9%), F1(1, 58) 5 114.4, po.001; F2(1,
+10) 5 35.5, po.001, and for pseudo-words ending
+with /et/ (82.2% vs. 60.5%), F1(1, 58) 5 114.4,
+po.001; F2(1, 10) 5 35.5, po.001. As for elementary
+school children, there was no interaction between the
+morphological and graphotactic constraints for
+pseudo-words ending in /o/, F1(1, 58) 5 0.1, p 5 .7;
+F2(1, 10) 5 0.1, p 5 .7, and for pseudo-words ending
+in /et/, F1(1, 58) 5 0.5, p 5 .5; F2(1, 10) 5 3.0, p 5 .11.
+Analyses for the sole GM condition confirmed the
+existence of significant graphotactic constraint effects in this condition, for pseudo-words ending in
+/o/, F1(1, 29) 5 39.9, po.001; F2(1, 10) 5 21.3,
+po.001, as well as for pseudo-words ending in /et/,
+F1(1, 29) 5 21.9, po.001; F2(1, 10) 5 5.7, p 5 .04.
+Thus, adults’ spellings were influenced by
+graphotactic constraints even in conditions triggering the application of the morphological rule, as
+were the spellings of the elementary school children
+in Study 1.
+General Discussion
+In the present study, a pseudo-word spelling task
+was used to explore children’s (implicit) learning of
+graphotactic regularities and derivational morphol-
+
+As early as second grade, children used many
+different written forms to transcribe /o/ and /et/.
+We focused on the fact that children’s use of eau and
+ette varied as a function of their preceding consonants. However, their use of spellings other than eau
+and ette also varied as a function of the preceding
+consonants. For example, in the G condition in Study
+1, the fifth graders of the G – GM group spelled /o/
+as aut more often after -f than after -r (7 vs. 2) and
+spelled /et/ as ête more often after -t than after -ch
+(18 vs. 1), which corresponds to the distribution in
+Brulex (Tokens: 7,112 for faut vs. 153 for raut; 65,245
+for tête vs. 0 for chête; Content et al., 1990). Thus, from
+an early age, children did not rely on phonemes and
+graphemes independently of the context (Pacton et
+al., 1999). One possibility is that the size of the
+sound-to-spelling correspondences on which children base their spellings is larger than the phonemegrapheme unit (e.g., Nation, 1997; Nation & Hulme,
+1996). Another possibility is that children rely on
+phonemes and graphemes but that the associations
+are sensitive to context. Children could be sensitive
+to graphotactic regularities, that is, to regularities
+relative to the order of letters. For instance, eau is
+frequently attached to -v but not to -f, independent of
+any regularity at a phonological level. In favor of this
+account, there is empirical evidence of statistical
+learning of the order of visual shapes (e.g., Fiser &
+Aslin, 2002). However, children could also be sensitive to the association between eau and certain
+sounds (e.g., eau is more often associated with /v/
+than with /f/). If this were the case, it would be more
+appropriate to say that children are sensitive to
+phonographotactic regularities. The choice between
+these two accounts calls for further specifically
+devised studies.
+
+Children’s Implicit Learning
+
+Children’s increasing sensitivity to the frequency
+or position of different patterns of the written language to which they are exposed is a further example
+of sensitivity to the distributional features of input,
+which has been reported in humans of all ages. For
+instance, after exposure to a synthesized speech
+stream composed of multisyllabic nonsense words,
+8-month-old infants distinguished word from nonword syllable sequences when the only cues to word
+boundaries were in the distributional or statistical
+properties of the input (Saffran, Newport, & Aslin,
+1996; see Saffran, Johnson, Aslin, & Newport, 1999
+for similar results with streams of tones). In AGL
+studies, adult participants learned the frequency of
+chunks of information, such as two- or three-letter
+groupings (Perruchet & Pacteau, 1990) and their
+position (Reber & Allen, 1978). Sensitivity to statistical regularities in the written language domain
+further strengthens the idea that the development of
+such sensitivity is subtended by general learning
+mechanisms (Bates & Elman, 1996; Christiansen &
+Curtin, 1999; Perruchet & Vinter, 1998; Redington &
+Chater, 1998).
+Sensitivity to Morphological Regularities
+To assess the impact of derivational morphology
+on children’s spelling, we compared children’s use
+of eau and ette (the conventional transcriptions of
+the diminutive suffixes /o/ and /et/) according to
+whether the same pseudo-words were spelled in
+isolation (e.g., ‘‘a /sorivet/,’’ G condition) or embedded within sentences, indicating that pseudo-words
+were composed of a stem followed by a diminutive
+suffix (e.g., ‘‘a little /soriv/ is a /sorivet/,’’ GM
+condition). In Study 1, ette was used more often in
+the GM condition than in the G condition as early as
+second grade. The same effect was observed from
+third grade onward for eau. Embedding the same
+pseudo-words within sentences in which /o/ and
+/et/ were not diminutive suffixes anymore did not
+increase children’s use of eau and ette (Study 2), indicating that the higher use of eau and ette in the GM
+condition than in the G condition in Study 1 was
+linked to the morphological information provided by
+the ‘‘a little’’ context.
+The derivational morphology effect occurred earlier for pseudo-words ending in /et/ (second grade)
+than for pseudo-words ending in /o/ (third grade)
+probably because a larger proportion of words ending in ette are diminutives than are words ending in
+eau. This is true in French in general but more specifically in children’s books. Children may be particularly sensitive to the morphological structure of
+
+335
+
+words ending with the diminutive morpheme ette
+because words such as fille (girl) and fillette (little
+girl) are frequent in their books. Beyond this difference and its potential roots, this study adds to the
+growing body of evidence (e.g., Bryant et al., 2000;
+Pacton, 2001; Treiman et al., 1994; Treiman & Cassar,
+1996) that children use morphological information
+much earlier than is postulated by traditional stage
+models of spelling acquisition (e.g., Frith, 1985;
+Henderson, 1985).
+Integrating Graphotactic and Morphological Constraints
+and the Abstraction Issue
+The crucial comparison was between children’s
+spellings of pseudo-words that can be spelled
+through reliance on the same morphological rule
+(e.g., ‘‘/et/ is transcribed ette when it corresponds to
+a diminutive suffix’’) but that differ in terms of
+graphotactic regularities (e.g., /et/ preceded by a
+consonant after which /et/ is frequently or rarely
+spelled ette). Our reasoning was that if spellers have
+(implicitly) abstracted rules specifying how to transcribe /o/ and /et/ when they correspond to diminutive morphemes, the graphotactic constraints
+effect, expected and observed in the G condition,
+should no longer be observed in the GM condition.
+Although participants took into account the morphological information, as testified by the higher use
+of eau and ette in the GM condition than in the
+G condition, their use of eau and ette varied as a
+function of the graphotactic constraints in the GM
+condition. This happened regardless of whether the
+GM condition followed (G – GM groups) or preceded
+(GM – G groups) the G condition. Furthermore, there
+was no trend toward a reduction in the magnitude
+of the graphotactic regularities impact in the GM
+condition from the second to the fifth grades in
+Study 1, and the impact of the graphotactic regularities was still observed among adult participants
+in Study 3. This echoes Kemp and Bryant’s (2003)
+study in which children and adults correctly used
+-s for plural pseudo-words more often when the final
+/z/ was preceded by a consonant than when it
+was preceded by a long vowel, despite the possibility
+of relying on a rule specifying that plural nouns are
+spelled with -s.
+These results are problematic for rule-based proponents of implicit learning (e.g., Manza & Reber,
+1997). Indeed, according to them, performances on
+implicit learning tasks vary according to the familiarity of the material used to assess participants’
+learning because the test takes place at a point in
+training when the rule-abstraction process is not yet
+
+336
+
+Pacton, Fayol, and Perruchet
+
+fully completed. This account works well in lab
+studies in which training is necessarily restricted.
+However, it no longer applies in natural situations
+involving a massive amount of practice.
+The pervasive impact of the graphotactic constraints in the GM condition, even after massive exposure to print, can be accounted for by a statistical
+perspective in which learning processes can apply to
+features that are abstracted away from their sensory
+content (Perruchet & Vinter, 2002a, 2002b; Redington
+& Chater, 2002). According to this perspective, abstract features such as diminutiveness can become
+associated with features such as ‘‘ends in ette.’’
+Children’s learning of this association would lead
+them to use ette more often when pseudo-words such
+as /vitaret/ are embedded within sentences such as
+‘‘a little /vitar/ is a /vitaret/.’’ Associations between
+other features would also be established. In particular, as words with the final ette preceded by the
+letter -v (or the sound /v/) are far more frequent
+than words with the final ette preceded by the letter -f
+(or the sound /f/), the association between -v and
+ette (or between /v/ and ette) would be stronger than
+the association between -f and ette (or between /f/
+and ette). Therefore, ette would be less often used for
+pseudo-words such as /vitafet/ than for pseudowords such as /vitavet/ in the G and GM conditions.
+Thus, the graphotactic constraints effect persisted in
+the GM condition because even though children
+encountered more words ending with eau and ette in
+which the final /o/ and /et/ stood for diminutive
+suffixes, words in which ette followed the letter -v (or
+the sound /v/) always outnumber words in which
+ette followed the letter -f (or the sound /f/).
+A second account of the results that does not rely
+on abstract rule-based knowledge comes from the
+consideration that pseudo-words are spelled by
+analogy to real words. In this account, the effect of
+graphotactic regularities is due to the fact that the
+consonantal context is certainly a dimension relevant
+for drawing an analogy. For instance, a pseudo-word
+ending in /ret/ will preferentially evoke a word
+ending in /ret/; likewise, a pseudo-word ending in
+/fet/ will preferentially evoke a word ending in
+/fet/. Because a word ending in /ret/ has more
+chance of being spelled ette than a word ending in
+/fet/, the same outcome will be observed for a
+pseudo-word similar on this dimension. However,
+an analogy could also rely on more abstract features,
+such as the notion of diminutiveness, in the same
+way as statistical analysis can take both surface and
+abstract features as primitives. Because a diminutive
+word is spelled ette, the same outcome will be observed for a pseudo-word sharing this feature.
+
+Therefore, this interpretation also accounts for children’s sensitivity to morphological rules. Moreover,
+the fact that the graphotactic constraint effect persists
+in the GM condition finds a natural explanation.
+Indeed, there is no a priori reason to assume that the
+notion of diminutiveness systematically provides a
+better cue for drawing an analogy than the phonological dimension. Thus, our findings may result
+from the fact that analogies could be based on one or
+the other of multiple dimensions, as a function of
+various factors. The choice between this latter account and an interpretation based on the extraction
+of statistical regularities calls for further specially
+devised studies. This kind of alternative is common
+to many domains. Without prejudging a conclusion
+for the specific issue dealt with in this article, it is
+worth noting that studies conducted in other domains have generally concluded that the analogy to
+specific words cannot account for the whole pattern
+of results (e.g., Bailey & Hahn, 2001; Perruchet, 1994).
+A third interpretation of the persistence of the
+graphotactic constraints effect in the diminutive
+condition is that even though the morphological
+units are /o/ and /et/, the association between /o/
+and eau, on the one hand, and between /et/ and ette,
+on the other hand, could be established at level other
+than that of the morpheme. For example, when
+words such as éléphanteau (baby elephant) are encountered in a context in which it is associated with
+the feature of diminutiveness, an association could
+be established between the diminutiveness and /to/
+or teau rather than between the diminutiveness and
+/o/ or eau. According to this account, participants
+would use eau when they are told that a little /klat/
+is a /klato/, but they would be less inclined to use
+eau when they are told that a /klafo/ is a little /klaf/
+because /fo/ does not sound like a diminutive (see
+Kemp & Bryant, 2003, for a similar interpretation).
+Note also one could argue that participants learn
+rules that are specific and idiosyncratic rather than
+general (e.g., /to/ is spelled teau when it is a diminutive suffix). Such an interpretation in terms of
+rules that have limited scope, which would apply or
+not as a function of the context or the familiarity with
+the situation, would account for the graphotactic
+effect observed in the GM condition. However, in so
+doing, it loses what makes rules attractive, namely,
+their propensity to apply in a large number of
+situations irrespective of the participant’s familiarity
+with these situations. If rules apply only in situations where simpler accounts work well, respect of
+the Occam’s razor principle leads us to suggest
+that an abstractionist, rule-based position should be
+discarded.
+
+Children’s Implicit Learning
+
+Conclusion
+In the present study, children’s spellings were
+influenced by graphotactic regularities even in conditions triggering the application of a morphological
+rule. Indeed, children’s and adults’ correct transcription of /o/ and /et/ varied as a function of
+graphotactic regularities despite the possibility of
+relying on simple rules such as ‘‘/et/ is transcribed
+ette when it corresponds to a diminutive.’’ Furthermore, the magnitude of this effect persisted over
+grade levels without any trend toward fading, as
+well as with adults. When coupled with other studies in which children or adults did not rely on morphological rules to spell pseudo-words (Kemp &
+Bryant, 2003; Nunes et al., 1997b) and words (Kemp
+& Bryant, 2003; Pacton & Fayol, 2003), it appears
+difficult to reconcile these data with the idea that
+participants rely on increasingly abstract, rule-based
+knowledge about the regularities contained in the
+material over training. The interesting picture that
+emerges from studies exploring whether children
+acquire implicitly orthographic and morphological
+rules is that similar trends are observed for aspects of
+the written language that are semantically grounded,
+such as inflectional morphology (Kemp & Bryant,
+2003; Nunes et al., 1997b) and derivational morphology (the present study) and for aspects of the
+written language that are not semantically or morphologically grounded (e.g., the legal position of
+double letters; Pacton et al., 2001). The generality of
+this finding needs to be confirmed using other aspects of the written language. Nevertheless, these
+results are interesting because one could have hypothesized that spellers’ orthographic behavior
+would be more likely to be rule directed for semantically grounded aspects of the language.
+These results have significance for spelling acquisition. Many authors (e.g., Lennox & Siegel, 1994;
+Snowling, 1994; Treiman & Cassar, 1997) have emphasized the need to develop theories of spelling
+that do not follow a stage-like framework but that,
+conversely, take into account the relationships between the different sources of information (phonological, morphological, and lexical) that influence
+spelling. For this reason, it is crucial to study simultaneously the impact of different sources of information and their potential interactions. From this
+perspective, an important result of the present study
+is that sensitivity to graphotactic regularities, which
+has already been well documented when explored for
+itself (e.g., Cassar & Treiman, 1997; Pacton et al., 2001),
+still influences the performances of spellers even when
+they can rely on a simple, morphology-based rule.
+
+337
+
+References
+Altmann, G. T. M., Dienes, Z., & Goode, A. (1995). On the
+modality-independence of implicitly learned grammatical knowledge. Journal of Experimental Psychology:
+Learning, Memory, and Cognition, 21, 899 – 912.
+Anderson, J. R. (1993). Rules of mind. Hillsdale, NJ:
+Erlbaum.
+Bailey, T., & Hahn, U. (2001). Determinants of wordlikeness: Phonotactics or lexical neighborhoods? Journal of
+Memory and Language, 44, 568 – 591.
+Bates, E., & Elman, J. (1996). Learning rediscovered. Science, 274, 1849.
+Beers, C. S., & Beers, J. W. (1992). Children’s spelling of
+English inflectional morphology. In S. Templeton & D. R.
+Bear (Eds.), Development of orthographic knowledge and
+the foundations of literacy (pp. 231 – 251). Hillsdale, NJ:
+Erlbaum.
+Berry, D. C., & Dienes, Z. (1993). Implicit learning: Theoretical
+and empirical issues. Hillsdale, NJ: Erlbaum.
+Bryant, P., Nunes, T., & Snaith, R. (2000). Children learn an
+untaught rule of spelling. Nature, 13, 157 – 158.
+Cassar, M., & Treiman, R. (1997). The beginnings of orthographic knowledge: Children’s knowledge of double
+letters in words. Journal of Educational Psychology, 89,
+631 – 644.
+Catach, N. (1986). L’orthographe française. Paris: Nathan.
+Christiansen, M. H., & Curtin, S. L. (1999). Transfer of
+learning: Rule acquisition or statistical learning? Trends
+in Cognitive Sciences, 3, 289 – 290.
+Cleeremans, A., Destrebecqz, A., & Boyer, M. (1998). Implicit learning: News from the front. Trends in Cognitive
+Sciences, 2, 406 – 416.
+Content, A., Mousty, P., & Radeau, M. (1990). Brulex. Une
+base de données lexicales informatisée pour le Français
+écrit et parlé. Année Psychologique, 90, 551 – 566.
+Dienes, Z., & Altmann, G. T. M. (1997). Transfer of implicit
+knowledge across domains: How implicit and how abstract? In D. C. Berry (Ed.), How implicit is implicit
+learning? (pp. 107 – 123). Oxford, England: Oxford University Press.
+Fiser, J., & Aslin, R. N. (2002). Statistical learning of higherorder temporal structure from visual shape-sequences.
+Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 28, 458 – 467.
+Frith, U. (1985). Beneath the surface of developmental
+dyslexia. In K. E. Patterson, J. C. Marshall, & M. Coltheart (Eds.), Surface dyslexia: Neuropsychological and cognitive studies of phonological reading (pp. 301 – 330).
+London: Routledge & Kegan Paul.
+Gomez, R. L. (1997). Transfer and complexity in
+artificial grammar learning. Cognitive Psychology, 33,
+154 – 207.
+Gomez, R. L., & Gerken, L. A. (2000). Infant artificial language learning and language acquisition. Trends in
+Cognitive Sciences, 4, 178 – 184.
+Gomez, R. L., Gerken, L., & Schvaneveldt, R. W. (2000). The
+basis of transfer in artificial grammar learning. Memory
+& Cognition, 28, 253 – 263.
+
+338
+
+Pacton, Fayol, and Perruchet
+
+Henderson, L. (1985). Teaching spelling. Boston: Houghton
+Mifflin.
+Jaffré, J. P., & Fayol, M. (1997). Orthographe: Des systèmes aux
+usages. Paris: Flammarion.
+Kemp, N., & Bryant, P. (2003). Do beez buzz? Rule-based
+and frequency-based knowledge in learning to spell
+plural -s. Child Development, 74, 63 – 74.
+Knowlton, B. J., & Squire, L. R. (1996). Artificial grammar
+learning depends on implicit acquisition of abstract and
+exemplar-specific information. Journal of Experimental
+Psychology: Learning, Memory and Cognition, 22, 169 – 181.
+Lennox, C., & Siegel, L. S. (1994). The role of phonological
+and orthographic processes in learning to spell. In G. D.
+A. Brown & N. Ellis (Eds.), Handbook of spelling: Theory,
+process and intervention (pp. 93 – 109). Chichester, England: Wiley.
+Manza, L., & Reber., A. S. (1997). Representing artificial
+grammar: Transfer across stimulus forms and modalities. In D. C. Berry (Ed.), How implicit is implicit learning?
+(pp. 73 – 106). Oxford, England: Oxford University Press.
+Michas, I., & Berry, D. C. (1994). Implicit and explicit
+processes in a second language learning task. European
+Journal of Cognitive Psychology, 6, 357 – 381.
+Nation, K. (1997). Children’s sensitivity to rime unit frequency when spelling words and nonwords. Reading and
+Writing, 9, 321 – 338.
+Nation, K., & Hulme, C. (1996). The automatic activation of
+sound-letter knowledge: An alternative interpretation of
+analogy and priming effects in early spelling development. Journal of Experimental Child Psychology, 63,
+416 – 435.
+Nunes, T., Bryant, P., & Bindman, M. (1997a). Morphological spelling strategies: Developmental stages and
+processes. Developmental Psychology, 33, 637 – 649.
+Nunes, T., Bryant, P., & Bindman, M. (1997b). Learning to
+spell regular and irregular verbs. Reading and Writing, 9,
+427 – 449.
+Pacton, S. (2001). Children’s linguistic awareness and spelling:
+The case of derivational morphology. Congress of the European Society for Cognitive Psychology, Edinburg,
+Scotland.
+Pacton, S., & Fayol, M. (2003). How do French children use
+morphosyntactic information when they spell adverbs
+and present participles? Scientific Studies of Reading, 7,
+273 – 287.
+Pacton, S., Fayol, M., & Perruchet, P. (1999). L’apprentissage de l’orthographe lexicale: le cas des régularités.
+Langue Française, 124, 23 – 39.
+Pacton, S., Perruchet, P., Fayol, M., & Cleeremans, A.
+(2001). Implicit learning out of the lab: The case of orthographic regularities. Journal of Experimental Psychology: General, 130, 401 – 426.
+Perruchet, P. (1994). Defining the knowledge units of a
+synthetic language: Comment on Vokey and Brooks
+(1992). Journal of Experimental Psychology: Learning,
+Memory, and Cognition, 20, 223 – 228.
+Perruchet, P., & Pacteau, C. (1990). Synthetic grammar
+learning: Implicit rule abstraction or explicit fragmen-
+
+tary knowledge? Journal of Experimental Psychology:
+General, 119, 264 – 275.
+Perruchet, P., & Vinter, A. (1998). PARSER: A model for
+word segmentation. Journal of Memory and Language, 39,
+246 – 263.
+Perruchet, P., & Vinter, A. (2002a). The self-organizing
+consciousness (target paper). Behavioral and Brain Sciences, 25, 297 – 330.
+Perruchet, P., & Vinter, A. (2002b). The self-organizing
+consciousness: A framework for implicit learning. In R.
+M. French & A. Cleeremans (Eds.), Implicit learning and
+consciousness: An empirical, philosophical, and computational consensus in the making (pp. 41 – 67). London: Psychology Press.
+Reber, A. S. (1967). Implicit learning of artificial grammars.
+Journal of Verbal Learning and Verbal Behavior, 6,
+855 – 863.
+Reber, A. S. (1993). Implicit learning and tacit knowledge: An
+essay on the cognitive unconsciousness. New York: Oxford
+University Press.
+Reber, A. S., & Allen, R. (1978). Analogic and abstraction
+strategies in synthetic grammar learning. Cognition, 6,
+189 – 221.
+Redington, M., & Chater, N. (1996). Transfer in artificial
+grammar learning: A re-evaluation. Journal of Experimental Psychology: General, 125, 123 – 138.
+Redington, M., & Chater, N. (1998). Connectionist and
+statistical approaches to language acquisition: A distributional perspective. Language and Cognitive Processes,
+13, 129 – 191.
+Redington, M., & Chater, N. (2002). Knowledge representation and transfer in artificial grammar learning (AGL).
+In R. M. French & A. Cleeremans (Eds.), Implicit learning
+and consciousness: An empirical, philosophical, and computational consensus in the making (pp. 121 – 143). London:
+Psychology Press.
+Saffran, J. R., Johnson, E. K., Aslin, R. N., & Newport, E. L.
+(1999). Statistical learning of tone sequences by human
+infants and adults. Cognition, 70, 27 – 52.
+Saffran, J. R., Newport, E. L., & Aslin, R. N. (1996). Word
+segmentation: The role of distributional cues. Journal of
+Memory and Language, 35, 606 – 621.
+Shanks, D. R., Johnstone, T., & Staggs, L. (1997). Abstraction processes in artificial grammar learning. Quarterly
+Journal of Experimental Psychology, 50A, 216 – 252.
+Smith, E. E., Langston, C., & Nisbett, R. E. (1992). The
+case for rules in reasoning. Cognitive Science, 16,
+1 – 40.
+Snowling, M. (1994). Towards a model of spelling acquisition: The development of some component skills. In
+G. D. A. Brown & N. Ellis (Eds.), Handbook of spelling:
+Theory, process and intervention (pp. 111 – 128). Chichester,
+England: Wiley.
+Tillmann, B., Bharucha, J., & Bigand, E. (2000). Implicit
+learning of tonality: A self-organizing approach. Psychological Review, 107, 885 – 913.
+Totereau, C., Barrouillet, P., & Fayol, M. (1998). Overgeneralizations of number inflections in the learning of
+
+Children’s Implicit Learning
+written French: The case of noun and verb. British Journal of Developmental Psychology, 16, 447 – 464.
+Treiman, R. (1993). Beginning to spell: A study of first-grade
+children. New York: Oxford University Press.
+Treiman, R., & Cassar, M. (1996). Effects of morphology on
+children’s spelling of final consonant clusters. Journal of
+Experimental Child Psychology, 63, 141 – 170.
+Treiman, R., & Cassar, M. (1997). Spelling acquisition in
+English. In C. A. Perfetti, L. Rieben, & M. Fayol (Eds.),
+Learning to spell: Research, theory, and practice across languages (pp. 61 – 80). Mahwah, NJ: Erlbaum.
+Treiman, R., Cassar, M., & Zukowski, A. (1994). What types
+of lingustic information do children use in spelling? The
+Case of flaps. Child Development, 65, 1310 – 1329.
+Tunney, R. J., & Altmann, G. T. M. (1999). The transfer effect in artificial grammar learning: Re-appraising the
+evidence on the transfer of sequential dependencies.
+Journal of Experimental Psychology: Learning, Memory, &
+Cognition, 25, 1322 – 1333.
+
+339
+
+Whittlesea, B. W. A., & Dorken, M. D. (1997). Implicit
+learning: Indirect, not unconscious. Psychonomic Bulletin
+and Review, 4, 63 – 67.
+Whittlesea, B. W. A., & Wright, R. L. (1997). Implicit (and
+explicit) learning: Acting adaptively without knowing
+the consequences. Journal of Experimental Psychology:
+Learning, Memory and Cognition, 23, 181 – 200.
+
+Endnote
+1
+
+The written forms eau and ette do not always correspond to diminutives in French. For instance, the words
+rateau (rake) and crevette (shrimp) end, respectively, by eau
+and ette but are monomorphemic words. There is one exception to the rule of formation of the diminutive /o/: in
+the word chiot (pup); the diminutive suffix /o/ is not
+transcribed eau but ot. However, the word chiot does not
+end like the other words, that is, with a consonant sound
+followed by /o/ but by a vowel sound followed by /o/.
+
+

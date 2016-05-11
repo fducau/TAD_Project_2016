@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>4afee6ce1e3b8ac3e99f614066b4ac1be100249ce793c8f2e2ec9b32b8969938</job>
+    <base_name>16</base_name>
+    <doi>http://dx.doi.org/10.1111/j.1467-9280.2008.02085.x</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">PS YC HOLOGICA L SC IENCE</outsider>
+      <region class="unknown" id="2">Research Report</region>
+      <title-group>
+        <article-title class="DoCO:Title" id="3">What Do Cross-National Comparisons of Personality Traits Tell Us?</article-title>
+      </title-group>
+      <region class="unknown" id="4">The Case of Conscientiousness Steven J. Heine, Emma E. Buchtel, and Ara Norenzayan University of British Columbia</region>
+      <abstract class="DoCO:Abstract" id="5">ABSTRACT— Much research contrasts self-reported personality traits across cultures. We submit that this enter- prise is weakened by significant methodological problems (in particular, the reference-group effect) that undermine the validity of national averages of personality scores. In this study, behavioral and demographic predictors of conscientiousness were correlated with different cross-national measures of conscientiousness based on self-reports, peer reports, and perceptions of national character. The predictors correlated strongly with perceptions of national character, but not with self-reports and peer reports. Country-level self- and peer-report measures of conscientiousness failed as markers of between-nation differences in personality.</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="10" page="1" column="1">Canadians and Americans agree that Canadians are generally more agreeable than their southern neighbors. Is this judgment accurate? One way to investigate this question would be to compare the average agreeableness of Canadians with that of Americans to see how well the country scores align with people’s perceptions. In an influential analysis (<xref ref-type="bibr" rid="R16" id="6" class="deo:Reference">McCrae &amp; Terracciano, 2006</xref>; <xref ref-type="bibr" rid="R17" id="7" class="deo:Reference">Terracciano et al., 2005</xref>), there was no correlation between profiles of actual reported personality traits and people’s perceptions of the character of their own country. On this basis, <xref ref-type="bibr" rid="R16" id="8" class="deo:Reference">McCrae and Terracciano (2006)</xref> argued that such perceptions of national character (PNCs) are illusory. We found these results surprising (also see <xref ref-type="bibr" rid="R18" id="9" class="deo:Reference">McGrath &amp; Goldberg, 2006</xref>). Past research has shown that agreement on</region>
+      <region class="DoCO:TextChunk" id="12" confidence="possible" page="1" column="1">Address correspondence to Steven J. Heine, 2136 West Mall, University of British Columbia, Vancouver, British Columbia V6T 1Z4, Canada, e-mail: <email id="11">heine@psych.ubc.ca</email>.</region>
+      <region class="DoCO:TextChunk" id="31" page="1" column="2">cultural differences becomes stronger with increased cultural contact ( <xref ref-type="bibr" rid="R26" id="13" class="deo:Reference">Triandis &amp; Vassiliou, 1967</xref>), and that perceptions of group differences are often, although not always, quite accurate (<xref ref-type="bibr" rid="R11" id="14" class="deo:Reference">Jussim, 2005</xref>; <xref ref-type="bibr" rid="R13" id="15" class="deo:Reference">McCauley, 1995</xref>). Conceptions of culture as a shared meaning system suggest that one can make meaningful and relatively accurate judgments about one’s own culture (<xref ref-type="bibr" rid="R28" id="16" class="deo:Reference">Wan et al., 2007</xref>). Relying on self- and peer reports to assess individual differences in personality has become a widely used approach to investigating cross-cultural differences (e.g., McCrae &amp; Terracciano, 2006; <xref ref-type="bibr" rid="R23" id="17" class="deo:Reference">Schmitt et al., 2007</xref>). Therefore, determining the validity of this method across cultures is of utmost importance (<xref ref-type="bibr" rid="R20" id="18" class="deo:Reference">Norenzayan &amp; Heine, 2005</xref>). In the study reported here, we investigated the validity of self- and peer reports and PNC comparisons across cultures. We argue that methodological problems compromise the validity of aggregate self- and peer- report data across cultures. Focusing on conscientiousness as a test case, we present new behavioral and demographic evidence suggesting that PNC data are more valid as a measure of be- tween-culture differences in behavior than are aggregate self- report and peer-report data. Comparing means on subjective Likert self-report scales is the most commonly used method for investigating cross-cultural differences, yet there are many methodological challenges associated with this approach (for discussion, see <xref ref-type="bibr" rid="R4" id="19" class="deo:Reference">Cohen, 2007</xref>; van de <xref ref-type="bibr" rid="R27" id="20" class="deo:Reference">Vijver &amp; Leung, 2001</xref>). One such challenge is the reference-group effect (RGE; Heine, Lehman, Peng, &amp; <xref ref-type="bibr" rid="R8" id="21" class="deo:Reference">Greenholtz, 2002</xref>; Peng, Nisbett, &amp; <xref ref-type="bibr" rid="R21" id="22" class="deo:Reference">Wong, 1997</xref>), the tendency for people to respond to subjective self-report items by comparing themselves with implicit standards from their culture (<xref ref-type="bibr" rid="R8" id="23" class="deo:Reference">Heine et al., 2002</xref>). Consider how one would respond to the items on the Revised NEO Personality Inventory (NEO-PI-R; <xref ref-type="bibr" rid="R5" id="24" class="deo:Reference">Costa &amp; McCrae, 1992</xref>). For example, one’s response to ‘‘I am not a very methodical<marker type="page" number="2"/><marker type="column" number="1"/><marker type="block"/> person’’ would hinge greatly on one’s understanding of the norms for being methodical. Because norms differ across cultures, the RGE systematically distorts cultural differences. Note that the RGE is a problem only for comparing aggregate data between cultures; it is not implicated in contrasts of individuals within a shared cultural context. The RGE is an issue regarding self- and peer reports, as re- spondents need to compare their evaluations against standards largely based on observations of people within their cultures. However, the RGE is less likely to contaminate PNCs. This is because when people are asked to evaluate their ‘‘average compatriot,’’ they likely bring to mind a standard that lies out- side their own culture, for example, a perceived international norm. Some evidence supporting this idea was obtained in the influential study mentioned earlier: The variance of the PNC cultural means was much larger than the variance of the cultural means of self- or peer ratings (<xref ref-type="bibr" rid="R17" id="30" class="deo:Reference">Terracciano et al., 2005</xref>).</region>
+      <outsider class="DoCO:TextBox" type="footer" id="26" page="1" column="2">Volume 19—Number 4</outsider>
+      <outsider class="DoCO:TextBox" type="footer" id="27" page="1" column="2">Copyright r 2008 Association for Psychological Science</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="28" page="1" column="2">309</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="29" page="2" column="1">Validating Cross-Cultural Studies of Personality</outsider>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="32" page="2" column="1">ESTABLISHING VALIDITY: BEHAVIORAL AND DEMOGRAPHIC PREDICTORS OF PERSONALITY ACROSS CULTURES</h1>
+        <region class="DoCO:TextChunk" id="39" page="2" column="1">What is the existing evidence that cross-national comparisons of personality traits are valid? One piece of evidence is that some of Hofstede’s (2001) cultural dimensions correlate with some of the Big Five measures (<xref ref-type="bibr" rid="R15" id="33" class="deo:Reference">McCrae, 2002</xref>). However, these correlations are not a priori theoretically relevant (e.g., neuroticism and masculinity are correlated, but for theoretically unknown reasons), and we note that no significant correlations between Big Five and Hofstede’s dimensions were replicated across three independent measures of the Big Five (<xref ref-type="bibr" rid="R15" id="34" class="deo:Reference">McCrae, 2002</xref>; <xref ref-type="bibr" rid="R17" id="35" class="deo:Reference">McCrae et al., 2005</xref>; <xref ref-type="bibr" rid="R23" id="36" class="deo:Reference">Schmitt et al., 2007</xref>). Another piece of evidence is that geographically and historically related cultures (such as Germany and Austria) have similar personality profiles (<xref ref-type="bibr" rid="R16" id="37" class="deo:Reference">McCrae &amp; Terracciano, 2006</xref>). However, cultures with similar reference groups (i.e., cultures that share similar norms) would yield this same pattern. Other criteria, particularly those that do not rely on self-report measures, are needed to validate cross-national comparisons of personality traits. We focus here on a criterion that is frequently relied on in evaluating trait measures (e.g., Gosling, Ko, Mannarelli, &amp; <xref ref-type="bibr" rid="R7" id="38" class="deo:Reference">Morris, 2002</xref>): whether the trait scores predict actual behavior.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="40" page="2" column="1">METHOD AND RESULTS</h1>
+        <region class="DoCO:TextChunk" id="75" page="2" column="1">A challenge in validating personality traits across cultures is assessing behaviors that unambiguously map on to the Big Five dimensions. Past within-culture studies have suggested that the personality trait of conscientiousness is relatively easily iden- tified, through both behavior and markers of behavior (see <xref ref-type="bibr" rid="R7" id="41" class="deo:Reference">Gosling et al., 2002</xref>; Roberts, Kuncel, Shiner, Caspi, &amp; Goldberg, 2007). A second challenge is the sheer cost and difficulty of obtaining such measures in a large number of different cultural contexts. Fortuitously, a large-scale research project by<marker type="column" number="2"/><marker type="block"/>  <xref ref-type="bibr" rid="R12" id="43" class="deo:Reference">Levine and Norenzayan (1999)</xref> assessed behavioral measures of ‘‘pace of life’’ in major cities from 31 countries. Specifically, walking speed, postal workers’ speed, and the accuracy of clocks in public banks were measured. For the measure of walking speed, 35 men and 35 women were timed unobtrusively as they walked alone for a distance of 60 ft in unobstructed public squares during business hours in major downtown locations. Postal workers’ efficiency was measured by the amount of time it took to buy one stamp, using a bill that required change in both coins and paper. At least eight postal workers at randomly selected postal offices were timed in each city. Finally, the accuracy of 15 randomly selected bank clocks was assessed in each city. These variables, which were adequately intercorrelated, are arguably behavioral indicators of conscientiousness (see <xref ref-type="bibr" rid="R1" id="44" class="deo:Reference">Allik &amp; McCrae, 2004</xref>). There are also demographic variables associated with personality. <xref ref-type="bibr" rid="R22" id="45" class="deo:Reference">Roberts et al. (2007)</xref> found that occupational success can be reliably predicted by personality traits, and that among the Big Five, conscientiousness is the best predictor of such success (see Judge, Higgins, Thoresen, &amp; <xref ref-type="bibr" rid="R10" id="46" class="deo:Reference">Barrick, 1999</xref>). We did not have direct measures of the average occupational success of nations. However, one national indicator of economic success is per capita gross domestic product (GDP). No doubt, a nation’s GDP is a complex variable reflecting a variety of his- torical, political, and sociodemographic factors. Nevertheless, a country’s per capita GDP is related to the occupational success of its citizens, so per capita GDP should correlate with the average conscientiousness of its citizens. We included per capita GDP as reported in The World Factbook (<xref ref-type="bibr" rid="R3" id="47" class="deo:Reference">Central Intelligence Agency, 2007</xref>) as a demographic variable in this study. Personality is also reliably associated with longevity (<xref ref-type="bibr" rid="R22" id="48" class="deo:Reference">Roberts et al., 2007</xref>), and conscientiousness is the best predictor of longevity among the Big Five. The average life expectancy of nations was also obtained from The World Factbook (<xref ref-type="bibr" rid="R3" id="49" class="deo:Reference">Central Intelligence Agency, 2007</xref>). 1 We correlated our validity criteria (walking speed, postal workers’ speed, accuracy of clocks in public banks, per capita GDP, and longevity) with a variety of measures of conscientiousness. 2 Specifically, conscientiousness was measured by aggregated self-reports on the NEO-PI-R (<xref ref-type="bibr" rid="R15" id="50" class="deo:Reference">McCrae, 2002</xref>) and the Big Five Inventory (Benet-Mart  ́ nez &amp; <xref ref-type="bibr" rid="R2" id="51" class="deo:Reference">John, 1998</xref>; <xref ref-type="bibr" rid="R23" id="52" class="deo:Reference">Schmitt et al., 2007</xref>), aggregated peer reports on the NEO-PI-R (<xref ref-type="bibr" rid="R17" id="53" class="deo:Reference">McCrae et al., 2005</xref>), and average PNC scores from <xref ref-type="bibr" rid="R17" id="54" class="deo:Reference">Terracciano et al. (2005)</xref>. <xref ref-type="table" rid="T1" id="55" class="deo:Reference">Table 1</xref> reports the correlations in two ways. In each cell, the correlation on the left was calculated using pair-wise deletion of data. These correlations are based on between 17 and 55<marker type="block"/> 1 We have provided a table of all the values for each country on the Web at <ext-link ext-link-type="uri" href="http://www.psych.ubc.ca/$" id="57">http://www.psych.ubc.ca/$</ext-link> heine/personalitydata.xls. 2 The analyses reported by <xref ref-type="bibr" rid="R17" id="58" class="deo:Reference">Terracciano et al. (2005)</xref> were conducted by correlating the individual facet scores from the different measures; in contrast, we report the correlations between factor scores for personality and behavioral and demographic variables. We were unable to analyze the facet scores, as these data were not available to us.<marker type="page" number="3"/><marker type="column" number="1"/><marker type="block"/> countries. The right-hand correlation in each cell was calculated using case-wise deletion of data, which reduced the sample to the 10 countries for which we had data for all measures. 3 Al- though the pair-wise-deletion analyses had a larger sample that was thus more representative of a worldwide sample, the case- wise-deletion analyses allowed for more accurate comparisons across measures, as in these analyses the measures were com- pared across the same countries. The analyses revealed that the aggregate self-report data from the NEO-PI-R correlated negatively with all the validity criteria for both sets of countries (average r 5 À.43). 4 Likewise, the aggregate self-report data from the Big Five Inventory correlated negatively with the validity criteria (average r 5 À.19). The aggregate peer-report data from the NEO-PI-R showed mixed correlations with the validity criteria. Overall, the pattern yielded null correlations (r 5 .06). In sum, none of the self-report or peer-report data were reliably associated with the validity criteria in the predicted direction. In contrast, the PNC data correlated positively and signifi- cantly with all five of the validity criteria, with the sole exception of longevity with pair-wise deletions. The average correlation between the PNC data and the validity criteria was .61. This is evidence that the PNC data have greater validity for measuring conscientiousness than the aggregate self- and peer-report data do. The five validity criteria we used are not independent; indeed, the correlations among them ranged from .25 to .71, and the average correlation was .47—a value higher than is typically obtained for correlations among items in trait measures. One possible explanation for these high interitem correlations is that the behavioral criteria simply reflect the consequences of wealth, and that participating in a wealthy society leads people to work more effectively, walk faster, and live longer. We there-<marker type="block"/> 3 The 10 countries that had data for all dependent variables were Canada, the Czech Republic, France, Germany, Hong Kong, Indonesia, Italy, Japan, South Korea, and the United States. 4 All average correlations were calculated from r-to-Z-to-r transformations (see <xref ref-type="bibr" rid="R19" id="72" class="deo:Reference">McNemar, 1962</xref>).<marker type="column" number="2"/><marker type="block"/> fore recalculated the correlations after partialing out per capita GDP (see <xref ref-type="table" rid="T2" id="74" class="deo:Reference">Table 2</xref>). The average partial correlation between the NEO-PI-R self-report data and the criteria was weakly negative, as was the average correlation between the Big Five Inventory self-report data and the criteria. The average correlation between the NEO-PI-R peer-report data and the criteria was weakly positive (r 5 .15). In contrast, the average correlation between the PNC data and the validity criteria was moderately positive (r 5 .41), and seven of the eight partial correlations for the PNC data were positive. In sum, after per capita GDP was partialed out, the aggregate self- and peer-report measures did not reliably predict the remaining validity criteria, whereas the PNC data still showed good validity.</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="60" page="2" column="2">310</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="61" page="2" column="2">Volume 19—Number 4</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="62" page="3" column="1">Steven J. Heine, Emma E. Buchtel, and Ara Norenzayan</outsider>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="63" page="3" column="1">TABLE 1 Correlations Between Personality Traits and Behavioral and Demographic Measures of Conscientiousness</caption>
+          <content>
+            <h1 class="table"> Validity criterion Postal workers’ Clock Walking</h1>
+            <table class="DoCO:Table" number="1" page="3">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Personality measure</th>
+                  <th class="table"> speed</th>
+                  <th class="table"> accuracy</th>
+                  <th class="table"> speed</th>
+                  <th class="table"> GDP</th>
+                  <th class="table"> Longevity</th>
+                  <th class="table"> Average</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Self-report NEO-PI-R</td>
+                  <td class="table"> À.57 n /À.58</td>
+                  <td class="table"> À.34/À.39</td>
+                  <td class="table"> À.27/À.43</td>
+                  <td class="table"> À.66 nn /À.16</td>
+                  <td class="table"> À.38 n /À.38</td>
+                  <td class="table"> À.43</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Self-report BFI</td>
+                  <td class="table"> À.28/À.42</td>
+                  <td class="table"> À.07/À.18</td>
+                  <td class="table"> À.14/.15</td>
+                  <td class="table"> À.32 n /.08</td>
+                  <td class="table"> À.51 nn /À.16</td>
+                  <td class="table"> À.19</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Peer-report NEO-PI-R</td>
+                  <td class="table"> .16/.42</td>
+                  <td class="table"> .07/À.10</td>
+                  <td class="table"> À.11/.01</td>
+                  <td class="table"> .03/À.12</td>
+                  <td class="table"> .33 n /À.11</td>
+                  <td class="table"> .06</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> PNC</td>
+                  <td class="table"> .68 nn /.72 n</td>
+                  <td class="table"> .69 nn /.71 n</td>
+                  <td class="table"> .50 n /.68 n</td>
+                  <td class="table"> .40 nn /.69 n</td>
+                  <td class="table"> .01/.74 n</td>
+                  <td class="table"> .61</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. In each cell, the correlation</td>
+                  <td class="table.strange"> on the left was</td>
+                  <td class="table.strange"> calculated using</td>
+                  <td class="table.strange"> pair-wise deletion of</td>
+                  <td class="table.strange"> missing data (n 517–55),</td>
+                  <td class="table.strange"> and the</td>
+                  <td class="table.strange"> on the</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> right was calculated using</td>
+                  <td class="table.strange"> case-wise deletion of</td>
+                  <td class="table.strange"> missing data (n 5 10).</td>
+                  <td class="table.strange"> BFI 5 Big Five</td>
+                  <td class="table.strange"> Inventory (Benet-Mart</td>
+                  <td class="table.strange">  ́nez &amp; John,</td>
+                  <td class="table.strange"> Schmitt et</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> al., 2007); GDP 5 gross</td>
+                  <td class="table.strange"> domestic product</td>
+                  <td class="table.strange"> (Central Intelligence</td>
+                  <td class="table.strange"> Agency, 2007);</td>
+                  <td class="table.strange"> NEO-PI-R 5 Revised</td>
+                  <td class="table.strange"> NEO</td>
+                  <td class="table.strange"> Inventory</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> (McCrae, 2002; McCrae et</td>
+                  <td class="table.strange"> al., 2005); PNC 5</td>
+                  <td class="table.strange"> perceptions of national</td>
+                  <td class="table.strange"> character</td>
+                  <td class="table.strange"> (Terracciano et al., 2005).</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> n p &lt; .05. nn p &lt; .01.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="70" confidence="possible" page="3" column="1">Validity criterion Postal workers’ Clock Walking Personality measure speed accuracy speed GDP Longevity Average Self-report NEO-PI-R À.57 n /À.58 À.34/À.39 À.27/À.43 À.66 nn /À.16 À.38 n /À.38 À.43 Self-report BFI À.28/À.42 À.07/À.18 À.14/.15 À.32 n /.08 À.51 nn /À.16 À.19 Peer-report NEO-PI-R .16/.42 .07/À.10 À.11/.01 .03/À.12 .33 n /À.11 .06 PNC .68 nn /.72 n .69 nn /.71 n .50 n /.68 n .40 nn /.69 n .01/.74 n .61 Note. In each cell, the correlation on the left was calculated using pair-wise deletion of missing data (n 517–55), and the correlation on the right was calculated using case-wise deletion of missing data (n 5 10). BFI 5 Big Five Inventory (Benet-Mart  ́nez &amp; <xref ref-type="bibr" rid="R2" id="64" class="deo:Reference">John, 1998</xref>; <xref ref-type="bibr" rid="R23" id="65" class="deo:Reference">Schmitt et al., 2007</xref>); GDP 5 gross domestic product (<xref ref-type="bibr" rid="R3" id="66" class="deo:Reference">Central Intelligence Agency, 2007</xref>); NEO-PI-R 5 Revised NEO Personality Inventory (<xref ref-type="bibr" rid="R15" id="67" class="deo:Reference">McCrae, 2002</xref>; <xref ref-type="bibr" rid="R17" id="68" class="deo:Reference">McCrae et al., 2005</xref>); PNC 5 perceptions of national character (<xref ref-type="bibr" rid="R17" id="69" class="deo:Reference">Terracciano et al., 2005</xref>). n p &lt; .05. nn p &lt; .01.</region>
+        </region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="76" page="3" column="2">DISCUSSION</h1>
+        <region class="DoCO:TextChunk" id="99" page="3" column="2">The lack of correlation between aggregate self- and peer-report personality measures and people’s views of their compatriots, as reported in <xref ref-type="bibr" rid="R17" id="77" class="deo:Reference">Terracciano et al. (2005)</xref>, is a problem. However, we submit that it is caused by various methodological challenges that plague cross-cultural comparisons of mean scores on Likert scales. We suspect that the primary confound undermining the aggregate personality measures is the RGE; however, a number of other response biases may also be implicated (see <xref ref-type="bibr" rid="R4" id="78" class="deo:Reference">Cohen, 2007</xref>; van de <xref ref-type="bibr" rid="R27" id="79" class="deo:Reference">Vijver &amp; Leung, 2001</xref>). In contrast, people’s impressions of their compatriots’ personalities appear to reason- ably reflect measures of their compatriots’ behaviors. Cross-cultural comparisons of aggregate self- and peer-report measures of personality fail a number of validity tests. First, as <xref ref-type="bibr" rid="R14" id="80" class="deo:Reference">McCrae (2001)</xref> noted, country rankings do not correlate with how cultural experts view the ranked countries, and thus are not validated by expert opinions. Second, we have found that aggregate self- and peer-report measures of personality (at least in the case of conscientiousness) do not correlate with either behavioral or demographic indicators. Third, these measures do not correlate with people’s impressions of their compatriots (viz., the PNC data). The fact that aggregate self- and peer-report data do not correlate with validity criteria is consistent with the fact<marker type="page" number="4"/><marker type="column" number="1"/><marker type="block"/> that cross-cultural comparisons of mean scores on Likert scales often yield findings sharply at odds with those obtained using experimental measures (<xref ref-type="bibr" rid="R8" id="92" class="deo:Reference">Heine et al., 2002</xref>). A key tenet of cultural psychology is that culture and self are mutually constituted (<xref ref-type="bibr" rid="R24" id="93" class="deo:Reference">Shweder, 1990</xref>). We think the present investigation demonstrates this point well. Participating in a world where clocks are on time and people work effectively and earn a good income leads people to adopt conscientious habits, and these habits continue to shape and reinforce the surround- ing culture. Culture and self thus come to make each other up. We suggest that people participating in such a culture develop personalities that are, on average, more conscientious than the personalities of people who participate in ‘‘event-time cultures,’’ where activities transpire according to a spontaneous schedule (<xref ref-type="bibr" rid="R12" id="94" class="deo:Reference">Levine &amp; Norenzayan, 1999</xref>). Participation in a cultural world comes to shape the cultural norms that people perceive as reflecting general conscientiousness. These norms are appar- ent when people evaluate their culture (<xref ref-type="bibr" rid="R28" id="95" class="deo:Reference">Wan et al., 2007</xref>), although they might not be detected in self-report assessments as people implicitly compare themselves with these perceived norms. Our investigation was limited to conscientiousness. It is con- ceivable that for the remaining four Big Five personality traits, the PNC measure is not accurate, but the self- and peer-report measures are. However, it is not obvious why a different pattern would emerge for the other traits. One clear direction for future research would be to obtain measures of behavioral markers of other personality traits across a large array of cultures. A major challenge lies in first identifying cross-culturally valid behavioral markers of the remaining Big Five traits. A second limitation of our study is that we did not assess our various measures with the same group of participants: Different individuals completed each of the personality and behavioral measures, and, moreover, our GDP variable was not an aggregate of individual responses, as the other measures were. The ideal study would involve a multilevel framework in which personality<marker type="column" number="2"/><marker type="block"/> traits, behavioral measures, and economic variables are col- lected from the same individuals. Another limitation of our investigation concerns the quality of the validity criteria. It can be debated how well the specific criteria that we chose map on to conscientiousness. More generally, behavioral measures have a number of weaknesses for assessing personality (see <xref ref-type="bibr" rid="R6" id="97" class="deo:Reference">Funder, 2007</xref>). Furthermore, a given behavior might have different meanings in different cultures; for example, frequency of bowing would be a poor indicator of po- liteness in the United States, although it would be a good indicator in Japan. However, in some key respects, behaviors are especially strong measures for cross-cultural research as they are immune to most of the methodological artifacts that plague cross-cultural comparisons (<xref ref-type="bibr" rid="R21" id="98" class="deo:Reference">Peng et al., 1997</xref>). Behavioral and demographic measures are valuable but not faultless criteria by which to validate cultural differences. Research on cross- cultural differences would be improved by greater use of such validity criteria to corroborate findings that emerge from ques- tionnaire and laboratory studies.</region>
+        <outsider class="DoCO:TextBox" type="footer" id="82" page="3" column="2">Volume 19—Number 4</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="83" page="3" column="2">311</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="84" page="4" column="1">Validating Cross-Cultural Studies of Personality</outsider>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="85" page="4" column="1">TABLE 2 Partial Correlations Between Personality Traits and Behavioral and Demographic Measures of Conscientiousness, Controlling for Per Capita Gross Domestic Product</caption>
+          <content>
+            <h1 class="table"> Validity criterion Postal workers’ Clock Walking</h1>
+            <table class="DoCO:Table" number="2" page="4">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Personality measure</th>
+                  <th class="table"> speed</th>
+                  <th class="table"> accuracy</th>
+                  <th class="table"> speed</th>
+                  <th class="table"> Longevity</th>
+                  <th class="table"> Average</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Self-report NEO-PI-R</td>
+                  <td class="table"> À.26/À.57</td>
+                  <td class="table"> À.02/À.41</td>
+                  <td class="table"> .33/À.56</td>
+                  <td class="table"> .03/À.47</td>
+                  <td class="table"> À.26</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Self-report BFI</td>
+                  <td class="table"> À.11/À.49</td>
+                  <td class="table"> .10/À.35</td>
+                  <td class="table"> .10/.16</td>
+                  <td class="table"> À.42 nn /À.45</td>
+                  <td class="table"> À.20</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Peer-report NEO-PI-R</td>
+                  <td class="table"> .18/.51</td>
+                  <td class="table"> .06/À.01</td>
+                  <td class="table"> À.18/.22</td>
+                  <td class="table"> .39 nn /À.02</td>
+                  <td class="table"> .15</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> PNC</td>
+                  <td class="table"> .60 n /.69 n</td>
+                  <td class="table"> .61 nn /.42</td>
+                  <td class="table"> .35/.25</td>
+                  <td class="table"> À.31 n /.42</td>
+                  <td class="table"> .41</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. In each cell, the correlation</td>
+                  <td class="table.strange"> on the left was</td>
+                  <td class="table.strange"> calculated using</td>
+                  <td class="table.strange"> pair-wise deletion of</td>
+                  <td class="table.strange"> missing data (n 5</td>
+                  <td class="table.strange"> and the</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> correlation on the right was</td>
+                  <td class="table.strange"> calculated using case-wise</td>
+                  <td class="table.strange"> deletion of missing</td>
+                  <td class="table.strange"> data (n 5 10).</td>
+                  <td class="table.strange"> BFI 5 Big Five</td>
+                  <td class="table.strange"> (Benet-</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Mart  ́nez &amp; John, 1998; Schmitt</td>
+                  <td class="table.strange"> et al., 2007);</td>
+                  <td class="table.strange"> NEO-PI-R 5 Revised</td>
+                  <td class="table.strange"> NEO Personality</td>
+                  <td class="table.strange"> Inventory (McCrae,</td>
+                  <td class="table.strange"> McCrae</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> et al., 2005); PNC 5 perceptions</td>
+                  <td class="table.strange"> of national</td>
+                  <td class="table.strange"> character (Terracciano</td>
+                  <td class="table.strange"> et al., 2005).</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> n p &lt; .05. nn p &lt; .01.</td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="91" confidence="possible" page="4" column="1">Validity criterion Postal workers’ Clock Walking Personality measure speed accuracy speed Longevity Average Self-report NEO-PI-R À.26/À.57 À.02/À.41 .33/À.56 .03/À.47 À.26 Self-report BFI À.11/À.49 .10/À.35 .10/.16 À.42 nn /À.45 À.20 Peer-report NEO-PI-R .18/.51 .06/À.01 À.18/.22 .39 nn /À.02 .15 PNC .60 n /.69 n .61 nn /.42 .35/.25 À.31 n /.42 .41 Note. In each cell, the correlation on the left was calculated using pair-wise deletion of missing data (n 5 17–55), and the correlation on the right was calculated using case-wise deletion of missing data (n 5 10). BFI 5 Big Five Inventory (Benet- Mart  ́nez &amp; <xref ref-type="bibr" rid="R2" id="86" class="deo:Reference">John, 1998</xref>; <xref ref-type="bibr" rid="R23" id="87" class="deo:Reference">Schmitt et al., 2007</xref>); NEO-PI-R 5 Revised NEO Personality Inventory (<xref ref-type="bibr" rid="R15" id="88" class="deo:Reference">McCrae, 2002</xref>; <xref ref-type="bibr" rid="R17" id="89" class="deo:Reference">McCrae et al., 2005</xref>); PNC 5 perceptions of national character (<xref ref-type="bibr" rid="R17" id="90" class="deo:Reference">Terracciano et al., 2005</xref>). n p &lt; .05. nn p &lt; .01.</region>
+        </region>
+      </section>
+      <section class="deo:Conclusion">
+        <h1 class="DoCO:SectionTitle" id="100" page="4" column="2">CONCLUSION</h1>
+        <region class="DoCO:TextChunk" id="107" page="4" column="2">Mindlessly applying inaccurate stereotypes opens the door for misunderstanding and mistreating people from other cultures ( <xref ref-type="bibr" rid="R14" id="101" class="deo:Reference">McCrae, 2001</xref>). Yet equally problematic to cross-cultural relations is insensitivity to real cultural differences. Such insensitivity encourages ethnocentric projections, perpetuating the unfounded belief that people in other cultures are ‘‘just like us.’’ The evidence discussed here suggests that PNCs, not aggregate self- or peer reports of personality, reflect the kinds of cultural differences in personality that are important for increasing intercultural understanding.<marker type="block"/> Acknowledgments—This research was funded by the Social Sciences and Humanities Research Council of Canada (410-<marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> 2004-0795). We thank Jess Tracy for her helpful feedback on an earlier draft.</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="104" page="4" column="2">312</outsider>
+        <outsider class="DoCO:TextBox" type="footer" id="105" page="4" column="2">Volume 19—Number 4</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="106" page="5" column="1">Steven J. Heine, Emma E. Buchtel, and Ara Norenzayan</outsider>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="108" page="5" column="1">REFERENCES</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="109" page="5" column="1">Allik, J., &amp; McCrae, R.R. (2004). Toward a geography of personality traits: Patterns of profiles across 36 cultures. Journal of Cross- Cultural Psychology, 35, 13–28.</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="110" confidence="possible" page="5" column="1">Benet-Mart  ́ nez, V., &amp; John, O.P. (1998). Los Cinco Grandes across cultures and ethnic groups: Multitrait multimethod analysis of the Big Five in Spanish and English. Journal of Personality and Social Psychology, 75, 729–750.</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="111" confidence="possible" page="5" column="1">Central Intelligence Agency. (2007). The world factbook. Washington, DC: Potomac Books.</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="112" confidence="possible" page="5" column="1">Cohen, D. (2007). Methods in cultural psychology. In S. Kitayama &amp; D. Cohen (Eds.), Handbook of cultural psychology (pp. 196–236). New York: Guilford.</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="113" confidence="possible" page="5" column="1">Costa, P.T., Jr., &amp; McCrae, R.R. (1992). Revised NEO Personality Inventory (NEO-PI-R) and NEO Five Factor Inventory (NEO-FFI) professional manual. Odessa, FL: Psychological Assessment Re- sources.</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="114" confidence="possible" page="5" column="1">Funder, D.C. (2007). The personality puzzle (4th ed.). New York: W.W. Norton.</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="115" confidence="possible" page="5" column="1">Gosling, S.D., Ko, S.J., Mannarelli, T., &amp; Morris, M.E. (2002). A room with a cue: Personality judgments based on offices and bedrooms. Journal of Personality and Social Psychology, 82, 379–398.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="116" confidence="possible" page="5" column="1">Heine, S.J., Lehman, D.R., Peng, K., &amp; Greenholtz, J. (2002). What’s wrong with cross-cultural comparisons of subjective Likert scales?: The reference-group effect. Journal of Personality and Social Psychology, 82, 903–918.</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="117" confidence="possible" page="5" column="1">Hofstede, G. (2001). Culture’s consequences: Comparing values, behaviors, institutions, and organizations across nations (2nd ed.). Thousand Oaks, CA: Sage.</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="118" confidence="possible" page="5" column="1">Judge, T.A., Higgins, C.A., Thoresen, C.J., &amp; Barrick, M.R. (1999). The big five personality traits, general mental ability, and career success across the life span. Personnel Psychology, 52, 621–652.</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="119" confidence="possible" page="5" column="1">Jussim, L. (2005). Accuracy in social perception: Criticisms, contro- versies, criteria, components, and cognitive processes. In M.P. Zanna (Ed.), Advances in experimental social psychology (Vol. 37, pp. 2–97). San Diego, CA: Elsevier Academic Press.</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="120" confidence="possible" page="5" column="1">Levine, R.V., &amp; Norenzayan, A. (1999). The pace of life in 31 countries. Journal of Cross-Cultural Psychology, 30, 178–205.</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="121" confidence="possible" page="5" column="1">McCauley, C. (1995). Are stereotypes exaggerated? A sampling of racial, gender, occupational, academic, and political stereotypes. In Y.T. Lee, L. Jussim, &amp; C.R. McCauley (Eds.), Stereotype accuracy: Toward appreciating group differences (pp. 293–312). Washington, DC: American Psychological Association.</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="122" confidence="possible" page="5" column="1">McCrae, R.R. (2001). Trait psychology and culture: Exploring intercultural comparisons. Journal of Personality, 69, 819–846.</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="123" confidence="possible" page="5" column="1">McCrae, R.R. (2002). NEO-PI-R data from 36 cultures: Further intercultural comparisons. In R.R. McCrae &amp; J. Allik (Eds.), The</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="124" page="5" column="2">Five-Factor Model of personality across cultures (pp. 105–126). New York: Kluwer. McCrae, R.R., &amp; Terracciano, A. (2006). National character and personality. Current Directions in Psychological Science, 15, 156– 161.</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="125" confidence="possible" page="5" column="2">McCrae, R.R., Terracciano, A., &amp; 79 members of the Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. Journal of Personality and Social Psychology, 89, 407–425.</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="126" confidence="possible" page="5" column="2">McGrath, R.E., &amp; Goldberg, L.R. (2006). How to measure national stereotypes? Science, 311, 776–777.</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="127" confidence="possible" page="5" column="2">McNemar, Q. (1962). Psychological statistics (3rd ed.). New York: Wiley.</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="128" confidence="possible" page="5" column="2">Norenzayan, A., &amp; Heine, S.J. (2005). Psychological universals: What are they and how can we know? Psychological Bulletin, 131, 763– 784.</ref>
+          <ref rid="R21" class="deo:BibliographicReference" id="129" confidence="possible" page="5" column="2">Peng, K., Nisbett, R.E., &amp; Wong, N.Y.C. (1997). Validity problems comparing values across cultures and possible solutions. Psychological Methods, 2, 329–344.</ref>
+          <ref rid="R22" class="deo:BibliographicReference" id="130" confidence="possible" page="5" column="2">Roberts, B.W., Kuncel, N.R., Shiner, R., Caspi, A., &amp; Goldberg, L.R. (2007). The power of personality: The comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes. Perspectives on Psychological Science, 2, 313–345.</ref>
+          <ref rid="R23" class="deo:BibliographicReference" id="131" confidence="possible" page="5" column="2">Schmitt, D.P., Allik, J., McCrae, R.R., Benet-Mart  ́nez, V., Alcalay, L., Ault, L., et al. (2007). The geographic distribution of Big Five personality traits: Patterns and profiles of human self-description across 56 nations. Journal of Cross-Cultural Psychology, 38, 173– 212.</ref>
+          <ref rid="R24" class="deo:BibliographicReference" id="132" confidence="possible" page="5" column="2">Shweder, R.A. (1990). Cultural psychology: What is it? In J.W. Stigler, R.A. Shweder, &amp; G. Herdt (Eds.), Cultural psychology: Essays on comparative human development (pp. 1–43). Cambridge, England: Cambridge University Press.</ref>
+          <ref rid="R25" class="deo:BibliographicReference" id="133" confidence="possible" page="5" column="2">Terracciano, A., Abdel-Khalek, A.M., A  ́ d  ́ m, N., Adamovov  ́ , L., Ahn, C.-k., Ahn, H.-n., et al. (2005). National character does not reflect mean personality trait levels in 49 cultures. Science, 310, 96– 100.</ref>
+          <ref rid="R26" class="deo:BibliographicReference" id="134" confidence="possible" page="5" column="2">Triandis, H.C., &amp; Vassiliou, V. (1967). Frequency of contact and stereotyping. Journal of Personality and Social Psychology, 7, 316–328.</ref>
+          <ref rid="R27" class="deo:BibliographicReference" id="135" confidence="possible" page="5" column="2">van de Vijver, F.J.R., &amp; Leung, K. (2001). Personality in cultural context: Methodological issues. Journal of Personality, 69, 1007– 1032.</ref>
+          <ref rid="R28" class="deo:BibliographicReference" id="136" confidence="possible" page="5" column="2">Wan, C., Chiu, C., Tam, K., Lee, S., Lau, I.Y., &amp; Peng, S. (2007). Perceived cultural importance and actual self-importance of values in cultural identification. Journal of Personality and Social Psychology, 92, 337–354.</ref>
+          <ref class="deo:BibliographicReference" id="137" page="5" column="2">(R ECEIVED 7/12/07; R EVISION ACCEPTED 10/8/07)</ref>
+        </ref-list>
+        <outsider class="DoCO:TextBox" type="footer" id="138" page="5" column="2">Volume 19—Number 4</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="139" page="5" column="2">313</outsider>
+      </section>
+    </body>
+  </article>
+</pdfx>
