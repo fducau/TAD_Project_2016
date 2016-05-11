@@ -2,7 +2,7 @@ library(quanteda)
 library(ggplot2)
 
 
-setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/txt_replicated/")
+setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/txt_replicated_parsed//")
 
 paper_files = list.files(full.names=TRUE)
 papers = lapply(paper_files, readLines)
@@ -10,7 +10,7 @@ papers = lapply(papers, function(x) paste(x, collapse = " "))
 papers = unlist(papers)
 # Open dataset
 setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
-ds = read.csv('./replication_dataset.csv', sep = '\t')
+ds = read.csv('./replication_dataset.csv', sep = ',')
 
 # Create index
 index = gsub('./','', paper_files)
@@ -28,12 +28,15 @@ liwc_metrics$Study.Num = liwc_metrics$Filename
 liwc_metrics$Study.Num = gsub('.txt','', liwc_metrics$Study.Num)
 liwc_metrics$Study.Num = as.numeric(liwc_metrics$Study.Num)
 
-#Save clean version of liwc metcis
-write.table(liwc_metrics, file='liwc.csv', sep="\t", row.names = FALSE)
-
-#Merge with train dataframe
+#Merge with ds dataframe
 liwc1 = merge(ds, liwc_metrics, by='Study.Num')
 liwc1$replicate = as.factor(liwc1$replicate)
+liwc1 = subset( liwc1, select = -Filename )
+liwc1 = subset( liwc1, select = -title )
+
+#Save clean version of liwc metcis
+write.table(liwc_metrics, file='liwc.csv', sep=",", row.names = FALSE)
+write.table(liwc1, file='index_ds.csv', sep=",", row.names = FALSE)
 
 
 covariates = colnames(liwc1)[7:length(colnames(liwc1))]
@@ -53,7 +56,7 @@ for (feature in covariates){
   }
 }
 
-linmod = lm(Clout~replicate, liwc1)
+linmod = lm(FRE~replicate, liwc1)
 anova(linmod)
 
 
