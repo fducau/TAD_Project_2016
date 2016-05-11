@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>5c1e45bf4bcb40963e7b6c74e42aa46c40f07d3eebbd944e1edb81971d994f6f</job>
+    <base_name>5w</base_name>
+    <doi>http://dx.doi.org/10.3758/bf03193093</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Psychonomic Bulletin &amp; Review 2007, 14 (6), ???-???</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="2">Distributing versus focusing attention in visual short-term memory</article-title>
+      </title-group>
+      <region class="unknown" id="3">T al M akovski and Y uhong v. J iang Harvard University, Cambridge, Massachusetts</region>
+      <abstract class="DoCO:Abstract" id="4" confidence="possible">Visual short-term memory (VSTM) is traditionally considered a robust form of visual memory resistant to interference from subsequent visual input. This study shows that the robustness of VSTM depends on the way attention is allocated in VSTM. When attention is distributed across multiple memory items, VSTM for these items is vulnerable to interference from subsequent input, including passively viewed images and the postchange testing displays. Yet attention can readjust its focus in VSTM on the basis of an attentional orienting cue presented long after encoding. When attention is oriented to a particular memorized item, the memory is resistant to subsequent interference. This effect, however, is eliminated when the subset of items demanding focal attention exceeds one, suggesting that orienting attention in VSTM is less flexible than orienting attention in perception. We propose that the robustness of VSTM is influenced by whether attention is focused or distributed in VSTM.</abstract>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <region class="DoCO:TextChunk" id="5" page="1" column="1">Visual short-term memory (VSTM) retains objects and scenes for a few seconds after their disappearance (Luck &amp; Vogel, 1997). Unlike iconic memory, which is disrupted by subsequent visual input, VSTM is traditionally considered a robust form of visual memory whose contents can survive changes in screen location, eye position, observer motion, and object occlusion (Phillips, 1974). This view leads to the proposal that VSTM helps maintain visual stability by bridging across spatiotemporal interruptions. However, recent studies have shown that contents in VSTM are highly vulnerable to interference from subsequent displays, including images that require memory (Broadbent &amp; Broadbent, 1981) or attention (Landman, Spekreijse, &amp; Lamme, 2003) and images that are passively viewed (Makovski, Shim, &amp; Jiang, 2006). In this study, we ask, is the robustness of VSTM modulated by selective attention? If so, what are the boundary conditions for this modulation? Extensive cognitive research has shown that selective attention can filter out irrelevant perceptual input. Attention also determines which subset of visual input is encoded in VSTM (Schmidt, Vogel, Woodman, &amp; Luck, 2002). Nevertheless, few studies have investigated attentional selection of information already maintained in VSTM, perhaps because researchers usually assume that the contents of VSTM are already attended, and thus no further distinction needs to be made about the way attention is allocated. An important exception is research conducted by Nobre and colleagues. They show that attention can select information in VSTM just as it can select perceptual information (Griffin &amp; Nobre, 2003; Lepsien, Griffin, Devlin, &amp; Nobre, 2005). In Griffin and Nobre’s study, for example, an attentional orienting cue is pre-</region>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="7" confidence="possible" page="1" column="1">T. Makovski, <email id="6">tal.makovski@gmail.com</email></h1>
+      </section>
+      <region class="DoCO:TextChunk" id="8" confidence="possible" page="1" column="1">1</region>
+      <region class="DoCO:TextChunk" id="13" page="1" column="2">sented either before memory encoding, or after memory encoding. The cue informs observers which item will later be probed. Compared with no-cue trials, cuing attention to the potential target increases memory performance. This effect is found both when attention is directed in perceptual space (cue before memory encoding), and when it is directed in VSTM (cue 2–12 sec after memory encoding; Lepsien et al., 2005). To account for the benefit of orienting attention in VSTM where all items are already attended, Griffin and Nobre propose that focused attention enhances VSTM representation at the cued location. But in what respect is VSTM representation enhanced? In a separate study, Landman et al. (2003) also discov- ered that retrospectively cuing an item in VSTM enhances change detection performance. Landman et al. propose that visual information is initially held in a high capacity store known as a cortical icon (Sligte, Lamme, &amp; Scholte, 2006), which is distinguished from iconic memory by its long duration. This memory is easily interfered with by a postchange test display, unless attention has already focused on one of the memorized items. Whether short-term visual memory indeed contains an initial phase of a high- capacity store remains controversial. However, Landman et al.’s study suggests that selective attention enhances VSTM representation by increasing its robustness to subsequent interference. Although this proposal is plau- sible, it lacks direct empirical evidence. Griffin and Nobre (2003) did not manipulate interference directly, and Landman et al. simply assumed that interference came from the postchange test display. Yet Landman et al. could not directly assess interference effects because their test array served both as a probe for memory and as a source of <marker type="page" number="2"/><marker type="column" number="1"/><marker type="block"/> interference. This dual role made it impossible to obtain a baseline measure where interference was absent. This study aims to directly test the hypothesis that selective attention modulates the robustness of VSTM. We measured interference in VSTM from a task-irrelevant array presented during the retention interval. If orienting attention to an item in VSTM increases its robustness, then interference from the irrelevant array should be eliminated when attention is focused on that item, but not when attention is distributed widely across multiple items. A second goal of this study is to delineate the boundary conditions under which VSTM robustness is enhanced by attention. Specifically, can attention enhance VSTM robustness when its focus is split among several memory items? Whether attention has a single or multiple spotlights is a long- debated question in vision research. Previous studies show that visual attention can simultaneously sample a few objects (Awh &amp; Pashler, 2000; Kramer &amp; Hahn, 1995). However, few studies have directly compared the efficiency of splitting attention in perception and in VSTM. Our study addresses this question by varying the number of items that require focal attention, either before or after memory encoding. This approach allows us to test whether orienting attention to any subset of memorized items enhances memory robustness. In summary, this study clarifies how focused attention influences representation in VSTM and the conditions under which this influence is exerted.</region>
+      <region class="unknown" id="10" page="1" column="2">Copyright 2007 Psychonomic Society, Inc.</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="11" page="2" column="1">2</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="12" page="2" column="1">M akovski and J iang</outsider>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="14" page="2" column="1">ExpEriMEnT 1</h1>
+        <region class="DoCO:TextChunk" id="15" page="2" column="1">This experiment directly tests the hypothesis that orienting attention in VSTM increases memory robustness to subsequent input. An array of bicolor disks provided potential interference. We manipulated the presence or ab- sence of the interference array to measure its effect, and the timing of an attentional orienting cue. We tested each participant in two experiments (1A and 1B) where the timing of the critical interference conditions (cue before interference and cue after interference) was comparable. If focused attention enhances memory robustness, then interference should be reduced if the interfering array trails the attentional focusing cue, but not if it precedes the cue. Experiment 1A provides a basic measure of the interference effect when attention is distributed across multiple memorized items. Because the attentional focusing cue was either absent (in the no-cue condition) or was presented after the bicolor array (cue after interference), we expect performance in these conditions to be worse than performance in the cue-without-interference condition. Experiment 1B presented the cue before the interfering array. If orienting attention to a single memory item increases its robustness to subsequent input, then performance in a cue-before-interference condition should be comparable to that in the cue-without-interference condition, both of which should be higher than the no-cue condition where attention is distributed across multiple items.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="16" page="2" column="1">Method</h1>
+        <region class="DoCO:TextChunk" id="20" page="2" column="1">participants. Participants in all experiments came from Harvard University and its community. They were 18–35 years old and had normal color vision and normal or corrected-to-normal visual acu- <marker type="column" number="2"/><marker type="block"/> ity. They were tested in a room with normal interior lighting. Twenty participants completed Experiment 1 (mean age, 21 years). Materials. On each memory display, six colored disks (1.31o in diameter) were placed equidistantly on an imaginary circle (9.84o in diameter) centered at fixation. The colors were selected randomly without replacement from nine distinctive colors and were presented against a black background. The interference array consisted of six bicolor disks whose constituents differed from the memory and the test colors. The attentional orienting cue was a centrally presented white arrow (1.44o in length) pointing at one of the memorized items. The cued item was always probed later with a single test item. The test color either matched the memory color (50% of trials), or was a new color not presented on the memory array (Luck &amp; Vogel, 1997). 1 Participants pressed “s” or “d” to report whether there was a match. procedure and Design. All participants completed Experiments 1A and 1B, in counterbalanced order. Experiment 1A: Cue after interference array. There were three conditions. In the cue-without-interference condition, after the initial memory array (800 msec) 2 and a delay interval (1,500 msec), a central arrow cue was presented (100-msec presentation 1 400-msec blank), followed by the test item. In the cue-after-interference condition, after the initial memory array (800 msec) and a delay interval (1,000 msec), an interfering array with 6 bicolor disks was presented (100-msec presentation 1 400-msec delay), followed by the cue (100-msec presentation 1 400-msec delay), and then the test item. Finally, in the no-cue condition, after the initial memory display (800 msec) and a delay interval (1,500 msec), the test item was presented. Participants completed 150 trials divided randomly and evenly into the three conditions. <xref ref-type="fig" rid="F1" id="18" class="deo:Reference">Figure 1</xref> shows a schematic illustration of the conditions and the results. Note that assuming that participants started to retrieve the target item upon the presentation of the cue; the effective retention interval was 1,000 msec in all conditions, but the total delay interval between memory display and probe was different across conditions. We will address the difference in delay interval in Discussion section. Experiment 1B: Cue-before-interference array. The conditions were similar to Experiment 1A except that the attentional orienting cue now preceded the interfering array. In the cue-without- interference condition, after the initial memory array (800 msec) and a delay interval (1,000 msec), a central arrow cue was presented (100-msec presentation 1 400-msec blank), followed by the test item. In the cue- before-interference condition, after the initial memory array (800 msec) and the delay interval (1,000 msec), a central arrow cue was presented (100-msec presentation 1 400-msec delay), followed by the interfering array (100-msec presentation 1 400-msec delay) and then the test item. Finally, in the no-cue condition, after an initial memory array (800 msec) and the delay interval (1,000 msec), the test item was presented. <xref ref-type="fig" rid="F2" id="19" class="deo:Reference">Figure 2</xref> illustrates the three conditions and the results. Articulatory suppression. To minimize verbal naming, participants rehearsed a three-letter word specified at the beginning of each block (of about 40 trials) as quickly as they could throughout the block. This procedure was used in all experiments. Data analysis. In all experiments, we calculated percent correct, d ′, and A′. Because statistical results were similar for all indices, we report only percent correct.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="21" page="2" column="2">results and Discussion Experiment 1A: Cue-after-interference array (Fig-</h1>
+        <region class="DoCO:TextChunk" id="22" page="2" column="2">ure 1). Planned contrast showed that accuracy was significantly higher in the cue-without-interference condition than the no-cue condition [t(19) 5 2.97, p , .01], indicat- ing that an attention orienting cue could enhance performance. Importantly, cue without interference was significantly more accurate than cue after interference [t(19) 5 2.22, p , .05]. These results show that when attention was distributed widely across multiple items, VSTM could be interfered with by a passively viewed display (cue after interference) or by a single test item (no cue).</region>
+        <outsider class="DoCO:TextBox" type="header" id="23" page="3" column="1">v isual s hort -t erM M eMory</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="24" page="3" column="1">3</outsider>
+        <region class="DoCO:FigureBox" id="Fx25">
+          <image class="DoCO:Figure" src="5w.page_003.image_01.png" thmb="5w.page_003.image_01-thumb.png"/>
+        </region>
+        <region class="unknown" id="26" page="3" column="1">No Cue Cue Without Interference</region>
+        <region class="unknown" id="27" page="3" column="1">90 80 Correct 70 Percent 60 50</region>
+        <region class="DoCO:FigureBox" id="Fx28">
+          <image class="DoCO:Figure" src="5w.page_003.image_02.png" thmb="5w.page_003.image_02-thumb.png"/>
+        </region>
+        <region class="unknown" id="29" page="3" column="1">No Cue Cue Without Interference</region>
+        <region class="DoCO:FigureBox" id="F1">
+          <caption class="deo:Caption" id="30" page="3" column="1">Figure 1. Trial sequence and results from Experiment 1A. Memory items were presented against a black background. Different textures represent different colors. Error bars show 61 standard error of the mean. * p , .05.</caption>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="31" page="3" column="1">Experiment 1B: Cue-before-interference array</h1>
+        <region class="DoCO:TextChunk" id="36" page="3" column="1">( <xref ref-type="fig" rid="F2" id="32" class="deo:Reference">Figure 2</xref>). Just as in Experiment 1A, the no-cue condition was significantly worse than the cue-without-interference condition [t(19) 5 2.1, p 5 .05], again reflecting a benefit of orienting attention to a single item in VSTM. However, unlike in Experiment 1A, the cue-before-interference condition was not worse than the cue-without-interference condition [t(19) 5 ]0.65, p . .50]. Thus, interference from an irrelevant array was completely eradicated when attention was focused on the critical memory item. Experiments 1A versus 1B. The retention intervals used in Experiments 1A’s no-cue and cue-without- interference conditions was 500 msec longer than the intervals used in Experiment 1B’s conditions. Pairwise com- parisons showed no effect of delay interval, as performance in the no-cue condition was comparable across the two ex-<marker type="column" number="2"/><marker type="block"/> periments [t(19) 5 0.51, p . .50], as was the cue-without- interference condition [t(19) 5 0, p . .50]. The presence of an interference array, however, significantly impaired performance when it was presented during distributed attention (Experiment 1A). The same array did not affect memory of an item receiving focused attention (Experiment 1B). The interaction between experiment and cue condition was significant [F(1,19) 5 4.50, p , .05]. These results strongly support the hypothesis that orienting attention to an item in VSTM increases its robustness to interference. The complete lack of any effect of delay interval when comparing otherwise identical conditions across the two experiments suggest that VSTM did not decay within the time range used here (1–2 sec). In turn, the difference found among different cue conditions cannot be attributed to differences in retention interval.</region>
+        <region class="unknown" id="34" page="3" column="2">Cue After Interference</region>
+        <region class="unknown" id="35" page="3" column="2">Cue After Interference</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="37" page="4" column="1">4</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="38" page="4" column="1">M akovski and J iang</outsider>
+        <region class="DoCO:FigureBox" id="Fx39">
+          <image class="DoCO:Figure" src="5w.page_004.image_03.png" thmb="5w.page_004.image_03-thumb.png"/>
+        </region>
+        <region class="unknown" id="40" page="4" column="1">No Cue Cue Without Interference</region>
+        <region class="unknown" id="41" page="4" column="1">90 80 Correct 70 Percent 60 50</region>
+        <region class="DoCO:FigureBox" id="Fx42">
+          <image class="DoCO:Figure" src="5w.page_004.image_04.png" thmb="5w.page_004.image_04-thumb.png"/>
+        </region>
+        <region class="unknown" id="43" page="4" column="1">No Cue Cue Without Interference</region>
+        <region class="DoCO:FigureBox" id="F2">
+          <caption class="deo:Caption" id="44" page="4" column="1">Figure 2. Trial sequence and results from Experiment 1B.</caption>
+        </region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="45" page="4" column="1">ExpEriMEnT 2</h1>
+        <region class="DoCO:TextChunk" id="46" page="4" column="1">Experiment 1 showed that when attention shifts from widely distributed to narrowly focused, VSTM robustness is enhanced. But is the distinction between the distributed mode and the focused mode of attention continuous, such that a monotonic boost to memory robustness is seen as attention progressively narrows? That is, can we find similar VSTM benefits when attention is cued to multiple locations?</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="47" page="4" column="1">Experiment 2A reducing Attentional Distribution Before Versus After VSTM Encoding</h1>
+        <region class="DoCO:TextChunk" id="51" page="4" column="1">We used peripheral cues to narrow attentional focus from six possible locations to one, two, or three locations. The peripheral cues were known to be effective at guiding attention (Posner, 1980). Using these cues, previous studies show that attention can simultaneously sample from multiple <marker type="column" number="2"/><marker type="block"/> locations in perception (Awh &amp; Pashler, 2000; Kramer &amp; Hahn, 1995). We thus expect that if the attentional orienting cues are presented before memory encoding, they should progressively enhance performance as the number of cues decreases. Of interest is whether this pattern of results also holds when attention orients in VSTM rather than in perceptual space. To test this question, we manipulated both the number and the timing of attentional orienting cues.</region>
+        <region class="unknown" id="49" page="4" column="2">Cue Before Interference</region>
+        <region class="unknown" id="50" page="4" column="2">Cue Before Interference</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="52" page="4" column="2">Method</h1>
+        <region class="DoCO:TextChunk" id="57" page="4" column="2">participants. There were 23 participants (mean age, 21 years). All participants completed the precue and retrocue conditions in randomly intermixed trial order. precue conditions. Participants completed a color change detection task with six colors on the memory display and a single test item at one of the memorized locations. The retention interval was 1,000 msec, and no attentional orienting cue was presented after VSTM encoding. Instead, attentional cues were presented 500 msec before VSTM encoding. Specifically, 0, 1, 2, 3, or 6 peripheral <marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> cues (in the form of small dots presented for 100 msec 1 400-msec blank) 3 were presented at the future locations of the memory items. The cues were equidistant and only cued locations would later be probed. Participants were told to remember colors at the cued locations. The number of cues was randomly selected on each trial and there were 48 trials in each condition. We expect no difference between cuing no item (cue 0) and cuing all items (cue 6), but both were included to control for any effects of cue presentation. Figure 3A shows the design and the results. retrocue conditions. This condition was similar to the precue condition except that the attentional orienting cues were presented during the delay interval, 1 sec after the offset of the memory items. <xref ref-type="fig" rid="F3B" id="56" class="deo:Reference">Figure 3B</xref> shows a schematic illustration of the trial sequence and results.</region>
+        <outsider class="DoCO:TextBox" type="header" id="54" page="5" column="1">v isual s hort -t erM M eMory</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="55" page="5" column="1">5</outsider>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="58" page="5" column="1">precue results</h1>
+        <region class="DoCO:TextChunk" id="59" page="5" column="1">Results from the precue condition were consistent with the view that attention can change its focus from distributed to focused in a continuous manner. Cuing 1, 2, or 3 items before VSTM encoding all produced significant benefits compared with cuing all 6 items ( p , .001) or cuing 0 items ( p , .001). The size of the benefit was reduced as the number of cues increased. While cuing 1 or 2 items led to high accuracy that did not significantly differ from each other [t(22) 5 1.24, p . .20] cuing 3 items led to an accuracy lower than cuing one or two items ( p , .05). Thus, there is a continuum between focused and distributed attention in orienting to perceptual space.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="60" page="5" column="1">retrocue results</h1>
+        <region class="DoCO:TextChunk" id="61" page="5" column="1">Orienting attention in VSTM showed different results from orienting attention in perceptual space. Although retrospectively cuing one item in VSTM enhanced performance compared with cuing all six items ( p , .001) or cuing zero items ( p , .02), retrospectively cuing two items or three items did not differ from cuing all six items or cuing zero items (all ps . .10). These results are more consistent with the view that attention has a dichotomous effect on VSTM, where the increase in VSTM robustness was seen only when a single memorized item received attention. To verify that the precue and retrocue results were qualitatively different, we conducted an ANOVA on cue timing (precue vs. retrocue) and cue number (2 vs. 6) and observed a significant interaction effect [F(1,22) 5 59.2, p , .01]. Why couldn’t subjects take advantage of two or more retrocues? Is it because the lag between the cue and the onset of the test item (400 msec) was too short for consoli- dating both items? This seems unlikely given that encoding items into VSTM takes only about 50 msec/item (Vogel, Woodman, &amp; Luck, 2006). Nevertheless, we conducted a follow-up experiment that increased the lag between the cue and the test item to 800 msec. Even so, retrospectively cuing two items was still not better than the no-cue baseline [t(13) 5 ]1.49, p . .15].</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="62" page="5" column="1">Experiment 2B Central Cues</h1>
+        <region class="DoCO:TextChunk" id="64" page="5" column="1">In Experiment 2A, we failed to find any attention effect on VSTM when more than one memorized items de- manded attention. To rule out the possibility that the null results were confined to peripheral cues which might have interfered with VSTM, Experiment 2B used central arrow <marker type="column" number="2"/><marker type="block"/> cues to orient attention retrospectively in VSTM. This experiment provides converging evidence for the idea that VSTM robustness is enhanced only when attention focuses on one memorized item.</region>
+      </section>
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="65" page="5" column="2">Method</h1>
+        <region class="DoCO:TextChunk" id="66" page="5" column="2">participants. Nine new participants completed this experiment (mean age, 25 years). Design and procedure. The stimuli and procedure were the same as those used in Experiment 2’s retrocue conditions, except that only three conditions were tested: cue 0, 1, or 2 locations, and a central arrow cue (2.88o in length) replaced the peripheral cues used in Experiment 2. The cue was absent (cue 0), pointed to 1 location in VSTM (cue 1), or pointed to two diagonal locations in VSTM (cue 2). Each participant completed 270 trials randomly and evenly divided into the three conditions.</region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="67" page="5" column="2">results</h1>
+        <region class="DoCO:TextChunk" id="69" page="5" column="2"> <xref ref-type="fig" rid="F4" id="68" class="deo:Reference">Figure 4</xref> illustrates the results. Cuing one item in VSTM conveyed a significant advantage to change detection compared with both cuing zero items [t(8) 5 2.61, p , .03] and cuing two items [t(8) 5 3.13, p , .015]. However, cuing two items was not different from cuing zero items [t(8) 5 0.56, p . .50], even when the cue was centrally presented. Attending to two out of six locations in VSTM appears to be too distributed to enhance memory robustness.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="70" page="5" column="2">GEnErAl DiSCuSSion</h1>
+        <region class="DoCO:TextChunk" id="71" page="5" column="2">Recent studies reveal a close link between selective attention and VSTM. Attention is needed both for memory encoding and for memory maintenance (Makovski et al., 2006; Schimdt et al., 2002). In addition, orienting attention to one of the memorized items enhances its representation, even when attention orienting occurred long after encoding (Griffin &amp; Nobre, 2003; Lepsien et al., 2005). This research left two critical questions open: How is VSTM representation enhanced by focused attention, and what are the boundary conditions for this enhancement? The current study provides clear answers to these questions. Experiment 1 shows that shifting attention from a distributed mode to a focused mode significantly enhances the robustness of VSTM for the attended item, even when the shift is carried out retrospectively, 1 sec after memory encoding. When attention is initially distributed among multiple memory items, VSTM is vulnerable to interference from subsequent input, including a task-irrelevant visual array and the postchange test display (Landman et al., 2003). Once attention is focused on one of the memorized items, memory solidifies and interference from an irrelevant visual array is eliminated. Experiment 1 provides direct evidence for Landman et al.’s proposal that attention reduces interference on VSTM. Experiment 2 delineates the boundary conditions for attention’s facilitation on VSTM. We show that although attention can continuously adjust the number of attended locations in perceptual space, orienting attention in VSTM is more restricted. The advantage provided by narrowing attention to a subset of memorized items is observed only when attention focuses on a single memory item. This limitation cannot be attributed to subjects’ inability to use</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="72" page="6" column="1">6</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="73" page="6" column="1">M akovski and J iang</outsider>
+        <region class="unknown" id="74" page="6" column="1">A Precue</region>
+        <region class="DoCO:TextChunk" id="75" confidence="possible" page="6" column="1">500 msec</region>
+        <region class="DoCO:TextChunk" id="76" confidence="possible" page="6" column="1">300 msec</region>
+        <region class="DoCO:TextChunk" id="77" confidence="possible" page="6" column="1">100 msec</region>
+        <region class="DoCO:TextChunk" id="78" confidence="possible" page="6" column="1">400 msec</region>
+        <region class="DoCO:TextChunk" id="79" confidence="possible" page="6" column="1">Fixation</region>
+        <region class="DoCO:TextChunk" id="80" confidence="possible" page="6" column="1">Blank</region>
+        <region class="DoCO:TextChunk" id="81" confidence="possible" page="6" column="1">Cue</region>
+        <region class="DoCO:TextChunk" id="82" confidence="possible" page="6" column="1">Blank</region>
+        <region class="DoCO:FigureBox" id="Fx83">
+          <image class="DoCO:Figure" src="5w.page_006.image_05.png" thmb="5w.page_006.image_05-thumb.png"/>
+          <image class="DoCO:Figure" src="5w.page_006.image_06.png" thmb="5w.page_006.image_06-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="84" confidence="possible" page="6" column="1">100 90 Correct 80 Percent 70 60 50 0 1 2 Number of Cued Locations B Retrocue 500 msec 300 msec</region>
+        <region class="DoCO:TextChunk" id="85" confidence="possible" page="6" column="1">1,000 msec</region>
+        <region class="DoCO:TextChunk" id="86" confidence="possible" page="6" column="1">1,000 msec</region>
+        <region class="DoCO:TextChunk" id="87" confidence="possible" page="6" column="1">Fixation</region>
+        <region class="DoCO:TextChunk" id="88" confidence="possible" page="6" column="1">Blank</region>
+        <region class="DoCO:TextChunk" id="89" confidence="possible" page="6" column="1">Remember</region>
+        <region class="DoCO:TextChunk" id="90" confidence="possible" page="6" column="1">Blank</region>
+        <region class="DoCO:FigureBox" id="Fx91">
+          <image class="DoCO:Figure" src="5w.page_006.image_07.png" thmb="5w.page_006.image_07-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="92" confidence="possible" page="6" column="1">100 90 Correct 80 Percent 70 60 50</region>
+        <region class="DoCO:FigureBox" id="Fx93">
+          <image class="DoCO:Figure" src="5w.page_006.image_08.png" thmb="5w.page_006.image_08-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="94" confidence="possible" page="6" column="1">0 1 2 Number of Cued Locations</region>
+        <region class="DoCO:FigureBox" id="F3">
+          <caption class="deo:Caption" id="95" page="6" column="1">Figure 3. Trial sequence and results from Experiment 2A.</caption>
+        </region>
+        <region class="DoCO:TextChunk" id="96" confidence="possible" page="6" column="2">1,000 msec</region>
+        <region class="DoCO:TextChunk" id="97" confidence="possible" page="6" column="2">time</region>
+        <region class="DoCO:TextChunk" id="98" confidence="possible" page="6" column="2">1,000 msec</region>
+        <region class="DoCO:TextChunk" id="99" confidence="possible" page="6" column="2">Until response</region>
+        <region class="DoCO:TextChunk" id="100" confidence="possible" page="6" column="2">Remember</region>
+        <region class="DoCO:TextChunk" id="101" confidence="possible" page="6" column="2">Blank</region>
+        <region class="DoCO:TextChunk" id="102" confidence="possible" page="6" column="2">Match?</region>
+        <region class="DoCO:TextChunk" id="103" confidence="possible" page="6" column="2">3 6</region>
+        <region class="DoCO:TextChunk" id="104" confidence="possible" page="6" column="2">100 msec</region>
+        <region class="DoCO:TextChunk" id="105" confidence="possible" page="6" column="2">time</region>
+        <region class="DoCO:TextChunk" id="106" confidence="possible" page="6" column="2">400 msec</region>
+        <region class="DoCO:TextChunk" id="107" confidence="possible" page="6" column="2">Until response</region>
+        <region class="DoCO:TextChunk" id="108" confidence="possible" page="6" column="2">Cue</region>
+        <region class="DoCO:TextChunk" id="109" confidence="possible" page="6" column="2">Blank</region>
+        <region class="DoCO:TextChunk" id="110" confidence="possible" page="6" column="2">Match?</region>
+        <region class="DoCO:TextChunk" id="111" confidence="possible" page="6" column="2">3 6</region>
+        <outsider class="DoCO:TextBox" type="header" id="112" page="7" column="1">v isual s hort -t erM M eMory</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="113" page="7" column="1">7</outsider>
+        <region class="unknown" id="114" page="7" column="1">90 80 Correct 70 Percent 60 50</region>
+        <region class="DoCO:FigureBox" id="Fx115">
+          <image class="DoCO:Figure" src="5w.page_007.image_09.png" thmb="5w.page_007.image_09-thumb.png"/>
+        </region>
+        <region class="unknown" id="116" page="7" column="1">Number of Cues</region>
+        <region class="DoCO:FigureBox" id="F4">
+          <caption class="deo:Caption" id="117" page="7" column="1">Figure 4. results from Experiment 2B.</caption>
+        </region>
+        <region class="DoCO:TextChunk" id="118" page="7" column="1">multiple attention cues, as the same cues are effectively used when presented before memory encoding. There are several possibilities why orienting attention in VSTM seems more restricted. First, although attention can maintain multiple split foci (Awh &amp; Pashler, 2000; Kramer &amp; Hahn, 1995), the maintenance requires extra effort. Its efficiency may decline when observers are under working memory load (Experiment 2) or under heavy perceptual load (Vogel, 2000, cited in Vogel, Woodman, &amp; Luck, 2005). Second, the split of attention may be equally effi- cient in perception and in VSTM, but the consolidation of VSTM may engage a central bottleneck that can only han- dle one item at a time (Carrier &amp; Pashler, 1995). Although it only takes 50 msec to consolidate one memorized item (Vogel et al., 2006), that process may interfere with the maintenance of other items (Griffin &amp; Nobre, 2003), re- sulting in rapid degradation of memory representation for the other item in the consolidation queue. Future studies are needed to test these possibilities. Although this study has clarified how orienting attention in VSTM enhances performance, it also leaves several questions unanswered. First, we do not know whether the memory content being selected by attention pertains to an object, a spatial location, or a visual feature. All of these can guide attention in perceptual space, but do they also guide attention in VSTM? Second, should VSTM be considered a single stage of processing whose robustness changes with attention, or should it be considered two dis- tinct stages, with a higher-capacity, vulnerable early stage and a low-capacity, robust later stage? If it makes sense to differentiate VSTM into two stages, as some researchers have suggested (Sligte et al., 2006), how should we differentiate the high-capacity, vulnerable early stage from visual iconic memory? Finally, if VSTM is usually vulnerable to interference, as attentional orienting cues are typi- cally absent, how much does it contribute to maintaining temporal continuity in natural vision? The present study is an important first step to answering these questions.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="119" confidence="possible" page="7" column="1">AuThor noTE</h1>
+        <region class="DoCO:TextChunk" id="120" confidence="possible" page="7" column="1">This study was supported by Grants NSF 0345525, ARO 46929-LS, and NIH MH071788. We thank Anna Nobre, Steve Luck, Tim Vickery,</region>
+        <region class="DoCO:TextChunk" id="122" confidence="possible" page="7" column="2">Won Mok Shim, Josh Hartshorne, and two anonymous reviewers for comments. Correspondence concerning this article should be addressed to T. Makovski, 75 East River Road, N218 Elliott Hall, Minneapolis, MN 55455. (e-mail: <email id="121">tal.makovski@gmail.com</email>).</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="123" confidence="possible" page="7" column="2">rEFErEnCES</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="124" confidence="possible" page="7" column="2">26,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="125" confidence="possible" page="7" column="2">33A,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="126" confidence="possible" page="7" column="2">21,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="127" confidence="possible" page="7" column="2">15,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="128" confidence="possible" page="7" column="2">6,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="129" confidence="possible" page="7" column="2">43,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="130" confidence="possible" page="7" column="2">26,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="131" confidence="possible" page="7" column="2">390, 279-281. (2006). Interference Journal of Vision, 6,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="132" confidence="possible" page="7" column="2">16,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="133" confidence="possible" page="7" column="2">32,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="134" confidence="possible" page="7" column="2">64,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="135" confidence="possible" page="7" column="2">6,</h1>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="136" confidence="possible" page="7" column="2">17,</h1>
+        <region class="DoCO:TextChunk" id="137" confidence="possible" page="7" column="2">Awh, E., &amp; Pashler, H. (2000). Evidence for split attentional foci. Journal of Experimental Psychology: Human Perception &amp; Performance, 834-846. Broadbent, D. E., &amp; Broadbent, M. H. P. (1981). Recency effects in visual memory. Quarterly Journal of Experimental Psychology, 1-15. Carrier, L. M., &amp; Pashler, H. (1995). Attentional limits in memory retrieval. Journal of Experimental Psychology: Learning, Memory, &amp; Cognition, 1339-1348. Griffin, I. C., &amp; Nobre, A. C. (2003). Orienting attention to locations in internal representations. Journal of Cognitive Neuroscience, 1176-1194. Kramer, A. F., &amp; Hahn, S. (1995). Splitting the beam: Distribution of attention over non-contiguous regions of the visual field. Psychologi- cal Science, 381-386. Landman, R., Spekreijse, H., &amp; Lamme, V. (2003). Large capacity storage of integrated objects before change blindness. Vision Re- search, 149-164. Lepsien, J., Griffin, I. C., Delvin, J. T., &amp; Nobre, A. C. (2005). Di- recting spatial attention in mental representations: Interactions between attentional orienting and working memory load. NeuroImage, 733-743. Luck, S. J., &amp; Vogel, E. K. (1997). The capacity of visual working memory for features and conjunctions. Nature, Makovski, T., Shim, W. M., &amp; Jiang, Y. V. from filled delays on visual change detection. 1469-1470. Phillips, W. A. (1974). On the distinction between sensory storage and short-term visual memory. Perception &amp; Psychophysics, 283-290. Posner, M. I. (1980). Orienting of attention: The 7th Sir Frederic Bartlett Lecture. Quarterly Journal of Experimental Psychology, 3-25. Schmidt, B. K., Vogel, E. K., Woodman, G. F., &amp; Luck, S. J. (2002). Voluntary and automatic attentional control of visual working memory. Perception &amp; Psychophysics, 754-763. Sligte, I. G., Lamme, V. A. F., &amp; Scholte, H. S. (2006). Iconic memory revisited: A plea for a distinction between a retinal and cortical icon [Abstract]. Journal of Vision, 989. Vogel, E. K. (2000). Selective storage in visual working memory: Dis- tinguish between perceptual-level and working memory-level mecha- nisms of attention. Iowa City: University of Iowa. Vogel, E. K., Woodman, G. F., &amp; Luck, S. J. (2005). Pushing around the locus of selection: Evidence for the flexible-selection hypothesis. Journal of Cognitive Neuroscience, 1907-1922. Vogel, E. K., Woodman, G. F., &amp; Luck, S. J. (2006). The time course of consolidation in visual working memory. Journal of Experimental Psychology: Human 1436-1451.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="138" confidence="possible" page="7" column="2">Perception &amp; Performance, 32, noTES</h1>
+        <region class="DoCO:TextChunk" id="139" confidence="possible" page="7" column="2">1. Similar to many other VSTM studies, on mismatch trials we presented a new color rather than an old color at a different location. This task places lower demand on precise spatial-feature conjunction. 2. We used a relatively long encoding duration to ensure adequate encoding of all items. 3. The total number of pixels used to create the dots was constant—for example, each cue dot in cue 6 was six times smaller than that in cue 1. (Manuscript received September 2, 2006; revision accepted for publication April 16, 2007.)</region>
+      </section>
+    </body>
+  </article>
+</pdfx>

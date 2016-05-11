@@ -1,0 +1,412 @@
+Psychological Science
+http://pss.sagepub.com/
+
+Show Your Pride : Evidence for a Discrete Emotion Expression
+Jessica L. Tracy and Richard W. Robins
+Psychological Science 2004 15: 194
+DOI: 10.1111/j.0956-7976.2004.01503008.x
+The online version of this article can be found at:
+http://pss.sagepub.com/content/15/3/194
+
+Published by:
+http://www.sagepublications.com
+
+On behalf of:
+
+Association for Psychological Science
+
+Additional services and information for Psychological Science can be found at:
+Email Alerts: http://pss.sagepub.com/cgi/alerts
+Subscriptions: http://pss.sagepub.com/subscriptions
+Reprints: http://www.sagepub.com/journalsReprints.nav
+Permissions: http://www.sagepub.com/journalsPermissions.nav
+
+>> Version of Record - Mar 1, 2004
+What is This?
+
+Downloaded from pss.sagepub.com at UNIV CALIFORNIA BERKELEY LIB on August 25, 2012
+
+PS YC HOLOGIC AL S CIE NCE
+
+Research Report
+
+Show Your Pride
+Evidence for a Discrete Emotion Expression
+Jessica L. Tracy and Richard W. Robins
+University of California, Davis
+
+ABSTRACT—Three
+
+experiments provide converging evidence that
+pride has a distinct, recognizable expression. Experiment 1 showed
+that judges can agree in identifying a posed expression as showing pride and can reliably distinguish pride expressions from
+expressions of related emotions such as happiness. Experiment 2
+showed that judges can identify the pride expression when the
+task uses an open-ended response format that does not cue them
+with the label ‘‘pride.’’ Experiment 3 showed that the pride
+expression includes a small smile, with head tilted slightly back,
+visibly expanded posture, and arms raised above the head or
+hands on hips. Overall, these ﬁndings challenge the assumption
+that all positive emotions share the same expression, and suggest
+that pride may be added to the pantheon of basic emotions
+generally viewed as evolved responses.
+
+Building on Darwin’s (1872) seminal work on the expression of
+emotions, contemporary researchers have argued that emotions
+evolved, in part, to communicate needs that facilitate survival and
+reproduction, and that, consequently, each emotion should have a
+unique signal reﬂecting its evolutionary origins. Supporting this perspective, research has demonstrated that there is a universally recognized nonverbal expression for each of the so-called basic emotions:
+anger, disgust, fear, happiness, sadness, surprise, and possibly contempt and embarrassment (Ekman, 1992). Happiness is the only positively valenced emotion on this list, leading researchers to conclude
+that all positive emotions share the same expression (Ekman, 1992;
+Fredrickson & Branigan, 2001). Thus, evidence that pride has its own
+distinct expression would overturn this assumption and imply that
+pride may have evolved to serve a particular communicative function.
+Pride is an important emotion that plays a critical role in many
+domains of psychological functioning (Tracy & Robins, in press).
+Feelings of pride reinforce prosocial behaviors such as achievement
+and caregiving. The loss of pride, in the form of humiliation or ego
+threats, can provoke aggression. The regulation of pride is intrinsically linked to the regulation and maintenance of self-esteem. In
+fact, pride is the emotion (along with shame) that gives self-esteem its
+affective kick (Brown & Marshall, 2001), and self-esteem in turn
+inﬂuences a wide range of intrapsychic and interpersonal processes.
+Address correspondence to Jessica L. Tracy, University of California, Department of Psychology, Davis, CA 95616-8686; e-mail:
+jltracy@ucdavis.edu.
+
+194
+
+Speciﬁcally, feelings of pride may boost self-esteem and thereby alert
+an individual that his or her behavior (or self) is valued by others. The
+expression of pride may serve a complementary adaptive function,
+drawing attention to the individual and alerting the social group that
+he or she merits increased acceptance and status.
+Despite its theoretical importance, pride has received relatively
+little empirical attention. Yet, in 1872, Darwin wrote, ‘‘Of all the
+complex emotions, pride, perhaps, is the most plainly expressed . . .
+a proud man exhibits his sense of superiority over others by holding
+his head and body erect’’ (p. 263). A handful of studies have indirectly
+addressed this possibility by examining the nonverbal behaviors
+shown after success experiences (Belsky & Domitrovich, 1997;
+Kasari, Sigman, Baumgartner, & Stipek, 1993; Lewis, Alessandri, &
+Sullivan, 1992; Stepper & Strack, 1993; Weisfeld & Beresford, 1982).
+The ﬁndings from these studies point to some possible components of
+a pride expression, including an expanded posture, upward or spreadout positioning of the arms, positioning of the head up and tilted back,
+and a smile. However, none of these studies tested whether pride has a
+recognizable nonverbal expression. This was the goal of the present
+research.
+
+EXPERIMENT 1
+
+Method
+Judges
+Fifty-six undergraduate students (87% women) participated for course
+credit.
+
+Stimuli
+Male and female targets posing expressions of pride, happiness, and
+surprise were photographed from the waist or shoulders up. Happiness
+and surprise were included because they are theoretically similar to
+pride and typically elicit the highest recognition rates of any basic
+emotions. The instructions for posing pride were based on previous
+research (Belsky & Domitrovich, 1997; Kasari et al., 1993; Lewis
+et al., 1992; Stepper & Strack, 1993; Weisfeld & Beresford, 1982); the
+instructions for posing happiness and surprise were based on the directed facial action task (DFA; Levenson, Carstensen, Friesen, &
+Ekman, 1991). We selected 10 photos that represented a variety of
+possible pride expressions and 19 photos that were good representations of happiness and surprise.
+
+Copyright r at
+2004
+Psychological
+Downloaded from pss.sagepub.com
+UNIVAmerican
+CALIFORNIA
+BERKELEY LIBSociety
+on August 25, 2012
+
+Volume 15—Number 3
+
+Jessica L. Tracy and Richard W. Robins
+
+Procedure
+Each photo was projected onto a large (4  6 ft.) screen for 30 s.
+Judges were told to choose from a list of options the emotion that ‘‘best
+matches the emotion expressed by the person in the photo.’’ The options were ‘‘happiness,’’ ‘‘pride,’’ ‘‘surprise,’’ and ‘‘no emotion.’’
+
+Results and Discussion
+All 10 potential pride expressions were identiﬁed as pride at greaterthan-chance frequencies (M 5 83%, range 5 73–95%, all ps < .01).1
+These frequencies were comparable to those for happiness (M5 79%,
+range 5 63–98%) and surprise (M 5 96%, range 5 95–98%). Happiness and surprise photos were almost never identiﬁed as pride (Ms 5
+5% and 0%, respectively).
+These ﬁndings suggest that individuals can agree on a pride expression and can distinguish it from happiness and surprise expressions.2 However, Experiment 1 used a forced-choice response format,
+which may have inﬂated agreement by constraining responses (Russell, 1994). In Experiment 2, we examined whether judges can
+identify a pride expression when the task uses an open-ended response format that does not cue them with the label ‘‘pride.’’
+
+EXPERIMENT 2
+
+Method
+Judges
+Ninety-six undergraduate students (69% women) participated for
+course credit.
+Stimuli
+The six photos that were identiﬁed as pride with the highest frequencies in Experiment 1, as well as the six best happiness and three
+best surprise photos, were included as stimuli.
+Procedure
+Experiment 2 used the same procedure as Experiment 1, except that
+judges were asked an open-ended question, ‘‘Which emotion is being
+expressed in this photo?’’
+
+Results and Discussion
+The open-ended format generated a range of responses. Eight undergraduate students (blind to the photos and the goals of the experiment)
+rated the extent to which each response was prototypical of pride using
+a 5-point Likert scale (a reliability5.92). Responses were classiﬁed as
+‘‘pride related’’ if the mean prototypicality rating was greater than or
+equal to the midpoint of the scale (3.0), and as ‘‘not pride related’’ if
+the mean was less than the midpoint of the scale. For example,
+‘‘proud,’’ ‘‘triumphant,’’ and ‘‘self-conﬁdent’’ were classiﬁed as pride
+related, whereas ‘‘happy’’ and ‘‘angry’’ were not. All six pride photos
+were identiﬁed as pride related at greater-than-chance frequencies
+
+(M564%, range557–82%, p < .01).3 These frequencies are similar to
+those found in previous studies of basic emotions that used an openended response format (range 5 50–97%; Boucher & Carlson, 1980).
+Only 3% of responses to happiness photos and 1% of responses to
+surprise photos were classiﬁed as pride related.
+EXPERIMENT 3
+
+Together, Experiments 1 and 2 demonstrated that expressions identiﬁed as pride generally include some degree of smile, head tilt, and
+expanded posture, with the hands on the hips or the arms raised above
+the head. To better understand the precise features of the pride expression, in Experiment 3 we manipulated these potentially relevant
+components and examined the effects on pride recognition.
+
+Method
+Judges
+One hundred seventy-eight undergraduate students (70% women)
+participated for course credit.
+Stimuli
+Male and female targets posed expressions of pride, happiness, surprise, and contempt. Each target posed eight pride expressions,
+crossing small versus large smile, head tilted slightly (151) versus
+farther back (301), and arms raised above the head versus hands on
+hips. Happiness, surprise, and contempt were posed using DFA instructions; however, bodily components were added for a second
+surprise expression and a second contempt expression. Speciﬁcally, in
+one version of the surprise expression, targets posed the facial muscle
+movements as speciﬁed by the DFA, and in the second version, they
+posed these same muscle movements but also raised their arms in
+front of them, with a slight bend at the elbows. Similarly, in one
+version of the contempt expression, targets posed the facial muscle
+movements as speciﬁed by the DFA, and in the second version, they
+posed the same muscle movements but also tilted their head slightly
+(about 151) back. Two photographs were taken of each pose—one from
+the waist up (upper body) and one from the shoulders up (head and
+shoulders)—so that we could test whether pride recognition requires a
+visibly expanded posture. Thus, 16 potential pride expressions were
+available from each target. Each judge viewed 2 of these expressions
+as posed by all targets, so that smile intensity and head tilt were
+manipulated between subjects, and arm position and visible posture
+were manipulated within subjects.
+Procedure
+Each photo was projected onto a large screen for 30 s. For each
+photo, judges chose one of the following response options: ‘‘boredom,’’
+‘‘contempt,’’ ‘‘excitement,’’ ‘‘happiness,’’ ‘‘pride,’’ ‘‘surprise,’’ ‘‘none of
+these are correct,’’ and ‘‘other: ___.’’ Boredom, excitement, and contempt were added as options because these words were occasionally
+3
+
+1
+
+Chance was conservatively set at 33% in all experiments.
+2
+Judges’ gender and ethnicity did not moderate the rate at which pride expressions were identiﬁed in this experiment or in Experiments 2 and 3, with the
+exception of a single photo in Experiment 2 that was recognized less well by
+men than by women.
+
+Volume 15—Number 3
+
+We also analyzed whether the continuous prototypicality ratings differed for
+the three categories of photos. The results were consistent with the results of
+the analysis using the dichotomous classiﬁcation: Responses to pride photos
+were signiﬁcantly more prototypical of pride than responses to happiness or
+surprise photos (standardized mean difference 5 1.75 and 3.29, respectively,
+ps < .01).
+
+Downloaded from pss.sagepub.com at UNIV CALIFORNIA BERKELEY LIB on August 25, 2012
+
+195
+
+Show Your Pride
+
+applied to pride photos in Experiment 2. The ‘‘none of these are
+correct’’ option was added to improve upon the forced-choice format
+(Frank & Stennett, 2001).
+
+Results
+Two expressions received the highest frequencies of pride identiﬁcation (Ms 5 74% and 77%, averaged across targets, both ps < .01),
+and thus represent the most prototypical expressions of pride. These
+expressions included a small smile, with the head tilted slightly back,
+fully visible expanded posture (i.e., upper body), and either arms
+raised or hands on hips. The two best exemplars of these expressions,
+shown in Figure 1, were identiﬁed as pride by 87% and 89% of
+judges. Comparable frequencies were found for happiness (M 5 78%)
+and surprise (M 5 86%) expressions, and lower frequencies were
+found for contempt (M 5 35%) expressions.
+However, identiﬁcation rates (averaged across the targets) varied
+considerably across the 16 potential pride expressions (range 5 23–
+77%), indicating that certain components are necessary for recognition of a pride expression. An analysis of variance (ANOVA) showed
+that pride identiﬁcation was higher for expressions with (a) a small
+rather than a large smile, F(1, 151) 5 15.51, p < .01; (b) head tilted
+slightly rather than far back, F(1, 151)56.24, p < .05; (c) arms raised
+rather than hands on the hips, F(1, 151) 5 29.98, p < .01; and (d) a
+visibly expanded posture rather than only head and shoulders visible,
+F(1, 151) 5 192.29, p < .01.4 These main effects, except for the main
+effect of arm position, are consistent with the two most prototypical
+expressions shown in Figure 1.5
+GENERAL DISCUSSION
+
+These three experiments demonstrate that pride has a distinct, recognizable nonverbal expression. This expression can be distinguished
+from expressions of other positive emotions and states (e.g., happiness,
+excitement), as well as from expressions of negative emotions and
+states (e.g., contempt, boredom). The pride expression can be identiﬁed when judges use either a forced-choice or an open-ended (i.e.,
+4
+We collected additional data to test whether pride can be recognized when
+targets show the bodily component of the pride expression with none or part of
+the facial components (e.g., a neutral expression). Forty-one undergraduate
+students viewed photos of targets posing eight pride expressions, crossing smile
+(none, small), head tilt (none, slight), and arm position (raised, hands on hips).
+Judges also viewed photos of targets posing anger, fear, happiness, sadness, and
+surprise. Consistent with our expectations, an ANOVA showed that pride
+identiﬁcation was higher for expressions with (a) a small smile rather than no
+smile, F(1, 38)535.30, p < .01; (b) slight rather than no head tilt, F(1, 38)5
+68.00, p < .01; and (c) arms raised rather than hands on hips, F(1, 38)522.42,
+p < .01. The only expressions recognized as pride at greater-than-chance
+frequencies (with chance set at 33%) were the two prototypical expressions
+identiﬁed in Experiment 3 (small smile, slight head tilt, arms raised or hands
+on hips); this pattern was reﬂected in a three-way interaction of smile, head tilt,
+and arm position, F(1, 38) 5 16.07, p < .01.
+5
+To test whether pride can be recognized from the face alone, we asked 85
+undergraduate students to view cropped photos (showing only the face) of the
+two best pride expressions and all happiness, surprise, and contempt expressions from Experiment 3. Pride recognition was not greater than chance for any
+of the pride photos (M 5 24%; range 5 11–38%). In all cases, identiﬁcation
+rates were signiﬁcantly lower for the face-only pride photos than for the uncropped upper-body photos, ps < .01. This ﬁnding, combined with the null
+ﬁnding for neutral facial expressions (i.e., no smile, no head tilt) described in
+footnote 4, suggests that both the face and the body are necessary for recognition of a pride expression.
+
+196
+
+Fig. 1. Prototypical pride expressions. The expression in the upper
+panel was identiﬁed as pride by 89% of judges; the expression in the
+lower panel was identiﬁed as pride by 87% of judges (see Experiment 3).
+
+participants are not cued by the label ‘‘pride’’) response format, and
+when they are free to choose ‘‘no emotion,’’ ‘‘none of these,’’ and
+‘‘other’’ as a response. Finally, the pride expression is as recognizable
+as expressions of basic emotions; across the three experiments, the
+pride-recognition rate was comparable to rates found previously for
+basic emotions (range569–97%; Ekman, Sorenson, & Friesen, 1969).
+These ﬁndings have several broad implications. First, pride can
+be added to the pantheon of emotions that have distinct, recognizable
+expressions. This ﬁnding challenges the assumption that all positive
+emotions share the same nonverbal expression. More generally,
+the identiﬁcation of a distinct signal raises the possibility that pride is
+an evolved response. If the pride expression is a product of natural
+
+Downloaded from pss.sagepub.com at UNIV CALIFORNIA BERKELEY LIB on August 25, 2012
+
+Volume 15—Number 3
+
+Jessica L. Tracy and Richard W. Robins
+
+selection, then it may have evolved to serve a particular communicative function, perhaps to convey an individual’s success to others
+and thereby promote social status. For example, the expanded posture
+associated with the expression may attract attention to the individual
+and create the impression of largeness (which conveys dominance),
+and the slight head tilt may allow the individual to gaze above the
+masses, conveying superiority.
+A second broad implication of the present research is that nonverbal expressions of emotion are not restricted to the face. The
+prototypical pride expression involves nonfacial components: Pride
+recognition was signiﬁcantly reduced when the expression was restricted to the head and shoulders, and was not greater than chance
+when the expression was restricted to the face (see footnote 5).
+However, body posture alone cannot signal pride, as the expression
+could not be recognized without the presence of the associated facial
+components (see footnote 4).
+A third implication of the present ﬁndings is that they provide the
+basis for coding participants’ feelings of pride from their observed
+nonverbal behavior. In other words, researchers who expect pride
+emotional responses in their experiments can assess the occurrence of
+such responses by coding for the presence or absence of the components of the pride expression. A nonverbal coding scheme will facilitate research on the antecedents, outcomes, and functions of pride in
+a wide range of contexts.
+The present ﬁndings suggest several other directions for future
+research. First, studies are needed to better delineate the components
+of the expression, specifying the exact musculature and body movements involved.
+Second, studies are needed to determine whether individuals experiencing pride in naturalistic settings display nonverbal behaviors
+consistent with the posed expression documented in the present research. It seems likely that this will be the case, because, as Ekman
+(1973) noted, it is unclear how judges could reach agreement on posed
+expressions if the poses do not represent expressions that occur
+spontaneously.
+Third, studies are needed to explore the universality of the pride
+expression.6 For example, can judges from a culture with minimal
+access to Western visual media recognize the expression? If so, this
+would provide further support for the hypothesis that pride is a product of natural selection.
+Fourth, studies should examine the social outcomes of the pride
+expression (e.g., does the expression convey leadership abilities?).
+Such studies will shed light on the proximal functions of pride, which
+likely involve motivating prosocial behaviors, and on the more distal
+functions, which may involve communicating dominance and status.
+In general, we hope that by demonstrating that pride has a unique
+nonverbal expression, the present research will provide a foundation
+for future studies on this important emotion.
+
+Acknowledgments—The ﬁrst author was supported by a predoctoral
+fellowship from National Institute of Mental Health Grant T32 MH
+2006. We thank Jennifer Beer, Robin Edelstein, Paul Ekman, Simona
+Ghetti, Josh Hart, Kristen Lagattuta, Erik Noftle, Phil Shaver, Gina
+Sutin, and Kali Trzesniewski for their helpful comments on this
+manuscript.
+REFERENCES
+Belsky, J., & Domitrovich, C. (1997). Temperament and parenting antecedents
+of individual difference in three-year-old boys’ pride and shame reactions. Child Development, 68, 456–466.
+Boucher, J.D., & Carlson, G.E. (1980). Recognition of facial expression in three
+cultures. Journal of Cross-Cultural Psychology, 11, 263–280.
+Brown, J.D., & Marshall, M.A. (2001). Self-esteem and emotion: Some thoughts
+about feelings. Personality and Social Psychology Bulletin, 27, 575–584.
+Darwin, C. (1872). The expression of the emotions in man and animals (3rd ed.).
+New York: Oxford University Press.
+Ekman, P. (1973). Cross-cultural studies of facial expression. In P. Ekman
+(Ed.), Darwin and facial expression: A century of research in review
+(pp. 169–222). New York: Academic Press.
+Ekman, P. (1992). An argument for basic emotions. Cognition and Emotion, 6,
+169–200.
+Ekman, P., Sorenson, E.R., & Friesen, W.V. (1969). Pan-cultural elements in
+facial displays of emotion. Science, 164, 86–88.
+Frank, M.G., & Stennett, J. (2001). The forced-choice paradigm and the perception of facial expressions of emotion. Journal of Personality and Social Psychology, 80, 75–85.
+Fredrickson, B.L., & Branigan, C. (2001). Positive emotions. In T.J. Mayne &
+G.A. Bonanno (Eds.), Emotions: Current issues and future directions (pp.
+123–151). New York: Guilford.
+Kasari, C., Sigman, M.D., Baumgartner, P., & Stipek, D.J. (1993). Pride and
+mastery in children with autism. Journal of Child Psychology and Psychiatry and Allied Disciplines, 34, 353–362.
+Levenson, R.W., Carstensen, L.L., Friesen, W.V., & Ekman, P. (1991). Emotion,
+physiology, and expression in old age. Psychology and Aging, 6, 28–35.
+Lewis, M., Alessandri, S.M., & Sullivan, M.W. (1992). Differences in shame
+and pride as a function of children’s gender and task difﬁculty. Child
+Development, 63, 630–638.
+Russell, J.A. (1994). Is there universal recognition of emotion from facial expressions? A review of the cross-cultural studies. Psychological Bulletin,
+115, 102–141.
+Stepper, S., & Strack, F. (1993). Proprioceptive determinants of emotional and
+nonemotional feelings. Journal of Personality and Social Psychology, 6,
+211–220.
+Tracy, J.L., & Robins, R.W. (in press). Putting the self into self-conscious
+emotions: A theoretical model. Psychological Inquiry.
+Weisfeld, G.E., & Beresford, J.M. (1982). Erectness of posture as an indicator
+of dominance or success in humans. Motivation and Emotion, 6, 113–
+131.
+
+(RECEIVED 11/4/02; REVISION ACCEPTED 2/6/03)
+
+6
+In another study, we found that 28 judges who were born, raised, and living
+in Italy showed high recognition for the pride expression (M578%), suggesting
+that the expression generalizes at least across Western cultures.
+
+Volume 15—Number 3
+
+Downloaded from pss.sagepub.com at UNIV CALIFORNIA BERKELEY LIB on August 25, 2012
+
+197
+
+

@@ -1,0 +1,2273 @@
+See	discussions,	stats,	and	author	profiles	for	this	publication	at:	https://www.researchgate.net/publication/6346020
+
+Projection	of	responsiveness	to	needs	and
+construction	of	satisfying	communal
+relationships
+Article		in		Journal	of	Personality	and	Social	Psychology	·	June	2007
+Impact	Factor:	5.08	·	DOI:	10.1037/0022-3514.92.5.834	·	Source:	PubMed
+
+CITATIONS
+
+READS
+
+91
+
+312
+
+3	authors:
+Edward	P	Lemay
+
+Margaret	S	Clark
+
+University	of	Maryland,	College	Park
+
+Yale	University
+
+46	PUBLICATIONS			780	CITATIONS			
+
+48	PUBLICATIONS			858	CITATIONS			
+
+SEE	PROFILE
+
+SEE	PROFILE
+
+Brooke	C	Feeney
+Carnegie	Mellon	University
+40	PUBLICATIONS			1,993	CITATIONS			
+SEE	PROFILE
+
+All	in-text	references	underlined	in	blue	are	linked	to	publications	on	ResearchGate,
+letting	you	access	and	read	them	immediately.
+
+Available	from:	Edward	P	Lemay
+Retrieved	on:	10	May	2016
+
+Journal of Personality and Social Psychology
+2007, Vol. 92, No. 5, 834 – 853
+
+Copyright 2007 by the American Psychological Association
+0022-3514/07/$12.00 DOI: 10.1037/0022-3514.92.5.834
+
+Projection of Responsiveness to Needs and the Construction of Satisfying
+Communal Relationships
+Edward P. Lemay, Jr., and Margaret S. Clark
+
+Brooke C. Feeney
+
+Yale University
+
+Carnegie Mellon University
+
+This research tested a social projection model of perceived partner responsiveness to needs. According
+to this model, people project their own care and supportiveness for a partner onto their perceptions of
+their partner’s caring and supportiveness. In 2 dyadic marriage studies, participants’ self-reported
+responsiveness to the needs of a spouse predicted perceptions of the spouse’s responsiveness to the self
+more strongly than did the spouse’s self-reported responsiveness. These projected perceptions of
+responsiveness, in turn, appeared to promote perceivers’ relationship satisfaction. These effects were
+independent of individual differences in attachment, self-esteem, depression, and communal orientation.
+A daily-diary component suggested that people projected their own chronic responsiveness as well as
+their daily enacted support onto perceptions of the specific benefits received from their spouses. A 3rd
+study found that experimentally manipulated feelings of difficulty in recalling examples of own support
+provision reduced perceptions of partner responsiveness. Results suggest that projection of own responsiveness is an important determinant of perceived social support and is a means by which caring
+perceivers maintain satisfying and subjectively communal relationships.
+Keywords: social support, projection of responsiveness, relationship satisfaction, assumed similarity,
+communal relationships
+
+faction through this process, as it constructs perceptions of mutual
+communal relationships. By the same token, those who are uncaring believe their apathy is reciprocated, which undermines their
+satisfaction.
+
+An essential feature of mutual communal relationships is believing that one’s partner cares about one’s welfare and will attend
+and respond to one’s desires, needs, and goal strivings (Clark &
+Mills, 1979, 1993; Mills & Clark, 1982). Indeed, perceived partner
+responsiveness is a cardinal marker of relationship health and
+well-being (Reis, Clark, & Holmes, 2004). Identification of the
+processes guiding the construction of perceptions of responsiveness, then, is crucial for understanding the maintenance and quality
+of interpersonal relationships. To this end, we present a social
+projection model of perceived partner responsiveness. According
+to our model, people project their own supportiveness and motivation to attend to their partner’s needs onto perceptions of partners, presuming that their own supportiveness and motivation are
+more reciprocated by their partners than may be the case. Moreover, we suggest that caring perceivers enhance their own satis-
+
+The Subjective Perception of Social Support
+The predominant, albeit often implicit, assumption most theories of social support make is that perceptions of partner supportiveness reflect actual partner supportiveness (B. R. Sarason, Sarason, & Pierce, 1990), and not surprisingly, several studies support
+this perspective. Married individuals’ reports of support given do
+predict spouses’ reports of support received (Vinokur, Schul, &
+Caplan, 1987), and laboratory observations of providers’ support
+are related to recipients’ appraisals of receiving support in the
+observed interactions (Collins & Feeney, 2000).
+Two types of evidence, however, suggest there may be just a
+kernel of truth in overall perceptions of partner responsiveness.
+First, providers and recipients of support do not show high agreement on amounts of support given. For instance, agreement between providers and recipients regarding enactment of specific
+supportive behaviors is often weak (Bolger, Zuckerman, &
+Kessler, 2000; Coriell & Cohen, 1995; see B. R. Sarason et al.,
+1990, for a review). In addition, people’s general perceptions of
+their partner’s supportiveness are only moderately related to partners’ reports of their own general supportiveness (Abbey, Andrews, & Halman, 1995; Vinokur et al., 1987). Finally, when
+predicting recipients’ appraisals of support received in a particular
+interaction, substantial variance remains unexplained after controlling for external indicators of that support (Collins & Feeney,
+2000).
+Second, general perceptions of a partner’s level of supportiveness are only moderately related to perceptions of specific sup-
+
+Edward P. Lemay, Jr., and Margaret S. Clark, Department of Psychology, Yale University; Brooke C. Feeney, Department of Psychology,
+Carnegie Mellon University.
+Study 1 was supported by National Institute of Mental Health Grant
+MH066119. Study 2 was supported by National Science Foundation Grant
+BNS 9983417. Edward P. Lemay, Jr.’s participation in the project was
+supported by a National Institute of Mental Health National Research
+Service Award predoctoral fellowship. The opinions and conclusions expressed in the article are those of the authors and do not necessarily reflect
+the opinions of the National Science Foundation or of the National Institutes of Health. We thank Virginia Fraser, Patricia Jenkins, and Sherri
+Pataki for assistance with collecting data for Study 2.
+Correspondence concerning this article should be addressed to either
+Edward P. Lemay, Jr., or Margaret S. Clark, who are both at the Department of Psychology, Yale University, Box 208205, New Haven, CT
+06520-8205. E-mail: edward.lemay@yale.edu or margaret.clark@yale.edu
+834
+
+PROJECTION OF RESPONSIVENESS
+
+portive behaviors the partner enacts (Dunkel-Schetter & Bennett,
+1990; Lakey & Cassady, 1990; B. R. Sarason, Shearin, Pierce, &
+Sarason, 1987). That is, people seem to distinguish a partner’s
+general supportiveness from the partner’s supportive behavior.
+Clearly, perceived general responsiveness of relationship partners—a variable known to be more predictive of psychological and
+physical well-being than specific supportive behaviors (Stroebe &
+Stroebe, 1996)—is to a large extent subjectively constructed. The
+processes through which such construction occurs, however, have
+not received much attention.
+
+The Projection of Communal Responsiveness
+We propose that perceptions of partner supportiveness are
+largely derived through the process of social projection or, in other
+words, the attribution of one’s own characteristics to others (Allport, 1924; D. S. Holmes, 1968). We suggest that those who care
+for their partners assume (sometimes incorrectly) that their partners care in return and that those who do not care assume (sometimes incorrectly) that their partners, likewise, do not care. The
+result is relationships perceived as mutually caring or uncaring.
+There exists considerable evidence for the operation of projection more generally in relationships. People overestimate the degree to which their own attributes are shared by others (Ross,
+Greene, & House, 1977; see Marks & Miller, 1987, for a review),
+and this is the case even for close, well-known others. Thoughts
+and feelings (Thomas & Fletcher, 2003), interpersonal traits (Murray, Holmes, & Griffin, 1996), values (Murray, Holmes, Bellavia,
+Griffin, & Dolderman, 2002), and depression (Schul & Vinokur,
+2000) appear to be projected. Relationship commitment (Adams &
+Jones, 1997), attachment characteristics (Ruvolo & Fabin, 1999),
+and, perhaps most closely related to the present work, feelings of
+closeness to a partner (Kenny & Acitelli, 2001) also are projected.
+Here, we propose that people also project their own enacted
+supportive behaviors onto partner-enacted support, their own general motivation to support their partner onto perceptions of a
+partner’s motivation to care for the self, and self-perceptions of
+general supportiveness onto the global support made available by
+one’s partner.
+
+What Might Drive the Projection?
+The projection of responsiveness may be driven, in part, by
+cognitive processes. Constructs that are chronically accessible in
+perceivers’ self-schemata tend to be accessible and applied when
+judging others (Andersen & Chen, 2002; Higgins, King, & Mavin,
+1982; Marks & Miller, 1987; Markus, Smith, & Moreland, 1985).
+In close relationships, own responsiveness may take the form of
+goal or trait constructs that are linked to representations of specific
+partners and activated upon activation of the partner representation
+(cf. Fitzsimons & Bargh, 2003), in turn biasing perceptions of the
+partner. Construct accessibility need not be chronic or controlled
+for such a process to occur. Even temporary activation of an
+interpersonal goal may be unconsciously projected onto a close
+partner (Kawada, Oettingen, Gollwitzer, & Bargh, 2004). Moreover, because many communal relationships (e.g., friendships,
+romantic relationships) are known to be typically mutual, one’s
+own responsiveness to the needs of a partner may be especially
+likely to generate expectancies that one’s partner is also respon-
+
+835
+
+sive. In turn, such expectancies of responsiveness may bias attention, encoding, and retrieval of relevant evidence in such a manner
+as to fulfill expectations (Coriell & Cohen, 1995).
+Motivation likely also contributes to projection of responsiveness. People desire a sense of security in their close relationships.
+They want to trust that their relationships are stable, that their
+partners are committed, and that these partners care for them (J. G.
+Holmes & Rempel, 1989; Reis, Clark, & Holmes, 2004). They
+appear to make a variety of cognitive distortions to maintain these
+perceptions. They have been shown to positively distort images of
+their partner and to have optimistic perceptions of the future of the
+relationship and an unrealistic sense of control over it (Murray,
+1999; Murray & Holmes, 1997). They diminish the perceptions of
+alternative partners’ attractiveness (Johnson & Rusbult, 1989), fail
+to perceive partner thoughts accurately (Simpson, Ickes, & Blackstone, 1995), and perceive their relationship as superior to others’
+relationships (Rusbult, Van Lange, Wildschut, Yovetich, & Verette, 2000). These distortions all appear to be in the service of
+maintaining relationships. The projection of responsiveness is
+likely another instance of motivated social cognition in relationships. Projection of high levels of caring would help caring perceivers maintain a sense of security and reduce feelings of vulnerability that might arise by acknowledging a lack of caring on the
+partner’s part (cf. Murray, Holmes, & Griffin, 2000; Murray,
+Holmes, MacDonald, & Ellsworth, 1998). Thus, people who are
+strongly attached to their partners, who are more committed, or
+who fear the loss of the relationship may be especially likely to
+project their responsiveness to meet their needs for felt security.
+Projecting a lack of responsiveness may also be motivated.
+Projection of low levels of caring would help noncaring partners
+justify their lack of care, reduce guilt, or avoid committing more
+care to a partner who, they might fear, could reject them. Moreover, projecting low levels of care may even be a relationshipenhancing process. A relationship other than a strong communal
+one (e.g., a low-strength communal relationship or an exchange
+relationship) may be facilitated by both partners not feeling particularly responsive to the other’s needs. Those who desire such a
+relationship may be motivated to see the partner as similarly not
+responsive. However, this should not suggest that projecting low
+levels of responsiveness is always congruent with one’s motivations. People often fail to behave communally toward partners with
+whom they desire communal relationships (Clark, Graham, &
+Grote, 2002). In such cases, the projection of one’s own lack of
+responsiveness, perhaps driven by cognitive mechanisms or an
+individualistic motivation to reduce guilt, may frustrate interpersonal needs for felt security.
+
+Interpersonal Consequences of Projected Responsiveness.
+Beyond predicting that people will project their own communal
+responsiveness onto their partners, we predict that doing so will
+affect satisfaction with the relationship. Our reasoning is straightforward. Responsiveness has been shown to be critical for the
+development of trust and felt security in relationships (Collins &
+Feeney, 2000), and receipt of responsive caregiving from a partner
+is known to predict relationship satisfaction (Abbey et al., 1995;
+Collins & Feeney, 2000; Kaul & Lakey, 2003). Whether one
+believes that a partner is (or is not) responsive because the partner
+is objectively responsive (or not) or because one is projecting
+
+LEMAY, CLARK, AND FEENEY
+
+836
+
+one’s own responsiveness onto the partner should make little
+difference in terms of the effects of perceived responsiveness on
+felt security and relationship satisfaction.
+
+Other Theoretical Perspectives
+Prior perspectives regarding the processes underlying subjective
+construction of partner responsiveness have emphasized biases
+related to individual differences. People with low self-esteem
+(Lakey & Cassady, 1990; B. R. Sarason et al., 1991; Vinokur et al.,
+1987), those who are depressed (Lakey & Cassady, 1990; Vinokur
+et al., 1987), and those with attachment-related anxiety and avoidance (Collins & Feeney, 2004) appear to have stable biases predisposing them to view partners as unsupportive. Indeed, perception of high or low generalized support from others has itself been
+construed as a personality trait involving a stable cognitive bias to
+perceive partners as supportive or not (Lakey & Cassady, 1990;
+I. G. Sarason, Sarason, & Shearin, 1986).
+Akin to this personality perspective, our model posits bias in
+perceiving support. However, unlike the personality perspective,
+our model does not assume that the source of this bias must be an
+individual-differences variable, nor does it assume similar perceptions of all relationship partners by a single individual. Our projection model posits dyadic effects. People should themselves have
+different levels of responsiveness toward different relationship
+partners, and these different levels of responsiveness should cause,
+through projection, analogous differences in perceived partner
+responsiveness.1
+Whereas personality variables are presumed to be stable over
+time, the projection model explicitly does not assume that one’s
+own responsiveness (even within the context of a single relationship) is stable. Enactment of supportive behaviors and motivation
+to provide support covary with changes in recipients’ needs, providers’ resources, and any number of other factors. Fluctuations in
+own responsiveness both between and within particular relationships would be expected, according to our model, to be projected
+onto partners, producing concomitant fluctuations in perceived
+partner responsiveness. Such fluctuations could not be easily explained from a personality perspective.
+Another literature to which our ideas relate is that on positive
+relationship illusions. That research suggests that positive selfviews and positive ideals for close relationships bias perceptions of
+a partner’s traits (Murray et al., 1996). People presumably project
+the interpersonal traits of their ideal partners and their positive
+self-images onto the images they hold of partners, seeing their
+partners as possessing more desirable qualities than their partners
+claim to possess. In turn, people who idealize partners tend to
+report greater relationship satisfaction (Murray et al., 1996; Murray & Holmes, 1997), a finding similar to that we posit in the
+projected responsiveness model. However, the theoretical perspectives are distinct. The positive illusions perspective posits that
+these positive perceptions enhance satisfaction because they allow
+perceivers to gain a sense of conviction about investing in their
+partners by resolving doubts arising from investing in a less than
+ideal partner. Our model, by contrast, focuses on communal responsiveness and posits that it is satisfying to perceive a partner as
+caring and that such perceptions largely derive from one’s own
+responsiveness to the partner rather than one’s own selfevaluations or ideals.
+
+Our model can also be distinguished from a satisfaction–
+benevolence model, which is also dyadic in nature. A satisfaction–
+benevolence model assumes that being satisfied with a relationship
+leads to benevolent perceptions of a partner, including his or her
+responsiveness (a halo effect specifically driven by satisfaction). In
+one study, relationship satisfaction predicted recipients’ perceptions of support received in a laboratory interaction even after
+controlling for indicators of the other’s actual supportiveness during that interaction (Collins & Feeney, 2000). In other research,
+even after controlling for recipients’ perceptions of a partner’s
+specific supportive behaviors, relationship satisfaction and perceptions of similarity continued to predict generalized perceptions of
+the partner’s supportiveness (Kaul & Lakey, 2003; Lakey et al.,
+2002). Thus, there is some evidence for this satisfaction–
+benevolence model. However, we expect that such satisfactionbased distortions are independent of our hypothesized projection
+process.
+
+Prior Support for Projection of Responsiveness
+Our model is new, although some existing findings are consistent with it. Abbey and colleagues (1995), for instance, reported
+strong positive correlations between people’s perceptions of support received from their spouses and perceptions of support they
+provided to their spouses—a finding that the authors attributed to
+personality or a bias to perceive equity in close relationships.
+Brunstein, Dangelmayer, and Schultheiss (1996, Study 2) found
+that measures of providing goal support to one’s spouse and
+receiving goal support from one’s spouse were highly related, as
+the projection model would predict. Similarly, Kenny and Acitelli
+(2001) found support for projection bias using a single item
+assessing the frequency with which a partner was perceived as
+feeling especially caring in the past month. Their emphasis, however, was on the occurrence of projection generally, in regard to
+many domains of perception, rather than on projected responsiveness and its effects on satisfaction specifically.
+
+Overview of Research
+We present three studies testing our projection of responsiveness model. Two are dyadic marriage studies, used to test the
+dyadic model presented in Figure 1. In this model, perceived
+partner responsiveness is largely a function of own responsiveness
+(Path A) but also may reflect some understanding, or accuracy,
+indicated by an effect of the other partner’s self-reported respon1
+
+Our hypothesized dyadic bias is consistent with findings revealing that
+perceptions of supportiveness that are idiosyncratic to particular dyads
+(relationship effects) explain more variance in perceived support than do
+general tendencies to see others as supportive ( perceiver effects; Lakey,
+McCabe, Fisicaro, & Drew, 1996) and that perceptions of particular partners’ supportiveness can be distinguished from overall perception of support from one’s social environment (Pierce, Sarason, & Sarason, 1991).
+Proponents of the personality view of bias would likely suggest that
+variation associated with specific pairings of people reflects true variation
+between dyads in partner responsiveness. We would agree that true responsiveness might account for some of the variation due to dyads but
+would add that projection of one’s own responsiveness also is likely to be
+an important determinant of perceived partner responsiveness idiosyncratic
+to particular dyads.
+
+PROJECTION OF RESPONSIVENESS
+
+Perceiver’s felt
+responsiveness to partner
+
+D
+A (Projection)
+Perceiver’s perception of
+partner’s responsiveness
+
+Partner’s felt responsiveness
+to perceiver
+Figure 1.
+
+837
+
+C
+
+Perceiver’s
+satisfaction
+
+B (Accuracy)
+E
+Theoretical model of projection of responsiveness.
+
+siveness (Path B).2 Also shown in Figure 1, perceptions of partner
+responsiveness, in turn, should predict perceivers’ satisfaction
+(Path C). To index the extent to which projected responsiveness
+predicts satisfaction, we compared the effect of own responsiveness on satisfaction (Path D) across models that did and did not
+control for projected responsiveness (Path A). The reduction of
+this effect after controlling for projected responsiveness is an index
+of the effect of projected responsiveness on satisfaction.3 The
+indirect effect of own responsiveness on satisfaction, mediated by
+perceptions of partner responsiveness, was also formally tested.
+Path E in Figure 1 illustrates that people also may be satisfied
+when they have a partner who reports responsiveness. This satisfaction, though, may depend on the perceiver detecting that responsiveness (Path B; see Reis et al., 2004). Thus, perceived
+partner responsiveness may carry the influence of both partners’
+responsiveness on satisfaction through accurate detection and projection of responsiveness.
+Studies 1 and 2 featured analyses that controlled for various
+variables presumed to predict perceived partner responsiveness
+according to the other theoretical perspectives described above. To
+obtain preliminary evidence regarding the role of motivation,
+Study 1 also tested whether people who are strongly committed to
+maintaining their relationships are more likely to project their
+responsiveness. Such findings would suggest that the projection of
+responsiveness is a motivated, relationship-maintenance mechanism. Study 2 examined effects of projected responsiveness on
+longitudinal changes in satisfaction as well as projection in perceptions of specific supportive acts. In Study 3, we experimentally
+manipulated participants’ perceptions of own responsiveness to a
+partner, then measured perceptions of that partner’s responsiveness, predicting that manipulated changes in perceptions of own
+responsiveness would be projected onto perceptions of the partner’s responsiveness.
+
+Study 1
+Attachment theory (Bowlby, 1969/1982, 1988) identifies the
+relief of distress and the facilitation of goal pursuit and exploration
+as two primary functions of caregiving (see also Feeney, 2004;
+Feeney & Collins, 2004; Trobst, 2000). Caregivers act as a safe
+haven for support recipients by meeting the recipient’s needs for
+felt security, through relieving distress and resolving problems.
+Caregivers provide a secure base for the recipient by supporting
+the recipient’s autonomy, communicating availability of comfort
+and assistance, and encouraging exploration in the environment
+
+and pursuit of goals. In Study 1, we tested the projected responsiveness model in regard to these two broad domains of responsiveness.
+To empirically distinguish the projected responsiveness model
+from the personality perspective on perceived partner responsiveness, we controlled for effects of self-esteem and attachmentrelated anxiety and avoidance. In addition, to distinguish between
+projected responsiveness and positive relationship illusions, Study
+1 examined projected responsiveness effects after controlling for
+evaluation of the partner’s interpersonal traits, which has been
+used as an index of general positive illusions in other research
+(Murray et al., 1996). Although perceptions of partner responsiveness should correlate with perceptions of a partner’s interpersonal
+traits, we expected to find evidence of projected responsiveness
+and an effect of projected responsiveness on satisfaction even after
+controlling for positive evaluation of the other’s traits.
+Study 1 also tested a motivational explanation of projected
+responsiveness. Relationship commitment reflects one’s motivation to maintain a close relationship, as well as emotional attachment to the relationship. Prior research has suggested that highly
+committed individuals are more likely than those who are less
+committed to exhibit cognitive biases in perceiving their relationships, including derogation of alternative partners (Johnson &
+Rusbult, 1989), excessive optimism and unrealistic perceptions of
+2
+In making these predictions, we are not arguing that self-reported
+responsiveness to a partner’s needs is always accurate. Indeed, given social
+desirability and self-enhancement biases, such reports are likely exaggerated. Such exaggeration likely affects mean differences rather than the
+linear relationships emphasized in our research. In addition, significant
+accuracy effects in the current research, as well as effects of partner’s
+self-reported responsiveness on the perceiver’s satisfaction, would lend
+validity to the partner’s reports of responsiveness. Also, we note that the
+partner’s self-report is a common benchmark for indexing the perceiver’s
+understanding of the partner in studies of perceived social support (e.g.,
+Abbey et al., 1995; Bolger et al., 2000; Collins & Feeney, 2000; Coriell &
+Cohen, 1995; Vinokur et al., 1987) and interpersonal perception (e.g.,
+Kenny & Acitelli, 2001; Murray et al., 1996; Schul & Vinokur, 2000;
+Simpson et al., 1995).
+3
+Note that this procedure confines the possible estimate of the effect of
+projected responsiveness on satisfaction such that it cannot be larger than
+the variance already explained by own responsiveness. This ensures that
+the effect of projected responsiveness on satisfaction is not confounded
+with the effect of positive illusions of responsiveness (biased by factors
+other than own responsiveness).
+
+LEMAY, CLARK, AND FEENEY
+
+838
+
+control (Martz et al., 1998), and perceptions of relationship superiority (Rusbult et al., 2000). Such findings suggest that these
+cognitive biases are motivated. In the current research, we expected that perceivers who cared for their partners would be more
+likely to project this responsiveness onto their partners when they
+also were strongly committed to maintaining their relationship.
+Such findings would suggest that the projection of responsiveness
+is motivated by desires for felt security.
+
+Method
+Participants and Procedure
+Participants were 191 married couples recruited from the Pittsburgh, PA area through local newspaper advertisements. Couples
+were paid $120 for their participation in a larger study on support
+processes, of which the questionnaire used in the current investigation was one component. Couples completed the questionnaires
+in separate laboratory rooms. With the exception of one gay couple
+and one lesbian couple, the couples were heterosexual. On average, wives and husbands were 38 and 40 years old, respectively,
+although ages ranged from 18 to 82 years old. Couples had been
+married for an average of 10 years. Women were varied in terms
+of education level (18.5% did not attend college, 40.7% attended
+some college, 21.2% had a bachelor’s degree, and 19.6% had
+postgraduate education), as were men (22.0% did not attend college, 31.9% attended some college, 19.9% had a bachelor’s degree,
+and 26.2% had postgraduate education). Approximately 77% of
+women and 75% of men were Caucasian; 17% of women and 18%
+of men were African American.
+
+Measures
+Own safe haven responsiveness. Respondents completed an
+abbreviated (24-item) version of the Caregiving Questionnaire
+(Kunce & Shaver, 1994). The current study utilized the 18 items
+assessing proximity (e.g., “When my partner seems to want or
+need a hug, I’m glad to provide it”), sensitivity (e.g., “I can always
+tell when my partner needs comforting, even when s/he doesn’t ask
+for it”), and compulsive caregiving (e.g., “I sometimes create
+problems by taking on my partner’s troubles as if they were my
+own”). Items were answered on 6-point response scales (1 ⫽
+disagree strongly, 6 ⫽ agree strongly). Compulsive items were
+reverse scored and then averaged with proximity and sensitivity
+responses (␣ ⫽ .81).4
+Perception of partner’s safe haven responsiveness. The same
+set of items was reworded to assess perceptions of partner’s safe
+haven responsiveness (e.g., “When I want or need a hug, my
+spouse seems glad to provide it”). These items were answered on
+the same response scales as described above (␣ ⫽ .86).
+Respondents completed a second measure of perceived partner
+safe haven responsiveness (e.g., “My spouse is always there for me
+whenever I need him/her,” “I can count on my spouse to comfort
+and help me when I need it,” “My spouse makes me feel safe and
+secure”; Feeney, 2004). The 10 items were answered on 5-point
+response scales (1 ⫽ disagree strongly, 5 ⫽ agree strongly; ␣ ⫽
+.92). These two measures of perceived partner safe haven responsiveness were strongly correlated (r ⫽ .77). Consequently, they
+were standardized and then averaged to create a composite measure of perceived partner safe haven responsiveness.
+
+Own secure base responsiveness. Own secure base responsiveness was assessed using a 17-item measure (Feeney, 2005).
+Items tapped intrusiveness during spouse’s goal pursuit (e.g., “I
+sometimes interfere with my spouse’s activities when he/she is
+exploring a challenging activity or task,” “I sometimes interfere
+with my spouse’s ability to accomplish his/her personal goals”)
+and availability and encouragement during spouse’s goal pursuit
+(e.g., “When my spouse tells me about something new that he/she
+would like to try, I usually encourage him/her to do it,” “When my
+spouse is facing a challenging or difficult situation, I try to make
+myself available to him/her in case he/she needs me”). Responses
+to intrusiveness items were reverse scored and then averaged with
+encouragement and availability responses (␣ ⫽ .82).
+Perceptions of partner’s secure base responsiveness. Respondents completed identical items reworded to assess perceptions of
+partner’s secure base responsiveness (e.g., “My spouse sometimes
+interferes with my activities when I am exploring a challenging
+activity or task,” “When I tell my spouse about something new that
+I would like to try, he/she usually encourages me to do it”; ␣ ⫽
+.91).
+Marital satisfaction. Respondents completed a six-item measure adapted from prior studies (Collins & Read, 1990; Van Lange
+et al., 1997) that assessed the degree to which they felt happy and
+satisfied in their marriage (e.g., “All things considered, how happy
+are you in your relationship?”, “How does your relationship compare to other people’s?”). Items were answered on 8-point response scales (␣ ⫽ .95).
+Commitment. Respondents completed a six-item measure
+adapted from prior studies (Johnson & Rusbult, 1989; e.g., “Do
+you feel committed to maintaining your relationship with your
+spouse?”, “For how much longer do you want your relationship to
+last?”), answered on 8-point response scales (␣ ⫽ .81).
+Self-esteem. Participants completed the Rosenberg SelfEsteem Scale (Rosenberg, 1965). The 10 items were answered on
+7-point response scales (1 ⫽ strongly disagree, 7 ⫽ strongly
+agree; ␣ ⫽ .89).
+Attachment-related anxiety and avoidance. Participants completed a modified, 26-item version of the Experiences in Close
+Relationships Scale (Brennan, Clark, & Shaver, 1998). Instructions and items were reworded to assess attachment-related anxiety
+and avoidance in the context of important relationships generally.
+Items were answered on 7-point response scales (1 ⫽ disagree
+strongly, 7 ⫽ agree strongly). Five avoidant items and five anxious items that had the lowest correlations with the respective total
+scores were eliminated from the questionnaire (anxious ␣ ⫽ .90,
+avoidant ␣ ⫽ .88).
+Evaluation of partner’s interpersonal traits. Respondents indicated the extent to which 37 traits described their spouses generally. These included 21 negative traits (e.g., insulting, rejecting,
+demanding, argumentative, complaining, angry, conceited, bossy,
+selfish, critical) and 16 positive traits (e.g., understanding, sup4
+
+The Kunce and Shaver (1994) caregiving measure also includes a set
+of items assessing controlling caregiving (e.g., “My spouse tends to be too
+domineering when trying to help me”). These items were not included in
+the safe haven caregiving measures because they seem more closely related
+to secure base caregiving. Nevertheless, analyses that included these items
+produced an identical pattern of results.
+
+PROJECTION OF RESPONSIVENESS
+
+portive, caring, sensitive, encouraging, comforting, considerate,
+sympathetic, respectful, peaceful). Items were answered on 5-point
+response scales (1 ⫽ not at all, 5 ⫽ extremely). Responses to
+negative items were reverse scored and then averaged with responses to positive items (␣ ⫽ .96).
+
+Table 1
+Effects of Own Responsiveness, Partner Responsiveness, and
+Personality Control Variables on Perceived Partner
+Responsiveness (Study 1)
+
+Results and Discussion
+Analytic Strategy: Indexing Projected Responsiveness
+As discussed previously, accuracy of perceiving partner responsiveness, or the extent to which the perceiver understood the
+partner’s felt responsiveness, was indexed by the effect of the
+partner’s self-reported responsiveness on the perceiver’s perceptions of that partner’s responsiveness (Path B in Figure 1). Projection bias was indexed by the effect of the perceiver’s own
+responsiveness to the partner on the perceiver’s perceptions of the
+partner’s responsiveness after controlling for the accuracy effect
+(Path A in Figure 1).
+Mediation analyses examined the degree to which projected
+responsiveness predicted satisfaction. An effect of projected responsiveness on satisfaction is indicated by a significant effect of
+perceivers’ own responsiveness on their own satisfaction (controlling for the partner’s responsiveness; Path D in Figure 1) and a
+reduction of that effect after controlling for the overlap between
+own responsiveness and perceptions of partner responsiveness.
+That overlap indicates projected responsiveness, and the reduction
+of the effect of own responsiveness on satisfaction after controlling
+for the overlap is an index of the effect of projected responsiveness
+on satisfaction. Sobel tests (Goodman I version; Baron & Kenny,
+1986) tested the significance of the indirect path of own responsiveness affecting perceptions of partner responsiveness, in turn
+affecting satisfaction (combination of Paths A and C in Figure 1).
+Two-level multilevel models (cf. Bryk & Raudenbush, 1992;
+Nezlek, 2001) were tested using the HLM 5.0 program (Raudenbush, Bryk, Cheong, & Congdon, 2000). These analyses modeled
+individuals (Level 1) as nested within couples (Level 2).5 Given
+the limited degrees of freedom at Level 1 (only two individuals per
+couple), slopes were modeled as fixed across couples, whereas
+intercepts were modeled as randomly varying (cf. Campbell &
+Kashy, 2002; Kashy & Kenny, 2000). All variables were standardized across the entire sample to facilitate comparison of the effects
+of the predictor variables on the outcome variables across measures and studies.
+
+Projection of Own Responsiveness
+Two sets of models tested hypotheses regarding projection of
+own responsiveness. Results of these analyses are presented in
+Table 1.6 The first set of models (see Model 1 columns in Table 1)
+presents effects of own responsiveness (projection) and partner
+responsiveness (accuracy) on perceptions of partner responsiveness. The second set of models (see Model 2 columns in Table 1)
+includes the self-esteem and attachment personality variables as
+additional predictors. Results support predictions regarding projection of responsiveness; in both safe haven and secure base
+domains, participants’ judgments of their partner’s responsiveness
+were more strongly predicted by their own responsiveness (Path A
+in Figure 1) than by their partner’s self-reported responsiveness
+
+839
+
+Predictor
+Own responsiveness
+Partner’s responsiveness
+Self-esteem
+Avoidant attachment
+Anxious attachment
+
+Safe haven support
+
+Secure base support
+
+Model 1
+
+Model 1
+
+***
+
+.60
+.22***
+—
+—
+—
+
+Model 2
+***
+
+.49
+.20***
+.05
+⫺.13*
+⫺.08
+
+***
+
+.52
+.17**
+—
+—
+—
+
+Model 2
+.43***
+.17***
+.19**
+⫺.16**
+.02
+
+Note. Coefficients are standardized hierarchical linear modeling coefficients. Dashes represent intentional omissions of variables from analyses,
+to be added in subsequent analyses.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+(Path B in Figure 1). Notably, the partner’s self-reported responsiveness also predicted the perceiver’s perceptions of that responsiveness, suggesting that these perceptions were largely projected
+but also held a kernel of truth. Such agreement suggests some
+validity to the partners’ reports of their own responsiveness. That
+this pattern was observed in Model 2 suggests that projection of
+own responsiveness had effects on perceived partner responsiveness that were unique from the effects emphasized by the personality perspective on perceived partner responsiveness (at least a
+personality perspective emphasizing attachment or self-esteem).
+
+Effects of Projected Responsiveness on Perceivers’
+Relationship Satisfaction
+Having obtained evidence that perceptions of partner responsiveness are, in part, derived from own responsiveness, we next
+used a series of models to test whether projections of responsiveness would predict perceivers’ relationship satisfaction. Results of
+these analyses, displayed in Table 2, suggest an effect of projected
+responsiveness on satisfaction. For both safe haven and secure
+base domains, own responsiveness strongly predicted satisfaction
+in Model 1 (Path D in Figure 1), and this effect was almost entirely
+(for safe haven responsiveness) or entirely (for secure base responsiveness) eliminated when the overlap between own responsiveness and perceptions of partner responsiveness was controlled in
+Model 2. Sobel tests (controlling for all other predictor variables)
+confirmed that the indirect effects of own responsiveness on satisfaction, mediated by perceptions of partner responsiveness (combination of Paths A and C in Figure 1), were significant. Thus,
+projected responsiveness predicted increased satisfaction and
+largely accounted for the effect of own responsiveness on satis5
+
+Separate ordinary least squares regression analyses were also conducted for men and women. As the pattern of results was identical, the
+presented analyses were simplified by collapsing across gender. The same
+is the case for results of Study 2.
+6
+The sample sizes for models of secure base and safe haven responsiveness differ from the overall sample size because some participants did
+not complete all measures necessary for analyses within each domain of
+support (safe haven: Level 2 N ⫽ 151, Level 1 N ⫽ 302; secure base: Level
+2 N ⫽ 170, Level 1 N ⫽ 340).
+
+LEMAY, CLARK, AND FEENEY
+
+840
+
+Table 2
+Effects of Own Responsiveness, Partner Responsiveness, and
+Personality Control Variables on Satisfaction as a Function of
+Controlling for Perceived Partner Responsiveness (Study 1)
+
+Predictor
+Own responsiveness
+Partner’s responsiveness
+Self-esteem
+Avoidant attachment
+Anxious attachment
+PPR
+Own responsiveness 3
+PPR Sobel test
+
+Safe haven support
+
+Secure base support
+
+Model 1
+
+Model 1
+
+Model 2
+
+***
+
+.00
+.02
+.08
+.00
+⫺.12*
+.62***
+
+***
+
+.47
+.19***
+.18**
+⫺.05
+⫺.05
+—
+
+Model 2
+**
+
+.14
+.06
+.15**
+.03
+.01
+.68***
+
+.27
+.12*
+.20**
+⫺.10
+⫺.08
+—
+
+7.63***
+
+7.02***
+
+Note. Coefficients are standardized hierarchical linear modeling coefficients. Dashes represent intentional omissions of variables from analyses,
+to be added in subsequent analyses. PPR ⫽ perceived partner responsiveness.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+faction; responsive caregivers were satisfied primarily because
+they presumed that their spouses were similarly responsive.
+
+Satisfaction–Benevolence Model
+Although these mediation analyses suggest that the path of
+causation runs from own responsiveness to perceptions of partner
+responsiveness to relationship satisfaction, perhaps perceptions of
+partner responsiveness and relationship satisfaction are so highly
+correlated that either variable could serve as the mediator. However, in models regressing perceived partner responsiveness on
+own responsiveness (projection), partner responsiveness (accuracy), satisfaction, and the self-esteem and attachment control
+variables, own safe haven responsiveness continued to predict
+perceptions of partner safe haven responsiveness (␤ ⫽ .23, p ⬍
+.001), and own secure base responsiveness continued to predict
+perceptions of partner secure base responsiveness (␤ ⫽ .30, p ⬍
+.001). Of course, relationship satisfaction also predicted perceived
+partner responsiveness in these models (safe haven ␤ ⫽ .56, p ⬍
+.001; secure base ␤ ⫽ .48, p ⬍ .001), but the pattern of results
+provides greater support for perceived partner responsiveness as a
+mediator of effects of own responsiveness on satisfaction than for
+satisfaction as a mediator of projection effects. These findings also
+distinguish the projection of responsiveness from the satisfactiondriven halo effects posited by the satisfaction– benevolence model.
+Own responsiveness appeared to affect perceived partner responsiveness independently of satisfaction.7
+
+Evaluation of Partner’s Interpersonal Traits
+To examine the independence of projected responsiveness and
+positive illusions models, we retested the above models after
+controlling for evaluation of the partner’s interpersonal traits (as
+well as the self-esteem and attachment control variables). Own
+responsiveness (projection) and partner responsiveness (accuracy)
+continued to predict perceptions of partner responsiveness in the
+safe haven domain (␤ ⫽ .29, p ⬍ .001, and ␤ ⫽ .09, p ⬍ .05,
+respectively) and in the secure base domain (␤ ⫽ .28, p ⬍ .001,
+
+and ␤ ⫽ .08, p ⬍ .05, respectively). Not surprisingly, given the
+conceptual overlap, evaluation of the partner’s traits also predicted
+perceptions of partner responsiveness in the safe haven and secure
+base models (␤s ⫽ .53 and .55, ps ⬍ .001, respectively). Furthermore, projected responsiveness predicted satisfaction independently of the effect of trait evaluations. For the safe haven model,
+own responsiveness continued to predict satisfaction in Model 1
+(␤ ⫽ .25, p ⬍ .001), and this effect was reduced after including
+perceptions of partner responsiveness in Model 2 (␤ ⫽ .13, p ⬍
+.05). Perceived partner responsiveness and trait appraisals had
+unique effects on satisfaction (␤ ⫽ .44, p ⬍ .001, and ␤ ⫽ .34, p ⬍
+.001, respectively). For the secure base model, own responsiveness
+continued to predict satisfaction in Model 1 (␤ ⫽ .08, p ⫽ .056),
+and this effect was eliminated after including perceptions of partner responsiveness in Model 2 ( p ⫽ .84). Again, perceived partner
+responsiveness and trait appraisals had unique effects on satisfaction (␤ ⫽ .27, p ⬍ .001, and ␤ ⫽ .51, p ⬍ .001, respectively).
+Thus, spouses appeared to project their own responsive behavior,
+and such projections predicted satisfaction, independently of their
+general evaluation of the partner’s traits.
+
+Commitment as Moderator of Projection
+If projection of responsiveness is motivated by desires to maintain felt security, then the effect should be especially strong for
+those who are highly committed to maintaining their marriages.
+Additional models tested this prediction by including the main
+effects of commitment, own responsiveness, and partner responsiveness, as well as Commitment ⫻ Responsiveness interaction
+(product) terms. The Own Responsiveness ⫻ Commitment interaction approached significance for safe haven responsiveness (␤ ⫽
+.08, p ⫽ .08) and was significant for secure base responsiveness
+(␤ ⫽ .12, p ⬍ .01), whereas the Partner Responsiveness ⫻ Commitment interactions were not significant ( ps ⬎ .27). Conditional
+effects of own responsiveness on perceived partner responsiveness
+were examined at low (⫺1 SD) and high (1 SD) commitment. Own
+safe haven responsiveness more strongly predicted perceptions of
+partner safe haven responsiveness when commitment was high
+7
+In addition, although not the focus of the projected responsiveness
+model, effects of the partner’s responsiveness on perceivers’ satisfaction
+(Path E in Figure 1) were mediated by the perceivers’ recognition of that
+responsiveness (see Table 2). That is, the partner’s self-reported responsiveness predicted the perceiver’s satisfaction in Model 1, and this effect
+was eliminated after controlling for the overlap between the partner’s
+responsiveness and the perceiver’s perceptions of that responsiveness
+(accuracy) in Model 2. Sobel tests confirmed the significance of the
+indirect path of partner responsiveness on satisfaction, mediated by perceptions of partner responsiveness (combination of Paths B and C in Figure
+1; safe haven z ⫽ 4.16, p ⬍ .001; secure base z ⫽ 3.71, p ⬍ .001). Thus,
+recipients reported more satisfaction when their partners reported caring
+for them but only to the extent that they were able to perceive that caring.
+Again, these findings suggest validity of the partners’ reports of responsiveness. Moreover, controlling for satisfaction did not eliminate the effect
+of partners’ responsiveness on perceivers’ perceptions of partner responsiveness (safe haven ␤ ⫽ .09, p ⬍ .05; secure base ␤ ⫽ .11, p ⬍ .01),
+suggesting greater support for perceived partner responsiveness as a mediator of the effect of partner responsiveness on satisfaction than for
+satisfaction as a mediator of the effect of partner responsiveness on
+perceived partner responsiveness.
+
+PROJECTION OF RESPONSIVENESS
+
+(␤ ⫽ .46, p ⬍ .001) than when it was low (␤ ⫽ .32, p ⬍ .001; see
+Figure 2). Likewise, own secure base responsiveness predicted
+perceptions of partner secure base responsiveness more strongly
+when commitment was high (␤ ⫽ .50, p ⬍ .001) than when it was
+low (␤ ⫽ .27, p ⬍ .001), with a similar interaction pattern.
+Importantly, in addition to suggesting that the projection of responsiveness may be a motivated phenomenon, these results undercut the potential criticism that the projection of responsiveness
+is simply a result of shared method variance (similar items) or
+source variance (the same respondent completing both measures).
+One would need to argue that these criticisms apply more to people
+high in commitment than people low in commitment.
+These findings support several predictions of the projected
+responsiveness model: (a) People appeared to project their own
+responsiveness in two different domains of support; (b) the projection of responsiveness, in turn, predicted satisfaction and explained why responsive caregivers were satisfied; (c) the projection of responsiveness was distinct from effects of personality
+traits, satisfaction, and evaluation of the partner’s traits, which are
+effects emphasized in other theoretical models; and (d) the projection of responsiveness was greater for those with high relationship commitment, suggesting that it is, in part, a motivated process
+and is not due simply to shared method or source variance.
+
+Study 2
+According to Clark and Mills (1979, 1993; Mills & Clark,
+1982), communal relationships are those in which members feel a
+responsibility for meeting the other’s needs and in which benefits
+are given noncontingently in response to the other’s needs. Most
+prior research has focused on the qualitative distinction between
+these types of relationships and exchange relationships—those in
+which giving benefits is contingent on past or expected receipt of
+comparable benefits (e.g., Clark, 1984; Clark, Dubash, & Mills,
+1998; Clark & Mills, 1979; Clark, Mills, & Powell, 1986; Clark,
+Ouellette, Powell, & Milberg, 1987). However, Clark and Mills
+(1993; Mills & Clark, 1982) also emphasized that quantitative
+differences of communal strength exist across communal relationships. Communal strength refers to the degree of responsibility a
+person feels for the general welfare of a particular relationship
+partner. Mills, Clark, Ford, and Johnson (2004) developed a selfreport measure of communal strength. Suggesting its validity, they
+
+Perceptions of Partner's
+Safe-Haven Caregiving
+(SD units)
+
+1.5
+1
+0.5
+Low Commitment
+
+0
+
+High Commitment
+
+-0.5
+-1
+-1.5
+-2
+
+-1
+
+0
+
+1
+
+2
+
+Own Safe-Haven Caregiving
+(SD units)
+
+Figure 2. Effect of own safe haven responsiveness on perceived partner
+safe haven responsiveness as a function of commitment. SD ⫽ standard
+deviation.
+
+841
+
+found that differences in one’s communal strength toward specific
+relationship partners predict the allocation of benefits to those
+partners (their Study 4) and self-reported provision of social support to those partners (their Study 5).
+Furthermore, Mills and colleagues (2004) found that people
+high in communal strength expected their partners to respond to
+their needs (their Study 1) and reported greater marital satisfaction
+(their Study 6). The projection of responsiveness model posits that
+these expectations of mutual responsiveness are subjectively confirmed through the projection process; people high in communal
+strength toward their spouse project this responsiveness and actually perceive their spouse as more responsive to their needs. This
+projection effect, in turn, may explain why people high in communal strength report more satisfaction; communally motivated
+providers may be happier with their relationships because they
+perceive their partners as communally motivated through the projection process. Study 2 tested these predictions. Moreover, Study
+2 was longitudinal, providing the opportunity to test whether
+projection was present throughout the early years of marriage and
+whether projected responsiveness predicted temporal changes in
+satisfaction.
+As in Study 1, Study 2 tested whether the projection of responsiveness could be explained by the satisfaction– benevolence
+model or the personality perspective (in this case, depression,
+attachment-related anxiety, and attachment-related avoidance). In
+addition, analyses controlled for communal orientation, the tendency to behave communally toward relationship partners in general and to expect communal behavior from relationship partners
+in general (Clark et al., 1987). Evidence suggesting projection of
+responsiveness and effects of projected responsiveness on satisfaction after controlling for communal orientation would support
+our argument that such effects reflect dyadic projection processes
+rather than merely individual differences in tendencies to perceive
+and expect any relationship to be mutually responsive.
+Moreover, Study 2 provided additional tests to distinguish the
+projected responsiveness model from positive illusions. A positive
+illusions account of the effect of projected responsiveness on
+satisfaction might posit that projecting perceivers hold communal
+norms as ideals in marriage (cf. Clark et al., 2002) and that
+projecting own responsiveness is a means of subjectively fulfilling
+one’s ideals. The subjective perception that a partner meets one’s
+ideals, in turn, may be satisfying. Indeed, Murray et al. (1996)
+argued that perceiving partners as consistent with ideals is a
+positive illusion that enhances satisfaction. Whereas that may well
+be the case, the projected responsiveness model posits something
+different—that projected perceptions that a partner is responsive
+are directly related to satisfaction and cannot be completely explained by perceiving a partner as conforming to ideals. Study 2
+presented analyses that controlled for communal ideals to test this
+alternative account.
+Finally, Study 2 included a daily-diary component, which was
+used to test projection of responsiveness in regard to perceptions of
+the specific supportive behaviors enacted by a relationship partner
+(enacted support in the social support literature). This daily-diary
+component included assessments of the number of and motivation
+for specific supportive behaviors provided on each day. We expected that people would project their own support provided to a
+partner on a particular day onto the perceptions of the support
+received from a partner on that day. Moreover, own chronic
+
+LEMAY, CLARK, AND FEENEY
+
+842
+
+motivation to care for a relationship partner may be projected onto
+these specific daily perceptions of partner’s enacted support, such
+that those who tend to care for their partners would perceive their
+partners as behaving more supportively across days. Support for
+these predictions would suggest that projection of responsiveness
+affects momentary feelings of relationship security in addition to
+retrospective generalizations.
+
+Method
+Participants and Procedure
+Soon-to-be-married couples were recruited by a variety of
+means, including bridal fairs, the bridal registry at a local department store, ads in local newsletters, flyers, electronic bulletin
+boards, and word of mouth. Couples were eligible if they had
+never been married, were childless, and were scheduled to be
+married in the near future. Participants were predominately
+Caucasian and well-educated (80% finished college). On average, husbands were 27 years old and wives were 26 years old at
+the start of the study, although ages ranged from 20 to 38 years
+old.
+Couples completed consent forms and questionnaires in their
+own homes a few weeks before their wedding day (T1; N ⫽ 108
+couples) and completed mailed questionnaires at their homes
+just after the second year of marriage (T2; M ⫽ 25 months after
+their wedding; N ⫽ 96 couples). Participants were instructed to
+refrain from sharing their questionnaire responses with their
+partners.
+Approximately 5 months after their wedding day, 100 of the
+couples completed the daily-diary component over a period of
+5 days. They were instructed to independently complete the
+records each night and to refrain from discussing their responses with their partner. To reinforce completion of these
+records on a daily basis, participants were asked to seal all
+records for that day in an envelope at the end of each day and
+sign and date each envelope.
+
+Questionnaire Measures
+Own responsiveness to partner’s needs. Participants completed the Mills et al. (2004) measure of communal strength—a
+quantitative aspect of communal relationships reflecting the degree
+of motivation to be responsive to a specific partner’s needs. The 10
+items were answered on 10-point response scales (0 ⫽ not at all,
+10 ⫽ extremely). This measure was completed in reference to the
+respondent’s motivation to care for his or her spouse (e.g., “How
+far would you be willing to go to help your spouse?”, “How much
+would you be willing to give to benefit your spouse?”; T1 ␣ ⫽ .64,
+T2 ␣ ⫽ .76).
+Perceived partner responsiveness. Perceptions of partner responsiveness to one’s needs were assessed using two measures.
+The first was the measure of communal strength developed by
+Mills et al. (2004), modified to assess perceptions of the spouse’s
+responsiveness (e.g., “How far would your spouse be willing to go
+to help you?”, “How much would your spouse be willing to give
+to benefit you?”) and answered using the same response scale (T1
+␣ ⫽ .82, T2 ␣ ⫽ .86). The second measure of partner responsiveness was the perceived partner responsiveness subscale developed
+
+by Boon and Holmes (1991). Respondents answered the eight
+items (e.g., “My partner has always been responsive to my needs
+and feelings,” “I feel that my partner can be counted on to help
+me”) on 7-point response scales (1 ⫽ strongly disagree, 7 ⫽
+strongly agree; T1 ␣ ⫽ .82, T2 ␣ ⫽ .89). Scores on these two
+measures were highly correlated at each assessment point (T1 r ⫽
+.54, T2 r ⫽ .62). To simplify results, they were standardized and
+then averaged to create a single index of perceived partner responsiveness.
+Marital satisfaction. Marital satisfaction was assessed with
+two measures. The first was Norton’s (1983) Quality of Marriage
+Index, which consists of six items (e.g., “We have a good relationship,” “My relationship with my spouse makes me happy”)
+answered on 5-point response scales (1 ⫽ strongly disagree, 5 ⫽
+strongly agree; T1 ␣ ⫽ .90, T2 ␣ ⫽ .95). The second measure was
+Hendrick, Dicke, and Hendrick’s (1998) Relationship Assessment
+Scale, which consists of seven items (e.g., “To what extent are you
+satisfied with your relationship?”, “To what extent is this relationship good compared to most?”) answered on 5-point response
+scales (1 ⫽ not much, 5 ⫽ very much; T1 ␣ ⫽ .70, T2 ␣ ⫽ .85).
+Scores on these two scales were highly correlated (T1 r ⫽ .54, T2
+r ⫽ .83). To simplify results, they were standardized and then
+averaged to create an index of marital satisfaction.
+Depressive symptoms. Depressive symptoms were assessed
+using the Center for Epidemiological Studies Depression Scale
+(CES-D; Radloff, 1977). This 20-item measure assesses four
+dimensions of depressive symptoms occurring over the past
+week, including depressive affect (e.g., “How often did you
+think your life had been a failure?”), somatic symptoms (e.g.,
+“How often was your sleep restless?”), positive affect (e.g.,
+“How often did you enjoy life?”—reversed), and interpersonal
+relations (e.g., “How often did you feel lonely?”). Items were
+answered on 4-point response scales (0 ⫽ Rarely or none of the
+time, 1 ⫽ Some or a little of the time, 2 ⫽ Occasionally or a
+moderate amount of the time, 3 ⫽ Most or all of the time; T1
+␣ ⫽ .86, T2 ␣ ⫽ .91).
+Attachment-related anxiety and avoidance. Attachment anxiety and avoidance were assessed using the 18-item measure developed by Simpson, Rholes, and Phillips (1996). 8 The
+attachment-related avoidance subscale consists of eight items assessing discomfort with closeness (e.g., “I’m not very comfortable
+having others depend on me,” “I’m somewhat uncomfortable
+being too close to others”) answered on 7-point response scales
+(1 ⫽ strongly disagree, 7 ⫽ strongly agree; T1 ␣ ⫽ .80, T2 ␣ ⫽
+.80). The attachment-related anxiety subscale consists of nine
+items assessing anxiety about others’ acceptance (e.g., “I often
+worry that my partner[s] don’t really love me,” “I usually want
+more closeness and intimacy than others do”) answered using the
+same response scales (T1 ␣ ⫽ .75, T2 ␣ ⫽ .80).
+Communal orientation. Participants completed the Communal
+Orientation Scale (Clark et al., 1987), a 14-item measure of the
+tendency to prioritize responsiveness to multiple relationship partners’ needs and to expect the same on the part of partners (e.g.,
+“When making a decision, I take other people’s needs and feelings
+8
+
+Because of a clerical error, one item was omitted from the attachment
+measure.
+
+PROJECTION OF RESPONSIVENESS
+
+into account,” “When I have a need that others ignore, I’m hurt”;
+T1 ␣ ⫽ .75, T2 ␣ ⫽ .81).
+Communal ideals. Communal ideals were assessed using a
+measure developed specifically for the marriage study. Participants
+read the following description:
+The way marital relationships ideally should operate is that each
+person should pay attention to the other person’s needs. Each
+person should give a benefit to the other in response to the other’s
+needs when the other has a real need that he or she cannot meet by
+him or her self. Each person should do this to the best of his or her
+ability so long as the personal costs are reasonable. When one
+person does something for the other, the other should not owe the
+giver anything.
+
+Participants then indicated their agreement with the statement “I
+believe that this is the way marital relationships ideally should
+operate” on a 7-point scale (1 ⫽ strongly disagree, 7 ⫽ strongly
+agree).
+
+843
+
+ables. Shown in Table 3, own responsiveness predicted perceptions of partner responsiveness (Path A in Figure 1) more strongly
+than the partner’s responsiveness (Path B in Figure 1), although
+both effects were significant. Including the personality variables in
+Model 2 did not notably alter these effects. This pattern of results
+was found for both T1 and T2 models. Thus, as in Study 1,
+perceptions of partner responsiveness were largely projected but
+also held a kernel of truth, and this was the case before marriage
+as well as 2 years into marriage. The accuracy effect suggests
+validity of the partners’ reports of their responsiveness. That the
+projection effect was largely unaltered after controlling for the
+personality variables provides empirical evidence for the distinction between the projected responsiveness model and the personality model; own responsiveness explained variance in perceived
+partner responsiveness that was unique from the variance explained by the personality variables.
+
+Effects of Projected Responsiveness on Relationship
+Satisfaction
+
+Daily-Diary Measures
+Daily-diary participants completed a form at the end of each day
+for every benefit given to or received from their partner earlier that
+day. After describing the benefit, participants indicated whether
+each of 12 possible motivations described the donor’s (whether the
+donor was the self or the partner) motivation for giving the benefit.
+An index of communal motivation for giving the benefit was
+created by summing the number of endorsements of three communal motivation items (“to meet his [her] needs,” “to show I care
+about him [her],” and “to please him [her]”). Aggregating across
+benefits, we computed the number of benefits that one gave and
+one’s average communal motivation for giving benefits on each
+day (measures of daily own responsiveness and daily partner’s
+responsiveness) and the number of benefits received from one’s
+partner and perceptions of the partner’s communal motivation for
+giving benefits on each day (measures of daily perceived partner
+responsiveness).
+
+Results and Discussion
+
+Next, a series of analyses tested whether projected responsiveness would predict marital satisfaction, controlling for the personality variables. Shown in Table 4, own responsiveness significantly predicted satisfaction in Model 1 (Path D in Figure 1), and
+this effect was eliminated when controlling for perceptions of
+partner responsiveness in Model 2. That is, projection of own
+responsiveness accounted for the effect of own responsiveness on
+satisfaction. This was the case at both assessment waves. Sobel
+tests of the indirect path of own responsiveness on satisfaction via
+perceptions of partner responsiveness (combination of Paths A and
+C in Figure 1) were significant. These results support predictions
+that projected responsiveness would predict satisfaction and explain the satisfaction of responsive caregivers.
+Longitudinal analyses examined effects of projected responsiveness on residualized change in marital satisfaction. In Model 1, T2
+satisfaction was regressed on T1 satisfaction, T1 own responsiveness, and T1 partner responsiveness, as well as T2–T1 difference
+scores reflecting temporal change in own responsiveness, partner
+responsiveness, and perceived partner responsiveness. T1 per-
+
+Analysis Strategy
+The strategy for analyzing questionnaire data was identical to that
+used in Study 1. Effects of own responsiveness on perceptions of
+partner responsiveness after controlling for the partner’s self-reported
+responsiveness indicated projection of own responsiveness. Mediation of the effect of own responsiveness on satisfaction by perceptions
+of partner responsiveness signified an effect of projected responsiveness on satisfaction. Again, two-level multilevel models accounted for
+the nesting of participants within couples and modeled intercepts as
+randomly varying across couples.
+
+Projection of Own Responsiveness
+To examine projection and accuracy in perceptions of partner
+responsiveness, we regressed perceived partner responsiveness
+onto own responsiveness (projection) and partner’s responsiveness
+(accuracy or understanding). A second set of models included the
+depression, attachment, and communal orientation control vari-
+
+Table 3
+Effects of Own Responsiveness, Partner Responsiveness, and
+Personality Control Variables on Perceived Partner
+Responsiveness (Study 2)
+T1
+Predictor
+Own responsiveness
+Partner’s responsiveness
+Depression
+Avoidant attachment
+Anxious attachment
+Communal orientation
+
+Model 1
+***
+
+.51
+.17**
+—
+—
+—
+—
+
+T2
+Model 2
+***
+
+.47
+.17**
+⫺.24***
+.00
+⫺.12*
+.00
+
+Model 1
+***
+
+.47
+.18**
+—
+—
+—
+—
+
+Model 2
+.40***
+.18**
+⫺.20**
+⫺.02
+⫺.16**
+⫺.03
+
+Note. Coefficients are standardized hierarchical linear modeling coefficients. Dashes represent intentional omissions of variables from analyses,
+to be added in subsequent analyses. T1 ⫽ Time 1; T2 ⫽ Time 2.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+LEMAY, CLARK, AND FEENEY
+
+844
+
+Table 4
+Effects of Own Responsiveness, Partner Responsiveness, and
+Personality Control Variables on Concurrent Satisfaction as a
+Function of Controlling for Perceived Partner Responsiveness
+(Study 2)
+T1
+
+T2
+
+Predictor
+
+Model 1
+
+Model 2
+
+Model 1
+
+Model 2
+
+Own responsiveness
+Partner’s responsiveness
+Depression
+Avoidant attachment
+Anxious attachment
+Communal orientation
+PPR
+Own responsiveness 3
+PPR Sobel test
+
+.26***
+.06
+⫺.12†
+⫺.10
+⫺.19**
+.05
+—
+
+.00
+⫺.03
+⫺.02
+⫺.11†
+⫺.11†
+.05
+.54***
+
+.25***
+.18**
+⫺.21**
+.03
+⫺.16**
+.07
+—
+
+⫺.05
+.05
+⫺.08
+.03
+⫺.05
+.09†
+.73***
+
+5.64***
+
+5.90***
+
+Note. Coefficients are standardized hierarchical linear modeling coefficients. Dashes represent intentional omissions of variables from analyses,
+to be added in subsequent analyses. T1 ⫽ Time 1; T2 ⫽ Time 2; PPR ⫽
+perceived partner responsiveness.
+†
+p ⬍ .06. ** p ⬍ .01. *** p ⬍ .001.
+
+ceived partner responsiveness was included in Model 2.9 Shown in
+Table 5, T1 own responsiveness predicted temporal changes in
+satisfaction in Model 1 (Path D in Figure 1), and this effect was
+eliminated in Model 2. T1 perceived partner responsiveness predicted later satisfaction in Model 2 (Path C in Figure 1). The Sobel
+test of the indirect effect of T1 own responsiveness on residualized
+change in satisfaction, mediated by T1 perceptions of partner
+responsiveness (combination of Paths A and C in Figure 1), was
+significant. These findings suggest that projected responsiveness
+predicted longitudinal change in satisfaction and explained why
+responsive caregivers became more satisfied over time.
+
+Satisfaction–Benevolence Model
+Additional analyses tested whether perceived partner responsiveness and satisfaction had interchangeable mediating effects due to
+their strong relationship. Switching the mediator with the outcome,
+these analyses tested the effect of own responsiveness on perceived
+partner responsiveness after controlling for satisfaction (as well as the
+depression, attachment, and communal orientation control variables).
+Contrary to this alternative explanation, own responsiveness continued to predict perceived partner responsiveness (the projection effect)
+at T1 (␤ ⫽ .36, p ⬍ .001) and T2 (␤ ⫽ .25, p ⬍ .001). As one would
+expect, satisfaction had significant effects in these models (T1 ␤ ⫽
+.43, p ⬍ .001; T2 ␤ ⫽ .61, p ⬍ .001). However, these analyses
+provide greater support for perceived partner responsiveness as a
+mediator of the effect of own responsiveness on satisfaction than for
+satisfaction as the mediator of projection effects. Moreover, the independent effects of own responsiveness and relationship satisfaction on
+perceived partner responsiveness provide empirical evidence for the
+distinction between the satisfaction– benevolence model, which posits
+that perceptions of partner responsiveness are satisfaction-based halo
+effects, and the projected responsiveness model.10
+
+Communal Ideals
+A more general positive illusions account of the projected
+responsiveness findings is that people were not directly projecting
+
+their responsiveness but were, instead, projecting their ideals for
+relationships. Likewise, the effect of projected responsiveness on
+satisfaction may, instead, reflect an effect of seeing one’s partner
+as consistent with those ideals. To test this alternative, we retested
+the models presented in Tables 3 and 4 after including communal
+ideals as an additional predictor. Own responsiveness continued to
+predict perceptions of partner responsiveness at T1 (␤ ⫽ .48, p ⬍
+.001) and T2 (␤ ⫽ .40, p ⬍ .001). In addition, own responsiveness
+predicted concurrent satisfaction in Model 1 at both assessment
+waves (T1 ␤ ⫽ .25, p ⬍ .001; T2 ␤ ⫽ .26, p ⬍ .001), and these
+
+9
+
+T2–T1 difference scores were included as control variables in the
+longitudinal analyses to control for regression to the mean in predictor
+variables. Because of measurement error, T1 predictor variables regress to
+the mean over time, indicated by negative linear effects of T1 variables on
+T2–T1 change (own responsiveness ␤ ⫽ ⫺.34, p ⬍ .001; perceived partner
+responsiveness ␤ ⫽ ⫺.54, p ⬍ .001; depression ␤ ⫽ ⫺.32, p ⬍ .001;
+attachment-related avoidance ␤ ⫽ ⫺.46, p ⬍ .001; attachment-related
+anxiety ␤ ⫽ ⫺.48, p ⬍ .001; communal orientation ␤ ⫽ ⫺.31, p ⬍ .001).
+Yet, theoretically, temporal change in a variable and T1 values should have
+similar effects on residualized change in satisfaction (e.g., high T1 perceived partner responsiveness and temporal increases in perceived partner
+responsiveness should both predict temporal increases in satisfaction).
+Empirically, this is also true (see Table 5, Model 2). Because of the
+negative relation between initial predictor values and change in the predictor and the positive effect of these two variables on the criterion, a
+suppressor situation is created unless that negative relation is eliminated
+from the effect estimates by controlling for both T1 predictor values and
+temporal change. This logic is similar to that guiding the common practice
+of predicting residualized change in criterion variables by controlling for
+T1 assessments of the criterion, thereby controlling for regression to the
+mean in the criterion. In the present approach, a longitudinal effect is
+indicated by an effect of the T1 predictor variable (partialing out change in
+the predictor) on residualized change in the criterion, independent of how
+the predictor variable changes over time, whereas correlated changes not
+due to the longitudinal effect are indicated by an effect of residualized
+change in the predictor variable (the T2–T1 change score, partialing out T1
+values) on residualized change in the criterion. The anxious attachment,
+avoidant attachment, depression, and communal orientation variables were not
+simultaneously controlled in longitudinal analyses because controlling for
+these variables and each of their temporal change scores in one model would
+require including too many predictor variables for the sample size. The model
+displayed in Table 5 was retested after controlling for one of these control
+variables and its temporal change. The mediation of T1 own responsiveness
+effects by T1 perceived partner responsiveness was found in every model.
+10
+Although not the focus of the projected responsiveness model, the
+partner’s self-reported responsiveness also predicted satisfaction at the
+second assessment wave (Path E in Figure 1), and this effect was eliminated when controlling for perceptions of partner responsiveness at T2. The
+Sobel test of this indirect path (partner responsiveness 3 perceptions of
+partner responsiveness 3 satisfaction; combination of Paths B and C in
+Figure 1) was also significant (z ⫽ 3.12, p ⬍ .01). Similar to results of
+Study 1, these findings suggest that having a responsive partner is satisfying to the extent that that responsiveness is subjectively perceived. The
+effect of the partner’s self-reported responsiveness on the recipient’s satisfaction provides further evidence for the validity of partner’s reported
+responsiveness. In addition, partner responsiveness continued to predict
+perceived partner responsiveness (the accuracy effect) after controlling for
+satisfaction at T1 (␤ ⫽ .14, p ⬍ .01) and T2 (␤ ⫽ .07, p ⫽ .082), providing
+greater support for perceived partner responsiveness as a mediator of
+effects of partner responsiveness on satisfaction than for satisfaction as a
+mediator of accuracy effects.
+
+PROJECTION OF RESPONSIVENESS
+
+effects were eliminated after controlling for perceived partner
+responsiveness in Model 2 at both assessment waves (T1 p ⫽ .82,
+T2 p ⫽ .50). Ideals did not significantly predict perceived partner
+responsiveness ( ps ⬎ .50) or satisfaction ( ps ⬎ .12).
+
+Perceptions of Enacted Support in Daily-Diary
+Component
+
+Table 5
+Effects of Own Responsiveness and Partner Responsiveness on
+Residualized Change in Satisfaction as a Function of
+Controlling for Perceived Partner Responsiveness (Study 2)
+Predictor
+T1 satisfaction
+T1 own responsiveness
+T1 partner’s responsiveness
+T1 PPR
+Own responsiveness change
+Partner’s responsiveness change
+PPR change
+T1 own responsiveness 3 T1 PPR
+Sobel test
+
+Table 6
+Effects of Daily and Chronic Responsiveness on Daily
+Perceptions of Partner Responsiveness (Study 2)
+
+Predictor
+
+The 874 daily observations were nested within 200 individuals who
+were, in turn, nested within 100 couples. A series of three-level
+multilevel models tested predictions while accounting for this nested
+data structure. We expected that people would project their daily
+responsiveness. In particular, own daily responsiveness (whether the
+number of benefits given to a spouse or the communal motivation for
+giving benefits to the spouse) would predict analogous daily perceptions of the partner’s responsiveness after controlling for the partner’s
+self-reported daily responsiveness (accuracy). Thus, number of benefits received from a spouse and perceptions of the spouse’s communal motivation for providing benefits constituted day-level criterion
+variables, predicted by both partners’ analogous measures of daylevel benefit provision (daily number of benefits given or one’s own
+communal motivation for giving).
+Furthermore, we expected that relatively chronic tendencies to
+respond to the spouse’s needs would elevate perceptions of the
+spouse’s daily responsiveness, increasing the mean perception of
+responsiveness across the diary period—a projection of chronic responsiveness onto perceptions of recent, specific behavior. Therefore,
+we included individual differences in own and partner’s T1 communal strength as (samplewide standardized) Level 2 predictors of the
+intercepts. (Intercepts reflect each individual’s average perceptions of
+partner responsiveness across days.) In sum, these models examined
+main effects of daily own responsiveness and chronic own responsiveness on daily perceptions of partner responsiveness, controlling
+for the partner’s daily and chronic responsiveness. Level 1 and Level
+2 intercepts were modeled as random.
+Results of the analyses are displayed in Table 6. Suggesting
+projection of daily responsiveness (upper portion of Table 6), daily
+changes in the number of benefits participants reported giving to
+
+Model 1
+
+Model 2
+
+.44***
+.14*
+.07
+—
+.15**
+.17**
+.51***
+
+.25***
+⫺.06
+.00
+.53***
+.03
+.10*
+.76***
+5.34***
+
+Note. Coefficients are standardized hierarchical linear modeling coefficients. Change variables are T2–T1 difference scores. Dash represents an
+intentional omission of the variable from analyses, to be added in subsequent analyses. T1 ⫽ Time 1; T2 ⫽ Time 2; PPR ⫽ perceived partner
+responsiveness.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+845
+
+Perceived number
+of benefits
+
+Perceived communal
+motivation for
+giving
+
+Effects of daily own responsiveness on daily perceived responsiveness
+Daily own responsiveness
+.34***
+.23***
+Daily partner’s responsiveness
+.36***
+.08*
+Effects of chronic responsiveness on mean daily perceived
+responsiveness
+Own responsiveness
+.22**
+.01
+Partner’s responsiveness
+⫺.02
+.00
+Note. Daily number of benefits given was used as the measure of daily
+responsiveness in the model predicting daily number of benefits received
+from partner. Daily average self-reported communal motivation for giving
+benefits was used as the measure of daily responsiveness in the model
+predicting daily average perceived communal motives for partner’s giving.
+Level 3 N ⫽ 100. Level 2 N ⫽ 200. Level 1 N ⫽ 874.
+*
+p ⬍ .05. ** p ⬍ .01. *** p ⬍ .001.
+
+their partners predicted changes in the number of benefits participants reported receiving from their partners, independently of the
+number of benefits their partners reported giving. Likewise, daily
+changes in own communal motivation for giving benefits to partners predicted changes in perceptions of partner’s communal motivation for giving more strongly than did change in partners’
+self-reported communal motivation for giving. That is, people saw
+their partners as more responsive on days when they themselves
+were more responsive. Suggesting projection of chronic responsiveness (lower portion of Table 6), individual differences in own
+responsiveness, but not in partner’s responsiveness, predicted average number of benefits participants reported receiving from their
+partners across the diary period. Those who chronically cared for
+their partners perceived their partners as providing more benefits
+than did those who did not care for their partners.
+These findings provide additional support for the projection of
+responsiveness model: (a) People appeared to project their own
+communal strength; (b) this projection of responsiveness, in turn,
+predicted concurrent satisfaction and longitudinal change in satisfaction and explained why people high in communal strength were
+more satisfied; (c) the projection of responsiveness was distinct
+from effects of personality variables, satisfaction, and communal
+ideals, which distinguish projected responsiveness from alternative
+explanations derived from the personality, satisfaction–
+benevolence, and positive illusions perspectives; and (d) people
+appeared to project daily support provision and chronic responsiveness onto perceptions of the partner’s enacted supportive behaviors, suggesting that the projection of responsiveness is not
+limited to retrospective generalizations about responsiveness. People seem to project their own acute and chronic responsiveness
+onto perceptions of their partner’s everyday supportive acts.
+
+Study 3
+In Study 3, we experimentally manipulated perceptions of own
+responsiveness and then measured perceptions of partner responsiveness. If people project their own responsiveness onto the
+
+LEMAY, CLARK, AND FEENEY
+
+846
+
+responsiveness perceived in their relationship partners, then temporarily reduced perceptions of own responsiveness should reduce
+perceptions of partner responsiveness. The experimental manipulation was based on research conducted by Schwarz (1998) on
+accessibility experiences. This research suggests that the experience of ease or difficulty during recall is used as a source of
+information that may bias subsequent judgments. For example,
+people who were asked to recall 12 instances of their own assertive
+behavior (a presumably difficult task) subsequently perceived
+themselves as less assertive than people who had to recall six
+instances of assertive behavior (a comparatively easy task). The
+experienced difficulty of recalling 12 instances likely convinced
+participants in the difficult condition that they must not be that
+assertive after all. Similarly, people estimated a higher prevalence
+of chronic diseases in the population when they were previously
+asked to recall three examples of chronic diseases than when they
+were asked to recall nine examples. Similar findings pertain to
+generation of attitude arguments and subsequent attitudes, recall of
+health behaviors and subsequent perceptions of vulnerability to
+heart disease, and generation of reasons for product consumption
+and subsequent attitudes toward the product (see Schwarz, 1998,
+for a review).
+In the current study, we expected that recalling eight instances
+of providing support to a relationship partner would be considerably more difficult than recalling two instances of support provision. Using the experienced difficulty of generating examples of
+their support provision as a source of information regarding their
+own responsiveness, participants should subsequently perceive
+their relationship partners as less responsive through the projection
+process.
+
+Method
+Participants and Procedure
+One hundred fifty-eight participants (42 men and 116 women;
+M age ⫽ 25 years) were recruited through electronic bulletin board
+advertisements for an Internet research survey. Participants were
+asked to complete the electronic survey in regard to their romantic
+relationship partner (n ⫽ 101) if they were currently involved in a
+romantic relationship or in regard to a close friend (n ⫽ 50) if they
+were not currently romantically involved. Seven participants did
+not indicate the type of relationship. Participants randomly assigned to the difficult recall condition (n ⫽ 78) were asked to
+describe eight things that they had done to help the relationship
+partner in the past 7 days. Those in the easy recall condition (n ⫽
+80) were asked to describe two things. Following this recall
+difficulty manipulation, participants completed the following measures.
+
+Measures
+Perception of partner’s responsiveness. Participants completed a three-item index assessing perceptions of the other’s
+motivation to care for their needs (i.e., “How motivated is this
+person to attend to your needs?”, “How motivated is this person to
+provide emotional support to you when you are stressed?”, “How
+motivated is this person to help you out [e.g., do favors for
+you]?”). Items were completed on 5-point response scales (1 ⫽ not
+
+at all motivated, 5 ⫽ extremely motivated; ␣ ⫽ .92). In addition,
+participants indicated their agreement with nine statements regarding the other’s supportiveness, which were adapted from measures
+of communal strength and caregiving (Feeney, 2004; Kunce &
+Shaver, 1994; Mills et al., 2004; e.g., “This person is very good at
+recognizing my needs and feelings,” “This person is always there
+for me whenever I need him/her,” “This person is someone I can
+turn to when I am feeling sad or worried or stressed about something,” “Meeting my needs is a high priority for this person”), on
+6-point response scales (1 ⫽ strongly disagree, 6 ⫽ strongly
+agree; ␣ ⫽ .90). The two measures were highly correlated (r ⫽
+.83). To simplify results, we standardized the two scores and
+averaged them to create a composite measure of perceived partner
+responsiveness.
+Manipulation checks. As a check on the manipulation of own
+responsiveness, participants completed an analogous set of items
+regarding their own motivation to care for the other (e.g., “How
+motivated are you to attend to this person’s needs?”; ␣ ⫽ .87) and
+their own supportiveness (e.g., “I am someone this person can turn
+to when he/she is feeling sad or worried or stressed about something”; ␣ ⫽ .85). Scores on these two measures were highly
+correlated (r ⫽ .84) and were standardized and averaged to create
+an index of own responsiveness.
+In addition, after completion of the other measures, participants
+indicated the experienced difficulty of the recall task (1 ⫽ extremely easy, 6 ⫽ extremely difficult).
+
+Results and Discussion
+A one-way analysis of variance examined the effect of manipulated difficulty recalling own responsiveness on perceptions of
+partner responsiveness. As expected, those in the difficult recall
+condition perceived their relationship partners as less responsive
+(M ⫽ ⫺0.14) than did those in the easy recall condition (M ⫽
+0.17), F(1, 149) ⫽ 4.38, p ⬍ .05. Examination of the experienced
+difficulty manipulation check item revealed that participants in the
+difficult recall condition experienced the recall task as more difficult (M ⫽ 3.11) than did those in the easy recall condition (M ⫽
+2.26), F(1, 149) ⫽ 17.19, p ⬍ .001. Regression analyses tested
+whether experienced difficulty mediated the effect of recall difficulty condition on perceived partner responsiveness. The effect of
+recall condition (␤ ⫽ ⫺.17, p ⬍ .05) was not significant after
+controlling for perceptions of experienced difficulty ( p ⫽ .17).
+Controlling for recall condition, experienced difficulty continued
+to predict perceptions of partner responsiveness (␤ ⫽ ⫺.17, p ⫽
+.05). Thus, participants who were asked to report eight examples of
+support provision subsequently perceived their relationship partner
+as less responsive than did those asked to report only two examples
+of support provision, and this was because they experienced difficulty in reporting those eight examples. These results support the
+projection of responsiveness model.
+However, interpretation of the results is slightly complicated by
+the insignificant effect of experimental condition on self-reported
+own responsiveness. The pattern of means was in the predicted
+direction (difficult condition M ⫽ ⫺0.06, easy condition M ⫽
+0.10), but the effect did not reach conventional levels of significance, F(1, 149) ⫽ 1.24, p ⫽ .27. We believe this may have been
+due to participants’ reluctance to admit, to themselves or to a
+public audience, temporary reductions in general motivations to
+
+PROJECTION OF RESPONSIVENESS
+
+care for a relationship partner when such motivations are usually
+strong. Yet they appeared willing to admit experiencing difficulty
+with recalling support provision, which may have been a measure
+of temporary reductions in self-perceived own responsiveness that
+was less prone to reactance, self-deception, and impression management biases. Alternatively, it may be the case that the experienced difficulty manipulation increased accessibility of own supportive behaviors, which cancelled out the effects of experienced
+recall difficulty on self-perceived own responsiveness. Indeed,
+Schwarz (1998) reported evidence that accessibility and experienced difficulty can have opposite effects on judgments in this
+experimental paradigm. Nevertheless, the effect of manipulated
+difficulty in recalling own support provision on perceived partner
+responsiveness suggests that this difficulty was projected, perhaps
+via an unconscious route, onto the other’s responsiveness.11
+
+General Discussion
+In communal relationships, people want their partners to care
+about their needs and noncontingently provide support when support is needed. Indeed, perceived partner responsiveness to needs
+has been implicated as a cardinal determinant of relationship
+well-being (Reis et al., 2004). The present research proposed and
+tested a social projection account of the process underlying the
+construction of these perceptions. According to this model, people
+who provide support to a partner or are motivated to care about a
+partner’s needs project this supportiveness and care onto their
+partners, perceiving their partners as similarly supportive and
+caring. Likewise, those who do not strongly care for their partners
+may see their partners as similarly uncaring. Moreover, because of
+the close link between perceptions of partner responsiveness and
+satisfaction in communal relationships, the social projection model
+posits that projected perceptions of partner responsiveness promote (or undermine in the case of low responsiveness) perceivers’
+relationship satisfaction. Two dyadic studies and one experiment
+provided evidence that supports this model.
+
+Some Mutual Understanding of Responsiveness
+How do people judge partner responsiveness? The obvious
+answer is that they base their judgments on their partner’s actual
+responsiveness. The partner, it might be expected, judges his or her
+own responsiveness in the same way. This, in turn, ought to lead
+to a degree of mutual understanding, evidenced by a positive
+relation between perceptions of partner responsiveness and the
+partner’s self-reported responsiveness. Indeed, both of our dyadic
+studies found evidence of this accuracy effect, suggesting some
+degree of mutual understanding regarding supportiveness and
+communal motivation.
+
+847
+
+their spouses provided support in return, whereas those who were
+not supportive perceived their spouses as similarly unsupportive.
+In Study 2, people perceived that their spouses shared their communal motivation or lack thereof. These projection effects appeared to be stronger than the accuracy effects (see also Abbey et
+al., 1995; Kenny & Acitelli, 2001). In Study 3, people who were
+randomly assigned to experience difficulty in recalling their own
+provision of support to a relationship partner subsequently perceived their partner as less responsive.
+The projection of responsiveness does not appear limited to
+retrospective abstractions about a partner’s responsiveness. Participants’ reports of the number of mundane benefits provided to
+them by their spouses across the daily-diary component of Study 2
+were predicted by their own motivation to care for their partners,
+assessed several months earlier, rather than by their partner’s
+motivation to care. Furthermore, participants appeared to project
+even their fleeting supportiveness and intentions; daily fluctuations
+in number of benefits provided to spouses predicted the number of
+benefits that their spouses were perceived to provide independently of their spouse’s accounts of the benefits they gave, and
+those who saw their own provision of benefits as motivated by
+communal reasons perceived that their partner’s benefit provisions
+were similarly motivated independently of their partner’s selfreported motives. Thus, projection of responsiveness was found in
+abstract generalizations about past responsiveness as well as in the
+accounting and interpretation of recent supportive acts, suggesting
+that the projection process has implications for moment-tomoment feelings of relationship security.
+We expect that the projection of responsiveness is a consequence of both cognitive and motivational processes. Regarding
+cognitive processes, people who are chronically motivated to respond to their partner’s needs, as well as those who are temporarily
+motivated, have heightened accessibility to trait and goal constructs regarding responsiveness. The activation of such representations likely causes people to perceive their partners as similarly
+responsive (cf. Kawada et al., 2004; Marks & Miller, 1987).
+Moreover, as mutual responsiveness is a norm in communal relationships, people come to expect reciprocity in general communal
+responsiveness, and these prototypes and expectations likely bias
+perceptions of partner responsiveness.
+The current research can rule out some other cognitive explanations. General expectations to have communal relationships do
+not appear to account for the projection of own responsiveness, as
+the projection effect was observed in Study 2 after controlling for
+communal orientation. Thus, the projection effect appears to be a
+dyadic process rather than a tendency for generally caring people
+to see all others as caring. Also, the projection of responsiveness
+does not appear to be a reflection of more general positive evaluations of relationship partners or of having high communal ideals
+
+The Projection of Responsiveness
+Our social projection model of perceived partner responsiveness
+posits that, in addition to modestly accurate detection, people
+project their own behavioral supportiveness and motivations to
+care for a partner’s needs onto the supportiveness and motivations
+they perceive in the partner. This projection effect was observed in
+all three of the present studies. In Study 1, people who provided
+safe haven or secure base support to their spouses perceived that
+
+11
+
+Preliminary analyses examined main effects and interactions involving sex and relationship type (romantic or not romantic). Not surprisingly,
+people reported higher own responsiveness (M ⫽ 0.12) and perceived
+partner responsiveness (M ⫽ 0.23) when reporting on romantic relationships than when reporting on nonromantic relationships (Ms ⫽ ⫺0.30 and
+⫺0.32, respectively), F(1, 143) ⫽ 4.68, p ⬍ .05, and F(1, 143) ⫽ 8.05, p ⬍
+.01, respectively. Most important, the effects of manipulated recall difficulty were not qualified by sex or relationship type.
+
+848
+
+LEMAY, CLARK, AND FEENEY
+
+for relationships, as evidence for projection remained after controlling for evaluation of the partner’s traits in Study 1 and after
+controlling for the extent to which communal norms were idealized in Study 2. Similarly, in both dyadic studies, responsiveness
+appeared projected even after controlling for general satisfaction,
+suggesting that projected responsiveness effects were not explained by halo effects driven by general happiness with the
+relationship.
+Motivational factors are also likely relevant. Perhaps a primary
+motivation is the desire for felt security in one’s most important
+communal relationships (cf. J. G. Holmes & Rempel, 1989), which
+can be maintained, in part, by perceiving that one’s care is reciprocated. Motivation to support a partner reflects investment in the
+relationship and a desire for that relationship to be mutually
+communal. Caring perceivers likely project their responsiveness to
+protect this investment and subjectively fulfill their wishes. This
+process may protect the self from the threat that would undoubtedly arise if one were to acknowledge that one’s care was not
+reciprocated (cf. Murray et al., 1996; Simpson et al., 1995). Providing preliminary evidence of this motivational explanation,
+Study 1 found that caring perceivers who reported a strong motivation to maintain their marriages (high commitment) were especially
+likely to project their caring. However, those with low commitment
+still exhibited the projection effect, albeit in weaker form, suggesting
+other sources of motivation or cognitive processes. Identifying those
+sources of motivation and processes is a task for future research.
+At first glance, effects of third variables may appear as viable
+alternative explanations of these projection effects. For instance, people may have been motivated to present themselves
+or their relationships in a socially desirable fashion. Similarly,
+tendencies to privately perceive the self or one’s relationships
+in a positive light (as a form of self-deception or Pollyannaism)
+may appear as explanations of projection. Such rosy selfpresentations or self-perceptions may have influenced ratings of
+own responsiveness and partner responsiveness, operating as a third
+variable that explains the apparent projection effects. However, controlling for self-reports of self-esteem, attachment, depression, and
+relationship satisfaction, all measures that are likely influenced by
+these same biases, did not mitigate the projection effects in the dyadic
+studies. Also, tendencies to perceive or present the relationship positively cannot explain the effect of manipulated difficulty in recalling
+support provision on reduced perceptions of partner responsiveness
+found in Study 3.
+Might our findings suggesting that projection effects are stronger than accuracy effects be explained by the fact that the same
+respondent completed measures involved in the former effects,
+whereas different respondents completed measures involved in the
+latter? After all, people likely respond to similarly worded questionnaire items about the self and their partner in similar ways
+because of idiosyncratic interpretations of item content. Controlling for other individual differences may not address this problem
+because it does not remove the shared variance due to item
+overlap. Several other aspects of the present research mitigate this
+concern. In Studies 1 and 2, measures of perceived partner responsiveness were composite measures consisting of a modified measure of own responsiveness as well as a second measure that was
+not administered as a measure of own responsiveness. Additional
+analyses using only the latter measure as the measure of perceived
+partner responsiveness produced a similar pattern of results. In
+
+Study 2, own chronic responsiveness predicted the number of
+benefit-record forms that participants chose to complete during the
+daily-diary component, an effect that is hardly vulnerable to the
+criticism that similarity in measurement explains projection effects. Moreover, the moderation by commitment found in Study 1
+refutes the criticism that projection simply reflects shared source
+or method variance. A skeptic would need to argue that people
+who are committed to their relationships, relative to those who are
+less committed, are more likely to have a general tendency to
+complete similar measures in a similar manner. Finally, the effect
+of manipulated difficulty recalling own support on reduced perceptions of partner responsiveness in Study 3 cannot be explained
+by shared method variance.
+This reasoning aside, the issue of similarity in measurement
+of own responsiveness and perceived partner responsiveness
+can be viewed in two ways. Similarity of measurement may
+inflate the projection effect because of shared method and
+source variance. However, using different means of assessing
+own responsiveness and perceived partner responsiveness may
+reduce the projection effect by adding noise. The projection
+model presumes that people see their partners as similar to
+themselves. Allowing for the full expression of that perceived
+similarity requires that measures of own responsiveness and
+measures of perceived partner responsiveness measure identical
+aspects of responsiveness with identical validity and reliability.
+For example, a person who views the self as highly motivated
+to relieve a partner’s distress but also admits some intrusiveness
+during the partner’s goal pursuits might project this same pattern of responsiveness onto the partner. Projection would be
+indicated if measures of own responsiveness and perceived
+partner responsiveness assessed relief of distress, intrusiveness,
+or both. However, the projection effect would be substantially
+reduced if own responsiveness reflected only one of these types
+of support and perceived partner responsiveness reflected the
+other. Using different measures of own responsiveness and
+perceived partner responsiveness would likely also reduce accuracy effects for the same reason.
+Perhaps measures of own responsiveness are not valid indicators
+of one’s actual responsiveness, thereby explaining the greater
+effects of projection than of accuracy. Several findings also undermine this alternative explanation. First, as the accuracy effects
+noted above reveal, measures of own responsiveness predicted the
+partner’s perceptions of that responsiveness. People who cared for
+their partners had partners who were more likely to say that they
+received care. People who claimed to provide few benefits to their
+partner on any given day had partners who claimed to receive few
+benefits on that day. Most likely, self-reported responsiveness
+reflects true responsiveness that is expressed behaviorally, explaining why people exhibited this moderate agreement. Indeed, other
+research found a positive relation between communal strength and
+objectively assessed allocation of benefits (Mills et al., 2004).
+Finally, the possibility that measures of own responsiveness are
+invalid cannot explain the experimental evidence provided by
+Study 3. If projection effects were explained by invalid reports of
+the partner’s own responsiveness, then perceptions of partner
+responsiveness should not have been affected by induced difficulty
+to recall own supportive behaviors, an effect that does not involve
+partners’ reports of their own responsiveness.
+
+PROJECTION OF RESPONSIVENESS
+
+Why Do Perceptions Seem Inaccurate? When Might They
+Be Accurate?
+Perceptions of partner responsiveness might not match the partner’s self-reported responsiveness for a variety of reasons. First, as
+the social support literature suggests (e.g., Dunkel-Schetter &
+Bennett, 1990; Lakey & Cassady, 1990; B. R. Sarason et al.,
+1987), a partner’s behaviors are often sufficiently ambiguous that
+they allow for subjective interpretations of their supportiveness
+and intent. Second, many ways in which a partner is supportive
+may not be visible, such as when one refrains from providing
+advice because his or her partner wants independence (cf. Bolger
+et al., 2000; Feeney, 2004). Third, the exigencies of everyday life
+may cause partners to perform a wide range of supportive and
+unsupportive behaviors. Biases in attention may cause people to
+detect one type more than the other. Fourth, the extent of a
+partner’s responsiveness may not be known because situations that
+would elicit that responsiveness have not occurred. Yet the partner,
+being ready to provide responsiveness should it be needed, may be
+quite aware of his or her own readiness to respond. Imagine, for
+instance, a spouse teaching her partner to ski. The partner may
+cautiously make his way down the trail, never even noticing the
+fact that she is conscientiously keeping her eyes on him, staying
+slightly behind him to be able to help him up and retrieve equipment should he fall. With good fortune, many people may not have
+had the pressing needs that would allow for a partner to express the
+full extent of his or her caring.
+However, our research should not be taken as evidence that
+people are never accurate. We do believe that accuracy may
+sometimes dominate perceptions of partner responsiveness. Some
+situations call for specific and easily observable forms of support.
+When one needs a ride to the emergency room, does the partner
+leave work to provide it? The answer will be clear. Moreover,
+extremes of chronic responsiveness are likely detected. People
+may have difficulty construing a partner who is always hostile and
+neglectful as responsive regardless of how much they desire a
+responsive partner. Similarly, a partner who is always very caring
+is likely to be perceived as such regardless of the guilt that
+perception brings to uncaring perceivers. However, these situations are exceptions. In most everyday lives, projection may dominate because there is considerable latitude for subjective interpretation.
+
+Interpersonal Effects of Projecting Responsiveness
+The social projection model posits that the projection of responsiveness is tremendously important to understanding the success of
+communal relationships. Indeed, in both dyadic studies, we found
+that projected responsiveness strongly predicted perceivers’ relationship satisfaction. People who cared for their relationship partners reported greater satisfaction in their relationships, and this
+effect was mediated by perceptions of partner responsiveness. That
+is, individuals who cared for their relationship partners were satisfied, in large part, because such individuals tended to believe that
+their partners were caring in return. Conversely, those who did not
+strongly care for their partners were dissatisfied, in large part,
+because they saw their partners as similarly uncaring. Study 2
+showed this effect longitudinally; people who projected their own
+high level of care onto their partners became even more satisfied
+
+849
+
+over time. By seeing caring as reciprocated, people who cared for
+their partner promoted their own satisfaction, whereas those who
+did not care appeared to undermine it.
+These projected perceptions may enhance the perceiver’s satisfaction for a variety of reasons. Most important, we think, is the
+fact that marriages are typically viewed as communal. Believing
+that one’s partner cares for one’s needs satisfies expectations for
+these types of relationships. That is, people who care for their
+partner can subjectively construct a mutual communal relationship
+by projecting their care. In addition, feeling cared for undoubtedly
+enhances one’s sense of personal safety and security and affirms
+one’s perceived value as a relationship partner (Leary & Baumeister, 2000), and relationships that provide these feelings are likely
+satisfying. The security conferred by projecting responsiveness
+likely also prevents the defensive and interpersonally damaging
+behaviors and cognitions that often ensue when lack of responsiveness is perceived (cf. Clark, 2005; Gottman & Levenson, 1992;
+Murray et al., 1998).
+
+Implications for Theoretical Perspectives on Social
+Support
+Social support research has focused on perceiver biases due to
+individual differences as explanations of perceivers’ subjective
+perceptions of support (e.g., Collins & Feeney, 2004; Lakey &
+Cassady, 1990; B. R. Sarason et al., 1991; Vinokur et al., 1987).
+Other research has focused on the role of general relationship
+satisfaction in biasing perceptions of a partner’s responsiveness
+(Kaul & Lakey, 2003; Lakey et al., 2002). The current research is
+not in conflict with these perspectives. Indeed, these variables
+were significant predictors of perceived partner responsiveness in
+the current studies. However, the current research suggests that
+own responsiveness to one’s partner is an important factor, perhaps
+more proximal and powerful than these other factors, in the construction of these subjective perceptions of partner responsiveness.
+Given that own responsiveness is dyadic and specific to the relationship partner being judged, this conclusion may not be surprising. The present results do support the idea that a factor that likely
+varies not only between persons but also between specific relationships, namely, one’s own felt responsiveness toward one’s
+partner, does drive perceptions of partner responsiveness. This
+may partially explain Lakey and colleagues’ (1996) finding that
+features of the relationship between recipient and supporter explained more variance in perceptions of support than did features
+of recipients or supporters alone. Theoretical perspectives on perceived social support may benefit from a greater focus on such
+dyadic factors.
+In addition, the social projection model advocated here presumes a connection between one’s role as support provider and
+one’s role as support recipient. With few exceptions, the social
+support literature has not examined these roles in an integrated
+fashion. Instead, for the sake of simplicity and ease of analysis,
+much of this research has ignored the fact that people are both
+providers and recipients of social support, presenting disjointed
+analyses of these roles. The current research suggests a need for a
+greater emphasis on the fact that people are both support providers
+and support recipients. Through projection of own responsiveness
+and perhaps through other processes as well, their role as support
+providers has great relevance for their role as recipients.
+
+850
+
+LEMAY, CLARK, AND FEENEY
+
+Implications for Theoretical Perspectives on Relationship
+Processes
+Several findings converge on the general idea that interpersonal
+cognition serves relational functions and is motivated by relational
+goals (cf. Murray, 1999). That is, people perceive their relationships and their relationship partners in ways that maintain and
+promote the relationships and often avoid cognitions that may
+threaten relationships. The projection of own responsiveness appears to be an example of interpersonally motivated cognition, as
+it is a means of subjectively constructing mutual communal relationships even when the realities of relationships fall short.
+A related example of motivated interpersonal cognition is provided by research on positive relationship illusions, which suggests
+that people project their positive self-evaluations and ideals onto
+perceptions of their partners, perceiving their partners as similar to
+their own rosy self-images and ideals. Furthermore, perceiving
+partners in this idealized light enhances satisfaction (cf. Murray &
+Holmes, 1997; Murray et al., 1996). As this process is conceptually similar to that posited by the current model of projection of
+responsiveness, the current research sought to test whether projected responsiveness could be explained by a more general positive evaluation of the partner. Findings from Studies 1 and 2
+provide evidence of projection of responsiveness and of its effects
+on satisfaction while controlling for evaluation of the partner’s
+interpersonal traits and idealization of communal norms, respectively. Thus, the projection of responsiveness and its effects on
+satisfaction do not seem to be explained by general tendencies to
+evaluate the partner positively. General positive evaluations of a
+partner and projected perceptions of a partner’s responsiveness
+may exert independent effects on satisfaction.
+This research is also relevant to the dependency-regulation
+model posited by Murray, Holmes, and colleagues (e.g., Murray et
+al., 1998, 2000; Murray, Rose, Bellavia, Holmes, & Kusche,
+2002). Their model presumes that people gauge a partner’s regard
+and acceptance when they make choices regarding whether they
+should continue to invest in the relationship and depend on the
+partner. Those who perceive a partner as critical or rejecting, the
+model posits, react by reducing dependence on the partner as a
+means of protecting the self. That is, people who anticipate rejection may convince themselves that their relationships are not very
+important to them or that their partners have only limited virtues as
+a means of preemptively diminishing the threat of the forthcoming
+rejection. Importantly, this model posits that the perceptions of a
+partner’s regard that trigger the dependency-regulation process
+may not always be veridical. Instead, proclivities to see partners as
+rejecting, such as low self-esteem or attachment-related anxiety,
+may cause people to defensively react to a rejection that is not
+really there, whereas tendencies to believe that others are accepting, due to high self-esteem or attachment security, may cause
+people to increase dependence on a partner who is not really all
+that accepting.
+The present research suggests a dyadic mechanism that also
+affects judgments of a partner’s regard. One’s own responsiveness
+likely influences judgments of a partner’s regard through the
+projection process, which, in turn, may affect willingness to risk
+dependence upon a partner. Those with low motivation to care for
+a partner’s needs may see their partners as less motivated to care
+for the self through the projection process, triggering a defensive
+
+reduction of dependence and closeness, as well as derogation of
+the partner. In this way, projected responsiveness may trigger the
+dependency-regulation process. In addition, as willingness to depend on and invest in a relationship promotes motivation to care
+for the other’s needs, the dependency-regulation process may
+affect own responsiveness. People who doubt a partner’s regard
+may defensively reduce their motivation to care for the partner. In
+turn, through the projection process, people who have reacted by
+reducing communal motivations may continue to doubt the partner’s regard. Thus, the projection of responsiveness may also be a
+consequence of the dependency-regulation process. The two processes likely work together, each shaping the factor that engages
+the other process.
+Several studies have reported a relationship between responsive
+caregiving and satisfaction (Acitelli & Antonucci, 1994; Brunstein
+et al., 1996; Collins & Feeney, 2000; Mills et al., 2004). Clark and
+Grote (1998) described several mechanisms through which behaving communally toward one’s partner can enhance satisfaction. For
+instance, when people care, they may come to see themselves as
+caring through self-perception and dissonance reduction, and seeing themselves in positive ways may enhance satisfaction. Their
+care may also create happy partners with whom they are more
+likely to be satisfied. The projection of responsiveness is an
+additional mechanism that likely explains why caregiving can
+promote the caregiver’s satisfaction despite the fact that providing
+support often comes at a cost to the caregiver. Such costs may be
+viewed as benefits and availability of support when they are
+projected onto the other. In addition, our findings are relevant to
+classic studies documenting positive effects of helping on the
+helper’s liking for the recipient (e.g., Jecker & Landy, 1969).
+Although such effects are often explained by the reduction of
+dissonance (e.g., justifying helping efforts by enhancing the recipient), they may also be explained by the projection of responsiveness (e.g., feeling liked by the recipient after providing help).
+Along with effects of projected responsiveness on satisfaction, a
+second mediation model is implied by the current findings. As
+discussed above, although perceptions of partner responsiveness
+were largely biased by own responsiveness, there was also a small
+kernel of truth in these perceptions. Moreover, mediation analyses
+suggest that the interpersonal benefit of having a caring partner, in
+terms of an effect on the recipient’s relationship satisfaction,
+hinged on this kernel of truth. That is, when the partner’s selfreported responsiveness predicted one’s own satisfaction, the effect was eliminated after controlling for perceived partner responsiveness (see footnotes 7 and 10, above). These results are
+consistent with much social support research suggesting that supportive acts must be perceived as such by recipients for their
+benefits to be realized (Cohen & Wills, 1985; Stroebe & Stroebe,
+1996).
+Why should this be the case? Many ways in which a caring
+partner provides tangible support may be mundane, and the presence or lack of this support per se may not notably affect either
+party, at least in regard to the generalized relationship satisfaction
+outcomes examined in this study. Taking the time to choose a
+birthday gift, for example, may have little relevance in and of itself
+to the partner’s global satisfaction. The things one does and does
+not do for one’s partner, however, can become pivotal when these
+actions communicate the extent to which one cares for the partner’s needs (Ames, Flynn, & Weber, 2004; Clark, 2005). Forget-
+
+PROJECTION OF RESPONSIVENESS
+
+ting a birthday matters when this symbolizes a broader lack of
+caring. As successful communication of this care depends on
+recipients’ ability to decode the partner’s behavior into messages
+about care, perceived partner responsiveness necessarily is the
+proximal mediator between the caregiver’s actual caring and the
+recipient’s satisfaction. Attempts to support one’s partner that go
+unnoticed lack a communication of caring for needs and thus have
+little effect on the recipient’s satisfaction. Similarly, seeing a
+particular behavior as reflecting more care than was the case,
+perhaps because one’s own care is greater than one’s partner’s,
+may nevertheless increase one’s satisfaction. Through accuracy
+and projection biases, then, perceived partner responsiveness appears to serve as a crucial intermediary variable that carries the
+influence of both partners’ responsiveness on perceivers’ relationship satisfaction.
+
+References
+Abbey, A., Andrews, F., & Halman, L. (1995). Provision and receipt of
+social support and disregard: What is their impact on the marital life
+quality of infertile and fertile couples? Journal of Personality and Social
+Psychology, 68, 455– 469.
+Acitelli, L. K., & Antonucci, T. C. (1994). Gender differences in the link
+between marital support and satisfaction in older couples. Journal of
+Personality and Social Psychology, 67, 688 – 698.
+Adams, J. M., & Jones, W. H. (1997). The conceptualization of marital
+commitment: An integrative analysis. Journal of Personality and Social
+Psychology, 72, 1177–1196.
+Allport, F. H. (1924). Social psychology. Cambridge, MA: Riverside Press.
+Ames, D. R., Flynn, F. J., & Weber, E. U. (2004). It’s the thought that
+counts: On perceiving how helpers decide to lend a hand. Personality
+and Social Psychology Bulletin, 30, 461– 474.
+Andersen, S. M., & Chen, S. (2002). The relational self: An interpersonal
+social– cognitive theory. Psychological Review, 109, 619 – 645.
+Baron, R. M., & Kenny, D. A. (1986). The moderator–mediator variable
+distinction in social psychological research: Conceptual, strategic, and
+statistical considerations. Journal of Personality and Social Psychology,
+51, 1173–1182.
+Bolger, N., Zuckerman, A., & Kessler, R. (2000). Invisible support and
+adjustment to stress. Journal of Personality and Social Psychology, 79,
+953–961.
+Boon, S. P., & Holmes, J. G. (1991). The Trust Scale. Unpublished
+manuscript, University of Waterloo, Waterloo, Ontario, Canada.
+Bowlby, J. (1982). Attachment and loss: Vol. 1. Attachment. New York:
+Basic Books. (Original work published 1969)
+Bowlby, J. (1988). A secure base. New York: Basic Books.
+Brennan, K. A., Clark, C. L., & Shaver, P. R. (1998). Self-report measurement of adult attachment: An integrative overview. In J. A. Simpson &
+W. S. Rholes (Eds.), Attachment theory and close relationships (pp.
+46 –76). New York: Guilford Press.
+Brunstein, J. C., Dangelmayer, G., & Schultheiss, O. C. (1996). Personal
+goals and social support in close relationships: Effects on relationship
+mood and marital satisfaction. Journal of Personality and Social Psychology, 71, 1006 –1019.
+Bryk, A., & Raudenbush, S. W. (1992). Hierarchical linear models for
+social and behavioral research: Applications and data analysis methods. Newbury Park, CA: Sage.
+Campbell, L. J., & Kashy, D. A. (2002). Estimating actor, partner, and
+interaction effects for dyadic data using PROC MIXED and HLM5: A
+brief guided tour. Personal Relationships, 9, 327–342.
+Clark, M. S. (1984). Record keeping in two types of relationships. Journal
+of Personality and Social Psychology, 47, 549 –557.
+Clark, M. S. (2005, January). Relationship quality: The importance of focus
+
+851
+
+of attention. Paper presented at the annual meeting of the Society of
+Personality and Social Psychology, New Orleans, LA.
+Clark, M. S., Dubash, P., & Mills, J. (1998). Interest in another’s consideration of one’s needs in communal and exchange relationships. Journal
+of Experimental Social Psychology, 34, 246 –264.
+Clark, M. S., Graham, S., & Grote, N. (2002). Bases for giving benefits in
+marriage: What is ideal? What is realistic? What really happens? In P.
+Noller & J. Feeney (Eds.), Understanding marriage: Developments in
+the study of couple interaction (pp. 150 –176). Cambridge, England:
+Cambridge University Press.
+Clark, M. S., & Grote, N. K. (1998). Why aren’t indices of relationship
+costs always negatively related to indices of relationship quality? Personality and Social Psychology Review, 2, 2–17.
+Clark, M. S., & Mills, J. (1979). Interpersonal attraction in exchange and
+communal relationships. Journal of Personality and Social Psychology,
+37, 12–24.
+Clark, M. S., & Mills, J. (1993). The difference between communal and
+exchange relationships: What it is and is not. Personality and Social
+Psychology Bulletin, 19, 684 – 691.
+Clark, M. S., Mills, J., & Powell, M. (1986). Keeping track of needs in
+communal and exchange relationships. Journal of Personality and Social Psychology, 51, 333–338.
+Clark, M. S., Ouellette, R., Powell, M., & Milberg, S. (1987). Relationship
+type, recipient mood, and helping. Journal of Personality and Social
+Psychology, 53, 94 –103.
+Cohen, S., & Wills, T. H. (1985). Stress, social support, and the buffering
+hypothesis. Psychological Bulletin, 98, 310 –357.
+Collins, N. L., & Feeney, B. C. (2000). A safe haven: An attachment theory
+perspective on support seeking and caregiving in intimate relationships.
+Journal of Personality and Social Psychology, 78, 1053–1073.
+Collins, N. L., & Feeney, B. C. (2004). Working models of attachment
+shape perceptions of social support: Evidence from experimental and
+observational studies. Journal of Personality and Social Psychology, 87,
+363–383.
+Collins, N. L., & Read, S. J. (1990). Adult attachment, working models,
+and relationship quality in dating couples. Journal of Personality and
+Social Psychology, 58, 644 – 663.
+Coriell, M., & Cohen, S. (1995). Concordance in the face of a stressful
+event: When do members of a dyad agree that one person supported the
+other? Journal of Personality and Social Psychology, 69, 289 –299.
+Dunkel-Schetter, C., & Bennett, T. L. (1990). Differentiating the cognitive
+and behavioral aspects of social support. In B. R. Sarason, I. G. Sarason,
+& G. R. Pierce (Eds.), Social support: An interactional view (pp.
+267–296). New York: Wiley.
+Feeney, B. C. (2004). A secure base: Responsive support of goal strivings
+and exploration in adult intimate relationships. Journal of Personality
+and Social Psychology, 87, 631– 648.
+Feeney, B. C. (2005). Individual differences in secure base support provision: The role of attachment style, relationship characteristics, and
+underlying motivations. Manuscript submitted for publication.
+Feeney, B. C., & Collins, N. L. (2004). Interpersonal safe haven and secure
+base caregiving processes in adulthood. In J. A. Simpson, & W. S.
+Rholes (Eds.), Adult attachment: Theory, reasons, and clinical implications. (pp. 300 –338). New York: Guilford Press.
+Fitzsimons, G. M., & Bargh, J. A. (2003). Thinking of you: Nonconscious
+pursuit of interpersonal goals associated with relationship partners. Journal of Personality and Social Psychology, 84, 148 –164.
+Gottman, J. M., & Levenson, R. W. (1992). Marital processes predictive of
+later dissolution. Journal of Personality and Social Psychology, 63,
+221–233.
+Hendrick, S. S., Dicke, A., & Hendrick, C. (1998). The Relationship
+Assessment Scale. Journal of Social and Personal Relationships, 15,
+137–142.
+Higgins, E. T., King, G. A., & Mavin, G. H. (1982). Individual construct
+
+852
+
+LEMAY, CLARK, AND FEENEY
+
+accessibility and subjective impressions and recall. Journal of Personality and Social Psychology, 43, 35– 47.
+Holmes, D. S. (1968). Dimensions of projection. Psychological Bulletin,
+69, 248 –268.
+Holmes, J. G., & Rempel, J. K. (1989). Trust in close relationships. In C.
+Hendrick (Ed.), Review of personality and social psychology: Vol. 10.
+Close relationships (pp. 187–219). Newbury Park, CA: Sage.
+Jecker, J., & Landy, D. (1969). Liking a person as a function of doing him
+a favor. Human Relations, 22, 371–378.
+Johnson, D. J., & Rusbult, C. E. (1989). Resisting temptation: Devaluation
+of alternative partners as a means of maintaining commitment in close
+relationships. Journal of Personality and Social Psychology, 57, 967–
+980.
+Kashy, D. A., & Kenny, D. A. (2000). The analysis of data from dyads and
+groups. In H. Reis & C. M. Judd (Eds.), Handbook of research methods
+in social psychology (pp. 451– 477). New York: Cambridge University
+Press.
+Kaul, M., & Lakey, B. (2003). Where is the support in perceived support?
+The role of generic relationship satisfaction and enacted support in
+perceived support’s relation to low distress. Journal of Social and
+Clinical Psychology, 22, 59 –78.
+Kawada, C. L. K., Oettingen, G., Gollwitzer, P. M., & Bargh, J. A. (2004).
+The projection of implicit and explicit goals. Journal of Personality and
+Social Psychology, 86, 545–559.
+Kenny, D. A., & Acitelli, L. K. (2001). Accuracy and bias in the perception
+of the partner in a close relationship. Journal of Personality and Social
+Psychology, 80, 439 – 448.
+Kunce, L. J., & Shaver, P. R. (1994). An attachment-theoretical approach
+to caregiving in romantic relationships. In K. Bartholomew & D. Perlman (Eds.), Advances in personal relationships: Vol. 5. Attachment
+processes in adulthood (pp. 205–237). London: Jessica Kingsley.
+Lakey, B., Adams, K., Neely, G., Rhodes, G., Lutz, C. J., & Sielky, K.
+(2002). Perceived support and low emotional distress: The role of
+enacted support, dyad similarity, and provider personality. Personality
+and Social Psychology Bulletin, 28, 1546 –1555.
+Lakey, B., & Cassady, P. B. (1990). Cognitive processes in perceived
+social support. Journal of Personality and Social Psychology, 59, 337–
+343.
+Lakey, B., McCabe, K. M., Fisicaro, S., & Drew, J. B. (1996). Environmental and personal determinants of support perceptions: Three generalizability studies. Journal of Personality and Social Psychology, 70,
+1270 –1280.
+Leary, M. R., & Baumeister, R. F. (2000). The nature and function of
+self-esteem: Sociometer theory. In M. P. Zanna (Ed.), Advances in
+experimental social psychology (Vol. 32, pp. 2–51). San Diego, CA:
+Academic Press.
+Marks, G., & Miller, N. (1987). Ten years of research on the false
+consensus effect: An empirical and theoretical review. Psychological
+Bulletin, 102, 72–90.
+Markus, H., Smith, J., & Moreland, R. L. (1985). Role of the self-concept
+in the perception of others. Journal of Personality and Social Psychology, 49, 1494 –1512.
+Martz, J. M., Verette, J., Arriaga, X. B., Slovik, L. F., Cox, C. L., &
+Rusbult, C. E. (1998). Positive illusion in close relationships. Personal
+Relationships, 5, 159 –181.
+Mills, J., & Clark, M. S. (1982). Communal and exchange relationships. In
+L. Wheeler (Ed.), Review of personality and social psychology (Vol. 3,
+pp. 121–144). Beverly Hills, CA: Sage.
+Mills, J., Clark, M. S., Ford, T. E., & Johnson, M. (2004). Measurement of
+communal strength. Personal Relationships, 11, 213–230.
+Murray, S. L. (1999). The quest for conviction: Motivated cognition in
+romantic relationships. Psychological Inquiry, 10, 23–34.
+Murray, S. L., & Holmes, J. G. (1997). A leap of faith? Positive illusions
+
+in romantic relationships. Personality and Social Psychology Bulletin,
+23, 586 – 604.
+Murray, S. L., Holmes, J. G., Bellavia, G., Griffin, D. W., & Dolderman,
+D. (2002). Kindred spirits? The benefits of egocentrism in close relationships. Journal of Personality and Social Psychology, 82, 563–581.
+Murray, S. L., Holmes, J. G., & Griffin, D. W. (1996). The benefits of
+positive illusions: Idealization and the construction of satisfaction in
+close relationships. Journal of Personality and Social Psychology, 70,
+79 –98.
+Murray, S. L., Holmes, J. G., & Griffin, D. W. (2000). Self-esteem and the
+quest for felt security: How perceived regard regulates attachment processes. Journal of Personality and Social Psychology, 78, 478 – 498.
+Murray, S. L., Holmes, J. G., MacDonald, G., & Ellsworth, P. (1998).
+Through the looking glass darkly? When self-doubts turn into relationship insecurities. Journal of Personality and Social Psychology, 75,
+1459 –1480.
+Murray, S. L., Rose, P., Bellavia, G. M., Holmes, J. G., & Kusche, A. G.
+(2002). When rejection stings: How self-esteem constrains relationshipenhancement processes. Journal of Personality and Social Psychology,
+83, 556 –573.
+Nezlek, J. B. (2001). Multilevel random coefficient analyses of event- and
+interval-contingent data in social and personality psychology research.
+Personality and Social Psychology Bulletin, 27, 771–785.
+Norton, R. (1983). Measuring marital quality: A critical look at the dependent variable. Journal of Marriage and the Family, 45, 141–151.
+Pierce, G. R., Sarason, I. G., & Sarason, B. R. (1991). General and
+relationship-based perceptions of social support: Are two constructs
+better than one? Journal of Personality and Social Psychology, 61,
+1028 –1039.
+Radloff, L. S. (1977). The CES-D Scale: A self-report depression scale for
+research in the general population. Applied Psychological Measurement,
+1, 385– 401.
+Raudenbush, S. W., Bryk, A. S., Cheong, Y. F., & Congdon, R. T., Jr.
+(2000). HLM 5: Hierarchical linear and nonlinear modeling. Lincolnwood, IL: Scientific Software International.
+Reis, H. T., Clark, M. S., & Holmes, J. G. (2004). Perceived partner
+responsiveness as an organizing construct in the study of intimacy and
+closeness. In D. Mashek & A. Aron (Eds.), Handbook of closeness and
+intimacy (pp. 201–225). Mahwah, NJ: Erlbaum.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton,
+NJ: Princeton University Press.
+Ross, L., Greene, D., & House, P. (1977). The false consensus phenomenon: An attributional bias in self-perception and social perception processes. Journal of Experimental Social Psychology, 13, 279 –301.
+Rusbult, C. E., Van Lange, P. A. M., Wildschut, T., Yovetich, N. A., &
+Verette, J. (2000). Perceived superiority in close relationships: Why it
+exists and persists. Journal of Personality and Social Psychology, 79,
+521–545.
+Ruvolo, A. P., & Fabin, L. A. (1999). Two of a kind: Perceptions of own
+and partner’s attachment characteristics. Personal Relationships, 6, 57–
+80.
+Sarason, B. R., Pierce, G. R., Shearin, E. N., Sarason, I. G., Waltz, J. A.,
+& Poppe, L. (1991). Perceived social support and working models of self
+and actual others. Journal of Personality and Social Psychology, 60,
+273–287.
+Sarason, B. R., Sarason, I. G., & Pierce, G. R. (1990). Traditional views of
+social support and their impact on assessment. In B. R. Sarason, I. G.
+Sarason, & G. R. Pierce (Eds.), Social support: An interactional view
+(pp. 9 –25). New York: Wiley.
+Sarason, B. R., Shearin, E. N., Pierce, G. R., & Sarason, I. G. (1987).
+Interrelations of social support measures: Theoretical and practical implications. Journal of Personality and Social Psychology, 52, 813– 832.
+Sarason, I. G., Sarason, B. R., & Shearin, E. N. (1986). Social support as
+
+PROJECTION OF RESPONSIVENESS
+an individual difference variable: Its stability, origins, and relational
+aspects. Journal of Personality and Social Psychology, 50, 845– 855.
+Schul, Y., & Vinokur, A. D. (2000). Projection in person perception among
+spouses as a function of the similarity in their shared experiences.
+Personality and Social Psychology Bulletin, 26, 987–1001.
+Schwarz, N. (1998). Accessible content and accessibility experiences: The
+interplay of declarative and experiential information in judgment. Personality and Social Psychology Review, 2, 87–99.
+Simpson, J. A., Ickes, W., & Blackstone, T. (1995). When the head protects
+the heart: Empathic accuracy in dating relationships. Journal of Personality and Social Psychology, 69, 629 – 641.
+Simpson, J. A., Rholes, W. S., & Phillips, D. (1996). Conflict in close
+relationships: An attachment perspective. Journal of Personality and
+Social Psychology, 71, 899 –914.
+Stroebe, W., & Stroebe, M. (1996). The social psychology of social
+support. In A. Kruglanski & E. T. Higgins (Eds.), Social psychology:
+Handbook of basic principles (pp. 597– 621). New York: Guilford Press.
+Thomas, G., & Fletcher, G. J. O. (2003). Mind-reading accuracy in inti-
+
+853
+
+mate relationships: Assessing the roles of the relationship, the target, and
+the judge. Journal of Personality and Social Psychology, 85, 1079 –
+1094.
+Trobst, K. K. (2000). An interpersonal conceptualization and quantification
+of social support transactions. Personality and Social Psychology Bulletin, 26, 971–986.
+Van Lange, P. A. M., Rusbult, C. E., Drigotas, S. M., Arriaga, X. B.,
+Witcher, B. S., & Cox, C. L. (1997). Willingness to sacrifice in close
+relationships. Journal of Personality and Social Psychology, 72, 1373–
+1395.
+Vinokur, A., Schul, Y., & Caplan, R. D. (1987). Determinants of perceived
+social support: Interpersonal transactions, personal outlook, and transient affective states. Journal of Personality and Social Psychology, 53,
+1137–1145.
+
+Received February 15, 2006
+Revision received July 25, 2006
+Accepted September 23, 2006 䡲
+
+

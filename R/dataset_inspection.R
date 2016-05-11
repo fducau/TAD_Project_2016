@@ -1,14 +1,13 @@
-library(quanteda)
-library(ggplot2)
-
-
 ########################
 # DATASET EXPLORATION
 ########################
 
+library(quanteda)
+library(ggplot2)
+
 setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
 
-ds = read.csv('./train.csv', sep = '\t', stringsAsFactors = FALSE)
+ds = read.csv('replication_dataset.csv', sep = ',', stringsAsFactors = FALSE)
 
 # Number of studies in the dataset
 N = nrow(ds)

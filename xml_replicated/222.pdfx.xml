@@ -1,0 +1,327 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pdfx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://pdfx.cs.man.ac.uk/static/article-schema.xsd">
+  <meta>
+    <job>e924fd47145f8d2603c4bd34597d89fc06c7474aef159add4467394557c027f9</job>
+    <base_name>5x</base_name>
+    <doi>10.1037/a0027405</doi>
+    <warning>Name identification was not possible. </warning>
+  </meta>
+  <article>
+    <front class="DoCO:FrontMatter">
+      <outsider class="DoCO:TextBox" type="header" id="1">Journal of Experimental Psychology: General</outsider>
+      <title-group>
+        <article-title class="DoCO:Title" id="2">Is Optimism Real?</article-title>
+      </title-group>
+      <region class="DoCO:TextChunk" id="3" confidence="possible">Joseph P. Simmons and Cade Massey Online First Publication, February 13, 2012. doi: 10.1037/a0027405 CITATION Simmons, J. P., &amp; Massey, C. (2012, February 13). Is Optimism Real?. Psychology: General. Advance online publication. doi: 10.1037/a0027405</region>
+      <region class="unknown" id="4">Journal of Experimental</region>
+      <outsider class="DoCO:TextBox" type="header" id="5">Journal of Experimental Psychology: General 2012, Vol. ●●, No. ●, 000 – 000</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="6">© 2012 American Psychological Association 0096-3445/12/$12.00 DOI: 10.1037/a0027405</outsider>
+      <region class="DoCO:TextChunk" id="8" confidence="possible">BRIEF REPORT Is Optimism Real? Joseph P. Simmons and Cade Massey University of Pennsylvania Is optimism real, or are optimistic forecasts just cheap talk? To help answer this question, we investigated whether optimistic predictions persist in the face of large incentives to be accurate. We asked National Football League football fans to predict the winner of a single game. Roughly half (the partisans) predicted a game involving their favorite team, and the other half (the neutrals) predicted a game involving 2 teams they were neutral about. Participants were promised either a small incentive ($5) or a large incentive ($50) for correctly predicting the game’s winner. Optimism emerged even when incentives were large, as partisans were much more likely than neutrals to predict partisans’ favorite teams to win. Strong optimism also emerged among participants whose responses to follow-up questions strongly suggested that they believed the predictions they made. This research supports the claim that optimism is real. Keywords: incentives, heuristics and biases, accuracy motivation, motivated reasoning Supplemental materials: <ext-link ext-link-type="uri" href="http://dx.doi.org/10.1037/a0027405.supp" id="7">http://dx.doi.org/10.1037/a0027405.supp</ext-link></region>
+      <region class="DoCO:TextChunk" id="19">Evidence for optimism abounds. People optimistically forecast task completion (Buehler, Griffin, &amp; <xref ref-type="bibr" rid="R2" id="9" class="deo:Reference">Ross, 1994</xref>), task performance (<xref ref-type="bibr" rid="R3" id="10" class="deo:Reference">Camerer &amp; Lovallo, 1999</xref>), health outcomes (<xref ref-type="bibr" rid="R17" id="11" class="deo:Reference">Weinstein, 1980</xref>), political outcomes (Krizan, Miller, &amp; <xref ref-type="bibr" rid="R8" id="12" class="deo:Reference">Johar, 2010</xref>), and sporting outcomes (Massey, Simmons, &amp; <xref ref-type="bibr" rid="R11" id="13" class="deo:Reference">Armor, 2011</xref>). Despite this seeming abundance of evidence, there are good reasons to question whether optimistic predictions reflect true beliefs. First, forecasts of controllable events, such as project completion times or competitive performance, may reflect strategic goal setting. People may falsely express optimism for controllable events because they believe that making optimistic forecasts will motivate them to improve their performance (<xref ref-type="bibr" rid="R20" id="14" class="deo:Reference">Zhang &amp; Fishbach, 2010</xref>). Second, statistical artifacts, such as base rate regression and scale attenuation, may underlie demonstrations of comparative optimism— optimistic predictions of the self relative to others (<xref ref-type="bibr" rid="R6" id="15" class="deo:Reference">Harris &amp; Hahn, 2011</xref>; <xref ref-type="bibr" rid="R12" id="16" class="deo:Reference">Moore &amp; Healy, 2008</xref>; <xref ref-type="bibr" rid="R13" id="17" class="deo:Reference">Moore &amp; Small, 2007</xref>). <xref ref-type="bibr" rid="R6" id="18" class="deo:Reference">Harris and Hahn (2011)</xref> even suggested that “these statistical artifacts also raise questions about the very existence of a general, unrealistically optimistic bias” (p. 149). Although these critiques are navigable—for example, by showing that optimism persists even when people are asked to predict</region>
+      <region class="DoCO:TextChunk" id="21" confidence="possible">Joseph P. Simmons and Cade Massey, The Wharton School, University of Pennsylvania. The authors contributed equally to this article. This research was par- tially funded by a Yale University Whitebox Behavioral Studies Fellow- ship grant. We thank David Armor, Geoff Goodwin, George Newman, Nathan Novemsky, and Aaron Sackett for valuable comments. Correspondence concerning this article should be addressed to Joseph P. Simmons or Cade Massey, The Wharton School, University of Pennsylvania, 3730 Walnut Street, Philadelphia, PA 19104. E-mail: jsimmo@ wharton.upenn.edu or <email id="20">cadem@wharton.upenn.edu</email></region>
+      <region class="DoCO:TextChunk" id="34">the absolute outcome of an uncontrollable event ( <xref ref-type="bibr" rid="R11" id="22" class="deo:Reference">Massey et al., 2011</xref>)—a third critique is more challenging: Since there is little cost to doing so, people may choose to respond optimistically even when they do not believe it. For example, a sports fan may predict that his favorite team will win an upcoming game not because he genuinely believes this but because of a low-cost desire to be loyal to his team. Is optimistic responding just cheap talk, or do people respond optimistically even when they are motivated to give accurate predictions? One way to answer this is to investigate whether optimism persists in the face of large incentives for accuracy (<xref ref-type="bibr" rid="R5" id="23" class="deo:Reference">Grether, 1980</xref>; <xref ref-type="bibr" rid="R10" id="24" class="deo:Reference">Levitt &amp; List, 2007</xref>). On this question the evidence is mixed. On the one hand, <xref ref-type="bibr" rid="R1" id="25" class="deo:Reference">Armor and Sackett (2006)</xref> found more optimism for hypothetical than for real events, suggesting that optimism may be reduced or even eliminated by immediate consequences. On the other hand, <xref ref-type="bibr" rid="R18" id="26" class="deo:Reference">Williams and Gilovich (2008)</xref> found that participants were as willing to bet on their own optimistic beliefs as they were on equally likely objective gambles, suggesting they truly believed their optimistic predictions. A weakness of these studies, as well as others showing optimism in the face of incentives (<xref ref-type="bibr" rid="R11" id="27" class="deo:Reference">Massey et al., 2011</xref>; Windschitl, Smith, Rose, &amp; <xref ref-type="bibr" rid="R8" id="28" class="deo:Reference">Krizan, 2010</xref>), is that the incentives were modest. Should we believe that people, free to wed predictions to their desires in the absence of incentives, suddenly decouple them in order to gain $1? This seems unlikely, especially when desires are strong. Hence, the fundamental question remains: Is optimism real? We answered this question by investigating whether optimistic predictions persist in the face of large incentives to be accurate. To accomplish this, we asked National Football League (NFL) football fans to predict the winner of a single game. Roughly half (the partisans) was asked to predict a game involving their favorite team, and the other half (the neutrals) was asked to predict a game<marker type="page" number="3"/><marker type="column" number="1"/><marker type="block"/> involving two teams they were relatively neutral about. Predictions are optimistic if partisans are more likely than neutrals to predict the partisans’ preferred team to win. To assess whether optimism reflects true beliefs, we also manipulated incentives. Participants were promised either a small incentive ($5) or a large incentive ($50) for a correct prediction. If optimistic responding is mere cheap talk, then a $50 incentive should eliminate it. Obviously, though, the persistence of optimistic predictions in the face of a $50 incentive does not prove that optimism is genuine. It could be that although optimism persists when the incentive is $50, it would not if the incentive were $500 or $5,000 or $50,000. One can try to navigate this critique by collecting additional measures assessing whether or not participants were responding truthfully. By including such measures in our study, we were able to investigate whether optimism persisted even among the subset of participants who, by all indications, genuinely believed the predictions they made. We investigated football predictions in this study because this domain offers important advantages. First, because football outcomes are uncontrollable and football predictions are noncompara- tive, optimistic responses in this domain cannot be explained by strategic goal-setting and statistical artifacts. Second, football outcomes are unambiguous, imminent, and transparently beyond the control of the experimenter (no participant could believe the experimenter has rigged the result) and thus easy to incentivize. Third, because football fans are knowledgeable about the games they are predicting, they are not simply guessing the correct answer (cf. <xref ref-type="bibr" rid="R19" id="33" class="deo:Reference">Windschitl et al., 2010</xref>). Finally, this domain offers objective data indicating which team was better, conditional on everything known at the time the prediction was made, thus providing us with an unbiased assessment of decision quality. To our knowledge, sporting events with active betting markets are the only domains that offer all these important features.</region>
+      <outsider class="DoCO:TextBox" type="page_nr" id="30">1</outsider>
+      <outsider class="DoCO:TextBox" type="page_nr" id="31">2</outsider>
+      <outsider class="DoCO:TextBox" type="header" id="32">SIMMONS AND MASSEY</outsider>
+    </front>
+    <body class="DoCO:BodyMatter">
+      <section class="deo:Methods">
+        <h1 class="DoCO:SectionTitle" id="35" page="3" column="1">Method</h1>
+        <region class="DoCO:TextChunk" id="37" page="3" column="1">This report adheres to the requirements proposed by <xref ref-type="bibr" rid="R11" id="36" class="deo:Reference">Simmons, Nelson, and Simonsohn (2011)</xref>.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="38" page="3" column="1">Participants and Recruitment</h1>
+        <region class="DoCO:TextChunk" id="40" page="3" column="1">Approximately 2 weeks before the start of the 2010 NFL football season, we e-mailed a large panel that we use to conduct research, asking NFL football fans to complete a short web survey indicating their interest in participating in football-related research. This survey asked participants (N 1,317) to indicate their e-mail address, their most and least favorite NFL football teams, how closely they followed NFL football (1 not at all, 5 extremely), how often they watch Monday Night Football, their name, ZIP code, country of residence, gender, birth month, and birth year. They also took a four-item quiz, asking them to recall the previous season’s Super Bowl winner and loser, and the losers of the two conference championship games. Those who completed this survey (N 1,153) received a follow-up survey asking them to rate how much they like (1 strongly dislike, 5 neutral, 9 strongly like) and know about (1 nothing, 5 almost everything) each NFL team. (Teams were randomly ordered.) They again indicated their most and least favorite NFL teams. We invited the 1,000 participants who indi- <marker type="column" number="2"/><marker type="block"/> cated the same favorite NFL team in both surveys to participate in the experiment described below. Trading off budgetary concerns and statistical power, we decided in advance to stop collecting data once roughly 800 participants had completed it. We did so after 770 participants responded (53.6% male; M age 34.9 years).</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="41" page="3" column="2">Procedure</h1>
+        <region class="DoCO:TextChunk" id="43" page="3" column="2">On the Thursday before Week 2’s NFL games (played on Sunday and Monday), we e-mailed participants a survey asking them to predict the winner of one of those games. Participants did not know in advance which game they would be asked to predict. 1 This study featured a 2 (partisans vs. neutrals) 2 ($5 vs. $50 incentive) between-subjects design. Partisans predicted the winner of the game involving their favorite team. Neutrals predicted the winner of a game that involved neither their favorite nor least favorite team. Neutrals were matched to partisans, so that the proportion of partisans predicting each game was roughly the same as the proportion of neutrals predicting each game. Indeed, by design, the proportion of partisans versus neutrals distributed across the 14 games was nearly identical, 2 (13) 2.51, p .99 (see <xref ref-type="table" rid="T1" id="42" class="deo:Reference">Table 1</xref>). Participants in the $5 ($50) condition were told that they would win a $5 ($50) Amazon.com gift certificate for correctly predicting the game’s winner. To be sure they understood this information, we instructed participants to type “I will win a [$5 or $50] gift certificate if I correctly predict the winner of the NFL game.” All but three participants typed this or some variant of it. We included them in all analyses. On the next page, participants were reminded of the reward for an accurate prediction, and they predicted the winner of their assigned NFL game. Participants could not change their prediction once they made it.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="44" page="3" column="2">Assessing Whether Participants Truly Believed Their Predictions</h1>
+        <region class="DoCO:TextChunk" id="45" page="3" column="2">Participants then answered 10 follow-up questions, each dis- played on its own page. For brevity, we describe only the four measures we used to assess whether participants truly believed their predictions. We describe all measures in the supplemental materials. Subjective probability. Participants were asked, “What do you think is the probability that the [predicted winner] will defeat the [predicted loser]?” The response options ranged from 0% to 100%, in 1% increments. Surprise. Participants were asked, “Will you be more surprised if the [visiting team] wins the game or if the [home team] wins the game?” They answered on a 7-point scale, where 1 extremely surprised if the [visiting team] wins, 4 not at all</region>
+        <region class="DoCO:TextChunk" id="46" confidence="possible" page="3" column="2">1 Sixteen games were scheduled for that week. We eliminated two games from consideration because their large point spreads suggested predicting them was too easy (and hence too financially costly for us). All fans of the teams that played in these eliminated games were necessarily assigned to the neutral condition. Fans of these teams performed just as well as fans of other teams on the NFL quiz, t(768) 0.03, p .98, and were equal followers of NFL football, t(768) 1.27, p .21.</region>
+        <outsider class="DoCO:TextBox" type="header" id="47" page="4" column="1">IS OPTIMISM REAL?</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="48" page="4" column="1">3</outsider>
+        <region class="DoCO:TableBox" id="T1">
+          <caption class="deo:Caption" id="49" page="4" column="1">Table 1 Game Information</caption>
+          <content>
+            <table class="DoCO:Table" number="1" page="4">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"> Superior team</th>
+                  <th class="table"> Inferior team Point spread</th>
+                  <th class="table"> Superior-team partisans</th>
+                  <th class="table"> Neutrals</th>
+                  <th class="table"> Inferior-team partisans</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Ravens</td>
+                  <td class="table"> Bengals 2</td>
+                  <td class="table"> 6</td>
+                  <td class="table"> 15</td>
+                  <td class="table"> 10</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Vikings</td>
+                  <td class="table"> Dolphins 5.5</td>
+                  <td class="table"> 22</td>
+                  <td class="table"> 37</td>
+                  <td class="table"> 13</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Eagles</td>
+                  <td class="table"> Lions 6</td>
+                  <td class="table"> 17</td>
+                  <td class="table"> 25</td>
+                  <td class="table"> 8</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Falcons</td>
+                  <td class="table"> Cardinals 6.5</td>
+                  <td class="table"> 8</td>
+                  <td class="table"> 15</td>
+                  <td class="table"> 5</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Browns</td>
+                  <td class="table"> Chiefs 1.5</td>
+                  <td class="table"> 16</td>
+                  <td class="table"> 21</td>
+                  <td class="table"> 10</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Titans</td>
+                  <td class="table"> Steelers 5</td>
+                  <td class="table"> 7</td>
+                  <td class="table"> 41</td>
+                  <td class="table"> 36</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Panthers</td>
+                  <td class="table"> Buccaneers 3.5</td>
+                  <td class="table"> 9</td>
+                  <td class="table"> 14</td>
+                  <td class="table"> 5</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Raiders</td>
+                  <td class="table"> Rams 3.5</td>
+                  <td class="table"> 9</td>
+                  <td class="table"> 12</td>
+                  <td class="table"> 5</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Broncos</td>
+                  <td class="table"> Seahawks 3.5</td>
+                  <td class="table"> 10</td>
+                  <td class="table"> 21</td>
+                  <td class="table"> 12</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Texans</td>
+                  <td class="table"> Redskins 3</td>
+                  <td class="table"> 5</td>
+                  <td class="table"> 17</td>
+                  <td class="table"> 18</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Chargers</td>
+                  <td class="table"> Jaguars 7</td>
+                  <td class="table"> 14</td>
+                  <td class="table"> 13</td>
+                  <td class="table"> 3</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Patriots</td>
+                  <td class="table"> Jets 2.5</td>
+                  <td class="table"> 42</td>
+                  <td class="table"> 47</td>
+                  <td class="table"> 13</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Colts</td>
+                  <td class="table"> Giants 5.5</td>
+                  <td class="table"> 36</td>
+                  <td class="table"> 53</td>
+                  <td class="table"> 27</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Saints</td>
+                  <td class="table"> 49ers 5.5</td>
+                  <td class="table"> 21</td>
+                  <td class="table"> 32</td>
+                  <td class="table"> 20</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Note. Home</td>
+                  <td class="table"> teams are italicized.</td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                  <td class="table"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="50" confidence="possible" page="4" column="1">Superior team Inferior team Point spread Superior-team partisans Neutrals Inferior-team partisans Ravens Bengals 2 6 15 10 Vikings Dolphins 5.5 22 37 13 Eagles Lions 6 17 25 8 Falcons Cardinals 6.5 8 15 5 Browns Chiefs 1.5 16 21 10 Titans Steelers 5 7 41 36 Panthers Buccaneers 3.5 9 14 5 Raiders Rams 3.5 9 12 5 Broncos Seahawks 3.5 10 21 12 Texans Redskins 3 5 17 18 Chargers Jaguars 7 14 13 3 Patriots Jets 2.5 42 47 13 Colts Giants 5.5 36 53 27 Saints 49ers 5.5 21 32 20 Note. Home teams are italicized.</region>
+        </region>
+        <region class="DoCO:TextChunk" id="51" page="4" column="1">surprised by either outcome, and 7 extremely surprised if the [home team] wins. Accuracy motivation. Participants were asked, “How motivated were you to make an accurate prediction?” They answered on a 7-point scale, where 1 not at all motivated and 7 extremely motivated. Prediction strategy. Participants were asked, “Which of these statements best explains why you predicted the [predicted winner] to win the game?” The response options were (a) “I genuinely believe they will win the game,” (b) “I do not genuinely believe they will win, but I want them to win,” (c) “I do not genuinely believe they will win, but I want them to lose,” and (d) “I just guessed, because I don’t have any idea which team is going to win the game.” Before conducting the analyses reported below, we decided to categorize participants as “true believers” only if they (a) indicated that their predicted winner had a greater than 50% chance of winning the game, (b) indicated they would be at least slightly more surprised if their predicted winner lost, (c) rated their accuracy motivation a 7 (extremely motivated) on the 7-point scale, and (d) indicated genuinely believing that their predicted winner would win the game.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="52" page="4" column="1">Point Spreads</h1>
+        <region class="DoCO:TextChunk" id="57" page="4" column="1">Oddsmakers in Las Vegas offer a point spread for each NFL game. The spread incorporates all known information in order to <marker type="column" number="2"/><marker type="block"/> offer the best prediction of the game’s point differential, and thus serves as an excellent normative standard against which to judge predictions (Simmons, Nelson, Galak, &amp; <xref ref-type="bibr" rid="R14" id="56" class="deo:Reference">Frederick, 2011</xref>). Most important for our purposes, the point spread defines the most likely winner (the superior team) and the most likely loser (the inferior team). A fully knowledgeable, unbiased person should predict superior teams to win games.</region>
+        <region class="DoCO:TableBox" id="T2">
+          <caption class="deo:Caption" id="54" page="4" column="1">Table 2 True Belief Measures: Means and Percentages</caption>
+          <content>
+            <h1 class="table"> Inferior-team Superior-team</h1>
+            <table class="DoCO:Table" number="2" page="4">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> partisans</th>
+                  <th class="table"> Neutrals</th>
+                  <th class="table"> partisans</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> Measure</td>
+                  <td class="table"> $5 $50</td>
+                  <td class="table"> $5 $50</td>
+                  <td class="table"> $5 $50</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Subjective probability P (%)</td>
+                  <td class="table"> 70.0 69.0</td>
+                  <td class="table"> 72.8 73.1</td>
+                  <td class="table"> 75.2 74.4</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Surprise if predicted team wins P (M)</td>
+                  <td class="table"> 3.0 3.2</td>
+                  <td class="table"> 2.6 2.7</td>
+                  <td class="table"> 2.6 2.7</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Accuracy motivation P,I (M)</td>
+                  <td class="table"> 5.9 6.5</td>
+                  <td class="table"> 6.1 6.4</td>
+                  <td class="table"> 6.1 6.7</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> Genuinely believing prediction (%)</td>
+                  <td class="table"> 76.6 84.6</td>
+                  <td class="table"> 82.9 81.3</td>
+                  <td class="table"> 86.5 85.6</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> Note. A P subscript denotes a significant</td>
+                  <td class="table.strange"> main effect of Partisan.</td>
+                  <td class="table.strange"> An I subscript</td>
+                  <td class="table.strange"> a significant main</td>
+                </tr>
+                <tr class="table.strange">
+                  <td class="table.strange"> effect of Incentive. There were no significant</td>
+                  <td class="table.strange"> Partisan Incentive</td>
+                  <td class="table.strange"> interactions.</td>
+                  <td class="table.strange"></td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="55" confidence="possible" page="4" column="1">Inferior-team Superior-team partisans Neutrals partisans Measure $5 $50 $5 $50 $5 $50 Subjective probability P (%) 70.0 69.0 72.8 73.1 75.2 74.4 Surprise if predicted team wins P (M) 3.0 3.2 2.6 2.7 2.6 2.7 Accuracy motivation P,I (M) 5.9 6.5 6.1 6.4 6.1 6.7 Genuinely believing prediction (%) 76.6 84.6 82.9 81.3 86.5 85.6 Note. A P subscript denotes a significant main effect of Partisan. An I subscript denotes a significant main effect of Incentive. There were no significant Partisan Incentive interactions.</region>
+        </region>
+      </section>
+      <section class="deo:Results">
+        <h1 class="DoCO:SectionTitle" id="58" page="4" column="2">Results True Belief Measures</h1>
+        <region class="DoCO:TextChunk" id="60" page="4" column="2">The means and percentages in <xref ref-type="table" rid="T2" id="59" class="deo:Reference">Table 2</xref> make clear that most participants in all conditions expressed high confidence in their predicted teams and indicated being very motivated to give accurate predictions. In addition, as one might expect, compared with superior-team partisans, inferior-team partisans (a) estimated that their predicted teams had a lower probability of winning and (b) indicated being more surprised if their predicted team won. They also indicated reduced accuracy motivation. Finally, compared with those offered $5 for an accurate prediction, those offered $50 were more motivated to give an accurate prediction.</region>
+      </section>
+      <section class="DoCO:Section">
+        <h1 class="DoCO:SectionTitle" id="61" page="4" column="2">Optimism</h1>
+        <region class="DoCO:TextChunk" id="67" page="4" column="2">Significantly more than half the partisans (78.4%) predicted their favorite teams to win, 2 (1) 131.11, p .001. This was <marker type="page" number="5"/><marker type="column" number="1"/><marker type="block"/> true in both the $5 (81.0%) and $50 (75.7%) conditions (ps .001), which did not differ from each other, 2 (1) 1.64, p .20. However, partisans were more likely to be fans of superior teams (54.5%) than fans of inferior teams. Thus, on aggregate, partisans should predict their favorite teams to win, because they (and everyone else) should predict superior teams to win games. Hence, it is important to distinguish fans of superior teams (who should predict their favorite teams to win) from fans of inferior teams (who should not). Accordingly, all subsequent analyses partitioned participants into three groups: (a) superior-team partisans (n 222), (b) neutrals (n 363), and (c) inferior-team partisans (n 185). 2 Analyses were logistic regressions, regressing predictions (1 predicted superior team, 0 predicted inferior team) on (a) Partisan, coded 1, 0, and 1 for inferior-team partisans, neutrals, and superior-team partisans, respectively; (b) Incentive, coded 1 and 1 for $5 and $50, respectively; and (c) the Partisan Incentive interaction. We report odds ratios (OR) for each regression. Optimism is manifest if superior-team (inferior-team) partisans are more (less) likely than neutrals to predict superior teams to win. <xref ref-type="fig" rid="F1" id="65" class="deo:Reference">Figure 1</xref> displays this result. There was a large and significant main effect of Partisan, indicating that optimism was strong overall (OR 4.80, SE 0.69, p .001). Additional analyses showed that, compared with neutrals, superior-team partisans were significantly more likely (OR 4.54, SE 1.37, p .001), and inferior-team partisans were significantly less likely (OR 4.91, SE 0.96, p .001), to predict superior teams to win. There was no main effect of Incentive: Participants were as likely to predict superior teams when $50 was at stake as when $5 was at stake (OR 1.06, SE 0.10, p .54). Although optimism diminished slightly in the $50 condition, the Partisan Incentive interaction was not significant (OR 0.85, SE 0.12, p .25). Importantly, within the $50 condition, there was a highly significant effect of Partisan (OR 4.07, SE 0.81, p .001), indicating rampant optimism even when the stakes were considerable. This result supports the claim that optimistic predictions reflect true beliefs rather than cheap talk. But it is possible that $50 is simply not enough incentive to motivate predictions people actu- ally believe. To help resolve this issue, we analyzed the predictions of true believers, whose responses to four follow-up questions strongly implied that they believed the predictions they made (n 313; 41%; see <xref ref-type="table" rid="T3" id="66" class="deo:Reference">Table 3</xref>). If optimism is just cheap talk, then true</region>
+        <outsider class="DoCO:TextBox" type="page_nr" id="63" page="5" column="1">4</outsider>
+        <outsider class="DoCO:TextBox" type="header" id="64" page="5" column="1">SIMMONS AND MASSEY</outsider>
+        <region class="DoCO:FigureBox" id="Fx68">
+          <image class="DoCO:Figure" src="5x.page_005.image_01.png" thmb="5x.page_005.image_01-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="69" confidence="possible" page="5" column="1">All participants: Predictions of a superior-team victory as a function of incentives and partisan status. Errors bars indicate 1 standard error.</region>
+        <region class="DoCO:TableBox" id="T3">
+          <caption class="deo:Caption" id="70" page="5" column="2">Table 3 Number (and Percentage) of True Believers per Condition</caption>
+          <content>
+            <table class="DoCO:Table" number="3" page="5">
+              <thead class="table">
+                <tr class="table">
+                  <th class="table"></th>
+                  <th class="table"> Inferior-team</th>
+                  <th class="table"></th>
+                  <th class="table"> Superior-team</th>
+                </tr>
+                <tr class="table">
+                  <th class="table"> Incentive</th>
+                  <th class="table"> partisans</th>
+                  <th class="table"> Neutrals</th>
+                  <th class="table"> partisans</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr class="table">
+                  <td class="table"> $5</td>
+                  <td class="table"> 29 (31%)</td>
+                  <td class="table"> 56 (31%)</td>
+                  <td class="table"> 38 (34%)</td>
+                </tr>
+                <tr class="table">
+                  <td class="table"> $50</td>
+                  <td class="table"> 37 (41%)</td>
+                  <td class="table"> 94 (52%)</td>
+                  <td class="table"> 59 (53%)</td>
+                </tr>
+              </tbody>
+            </table>
+          </content>
+          <region class="TableInfo" id="71" confidence="possible" page="5" column="2">Inferior-team Superior-team Incentive partisans Neutrals partisans $5 29 (31%) 56 (31%) 38 (34%) $50 37 (41%) 94 (52%) 59 (53%)</region>
+        </region>
+        <region class="DoCO:TextChunk" id="73" page="5" column="2">believers should not respond optimistically, but <xref ref-type="fig" rid="F2" id="72" class="deo:Reference">Figure 2</xref> shows that they did. Analyses yielded a significant main effect of Partisan (OR 3.27, SE 0.74, p .001) and no other significant effects (ps .48). Additional analyses showed that, compared with neutrals, superior-team partisans were significantly more likely (OR 2.33, SE 1.00, p .047), and inferior-team partisans were significantly less likely (OR 3.92, SE 1.29, p .001), to predict superior teams to win. Even within the $50 condition, the effect of Partisan was significant (OR 2.86, SE 0.84, p .001). Thus, optimism was evident even among those who, by all indications, truly believed their predictions. 3</region>
+      </section>
+      <section class="deo:Discussion">
+        <h1 class="DoCO:SectionTitle" id="74" page="5" column="2">Discussion</h1>
+        <region class="DoCO:TextChunk" id="80" page="5" column="2">If <xref ref-type="bibr" rid="R7" id="75" class="deo:Reference">Kahneman (2011)</xref> is right that “in terms of its consequences, the optimistic bias may well be the most significant of the cogni- tive biases” (p. 255), then it is important to know whether the bias is real. The answer to this deceptively challenging question has eluded researchers, paving the way for a new generation of researchers to question the very existence of a bias that psychologists have been studying for more than 70 years (e.g., <xref ref-type="bibr" rid="R6" id="76" class="deo:Reference">Harris &amp; Hahn, 2011</xref>; <xref ref-type="bibr" rid="R9" id="77" class="deo:Reference">Krizan &amp; Windschitl, 2007</xref>; <xref ref-type="bibr" rid="R12" id="78" class="deo:Reference">Moore &amp; Healy, 2008</xref>; <xref ref-type="bibr" rid="R16" id="79" class="deo:Reference">Vosgerau, 2010</xref>). Although no investigation can definitively overcome all the challenges researchers face in trying to ensure that participants’ responses reflect their true beliefs, we believe that our research presents the best answer to date to the question of whether optimistic biases persist among those who truly believe their predictions. The fact that optimistic forecasts persisted among those who (a) were paid $50 for an accurate prediction and (b) gave every indication that they believed their predictions, strongly suggests that optimism is real and not merely cheap talk. At the same time, our investigation does not indicate that all optimistic responses are truthful. Participants were slightly less optimistic when $50 was at stake than when $5 was at stake (especially those who supported</region>
+        <region class="DoCO:TextChunk" id="81" confidence="possible" page="5" column="2">2 Point spreads of predicted games were the same for superior-team partisans (M 4.39) and inferior-team partisans (M 4.38), t(405) 0.10, p .92; this indicates that inferior-team partisans’ favorite teams were as inferior as superior-team partisans’ teams were superior. 3 We also analyzed these results using a different dependent measure (whether the participant predicted the home team to win the game) while controlling for team quality using a continuous measure (the point spread). Specifically, we regressed predictions on (a) Partisan (visiting-team partisan 1, neutral 0, and home-team partisan 1), (b) Incentive, (c) the Partisan Incentive interaction, and (d) the Point Spread. Whether ana- lyzing the entire sample or just the true believers, the effect of Partisan was highly significant (ps .001), indicating significant optimism. The Incentive main effect and the Partisan Incentive interaction were nonsignif- icant in all analyses (ps .25).</region>
+        <outsider class="DoCO:TextBox" type="header" id="82" page="6" column="1">IS OPTIMISM REAL?</outsider>
+        <outsider class="DoCO:TextBox" type="page_nr" id="83" page="6" column="1">5</outsider>
+        <region class="DoCO:FigureBox" id="Fx84">
+          <image class="DoCO:Figure" src="5x.page_006.image_02.png" thmb="5x.page_006.image_02-thumb.png"/>
+        </region>
+        <region class="DoCO:TextChunk" id="85" confidence="possible" page="6" column="1">True believers: Predictions of a superior-team victory as a function of incentives and partisan status. Error bars indicate 1 standard error.</region>
+        <region class="DoCO:TextChunk" id="87" page="6" column="1">inferior teams), as were participants who met our strict definition of a true believer. Thus, it seems likely that a small but arguably nontrivial proportion of participants were willing to predict their favorite teams even though they did not fully believe those predictions. Of course, the fact that this proportion exists does not alter our conclusion: Although some people may respond optimistically even when they do not believe it, it is most important that optimism is rampant even among those who do. As with research on social preferences (e.g., the ultimatum game; <xref ref-type="bibr" rid="R4" id="86" class="deo:Reference">Cameron, 1999</xref>), demonstrating this bias under high-stakes conditions should shift the discussion from whether optimism is a real phenomenon to when and why it emerges.</region>
+      </section>
+      <section class="DoCO:Bibliography">
+        <h1 class="DoCO:SectionTitle" id="88" page="6" column="1">References</h1>
+        <ref-list class="DoCO:BiblioGraphicReferenceList">
+          <ref rid="R1" class="deo:BibliographicReference" id="89" page="6" column="1">Armor, D. A., &amp; Sackett, A. M. (2006). Accuracy, error, and bias in predictions for real versus hypothetical events. Journal of Personality and Social Psychology, 91, 583– 600. doi:10.1037/0022-3514.91.4.583</ref>
+          <ref rid="R2" class="deo:BibliographicReference" id="90" confidence="possible" page="6" column="1">Buehler, R., Griffin, D., &amp; Ross, M. (1994). Exploring the “planning fallacy”: Why people underestimate their task completion times. Journal of Personality and Social Psychology, 67, 366 –381. doi:10.1037/0022- 3514.67.3.366</ref>
+          <ref rid="R3" class="deo:BibliographicReference" id="91" confidence="possible" page="6" column="1">Camerer, C., &amp; Lovallo, D. (1999). Overconfidence and excess entry: An experimental approach. American Economic Review, 89, 306 –318. doi: 10.1257/aer.89.1.306</ref>
+          <ref rid="R4" class="deo:BibliographicReference" id="92" confidence="possible" page="6" column="1">Cameron, L. A. (1999). Raising the stakes in the ultimatum game: Experimental evidence from Indonesia. Economic Inquiry, 37, 47–59. doi: 10.1111/j.1465-7295.1999.tb01415.x</ref>
+          <ref rid="R5" class="deo:BibliographicReference" id="93" confidence="possible" page="6" column="1">Grether, D. M. (1980). Bayes rule as a descriptive model: The represen- tativeness heuristic. Quarterly Journal of Economics, 95, 537–557. doi:10.2307/1885092</ref>
+          <ref rid="R6" class="deo:BibliographicReference" id="94" page="6" column="2">Harris, A. J. L., &amp; Hahn, U. (2011). Unrealistic optimism about future life events: A cautionary note. Psychological Review, 118, 135–154. doi: 10.1037/a0020997</ref>
+          <ref rid="R7" class="deo:BibliographicReference" id="95" confidence="possible" page="6" column="2">Kahneman, D. (2011). Thinking, fast and slow. New York, NY: Harrar, Straus and Giroux.</ref>
+          <ref rid="R8" class="deo:BibliographicReference" id="96" confidence="possible" page="6" column="2">Krizan, Z., Miller, J. C., &amp; Johar, O. (2010). Wishful thinking in the 2008 U.S. presidential election. Psychological Science, 21, 140 –146. doi: 10.1177/0956797609356421</ref>
+          <ref rid="R9" class="deo:BibliographicReference" id="97" confidence="possible" page="6" column="2">Krizan, Z., &amp; Windschitl, P. D. (2007). The influence of outcome desirability on optimism. Psychological Bulletin, 133, 95–121. doi:10.1037/ 0033-2909.133.1.95</ref>
+          <ref rid="R10" class="deo:BibliographicReference" id="98" confidence="possible" page="6" column="2">Levitt, S. D., &amp; List, J. A. (2007). What do laboratory experiments measuring social preferences reveal about the real world? Journal of Economics Perspectives, 21, 153–174. doi:10.1257/jep.21.2.153</ref>
+          <ref rid="R11" class="deo:BibliographicReference" id="99" confidence="possible" page="6" column="2">Massey, C., Simmons, J. P., &amp; Armor, D. A. (2011). Hope over experience: Desirability and the persistence of optimism. Psychological Science, 22, 274 –281. doi:10.1177/0956797610396223</ref>
+          <ref rid="R12" class="deo:BibliographicReference" id="100" confidence="possible" page="6" column="2">Moore, D. A., &amp; Healy, P. J. (2008). The trouble with overconfidence. Psychological Review, 115, 502–517. doi:10.1037/0033-295X.115 .2.502</ref>
+          <ref rid="R13" class="deo:BibliographicReference" id="101" confidence="possible" page="6" column="2">Moore, D. A., &amp; Small, D. A. (2007). Error and bias in comparative judgment: On being both better and worse than we think we are. Journal of Personality and Social Psychology, 92, 972–989. doi:10.1037/0022- 3514.92.6.972</ref>
+          <ref rid="R14" class="deo:BibliographicReference" id="102" confidence="possible" page="6" column="2">Simmons, J. P., Nelson, L. D., Galak, J., &amp; Frederick, S. (2011). Intuitive biases in choice versus estimation: Implications for the wisdom of crowds. Journal of Consumer Research, 38, 1–15. doi:10.1086/658070</ref>
+          <ref rid="R15" class="deo:BibliographicReference" id="103" confidence="possible" page="6" column="2">Simmons, J. P., Nelson, L. D., &amp; Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis al- lows presenting anything as significant. Psychological Science, 22, 1359 –1366. doi:10.1177/0956797611417632</ref>
+          <ref rid="R16" class="deo:BibliographicReference" id="104" confidence="possible" page="6" column="2">Vosgerau, J. (2010). How prevalent is wishful thinking? Misattribution of arousal causes optimism and pessimism in subjective probabilities. Journal of Experimental Psychology: General, 139, 32– 48. doi:10.1037/ a0018144</ref>
+          <ref rid="R17" class="deo:BibliographicReference" id="105" confidence="possible" page="6" column="2">Weinstein, N. D. (1980). Unrealistic optimism about future life events. Journal of Personality and Social Psychology, 39, 806 – 820. doi: 10.1037/0022-3514.39.5.806</ref>
+          <ref rid="R18" class="deo:BibliographicReference" id="106" confidence="possible" page="6" column="2">Williams, E. F., &amp; Gilovich, T. (2008). Do people really believe they are above average? Journal of Experimental Social Psychology, 44, 1121– 1128. doi:10.1016/j.jesp.2008.01.002</ref>
+          <ref rid="R19" class="deo:BibliographicReference" id="107" confidence="possible" page="6" column="2">Windschitl, P. D., Smith, A. R., Rose, J. P., &amp; Krizan, Z. (2010). The desirability bias in predictions: Going optimistic without leaving real- ism. Organizational Behavior and Human Decision Processes, 111, 33– 47. doi:10.1016/j.obhdp.2009.08.003</ref>
+          <ref rid="R20" class="deo:BibliographicReference" id="108" confidence="possible" page="6" column="2">Zhang, Y., &amp; Fishbach, A. (2010). Counteracting obstacles with optimistic predictions. Journal of Experimental Psychology: General, 139, 16 –31. doi:10.1037/a0018143 Received December 19, 2011 Revision received January 23, 2012 Accepted January 23, 2012</ref>
+        </ref-list>
+      </section>
+    </body>
+  </article>
+</pdfx>

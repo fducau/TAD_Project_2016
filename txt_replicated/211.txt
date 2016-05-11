@@ -1,0 +1,1780 @@
+Psychology and Aging
+2002, Vol. 17, No. 3, 423– 434
+
+Copyright 2002 by the American Psychological Association, Inc.
+0882-7974/02/$5.00 DOI: 10.1037//0882-7974.17.3.423
+
+Global Self-Esteem Across the Life Span
+Richard W. Robins, Kali H. Trzesniewski,
+and Jessica L. Tracy
+
+Samuel D. Gosling
+University of Texas at Austin
+
+University of California, Davis
+
+Jeff Potter
+Cambridge, Massachusetts
+
+This study provides a comprehensive picture of age differences in self-esteem from age 9 to 90 years
+using cross-sectional data collected from 326,641 individuals over the Internet. Self-esteem levels were
+high in childhood, dropped during adolescence, rose gradually throughout adulthood, and declined
+sharply in old age. This trajectory generally held across gender, socioeconomic status, ethnicity, and
+nationality (U.S. citizens vs. non-U.S. citizens). Overall, these findings support previous research, help
+clarify inconsistencies in the literature, and document new trends that require further investigation.
+
+clusions even within specific stages of life. For example, some
+studies show a rise in self-esteem during adolescence (Marsh,
+1989; McCarthy & Hoge, 1982; Mullis, Mullis, & Normandin,
+1992; O’Malley & Bachman, 1983), whereas others do not (Block
+& Robins, 1993; Chubb, Fertman, & Ross, 1997; Zimmerman,
+Copeland, Shope, & Dielman, 1997). Moreover, if self-esteem
+does drop in adolescence, researchers have yet to determine the
+age at which the drop begins, when it reaches its lowest level, and
+when (if ever) it begins to rise. The literature on self-esteem in old
+age has also produced equivocal findings, with some studies showing a decline (e.g., Ranzijn, Keeves, Luszcz, & Feather, 1998) and
+others showing an increase or no change (e.g., Erdwins, Mellinger,
+& Tyer, 1981; Gove, Ortega, & Style, 1989).
+Fourth, many studies of self-esteem development have used
+relatively small and homogeneous samples, and their findings may
+not generalize to more diverse populations. Given sample size
+limitations, these studies often group together participants within
+broad age ranges (e.g., age 20 – 40 years), making it difficult to
+pinpoint year-by-year (or even decade-by-decade) changes in
+self-esteem.
+Fifth, most studies have examined age differences within a
+specific developmental period or during a particular developmental transition. Comparing the findings from these studies can be
+problematic because age differences may be confounded by differences in sample composition and self-esteem measures. Thus,
+the research literature indicates the need for a single study in which
+participants from all age groups complete the same self-esteem
+measure.
+In summary, the field has not yet reached consensus on the
+trajectory of self-esteem across the life span. To help redress this
+gap in the literature, we examined age differences in self-esteem
+using cross-sectional data on a large sample of participants ranging
+in age from 9 to 90 years. We also examined whether any observed
+age differences held for both men and women and held across
+socioeconomic status, ethnicity, and nationality. Below, we briefly
+summarize what is currently known about self-esteem develop-
+
+Over the past century, hundreds of studies have examined the
+development of self-esteem, but this research has failed to produce
+a consensual portrait of age differences in self-esteem across the
+entire life span. Two decades ago, Wylie (1979) conducted an
+extensive review of the self-esteem literature and concluded that
+there are no systematic age differences in self-esteem. Although
+researchers have questioned Wylie’s conclusion (e.g., McCarthy &
+Hoge, 1982; O’Malley & Bachman, 1983; Rosenberg, 1986), the
+debates surrounding this issue have not led to any agreement about
+the trajectory of self-esteem from childhood to old age.
+There are several reasons for the lack of consensus in the field.
+First, the most recent comprehensive reviews of the existing literature were conducted at least a decade ago (e.g., Demo, 1992;
+Wylie, 1979). Second, the vast majority of existing studies have
+focused on age differences in self-esteem during childhood and
+adolescence, and only a handful of studies have examined the
+development of self-esteem during adulthood or old age. As Demo
+(1992) noted, “the research to date is extremely lopsided, with 12and 13-year-olds forming the floor and 18- to 22-year-olds representing the ceiling of our convenience samples” (p. 323). These
+gaps in the research literature make any conclusions about change
+across much of the life span highly tenuous.
+Third, research on self-esteem development has produced inconsistent findings, making it difficult to reach unequivocal con-
+
+Richard W. Robins, Kali H. Trzesniewski, and Jessica L. Tracy, Department of Psychology, University of California, Davis; Samuel D. Gosling, Department of Psychology, University of Texas at Austin; Jeff Potter,
+Cambridge, Massachusetts.
+This study was supported by National Institute of Mental Health Grant
+MH-61829 and by a Faculty Research Grant from the University of
+California, Davis. This article benefited greatly from comments by M.
+Brent Donnellan, R. Chris Fraley, and Jennifer Pals.
+Correspondence concerning this article should be addressed to Richard
+W. Robins, Department of Psychology, University of California, Davis,
+California 95616-8686. Email: rwrobins@ucdavis.edu
+423
+
+424
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+ment during each phase of life (childhood, adolescence, adulthood,
+and old age).
+
+Self-Esteem and Age
+Childhood
+Researchers have studied self-esteem in children as young as 6
+years of age. Most of these studies have focused on domainspecific self-evaluations (e.g., self-perceived math ability) rather
+than abstract beliefs about global self-worth. In general, young
+children rate themselves well above the scale midpoint and substantially higher than they rate other children, suggesting that their
+views of themselves are positively inflated. However, as children
+move through elementary school, their self-evaluations tend to
+decline (Eccles, Wigfield, Harold, & Blumenfeld, 1993; Ruble,
+Boggiano, Feldman, & Loebl, 1980; Stipek & Tannatt, 1984). The
+few studies that have assessed global self-esteem in this age group
+also point to decreases over the course of childhood (Marsh, 1989;
+Marsh, Barnes, Cairns, & Tidman, 1984; Trowbridge, 1972).
+
+Adolescence
+Most research on self-esteem development has focused on the
+transition from childhood to adolescence (Demo, 1992). Several
+studies have found declines in self-esteem during this transition
+(Eccles et al., 1989; Engel, 1959; Marsh, Parker, & Barnes, 1985;
+Piers & Harris, 1964; Rosenberg, 1986; Savin-Williams & Demo,
+1984; Simmons, Rosenberg, & Rosenberg, 1973). Although this
+decline is frequently cited in summaries of the research literature
+(e.g., Brown, 1998; Harter, 1993, 1998), a few studies have failed
+to replicate this finding (e.g., Blyth, Simmons, & Bush, 1978;
+Hirsch & Rapkin, 1987; Nottelmann, 1987).
+Research on self-esteem development following the adolescent
+transition provides an even more confusing picture. Some studies
+report a rise in self-esteem during adolescence (Marsh, 1989;
+McCarthy & Hoge, 1982; Mullis et al., 1992; O’Malley & Bachman, 1983; Prawat, Jones, & Hampton, 1979; Roeser & Eccles,
+1998), others report no change (Chubb et al., 1997), and still others
+report declines (Keltikangas-Jarvinen, 1990; Zimmerman et al.,
+1997). Some of these inconsistencies may be due to gender differences that are believed to emerge at this age, specifically the
+tendency for boys to have higher self-esteem than girls (Block &
+Robins, 1993; Kling, Hyde, Showers, & Buswell, 1999; Major,
+Barr, Zubek, & Babey, 1999).
+
+Adulthood
+Compared with the adolescent literature, there are few studies of
+self-esteem development during adulthood. Generally, these studies show small, gradual increases in global self-esteem (Gove et
+al., 1989; Helson & Wink, 1992; Jaquish & Ripple, 1981; Lall,
+Jain, & Johnson, 1996; R. E. Roberts & Bengtson, 1996). However, these studies typically examined age differences across very
+large intervals of time (e.g., comparing self-esteem levels in samples of young adults, middle-aged adults, and older adults) and
+thus provide only a very rough map of the shifts in self-esteem that
+might occur over each decade of adulthood.
+
+Old Age
+Only a handful of studies have examined age differences in
+global self-esteem in old age. Jaquish and Ripple (1981) found that
+adults report somewhat lower self-esteem in late adulthood (age
+61– 81 years) than in middle adulthood (age 40 – 60 years). Tiggemann and Lynch (2001) found that women age 70 – 85 years had
+slightly lower self-esteem than women in their 60s. Ranzijn et al.
+(1998) found that those age 85–103 years had lower self-esteem
+than those in their 70s. Consistent with these three studies, Ward
+(1977) found a weak negative correlation (r ⫽ ⫺14) between age
+and self-esteem in a sample of individuals age 60 –92 years. In
+contrast, Gove et al. (1989) found the highest levels of self-esteem
+in the oldest cohort (age 75 years and older). Moreover, several
+studies have failed to find significant age differences, including
+Trimakas and Nicolay’s (1974) study of individuals age 66 – 88
+years, Erdwins et al. (1981) study of four cohorts ranging in age
+from 18 to 75 years, and Ryff’s (1989) study comparing middleaged adults (mean age ⫽ 50 years) and older adults (mean
+age ⫽ 75 years). Reflecting the lack of consistency in previous
+findings, researchers reviewing the literature on self-esteem and
+aging have failed to reach consensus on whether self-esteem
+increases, decreases, or remains stable in old age (Bengtson,
+Reedy, & Gordon, 1985; Brandtstaedter & Greve, 1994; Demo,
+1992).1 Thus, further research is needed before any strong conclusions can be made about self-esteem change in adulthood and old
+age.
+The literature on subjective well-being and aging might provide
+some insight into the expected trajectory of self-esteem for older
+adults. Well-being and self-esteem are empirically related, but
+conceptually distinct, constructs (DeNeve & Cooper, 1998; Robins, Hendin, & Trzesniewski, 2001). A number of life changes that
+tend to occur in old age might have a negative impact on wellbeing, including health problems, declining socioeconomic status,
+spousal loss and bereavement, loss of social support, and a decline
+in achievement experiences following retirement. However, some
+researchers have theorized that aging entails improved coping and
+emotion regulation that may protect against declining feelings of
+well-being (Baltes & Baltes, 1990; Brandtstaedter & Greve, 1994;
+Carstensen, Isaacowitz, & Charles, 1999). Consistent with these
+divergent theoretical views, there appear to be few replicable age
+differences in well-being for samples over 60 years of age, with
+some studies showing improvements and others showing declines
+(e.g., Carstensen, Pasupathi, Mayr, & Nesselroade, 2000; Charles,
+Reynolds, & Gatz, 2001; Diener & Suh, 1998; Smith & Baltes,
+1999). Moreover, when age-related declines in adjustment are
+found, they tend to be quite small (Smith & Baltes, 1999). Consequently, self-esteem may also remain intact in old age, despite
+the many profound physical and emotional changes associated
+with aging.
+One possible reason for the inconsistencies in the literature on
+age differences in self-esteem is that many of the existing studies
+base their findings on single-gender samples or fail to report
+1
+
+Bengtson et al. (1985) reviewed several other studies of self-concept
+and aging, but most of these studies are not relevant because they (a) did
+not include a measure of global self-esteem, (b) did not include participants
+older than 60, (c) were never published in journals, or (d) did not report age
+differences in self-esteem.
+
+SELF-ESTEEM ACROSS THE LIFE SPAN
+
+results separately for men and women. The tendency for men to
+have higher self-esteem than women is now a well-replicated
+finding, as documented by two recent meta-analyses (Kling et al.,
+1999; Major et al., 1999). Both meta-analyses also found that the
+magnitude of the gender difference varied across the life span.
+However, they diverged somewhat in their findings. Kling et al.
+found a gender difference in childhood whereas Major et al. did
+not. Both meta-analyses found a small but reliable gender gap in
+adolescence and adulthood. Kling et al. failed to find a gender
+difference in studies of individuals age 60 years and older. However, because both meta-analyses grouped together individuals
+from broad age ranges (e.g., Major et al., 1999, grouped together
+all studies of individuals age 19 years and older), it is impossible
+to know how large the gender disparity is within particular decades
+of adulthood. In short, although previous research shows that men
+tend to have higher self-esteem than women, the precise magnitude
+of this gender difference and the way that it may vary across the
+life span remain unclear.
+Other demographic variables may also contribute to inconsistencies in the literature on self-esteem development. Many relevant
+studies were based on small, homogeneous samples, with little
+variation in ethnicity, socioeconomic status (SES), or nationality.
+Two recent meta-analyses have identified replicable ethnic differences in self-esteem (Gray-Little & Hafdahl; 2000; Twenge &
+Crocker, 2002). Specifically, on average, Blacks have higher selfesteem than Whites, followed by Latinos and then Asians. However, these ethnic differences vary considerable over the life span.
+For example, the Black–White difference does not emerge until
+early adolescence, and by late adulthood (age 61–70 years) the
+direction of the difference reverses, such that Whites have higher
+self-esteem than Blacks (Twenge & Crocker, 2002). Thus, based
+on previous research, we can expect general ethnic differences in
+self-esteem, as well as ethnic differences in the self-esteem age
+trends.
+Research on SES and self-esteem suggests that high-SES individuals’ have slightly higher levels of self-esteem than low-SES
+individuals (e.g., Demo & Savin-Williams, 1983; Rosenberg &
+Pearlin, 1978; but see Trowbridge, 1972). These studies also
+suggest that the strength of the relation between SES and selfesteem may increase from childhood to adulthood.
+There is virtually no research on the relation between global
+self-esteem and nationality. Using a large cross-national dataset,
+Diener and Diener (1995) found that mean levels of “satisfaction
+with self” were slightly higher for the United States than for other
+countries (Diener & Diener, 1995, Tables 5 and 6). Consistent with
+this finding, U.S. participants report higher levels of subjective
+well-being than participants from most other nations (Diener,
+Diener, & Diener, 1995, Table 1). It is not clear how these
+nationality differences might vary across age groups. Diener and
+Suh (1998) reviewed several international studies of the relation
+between subjective well-being and age but did not find any large
+or consistent nationality differences in the age trajectories of
+self-esteem. Thus, based on these few studies and extrapolating
+from subjective well-being to self-esteem, we expect participants
+from the U.S. to show slightly higher overall self-esteem than
+participants from other nations, but we do not expect nationality to
+moderate the age trends.
+In summary, the field has not yet reached consensus on the
+overall trajectory of self-esteem across the life span or how this
+
+425
+
+trajectory may differ by gender and other demographic variables.
+As this brief review suggests, there are inconsistencies and gaps in
+the literature that limit the conclusions we can reach about selfesteem development.
+
+The Present Study
+The present study examined age differences in self-esteem
+across eight decades of life. Using data on a very large and diverse
+sample of individuals collected over the Internet, we addressed two
+basic questions: (a) What is the trajectory of self-esteem from
+age 9 to 90 years? and (b) To what extent does this trajectory vary
+across gender, SES, ethnicity, and nationality? The findings from
+this study will provide a more accurate and precise picture of
+self-esteem development across the life span.
+There are a number of benefits to using the Internet for data
+collection. First, the Internet provides an efficient way to collect
+data on a very large number of participants. The large sample size
+in our study provided substantial statistical power and allowed us
+to compare findings across different age ranges and demographic
+groups. This is particularly critical in the present study because we
+needed enough participants at each age to reliably track year-byyear differences in self-esteem and to pinpoint more precisely
+when shifts in self-esteem levels occur. Although Internet users are
+more likely to be young adults, individuals of all ages use the
+Internet, and our participants ranged in age from 9 to 90 years.
+Second, whereas most previous studies were relatively homogeneous in terms of SES, ethnicity, and nationality, the present
+sample includes participants from a wide range of social classes
+and ethnic groups from all over the world. Although Internet users
+are more likely to be higher in SES and be European American
+(U.S. General Accounting Office, 2001), there is nonetheless considerable demographic heterogeneity in the sample. Combined
+with the large sample size, the heterogeneity of the sample allowed
+us to examine age differences within each demographic subgroup.
+Previous research on gender and self-esteem suggests that men and
+women follow distinct developmental trajectories. Thus, we expected to find a relatively large gender difference emerging during
+adolescence and persisting throughout adulthood. The possible
+effects of SES, ethnicity, and nationality are less clear. We expected to find a weak positive relation between self-esteem and
+SES, but there is no basis for predicting whether SES differences
+are associated with differences in the self-esteem trajectories. After
+reviewing previous research, we expected to find main effects of
+ethnicity, as well as ethnic differences in the age trajectories.
+Finally, we expected U.S. participants to report slightly higher
+self-esteem than non-U.S. participants, but it is unclear how nationality might affect the self-esteem trajectories. Aside from the
+substantive interest of examining demographic effects, the replication of findings across demographic groups helps address concerns about the potential nonrepresentativeness of Internet-based
+samples.
+Finally, there is accumulating evidence that Internet-based studies typically replicate studies using traditional methods of data
+collection (e.g., Buchanan & Smith, 1999; McGraw, Tew, &
+Williams, 2000). Moreover, in some cases we were able to compare our findings with those from studies using non-Internet samples. To the extent that our findings converge with those from
+previous studies, this would support the validity of the Internet
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+426
+
+method of data collection while at the same time providing confirmatory evidence for the developmental trends we report.
+
+Method
+
+graphic characteristics, and several academic outcomes. Robins, Hendin, et
+al. (2001, Study 2) also found that the SISE had weaker correlations with
+the two subscales of the Balanced Inventory of Desirable Responding
+(Paulhus, 1994), suggesting that it is less confounded by socially desirable
+responding than the RSE.
+
+Participants and Procedure
+Participants were 326,641 individuals (57% female) who completed an
+on-line questionnaire by visiting an interactive World Wide Web site.2
+Participants accessed the site through a search engine (46%), directly at its
+address (27%), or through a link from another site (27%). Links to the Web
+site were available on Web portals such as Yahoo!, and information about
+the Web site was available on Usenet newsgroups and probably also spread
+by word of mouth. Participants logged onto the Internet using public
+Internet service providers (ISPs; 87%), university ISPs (10%), nonprofit
+organization ISPs (2%), or government and military ISPs (1%). Internet
+users who accessed the site were presented with a consent form and a
+questionnaire that included questions about self-esteem, sex, age, ethnicity,
+national origin, and (for a subsample) income and education level. All
+questions were presented on the same Web page. Participants did not
+provide any personally identifying information and complete anonymity
+was assured. The data used in the present study were drawn from the
+Gosling and Potter Internet Personality Data Set, which was collected from
+1999 to 2000.
+The sample was diverse in terms of age (M ⫽ 24 years, SD ⫽ 9.7;
+range ⫽ 9 –90 years), ethnicity (7% Asian, 2% Black/African descent, 78%
+Caucasian, 2% Latino/Chicano/Hispanic, 2% Middle Eastern, 8% Missing/
+Multiracial/Other), and nationality (67% from the U.S., 33% from over 100
+other countries). A subsample of 49,746 participants reported their personal income in U.S. dollars (5% “below $12,000,” 3% “$12–20,000,”
+12% “$20 –30,000,” 26% “$30 –50,000,” 20% “$50 –70,000,” 18%
+“$70 –100,000,” 9% “$100 –150,000,” 3% “$150 –200,000,” 4% “over
+$200,000”) and their education level (30% “some high school,” 12% “high
+school diploma,” 31% “some college,” 20% “college degree,” 7% “graduate degree”).3 To assess SES, we standardized and then composited
+income and education level. To simplify presentation of the findings, we
+report results separately for high- (above the median) and low- (below the
+median) SES groups.
+
+Self-Esteem Measure
+Self-esteem was measured using the Single-Item Self-Esteem scale
+(SISE; Robins, Hendin, & Trzesniewski, 2001). Participants rated the item
+(“I see myself as someone who has high self-esteem”) on a 5-point Likert
+scale ranging from 1 (disagree strongly) to 5 (agree strongly). Using
+longitudinal data, Robins, Hendin, et al. (2001) estimated the reliability of
+the SISE to be .75 (Heise, 1969).
+Robins, Hendin, et al. (2001) provided extensive validation data for the
+SISE. In three studies, the correlation between the SISE and the Rosenberg
+(1965) Self-Esteem (RSE) scale ranged from .74 to .80. Disattenuated
+correlations were near unity (range ⫽ .91–.99), indicating that the SISE
+and the RSE share almost all of their reliable variance. This strong
+convergent validity held for men and women, for different ethnic groups,
+for different occupational statuses, for college students and community
+members, and for individuals ranging in age from 21 to 61 years. The SISE
+also had moderate convergent validity in childhood; in one sample (age 10
+to 13 years), the SISE correlated .51 with the RSE, and in another sample
+(age 9 to 13 years), the SISE correlated .52 with the Global Self-Worth
+subscale of the Self-Perception Profile for Children (Harter, 1985).
+Moreover, the SISE and the RSE had nearly identical correlations
+with 37 different criteria, including domain-specific self-evaluations, selfevaluative biases, social desirability, the Big Five personality dimensions,
+psychological and physical health, peer ratings of group behavior, demo-
+
+Results
+Descriptive Statistics
+Table 1 shows self-esteem means and standard deviations by
+SES, ethnicity, and nationality, separately for the total sample,
+males, and females. The SISE had a mean of 3.39 (SD ⫽ 1.31), a
+median of 4, and a mode of 4; the frequency distribution was 1 ⫽
+11%, 2 ⫽ 16%, 3 ⫽ 20%, 4 ⫽ 29%, 5 ⫽ 24%. These values are
+very similar to those reported by Robins, Hendin, et al. (2001) for
+a sample of college students who completed a traditional paperand-pencil version of the SISE.
+On average across all ages, males had higher self-esteem than
+females (Cohen’s d ⫽ .22, p ⬍ .01), high-SES individuals had
+higher self-esteem than low-SES individuals (d ⫽ .17, p ⬍ .01),
+and U.S. participants had higher self-esteem than non-U.S. participants (d ⫽ .10, p ⬍ .01). Blacks had the highest self-esteem,
+followed by Latinos, Middle Easterners, Asians, and Whites. The
+magnitude of these effects is comparable to that reported in previous research on gender (Kling et al., 1999; Major et al., 1999;
+Robins, Hendin, et al., 2001) and ethnicity (Gray-Little & Hafdahl,
+2000; Twenge & Crocker, 2002).
+
+Age Differences in Self-Esteem
+To examine age differences in self-esteem, we divided individuals into 10 age groups. The preadult years of the life course
+were divided into middle childhood (ages 9 –12) and adolescence (ages 13–17). Given the many studies of college students,
+we created a college-age group (18 –22) and a postcollege age
+group (23–29). Most reviews of adulthood use decades (30s,
+40s, 50s, etc.) as important transitional periods (e.g., B.W.
+Roberts & DelVecchio, 2000), a practice that was followed here
+for examination of self-esteem beyond age 29. (In some analyses, the two oldest age groups were collapsed into a single
+category because the sample sizes for individuals in their 70s
+2
+The questionnaire was completed by 22,038 additional individuals who
+were excluded from the study because they did not report their age and/or
+sex.
+3
+SES was only available for a subsample of participants because questions about income and education level were included on the Web site for
+a limited period of time. Unfortunately, the Web site did not include an
+option that specified an education level less than “some high school,” and
+many participants in the youngest age groups left this question blank. Of
+the younger participants who did respond, most appear to have decided to
+simply click on the option with the lowest education level (the vast
+majority of responses were “some high school”). Likewise, many of the
+younger participants probably responded to the question about income by
+reporting on their parents’ income. Given these considerations, the meaning of the SES variable is ambiguous for the participants in the three
+youngest age groups (9 –12, 13–17, 18 –21), and the findings should be
+interpreted cautiously.
+
+SELF-ESTEEM ACROSS THE LIFE SPAN
+
+427
+
+Table 1
+Self-Esteem Means and Standard Deviations by Socioeconomic Status, Ethnicity, and Nationality
+Total
+(N ⫽ 326,641)
+Sample
+characteristic (n)
+Whole sample
+Socioeconomic status
+High: Above median (24,873)
+Low: Below median (24,873)
+Ethnicity
+Asian (24,310)
+Black (7,958)
+White (255,724)
+Latino (7,947)
+Middle Eastern (5,761)
+Nationality
+United States (218,262)
+Non-United States (108,379)
+
+Males
+(n ⫽ 140,249)
+
+Females
+(n ⫽ 186,392)
+
+M
+
+SD
+
+M
+
+SD
+
+M
+
+SD
+
+d
+
+3.39
+
+1.31
+
+3.55
+
+1.29
+
+3.26
+
+1.32
+
+.22*
+
+3.49
+3.26
+
+1.30
+1.36
+
+3.64
+3.42
+
+1.27
+1.35
+
+3.37
+3.18
+
+1.31
+1.37
+
+.21*
+.18*
+
+3.43
+3.71
+3.36
+3.56
+3.52
+
+1.27
+1.30
+1.32
+1.32
+1.31
+
+3.56
+3.84
+3.53
+3.75
+3.70
+
+1.26
+1.30
+1.29
+1.28
+1.30
+
+3.35
+3.65
+3.23
+3.42
+3.38
+
+1.27
+1.30
+1.32
+1.33
+1.31
+
+.17*
+.15*
+.23*
+.25*
+.25*
+
+3.43
+3.30
+
+1.32
+1.30
+
+3.60
+3.46
+
+1.29
+1.28
+
+3.31
+3.16
+
+1.32
+1.31
+
+.22*
+.23*
+
+* p ⬍ .01.
+
+and 80s were very small when the age groups were broken
+down by demographic subgroup.)
+Figure 1 shows mean levels of self-esteem as a function of age
+group, separately for the total sample, males, and females (To
+provide a more precise picture of the trajectory, Figure 1 also
+shows year-by-year means for males and females.) In this section,
+we report the age trends for the whole sample, and, in the following sections, we discuss the findings by gender, SES, ethnicity, and
+nationality. Table 2 shows means, standard deviations, and sample
+sizes by age and demographic subgroups.
+Overall, self-esteem was at its highest level during childhood,
+far above the midpoint of the scale. This replicates previous
+research showing that children on average report highly positive
+(and possibly inflated) self-evaluations (Eccles et al., 1993;
+Harter, 1998; Marsh et al., 1984). Self-esteem declined sharply
+from childhood (ages 9 –12) to adolescence (ages 13–17; the
+standardized mean difference, or Cohen’s d, between the two
+age groups was ⫺.30, p ⬍ .01), and continued to decline from
+adolescence to the college period (ages 18 –22; d ⫽ ⫺.05, p ⬍
+.01). After reaching a nadir in late adolescence and young
+adulthood, self-esteem levels rose from the college period to the
+postcollege period (ages 23–29; d ⫽ .07, p ⬍ .01) and then
+reached a plateau in the 30s (d ⫽ .02, ns) and 40s (d ⫽ ⫺.01,
+ns). Self-esteem levels increased again from the 40s to the 50s
+(d ⫽ .11, p ⬍ .01) and from the 50s to the 60s (d ⫽ .11, p ⬍
+.01), suggesting a gradual increase in self-esteem throughout
+adulthood.
+Finally, self-esteem declined markedly from the 60s to the 80s
+(d ⫽ ⫺.18, p ⬍ .01). The majority of the decline occurred between
+the 70s and 80s (d ⫽ ⫺.29, p ⬍ .01) rather than between the 60s
+and 70s (d ⫽ ⫺.08, ns). By the 80s, self-esteem levels were as low
+as those found during adolescence. Nonetheless, self-esteem levels
+in the oldest age groups still averaged above the midpoint of the
+scale, and only 26% of the 70 –90-year-olds in our sample reported
+low self-esteem (either a 1 or a 2). In summary, self-esteem levels
+were high in childhood, dropped during adolescence, rose gradually throughout adulthood, and declined in old age.
+
+To quantify these findings, we conducted a hierarchical multiple
+regression analysis predicting year-by-year mean self-esteem
+scores from age modeled as a linear, quadratic (age2), and cubic
+(age3) function.4 Consistent with the shape of the trajectory shown
+in Figure 1, we found that cubic age accounted for 19% ( p ⬍ .01)
+of the variance in self-esteem, whereas linear age accounted
+for 0.01% (ns) of the variance and quadratic age accounted
+for 1.1% (ns) of the variance. Thus, the self-esteem trajectory
+essentially followed a cubic function.5
+
+Demographic Differences in the Self-Esteem Trajectory
+To test whether any of the demographic variables moderated the
+self-esteem trajectory, we conducted a series of hierarchical multiple regression analyses predicting self-esteem from the interaction between cubic age and gender, nationality, ethnicity (dummy
+coded to represent each ethnic group), and SES. None of the
+interaction effects was significant, and none produced an R2
+change greater than 1%. We also tested for three-, four-, and
+five-way interactions between the cubic function and the demographic variables (e.g., Age3 ⫻ Gender ⫻ Nationality), and none
+of the interactions with age accounted for more than 0.5% of the
+variance in self-esteem. Thus, across the demographic groups,
+
+4
+We analyzed means rather than individual scores following the procedure outlined in Rosnow, Rosenthal, and Rubin (2000, pp. 449 – 450). In
+the present study, such an analysis has 82 “observations,” one mean for
+each age from 9 to 90 years. Rosnow et al. recommend analyzing mean
+data when researchers are interested in overall or aggregate trends as a
+function of age or grade level. Analyses computed in this manner are called
+“alerting” correlations because they alert the researcher to overall trends of
+interest that might otherwise be missed by analyses that focus on differences among individual scores within age groups.
+5
+We also tested additional higher order age functions (age4, age5, age6),
+and none accounted for more than 1.4% of the variance in self-esteem.
+
+428
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+Figure 1. Mean level of self-esteem as a function of developmental period, separately for the total sample,
+males, and females. Also plotted are year-by-year means, separately for males (open triangles) and females (open
+circles).
+
+there were no significant differences in the fit of the cubic
+function.6
+Although these analyses suggest that the self-esteem trajectories
+were similar across the demographic groups, these results are
+difficult to interpret because the actual trajectories do not exactly
+follow a cubic function. Consequently, a cubic function might fit
+the self-esteem trajectory of two demographic groups equally well,
+but the two groups could still differ meaningfully in the precise
+shape of the trajectory; for example, Figure 1 suggests that this
+may be the case for males and females (e.g., although both genders
+drop in self-esteem during adolescence, females do so to a much
+greater extent). To better understand how the self-esteem trajectory
+varied across demographic groups, we adopted a more descriptive
+approach to exploring the moderating effect of the demographic
+variables. Specifically, we describe below the extent to which
+different demographic groups showed each of the general trends
+observed in the total sample (e.g., the adolescent drop, the increase
+in adulthood, and the old-age drop), based on the means reported
+in Table 2. To supplement this approach, Table 2 also shows how
+the magnitude of the demographic differences in self-esteem (represented by Cohen’s d) varies across age groups; to the extent that,
+for example, the magnitude of the gender difference in self-esteem
+varies across the life span, this would suggest that males and
+females follow a somewhat different self-esteem trajectory.
+Gender differences in the age trajectory. Both males and
+females had high self-esteem in childhood, which dropped in
+
+adolescence, gradually increased over the course of adulthood, and
+then dropped in old age. Despite these similarities, several interesting gender differences emerged. Most notably, the gender difference did not hold in childhood; 9- to 12-year-old boys and girls
+had almost identical self-esteem levels in childhood (d ⫽ .01). The
+absence of a gender difference in childhood is consistent with
+Major et al.’s (1999) meta-analysis but not with Kling et al.’s
+(1999) meta-analysis, which did find a gender difference in the
+youngest age group.
+During adolescence, girls’ self-esteem dropped about twice
+as much as boys’, resulting in a gender difference of .21 by
+age 13 to 17. This gender divergence is consistent with both
+recent meta-analyses (Kling et al., 1999; Major et al., 1999).
+The gender difference persisted throughout adulthood, but varied somewhat over time. Finally, the gender gap continued to
+narrow in old age. Men and women in their 70s barely differed
+in self-esteem (d ⫽ .08), and in the oldest age group the gender
+difference reversed, with women in their 80s reporting slightly
+higher self-esteem than men in their 80s (d ⫽ ⫺.08). Kling et
+al. (1999) found a similar convergence between men and
+women in old age (d ⫽ ⫺.03 for individuals age 60 and older).
+6
+
+We also tested for interactions between the demographic variables and
+linear and quadratic age. The only significant interaction was between
+Black ethnicity and linear age (⌬R2 ⫽ 2%, p ⬍ .01).
+
+SELF-ESTEEM ACROSS THE LIFE SPAN
+
+429
+
+Table 2
+Self-Esteem Means and Standard Deviations by Gender, Socioeconomic Status, Ethnicity, and Nationality
+Age (years)
+Sample Characteristic
+Whole sample
+M
+SD
+n
+Gender
+Male
+M
+SD
+n
+Female
+M
+SD
+n
+Cohen’s d
+Socioeconomic status
+High: Above median
+M
+SD
+n
+Low: Below median
+M
+SD
+n
+Cohen’s d
+Ethnicity
+Asian
+M
+SD
+n
+Black/African descent
+M
+SD
+n
+White
+M
+SD
+n
+Latino
+M
+SD
+n
+Middle Eastern
+M
+SD
+n
+Eta-squared (%)
+Nationality
+United States
+M
+SD
+n
+Non-United States
+M
+SD
+n
+Cohen’s d
+
+9–12
+
+13–17
+
+18–22
+
+23–29
+
+30–39
+
+40–49
+
+50–59
+
+60–69
+
+70–90
+
+Total
+
+3.77
+1.28
+7,670
+
+3.38
+1.35
+83,188
+
+3.32
+1.32
+84,754
+
+3.41
+1.28
+80,982
+
+3.39
+1.28
+43,371
+
+3.40
+1.31
+18,049
+
+3.54
+1.31
+6,905
+
+3.69
+1.30
+1,322
+
+3.44
+1.44
+400
+
+3.39
+1.31
+326,641
+
+3.77
+1.29
+3,788
+
+3.57
+1.34
+26,841
+
+3.46
+1.31
+35,960
+
+3.55
+1.26
+42,759
+
+3.59
+1.24
+20,709
+
+3.60
+1.26
+6,742
+
+3.75
+1.25
+2,648
+
+3.84
+1.29
+583
+
+3.45
+1.46
+219
+
+3.55
+1.29
+140,249
+
+3.76
+1.26
+3,882
+.01
+
+3.29
+1.35
+56,347
+.21*
+
+3.21
+1.31
+48,794
+.19*
+
+3.24
+1.29
+38,223
+.24*
+
+3.22
+1.30
+22,662
+.29*
+
+3.28
+1.32
+11,307
+.25*
+
+3.41
+1.34
+4,257
+.26*
+
+3.57
+1.31
+739
+.21*
+
+3,43
+1.42
+181
+.01
+
+3.26
+1.32
+186,392
+.22*
+
+3.82
+1.30
+104
+
+3.56
+1.35
+2,625
+
+3.41
+1.32
+7,287
+
+3.51
+1.28
+7,618
+
+3.49
+1.30
+4,418
+
+3.55
+1.28
+1,987
+
+3.62
+1.27
+709
+
+3.78
+1.25
+104
+
+3.43
+1.57
+21
+
+3.49
+1.30
+24,873
+
+3.64
+1.28
+233
+.14
+
+3.33
+1.39
+10,874
+.17*
+
+3.22
+1.34
+6,589
+.14*
+
+3.20
+1.32
+3,564
+.24*
+
+3.08
+1.31
+2,155
+.31*
+
+3.24
+1.39
+978
+.23*
+
+3.43
+1.39
+374
+.14*
+
+3.70
+1.38
+83
+.06
+
+4.00
+1.51
+23
+⫺.37
+
+3.26
+1.36
+24,873
+.17*
+
+3.56
+1.28
+551
+
+3.31
+1.29
+6,762
+
+3.33
+1.28
+8,108
+
+3.54
+1.25
+6,333
+
+3.75
+1.18
+1,966
+
+3.70
+1.23
+369
+
+3.94
+1.17
+126
+
+3.76
+1.45
+49
+
+2.98
+1.69
+46
+
+3.43
+1.27
+24,310
+
+3.76
+1.46
+134
+
+3.68
+1.32
+1,958
+
+3.61
+1.34
+2,150
+
+3.73
+1.29
+1,798
+
+3.83
+1.21
+1,215
+
+3.89
+1.23
+506
+
+3.92
+1.29
+154
+
+3.70
+1.49
+30
+
+2.69
+1.70
+13
+
+3.71
+1.30
+7,958
+
+3.79
+1.26
+5,496
+
+3.37
+1.36
+63,742
+
+3.29
+1.32
+63,649
+
+3.37
+1.28
+63,847
+
+3.34
+1.28
+36,058
+
+3.36
+1.31
+15,583
+
+3.51
+1.32
+6,014
+
+3.72
+1.26
+1,096
+
+3.64
+1.01
+239
+
+3.36
+1.32
+255,724
+
+3.65
+1.42
+188
+
+3.51
+1.36
+2,090
+
+3.50
+1.30
+2,375
+
+3.59
+1.31
+2,109
+
+3.67
+1.26
+853
+
+3.72
+1.30
+242
+
+3.82
+1.31
+61
+
+3.41
+1.74
+22
+
+3.14
+1.57
+7
+
+3.56
+1.32
+7,947
+
+3.72
+1.31
+123
+0.2*
+
+3.35
+1.34
+1,336
+0.2*
+
+3.35
+1.30
+1,687
+0.2*
+
+3.72
+1.28
+1,588
+0.5*
+
+3.73
+1.31
+639
+1*
+
+3.79
+1.18
+235
+0.8*
+
+3.67
+1.31
+101
+0.5*
+
+3.90
+1.30
+30
+0.5*
+
+3.14
+1.61
+22
+3.6*
+
+3.52
+1.31
+5,761
+0.3*
+
+3.85
+1.27
+4,970
+
+3.44
+1.36
+58,350
+
+3.36
+1.32
+54,575
+
+3.44
+1.29
+50,850
+
+3.43
+1.28
+29,546
+
+3.42
+1.30
+13,444
+
+3.56
+1.31
+5,250
+
+3.74
+1.29
+1,023
+
+3.49
+1.42
+254
+
+3.43
+1.32
+218,262
+
+3.63
+1.28
+2,700
+.17*
+
+3.25
+1.33
+24,838
+.14*
+
+3.23
+1.31
+30,179
+.10*
+
+3.35
+1.27
+30,132
+.07*
+
+3.32
+1.29
+13,825
+.09*
+
+3.32
+1.31
+4,605
+.08*
+
+3.48
+1.31
+1,655
+.06*
+
+3.52
+1.34
+299
+.17*
+
+3.35
+1.48
+146
+.10
+
+3.30
+1.30
+108,379
+.10*
+
+* p ⬍ .01.
+
+The present findings provide a more precise portrait of gender
+differences in self-esteem, and allow us to pinpoint changes in
+the magnitude of the difference within particular decades, and
+even years, of life.
+
+SES differences in the age trajectory. Only a subset of participants (15%) provided SES data, which posed problems for examining SES differences in the self-esteem trajectory because the
+sample sizes were relatively small in some age groups. For exam-
+
+430
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+ple, there were only 23 low-SES participants in the combined
+70 –90 age group. Nonetheless, when we examined mean levels of
+self-esteem as a function of age and SES, in most cases the
+findings were similar to the total sample: Both high- and low-SES
+groups showed the adolescent decline and both showed an increase
+in self-esteem in adulthood. However, the high-SES group showed
+the old-age drop whereas the low-SES group showed a nonsignificant increase during old age. Given that there were only 23
+participants in the low-SES group, this trend should be replicated
+before being interpreted substantively.
+Ethnic differences in the age trajectory. All five ethnic groups
+had high self-esteem in childhood, which dropped in adolescence,
+increased in adulthood, and then dropped in old age. However,
+some differences emerged when we examined the age trends
+separately for males and females within each ethnic group. The
+self-esteem of girls and boys of all ethnicities declined during
+adolescence, except for Latino boys, whose self-esteem increased
+slightly during adolescence and then dropped during early adulthood. Women and men of all ethnicities increased in self-esteem
+during adulthood, although some ethnic groups did not continue to
+increase throughout adulthood and began to decline before old age
+(Latino and Middle Eastern women peaked in their 40s, and Asian,
+Black, and Latino men peaked in their 50s). All ethnic groups of
+both genders exhibited declines in self-esteem during old age, but
+the magnitude of the decline differed across groups (there were no
+Latino women in the oldest age group, and therefore we could not
+determine whether this subgroup declined in old age).
+Nationality differences in the age trajectory. The age trajectories for U.S. and non-U.S. participants closely paralleled each
+other. This remained true when we examined the age trends
+separately for males and females, except that non-U.S. women did
+not decline in self-esteem during old age. The replication of the
+self-esteem age trends for U.S. and non-U.S. participants is consistent with McCrae et al.’s (1999) findings for the Big Five
+dimensions.
+In summary, the self-esteem trajectory was robust and generally
+held across gender, SES, ethnicity, and U.S. versus non-U.S.
+nationalities. This conclusion is supported by the pattern of means
+in Table 2 and by the absence of interactions with cubic age.
+
+Discussion
+The present research sought to fill a fundamental gap in the
+literature on self-esteem: There is little consensus about the developmental trajectory of self-esteem across the life span. To redress
+this problem, we examined age differences in self-esteem from
+age 9 to 90 years using cross-sectional data collected from 326,641
+individuals over the Internet. The findings provide a comprehensive picture of age differences in self-esteem across the entire life
+span. Moreover, the present research helps to clarify inconsistencies in previous findings and document new trends that require
+further investigation. Documenting the basic trajectory of selfesteem provides an important foundation for understanding and
+interpreting why self-esteem levels are high or low at different
+points in the life span. Below, we discuss some possible explanations for each age difference in self-esteem.
+
+What Have We Learned About the Development
+of Self-Esteem?
+The findings suggest several conclusions about the way selfesteem develops from childhood to old age.
+Childhood: Inflated self-esteem gradually declines. We found
+a consistent trend of relatively high self-esteem in the youngest age
+group, followed by a gradual decline over the course of childhood.
+Some researchers have speculated that children have high selfesteem because it is artificially inflated and that the subsequent
+decline reflects an increasing reliance on more realistic information about the self (Harter, 1998). For example, as children develop
+cognitively, they begin to base their evaluations of self-worth on
+external feedback and social comparisons, which may produce
+more accurate judgments of where they stand in relation to others
+(Ruble et al., 1980). It is also possible that as children make the
+transition from preschool to elementary school they experience
+more negative feedback from teachers, parents, and peers, and
+their self-evaluations correspondingly become more negative
+(Eccles et al., 1993).
+Adolescence: Continued decline. The decline in self-esteem
+that began during childhood continued into adolescence, producing
+a substantial cumulative drop. This drop held for every demographic subgroup and thus appears to be particularly robust. Researchers have attributed the adolescent decline in self-esteem to
+maturational changes associated with puberty, cognitive changes
+associated with the emergence of formal operational thinking, and
+sociocontextual changes associated with the transition from grade
+school to junior high school (Harter, 1998; Simmons, Blyth, Van
+Cleave, & Bush, 1979; Wigfield, Eccles, Mac Iver, Reuman, &
+Midgley, 1991). Although our findings do not point to any particular explanation for why self-esteem declines during adolescence,
+they do raise questions about the validity of certain theoretical
+explanations. For example, the claim that the decline represents the
+transition from grade school to junior high school needs to be
+reconciled with the fact that the decline also occurs for non-U.S.
+participants whose educational systems may not involve such
+transitions.
+The gender disparity that emerged during adolescence provides
+another clue to the factors that might underlie the adolescent
+decline. Although boys and girls had similar self-esteem levels in
+childhood, by adolescence a gender gap emerged for every subgroup we examined. This implies that some aspect of the adolescent experience adversely affects self-esteem, but it does so more
+strongly for girls than for boys. For example, the maturational and
+socioemotional changes associated with puberty may lower the
+self-esteem of both boys and girls, but the physical changes that
+occur during puberty may have a more profound effect on girls
+(Rosenberg, 1986). However, pubertal changes alone cannot explain why the decline in self-esteem began before most children
+had experienced puberty and continued long afterward. Instead,
+this pattern suggests that there are multiple determinants of the
+developmental trends observed during childhood and adolescence.
+Adulthood: Gradual increases peaking in late midlife. Selfesteem levels generally rose throughout adulthood. Most of the
+demographic subgroups reached a peak in self-esteem sometime
+during late adulthood. Thus, other than childhood, the mid-60s
+seem to represent the apex of self-esteem across the life course.
+These results replicate previous studies of adulthood (e.g., Gove et
+
+SELF-ESTEEM ACROSS THE LIFE SPAN
+
+al., 1989; Helson & Wink, 1992), but the present data allow us to
+determine that much of the increase in self-esteem occurs in late
+rather than early midlife.
+Although none of the major theories of self-esteem specifically
+address self-esteem development during adulthood, general theories of adult development may be invoked to explain the trends we
+observed. Erikson (1968), Jung (1958), Neugarten (1977), Levinson (1978), and others have theorized that midlife is characterized
+by a focus on activity, achievement, power, and control. For
+example, Erikson suggested that the maturity and superior functioning associated with midlife is linked to the “generativity”
+stage, during which individuals tend to be increasingly productive
+and creative at work, while at the same time promoting and
+guiding the next generation. Similarly, Mitchell and Helson (1990)
+described the latter part of midlife as a period characterized by
+higher levels of psychological maturity and adjustment and noted
+that during the postparental period “the energy that went to children is redirected to the partner, work, the community, or selfdevelopment” (p. 453). Role theories of aging suggest that over the
+course of adulthood individuals increasingly occupy positions of
+power and status, which might convey a sense of self-worth
+(Dannefer, 1984; Helson, Mitchell, & Moane, 1984; Hogan &
+Roberts, in press; Sarbin, 1964). As Gove et al. (1989) noted,
+During the productive adult years, when persons are engaged in a full
+set of instrumental and social roles, their sense of self will reflect the
+fullness of this role repertoire . . . there will be high levels of instrumentality, competitiveness, and socioemotional support. Levels of life
+satisfaction and self-esteem will also be high. (p. 1122)
+
+Consistent with these theoretical speculations, the personality
+changes that occur during adulthood tend to show movement
+toward higher levels of maturity and adjustment, as indicated by
+increases in traits such as emotional stability and conscientiousness (B. W. Roberts, Robins, Caspi, & Trzesniewski, in press;
+Robins, Fraley, Roberts, & Trzesniewski, 2001). Increased psychological maturity may also promote self-esteem through intrapsychic mechanisms. For example, Crocker and Wolfe (2001)
+recently argued that healthy adult development might contribute to
+improved self-esteem regulation skills. Specifically, these authors
+speculate that over the course of development, individuals learn to
+look inward for sources of positive self-esteem rather than requiring constant external reinforcement to maintain their self-esteem.
+In this section, we have discussed two developmental factors
+(changes in social roles and self-esteem regulation) that might
+explain why self-esteem increases over the course of adulthood.
+However, although these factors are theoretically related to selfesteem development, further research is needed to test whether
+either factor actually predicts self-esteem change.
+Old age: A sharp decline. Our review of the literature identified only a handful of studies that examined self-esteem development in old age and little consistency in the findings. The present
+study helped to fill this gap in the literature by providing a
+large-scale study of the development of self-esteem beyond
+midlife. We found a sharp drop in self-esteem beginning around
+age 70. This finding informs the debate about whether emotional
+health improves or deteriorates in old age. As we noted earlier,
+studies of older participants have produced mixed results with
+some showing increases and others showing decreases or no
+change in well-being. These results, along with the present find-
+
+431
+
+ings, make it difficult to discern a coherent picture. It is possible
+that psychological adjustment does not show systematic changes
+during old age and that the inconsistencies across findings reflect
+sampling error. Alternatively, it is possible that the inconsistencies
+reflect true sampling differences; that is, nonrepresentative samples might differ on variables that are potentially relevant to age
+differences in self-esteem among older individuals. Furthermore,
+there may exist subtle but important differences in the developmental trajectories of various indicators of adjustment (e.g., life
+satisfaction vs. emotional stability vs. self-esteem). If this is the
+case, then the profound physical and emotional changes associated
+with aging may have a more negative impact on self-esteem than
+on other aspects of psychological adjustment.
+Which developmental factors might contribute to the old-age
+drop? Theories of self-esteem development provide little direction,
+and, again, more general theories of aging might provide insights.
+According to role theories, the role losses experienced during old
+age are stressful and difficult to cope with (Bush & Simmons,
+1981), suggesting that life transitions such as retirement might
+contribute to deteriorating self-esteem (e.g., Gove et al., 1989).
+However, Reitzes, Mutran, and Fernandez (1996) failed to find
+that retirement produced a drop in self-esteem in their longitudinal
+data.
+Old age involves a number of other changes that might contribute to declines in self-esteem, including spousal loss, decreased
+social support, declining physical health, cognitive impairments,
+and a downward shift in SES (Baltes & Mayer, 1999). Unfortunately, the present study does not allow us to identify which of
+these possible factors actually accounts for the observed age differences in self-esteem. Moreover, it is difficult to reconcile why
+any of these factors might lead to deteriorations in self-esteem but
+not in other aspects of psychological adjustment.
+Several theories of aging suggest an alternative perspective.
+Jung (1958), Erikson (1968), Neugarten (1977), Levinson (1978),
+Baltes and Mayer (1999), and others hold that persons in old age
+tend to be wiser and more comfortable with themselves. According
+to Erikson (1968), the final stage of life is a time of “postnarcissistic love of the human ego—not of the self—as an experience which conveys some world order and spiritual sense” (p.
+81). Erikson thus provides an alternative interpretation of the
+self-esteem drop: It is not that deep-seated feelings of self-worth
+are declining in old age, but rather that older persons increasingly
+accept their faults and limitations and correspondingly have a
+diminished need for self-promotion and self-aggrandizement,
+which might artificially boost reports of self-esteem earlier in life.
+During old age, defense mechanisms such as denial may no longer
+be used to inflate feelings of self-worth. Thus, the decline in
+self-esteem might not be part of a larger pattern of deteriorating
+emotional health in old age but rather a specific shift in selfconceptions that contributes to a more modest and balanced view
+of the self.
+
+Limitations
+Three methodological confounds also need to be considered.
+First, the present study is cross-sectional and therefore confounds
+age differences caused by developmental change and those caused
+by cohort effects. Thus, it is possible that the decline in self-esteem
+we found in our oldest participants is due to a cohort effect. For
+
+432
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+this to be the case, participants in the oldest cohort must have
+experienced some distinctive event that was not experienced by
+other cohorts and that shaped the way their self-esteem developed.
+For example, Elder (1974) has documented lasting psychological
+effects of growing up during the Great Depression, and children of
+that generation may have developed a more negative self-image
+(Gove et al., 1989). However, to the extent that cohort effects are
+assumed to be minimal or nonexistent, the pattern of observed age
+differences may be a reasonable starting point for speculating
+about intraindividual age changes in self-esteem.
+A second possible confound involves selective mortality. If
+individuals with high self-esteem are less likely to survive to old
+age, then this would produce an apparent drop in self-esteem in the
+oldest age group. However, there is no established link between
+self-esteem and mortality, and, if there were a link, it seems more
+likely that individuals with high self-esteem would live longer than
+those with low self-esteem (Coleman, Ivani-Chalian, & Robinson,
+1993). Despite these concerns, the possibility of a substantial
+decline in self-esteem in old age has important theoretical and
+practical implications and merits further research.
+Third, the method of Internet data collection raises concerns
+about sample selectivity. Most notably, the sample was necessarily
+limited to people who had access to and used the Internet and to
+those who chose to complete the questionnaire on-line. Although
+elderly individuals who participate in an Internet study may be no
+more select a sample than elderly individuals who participate in
+other forms of psychological research, some caution is warranted
+given the limited information about Internet-based studies
+(Buchanan & Smith, 1999).
+In light of these methodological issues, future research should
+examine age differences in self-esteem using a representative
+sample of individuals. This would greatly strengthen the generalizability of our conclusions and alleviate concerns about the Internet sample. Finally, by following a representative sample longitudinally, we could tease apart aging and cohort effects and
+identify the factors that promote or diminish self-esteem across the
+life course.
+
+References
+Baltes, P. B., & Baltes, M. M. (1990). Psychological perspectives on
+successful aging: The model of selective optimization with compensation. In P. B. Baltes & M. M. Baltes (Eds.), Successful aging: Perspectives from the behavioral sciences (pp. 1–34). Cambridge, England:
+Cambridge University Press.
+Baltes, P. B., & Mayer, K. U. (Eds.). (1999). The Berlin Aging Study:
+Aging from 70 to 100. Cambridge, England: Cambridge University
+Press.
+Bengtson, V. L., Reedy, M. N., & Gordon, C. (1985). Aging and selfconceptions: Personality processes and social contexts. In J. E. Birren &
+K. W. Schaie (Eds.), Handbook of the psychology of aging (2nd ed., pp.
+544 –593). New York: Van Nostrand Reinhold.
+Block, J., & Robins, R. W. (1993). A longitudinal study of consistency and
+change in self-esteem from early adolescence to early adulthood. Child
+Development, 64, 909 –923.
+Blyth, D. A., Simmons, R. G., & Bush, D. (1978). The transition into early
+adolescence: A longitudinal comparison of youth in two educational
+contexts. Sociology of Education, 51, 149 –162.
+Brandtstaedter, J., & Greve, W. (1994). The aging self: Stabilizing and
+protective processes. Developmental Review, 14, 52– 80.
+Brown, J. D. (1998). The self. New York: McGraw-Hill.
+
+Buchanan, T., & Smith, J. L. (1999). Using the Internet for psychological
+research: Personality testing on the World Wide Web. British Journal of
+Psychology, 90, 125–144.
+Bush, D. M., & Simmons, R. G. (1981). Socialization process over the life
+course. In M. Rosenberg & R. Turner (Eds.), Social psychology: Sociological perspectives (pp. 133–164). New York: Basic.
+Carstensen, L. L., Isaacowitz, D. M., & Charles, S. T. (1999). Taking time
+seriously: A theory of socioemotional selectivity. American Psychologist, 54, 165–181.
+Carstensen, L. L., Pasupathi, M., Mayr, U., & Nesselroade, J. (2000).
+Emotional experience in everyday life across the adult life span. Journal
+of Personality and Social Psychology, 79, 644 – 655.
+Charles, S. T., Reynolds, C. A., & Gatz, M. (2001). Age-related differences
+and change in positive and negative affect over 23 years. Journal of
+Personality and Social Psychology, 80, 136 –151.
+Chubb, N. H., Fertman, C. I., & Ross, J. L. (1997). Adolescent self-esteem
+and locus of control: A longitudinal study of gender and age differences.
+Adolescence, 32, 113–129.
+Coleman, P. G., Ivani-Chalian, C., & Robinson, M. (1993). Self-esteem
+and its sources: Stability and change in later life. Ageing and Society, 13,
+171–192.
+Crocker, J., & Wolfe, C. T. (2001). Contingencies of self-worth. Psychological Review, 108, 593– 623.
+Dannefer, D. (1984). Adult development and social theory: A paradigmatic
+reappraisal. American Sociological Review, 49, 100 –116.
+Demo, D. H. (1992). The self-concept over time: Research issues and
+directions. Annual Review of Sociology, 18, 303–326.
+Demo, D. H., & Savin-Williams, R. C. (1983). Early adolescent selfesteem as a function of social class: Rosenberg and Pearlin revisited.
+American Journal of Sociology, 88, 763–774.
+DeNeve, K. M., & Cooper, H. (1998). The happy personality: A metaanalysis of 137 personality traits and subjective well-being. Psychological Bulletin, 124, 197–229.
+Diener, E., & Diener, M. (1995). Cross-cultural correlates of life satisfaction and self-esteem. Journal of Personality and Social Psychology, 68,
+653– 663.
+Diener, E., Diener, M., & Diener, C. (1995). Factors predicting the subjective well-being of nations. Journal of Personality and Social Psychology, 69, 851– 864.
+Diener, E., & Suh, M. E. (1998). Subjective well-being and age: An
+international analysis. In K. W. Schaie & M. P. Lawton (Eds.), Annual
+review of gerontology and geriatrics: Vol. 17. Focus on emotion and
+adult development (pp. 304 –324). New York: Springer.
+Eccles, J. S., Wigfield, A., Flanagan, C. A., Miller, C., Reuman, D., & Yee,
+D. (1989). Self-concepts, domain values, and self-esteem: Relations and
+changes at early adolescence. Journal of Personality, 57, 283–310.
+Eccles, J. S., Wigfield, A., Harold, R. D., & Blumenfeld, P. (1993). Age
+and gender differences in children’s self- and task perceptions during
+elementary school. Child Development, 64, 830 – 847.
+Elder, G. H. (1974). Children of the Great Depression: Social change in
+life experience. Chicago: University of Chicago Press.
+Engel, M. (1959). The stability of the self-concept in adolescence. Journal
+of Abnormal and Social Psychology, 58, 211–217.
+Erdwins, C. J., Mellinger, J. C., & Tyer, Z. E. (1981). A comparison of
+different aspects of self-concept for young, middle-aged, and older
+women. Journal of Clinical Psychology, 37, 484 – 490.
+Erikson, E. H. (1968). Identity, youth, and crisis (1st ed.). New York:
+W. W. Norton.
+Gove, W. R., Ortega, S. T., & Style, C. B. (1989). The maturational and
+role perspectives on aging and self through the adult years: An empirical
+evaluation. American Journal of Sociology, 94, 1117–1145.
+Gray-Little, B., & Hafdahl, A. R. (2000). Factors influencing racial comparisons of self-esteem: A quantitative review. Psychological Bulletin,
+126, 26 –54.
+
+SELF-ESTEEM ACROSS THE LIFE SPAN
+Harter, S. (1985). The Self-Perception Profile for Children. Unpublished
+manual, University of Denver, Denver, CO.
+Harter, S. (1993). Causes and consequences of low self-esteem in children
+and adolescents. In R. F. Baumeister (Ed.), Self-esteem: The puzzle of
+low self-regard (pp. 87–116). New York: Plenum Press.
+Harter, S. (1998). The development of self-representations. In W. Damon
+& N. Eisenberg (Eds.), Handbook of child psychology (pp. 553– 617).
+New York: Wiley.
+Heise, D. R. (1969). Separating reliability and stability in test–retest
+correlation. American Sociological Review, 34, 93–101.
+Helson, R., Mitchell, V., & Moane, G. (1984). Personality and patterns of
+adherence and nonadherence to the social clock. Journal of Personality
+and Social Psychology, 46, 1079 –1096.
+Helson, R., & Wink, P. (1992). Personality change in women from the
+early 40s to the early 50s. Psychology and Aging, 7, 46 –55.
+Hirsch, B. J., & Rapkin, B. D. (1987). The transition to junior high school:
+A longitudinal study of self-esteem, psychological symptomatology,
+school life, and social support. Child Development, 58, 1235–1243.
+Hogan, R., & Roberts, B. W. (in press). A socioanalytic model of maturity.
+Journal of Career Assessment.
+Jaquish, G. A., & Ripple, R. E. (1981). Cognitive creative abilities and
+self-esteem across the adult life-span. Human Development, 24, 110 –
+119.
+Jung, C. G. (1958). The undiscovered self. Boston: Little, Brown.
+Keltikangas-Jarvinen, L. (1990). The stability of self-concept during adolescence and early adulthood: A six-year follow-up study. Journal of
+General Psychology, 117, 361–368.
+Kling, K. C., Hyde, J. S., Showers, C. J., & Buswell, B. N. (1999). Gender
+differences in self-esteem: A meta-analysis. Psychological Bulletin, 125,
+470 –500.
+Lall, R., Jain, V. K., & Johnson, W. B. (1996). Contemporary norms for the
+Coopersmith Self-Esteem Inventory—Adult Form. Perceptual and Motor Skills, 82, 1136 –1138.
+Levinson, D. (with Darrow, C., Klein, E., Levinson, M., & McKee, B.).
+(1978). Seasons of a man’s life. New York: Knopf.
+Major, B., Barr, L., Zubek, J., & Babey, S. H. (1999). Gender and
+self-esteem: A meta-analysis. In W. Swann & J. Langlois (Eds.), Sexism
+and stereotypes in modern society: The gender science of Janet Taylor
+Spence (pp. 223–253). Washington, DC: American Psychological
+Association.
+Marsh, H. W. (1989). Age and sex effects in multiple dimensions of
+self-concept: Preadolescence to adulthood. Journal of Educational Psychology, 81, 417– 430.
+Marsh, H. W., Barnes, J., Cairns, L., & Tidman, M. (1984). SelfDescriptive Questionnaire: Age and sex effects in the structure and level
+of self-concept for preadolescent children. Journal of Educational Psychology, 76, 940 –956.
+Marsh, H. W., Parker, J., & Barnes, J. (1985). Multidimensional adolescent
+self-concepts: Their relationship to age, sex, and academic measures.
+American Educational Research Journal, 22, 422– 444.
+McCarthy, J. D., & Hoge, D. R. (1982). Analysis of age effects in
+longitudinal studies of adolescent self-esteem. Developmental Psychology, 18, 372–379.
+McCrae, R. R., Costa, P. T., Jr., de Lima, M. P., Simoes, A., Ostendorf, F.,
+Angleitner, A., et al. (1999). Age differences in personality across the
+adult life span: Parallels in five cultures. Developmental Psychology, 35,
+466 – 477.
+McGraw, K. O., Tew, M. D., & Williams, J. E. (2000). The integrity of
+Web-delivered experiments: Can you trust the data? Psychological Science, 11, 502–506.
+Mitchell, V., & Helson, R. (1990). Women’s prime of life: Is it the 50’s?
+Psychology of Women Quarterly, 14, 451– 470.
+Mullis, A. K., Mullis, R. L., & Normandin, D. (1992). Cross-sectional and
+
+433
+
+longitudinal comparisons of adolescent self-esteem. Adolescence, 27,
+51– 61.
+Neugarten, B. L. (1977). Personality and aging. In J. E. Birren & K. W.
+Schaie (Eds.), Handbook of the psychology of aging (pp. 626 – 649).
+New York: Van Nostrand Reinhold.
+Nottelmann, E. D. (1987). Competence and self-esteem during transition
+from childhood to adolescence. Developmental Psychology, 23, 441–
+450.
+O’Malley, P. M., & Bachman, J. G. (1983). Self-esteem: Change and
+stability between ages 13 and 23. Developmental Psychology, 19, 257–
+268.
+Paulhus, D. L. (1994). Reference manual for the Balanced Inventory of
+Desirable Responding Version 6. Department of Psychology, University
+of British Columbia, Vancouver, Canada.
+Piers, E. V., & Harris, D. B. (1964). Age and other correlates of selfconcept in children. Journal of Educational Psychology, 55, 91–95.
+Prawat, R. S., Jones, H., & Hampton, J. (1979). Longitudinal study of
+attitude development in pre-, early, and later adolescent samples. Journal of Educational Psychology, 71, 363–369.
+Ranzijn, R., Keeves, J., Luszcz, M., & Feather, N. T. (1998). The role of
+self-perceived usefulness and competence in the self-esteem of elderly
+adults: Confirmatory factor analyses of the Bachman revision of Rosenberg’s Self-Esteem scale. Journal of Gerontology; Psychological Sciences, 33B, 96 –104.
+Reitzes, D. C., Mutran, E. J., & Fernandez, M. E. (1996). Does retirement
+hurt well-being? Factors influencing self-esteem and depression among
+retirees and workers. The Gerontologist, 36, 649 – 656.
+Roberts, B. W., & DelVecchio, W. F. (2000). The rank-order consistency
+of personality traits from childhood to old age: A quantitative review of
+longitudinal studies. Psychological Bulletin, 126, 3–25.
+Roberts, B. W., Robins, R. W., Caspi, A., & Trzesniewski, K. H. (in press).
+Personality trait development in adulthood. In J. T. Mortimer & M.
+Shanahan (Eds.), Handbook of the life course. New York: Plenum.
+Roberts, R. E., & Bengtson, V. L. (1996). Affective ties to parents in early
+adulthood and self-esteem across 20 years. Social Psychology Quarterly, 59, 96 –106.
+Robins, R. W., Fraley, R. C., Roberts, B. W., & Trzesniewski, K. H.
+(2001). A longitudinal study of personality change in young adulthood.
+Journal of Personality, 69, 617– 640.
+Robins, R. W., Hendin, H. M., & Trzesniewski, K. H. (2001). Measuring
+global self-esteem: Construct validation of a single item measure and the
+Rosenberg Self-Esteem scale. Personality and Social Psychology Bulletin, 27, 151–161.
+Roeser, R. W., & Eccles, J. S. (1998). Adolescents’ perceptions of middle
+school: Relation to longitudinal changes in academic and psychological
+adjustment. Journal of Research on Adolescence, 8, 123–158.
+Rosenberg, M. (1965). Society and the adolescent self-image. Princeton,
+NJ: Princeton University Press.
+Rosenberg, M. (1986). Self-concept from middle childhood through adolescence. In J. Suls & A. G. Greenwald (Eds.), Psychological perspectives on the self (pp. 107–136). Hillsdale, NJ: Erlbaum.
+Rosenberg, M., & Pearlin, L. I. (1978). Social class and self-esteem among
+children and adults. American Journal of Sociology, 84, 53–77.
+Rosnow, R. L., Rosenthal, R., & Rubin, D. B. (2000). Contrasts and
+correlations in effect size estimation. Psychological Science, 11, 446 –
+453.
+Ruble, D. N., Boggiano, A. K., Feldman, N. S., & Loebl, J. H. (1980).
+Developmental analysis of the role of social comparison in selfevaluation. Developmental Psychology, 16, 105–115.
+Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the
+meaning of psychological well-being. Journal of Personality and Social
+Psychology, 57, 1069 –1081.
+Sarbin, T. R. (1964). Role theoretical interpretation of psychological
+
+434
+
+ROBINS, TRZESNIEWSKI, TRACY, GOSLING, AND POTTER
+
+change. In P. Worchel & D. Byrne (Eds.), Personality change (pp.
+176 –219). New York: Wiley.
+Savin-Williams, R. C., & Demo, D. H. (1984). Developmental change and
+stability in adolescent self-concept. Developmental Psychology, 20,
+1100 –1110.
+Simmons, R. G., Blyth, D. A., Van Cleave, E. F., & Bush, D. M. (1979).
+Entry into early adolescence: The impact of school structure, puberty,
+and early dating on self-esteem. American Sociological Review, 44,
+948 –967.
+Simmons, R. G., Rosenberg, F., & Rosenberg, M. (1973). Disturbance in
+the self-image at adolescence. American Sociological Review, 38, 553–
+568.
+Smith, J., & Baltes, P. B. (1999). Trends and profiles of psychological
+functioning in very old age. In P. B. Baltes & K. U. Mayer (Eds.), The
+Berlin Aging Study: Aging from 70 to 100 (pp. 197–226). Cambridge,
+England: Cambridge University Press.
+Stipek, D. J., & Tannatt, L. M. (1984). Children’s judgments of their own
+and their peers’ academic competence. Journal of Educational Psychology, 76, 75– 84.
+Tiggemann, M., & Lynch, J. E. (2001). Body image across the life span in
+adult women: The role of self-objectification. Developmental Psychology, 37, 243–253.
+Trimakas, K., & Nicolay, R. C. (1974). Self-concept and altruism in old
+age. Journal of Gerontology, 29, 434 – 439.
+Trowbridge, N. (1972). Self-concept and socio-economic status in elemen-
+
+tary school children. American Educational Research Journal, 9, 525–
+537.
+Twenge, J. M., & Crocker, J. (2002). Race and self-esteem: Meta-analysis
+comparing Whites, Blacks, Hispanics, Asians, and American Indians
+and comment on Gray-Little and Hafdahl (2000). Psychological Bulletin, 128, 371– 408.
+U.S. General Accounting Office. (2001, February). Telecommunications:
+Characteristics and choices of Internet users (Publication No. GAO-01345). Retrieved December 2001 from General Accounting Office Reports Online via GPO Access: http://www.access.gpo.gov/new.items/
+d01345.pdf
+Ward, R. A. (1977). The impact of subjective age and stigma on older
+persons. Journal of Gerontology, 32, 227–232.
+Wigfield, A., Eccles, J. S., Mac Iver, D., Reuman, D. A., & Midgley, C.
+(1991). Transitions during early adolescence: Changes in children’s
+domain-specific self-perceptions and general self-esteem across the transition to junior high school. Developmental Psychology, 27, 552–565.
+Wylie, R. C. (1979). The self-concept. Lincoln, NE: University of Nebraska Press.
+Zimmerman, M. A., Copeland, L. A., Shope, J. T., & Dielman, T. E.
+(1997). A longitudinal study of self-esteem: Implications for adolescent
+development. Journal of Youth and Adolescence, 26, 117–141.
+
+Received June 26, 2000
+Revision received November 1, 2001
+Accepted November 9, 2001 䡲
+
+
