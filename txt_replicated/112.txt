@@ -164,6 +164,7 @@ parcel of it.
 Acknowledgments—We thank David Rosenbaum and Jerome
 Busemeyer for comments, and Nick Hindy for data collection.
 
+REFERENCES
 Cisek, P., & Kalaska, J.F. (2005). Neural correlates of reaching decisions in dorsal premotor cortex: Speciﬁcation of multiple direction choices and ﬁnal selection of action. Neuron, 45, 801–814.
 Clark, H.H., & Chase, W.G. (1972). On the process of comparing
 sentences against pictures. Cognitive Psychology, 3, 472–517.
@@ -202,7 +203,7 @@ Townsend, J.T., & Busemeyer, J.R. (1989). Approach-avoidance: Return to dynamic 
 issues in cognitive processes: The Tulane Flowerree Symposium on
 Cognition (pp. 107–133). Hillsdale, NJ: Erlbaum.
 
-REFERENCES
+
 Abrams, R.A., & Balota, D.A. (1991). Mental chronometry: Beyond
 reaction time. Psychological Science, 2, 153–157.
 Barres, P.E., & Johnson-Laird, P.N. (2003). On imagining what is true
