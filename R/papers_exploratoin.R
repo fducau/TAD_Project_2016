@@ -12,25 +12,24 @@ papers = unlist(papers)
 setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
 ds = read.csv('./replication_dataset.csv', sep = '\t')
 
-
+# Create index
 index = gsub('./','', paper_files)
 index = gsub('.txt','',index)
 index = unlist(lapply(index, as.numeric))
 
-
 papers_df = data.frame(papers, Study.Num = index, stringsAsFactors = FALSE)
 
-
+# Import LIWC metrics
 setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
 liwc_metrics = read.csv('./LIWC_RESULTS.csv', sep = ',', stringsAsFactors = FALSE)
 
-
+# Accomodate index
 liwc_metrics$Study.Num = liwc_metrics$Filename
 liwc_metrics$Study.Num = gsub('.txt','', liwc_metrics$Study.Num)
 liwc_metrics$Study.Num = as.numeric(liwc_metrics$Study.Num)
 
+#Save clean version of liwc metcis
 write.table(liwc_metrics, file='liwc.csv', sep="\t", row.names = FALSE)
-
 
 #Merge with train dataframe
 liwc1 = merge(ds, liwc_metrics, by='Study.Num')

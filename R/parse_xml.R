@@ -17,7 +17,7 @@ get_text_from_xml = function(x){
 
 #For all the files in xml_replicated, get the text of the paper and save it to txt. 
 
-setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/xml_replicated/")
+setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/xml_replicated/New/")
 xml_files = list.files(full.names=TRUE)
 
 for (xml_file in xml_files){
@@ -26,9 +26,6 @@ for (xml_file in xml_files){
    writeLines(get_text_from_xml(file), dest_file)
    close(dest_file)
 }
-
-
-
 
 
 #Get the text of the body from the xml version of the paper
