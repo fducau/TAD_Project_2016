@@ -7,13 +7,9 @@ remove_abb_punct = function(x){
 }
 
 
-# Open dataset
-setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/")
-ds = read.csv('./replication_dataset.csv', sep = '\t')
-
 
 #Load the data
-setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/txt_replicated/")
+setwd("/home/fnd/DS/Text_as_Data/Project/TAD_Project_2016/txt_replicated_parsed/")
 
 paper_files = list.files(full.names=TRUE)
 papers = lapply(paper_files, readLines)
@@ -24,11 +20,10 @@ index = gsub('./','', paper_files)
 index = gsub('.txt','',index)
 index = unlist(lapply(index, as.numeric))
 
-papers_df$papers[1]
 #Create dataframe to store the papers
 papers_df = data.frame(papers, Study.Num = index, stringsAsFactors = FALSE)
 papers_df$papers_clean = unlist(lapply(papers_df$papers, remove_abb_punct))
-papers_df$papers_clean[1]
+
 
 
 
