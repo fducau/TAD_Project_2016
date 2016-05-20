@@ -1,4 +1,4 @@
-# TAD_Project_2016
+# Identifying Reproducibility in Scientific Publications
 Text as Data final project. 
 
 Alı́ J. Limón, Felipe N. Ducau
