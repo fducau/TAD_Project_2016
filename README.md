@@ -1,6 +1,10 @@
 # TAD_Project_2016
 Text as Data final project. 
 
+Alı́ J. Limón, Felipe N. Ducau
+
+New York University
+
 In this project we analyze if it is possible to determine if a scientific publication contains
 within its text some information about its replicability. Our hypothesis is that there is sufficient
 information embedded in the body of a published paper to recognize if the reported results
